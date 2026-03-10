@@ -36,7 +36,7 @@ export const PrivacyPolicy: FunctionComponent = () => {
         <meta
           name="description"
           content={i18n._(
-            "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI-powered educational market analysis application. Understand our data practices and your privacy rights."
+            "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI-powered educational market analysis app. Understand our data practices and your privacy rights."
           )}
         />
         <meta
@@ -52,7 +52,7 @@ export const PrivacyPolicy: FunctionComponent = () => {
         <meta
           property="og:description"
           content={i18n._(
-            "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI-powered educational market analysis application."
+            "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI-powered educational market analysis app."
           )}
         />
         <meta property="og:image" content="/og-image.png" />
@@ -72,7 +72,7 @@ export const PrivacyPolicy: FunctionComponent = () => {
         <meta
           name="twitter:description"
           content={i18n._(
-            "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI-powered educational market analysis application."
+            "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI-powered educational market analysis app."
           )}
         />
         <meta name="twitter:image" content="/twitter-image.png" />
@@ -95,7 +95,7 @@ export const PrivacyPolicy: FunctionComponent = () => {
           </p>
           <p className={styles.text}>
             {i18n._(
-              `The "{NAME_APP}" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) ("us", "we", or "our"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our AI-powered educational market analysis application and services ("Service").`,
+              `The "{NAME_APP}" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) ("us", "we", or "our"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our AI-powered educational market analysis app and services ("Service").`,
               { NAME_APP }
             )}
           </p>
@@ -222,9 +222,9 @@ export const PrivacyPolicy: FunctionComponent = () => {
               "We implement industry-standard security to protect your data:"
             ),
             [
-              i18n._("End-to-end encryption for data transmission"),
+              i18n._("Encryption for data transmission"),
               i18n._("Secure Firebase backend with access controls"),
-              i18n._("Regular security audits and updates"),
+              i18n._("Regular security reviews and updates"),
               i18n._(
                 "Limited access to user data by authorized personnel only"
               ),
@@ -232,11 +232,13 @@ export const PrivacyPolicy: FunctionComponent = () => {
           )}
           {line(
             i18n._("Data Retention"),
-            i18n._("We retain your data only as long as necessary:"),
+            i18n._(
+              "We retain data for a limited period where necessary for legal, security, billing, or operational purposes:"
+            ),
             [
               i18n._("Account data: retained while your account is active"),
               i18n._(
-                "Learning history: retained for 2 years after account deletion"
+                "Learning history: retained for a reasonable period after account deletion"
               ),
               i18n._("Analytics data: retained in anonymous, aggregated form"),
               i18n._(
@@ -256,7 +258,7 @@ export const PrivacyPolicy: FunctionComponent = () => {
               i18n._("Access: Request a copy of your personal data"),
               i18n._("Correction: Update inaccurate or incomplete information"),
               i18n._("Deletion: Request removal of your account and data"),
-              i18n._("Portability: Export your data in a readable format"),
+              i18n._("Portability: Request your data in a readable format"),
               i18n._("Opt-out: Disable analytics tracking in app settings"),
             ]
           )}
@@ -267,7 +269,7 @@ export const PrivacyPolicy: FunctionComponent = () => {
               i18n._("Account settings to update profile information"),
               i18n._("Privacy settings to control data sharing preferences"),
               i18n._("Delete account option to remove all personal data"),
-              i18n._("Export data feature to download your information"),
+              i18n._("Contact us to request data access or correction"),
             ]
           )}
         </div>
@@ -325,10 +327,10 @@ export const PrivacyPolicy: FunctionComponent = () => {
           <h2 className={styles.title}>{i18n._("Children's Privacy")}</h2>
           {line(
             i18n._("Age Restrictions"),
-            i18n._("Our service is not intended for children under 18:"),
+            i18n._("Our service is not intended for individuals under 18:"),
             [
               i18n._("We do not knowingly collect data from children"),
-              i18n._("Users must be 18+ to create an account"),
+              i18n._("The service is designed for adult users"),
               i18n._("Parental controls are not implemented"),
               i18n._("If we discover underage users, we delete their data"),
             ]
@@ -345,9 +347,9 @@ export const PrivacyPolicy: FunctionComponent = () => {
             ),
             [
               i18n._("Firebase servers may be located outside your country"),
-              i18n._("Data transfers follow standard contractual clauses"),
-              i18n._("Applicable data protection laws are always followed"),
-              i18n._("Adequate safeguards protect international transfers"),
+              i18n._("Data transfers include appropriate safeguards"),
+              i18n._("We comply with applicable data protection laws"),
+              i18n._("Security measures protect international transfers"),
             ]
           )}
         </div>
