@@ -15,1303 +15,1304 @@ msgstr ""
 
 #. js-lingui-explicit-id
 msgid "AI-powered educational market analysis and learning insights"
-msgstr ""
+# LV
+msgstr "AI-darbināms izglītojošs tirgus analīzes un mācību ieskats"
 
 #. js-lingui-explicit-id
 msgid "Navigation"
-msgstr ""
+msgstr "Navigācija"
 
 #. js-lingui-explicit-id
 msgid "Disclaimer"
-msgstr ""
+msgstr "Atruna"
 
 #. js-lingui-explicit-id
 msgid "Developer"
-msgstr ""
+msgstr "Izstrādātājs"
 
 #. js-lingui-explicit-id
 msgid "Developed by Vadym Bezsmertnyi, Sole Proprietor (Ukraine)"
-msgstr ""
+msgstr "Izstrādāts Vadym Bezsmertnyi, individuālais komersants (Ukraina)"
 
 #. js-lingui-explicit-id
 msgid "© {year} {NAME_APP}. All rights reserved."
-msgstr ""
+msgstr "© {year} {NAME_APP}. Visas tiesības aizsargātas."
 
 #. js-lingui-explicit-id
 msgid "About XauSync AI — AI-Powered Market Analysis Education"
-msgstr ""
+msgstr "Par XauSync AI — AI-darbināma tirgus analīzes izglītība"
 
 #. js-lingui-explicit-id
 msgid "Discover XauSync AI's intelligent market analysis platform. Learn through AI-driven insights, real-world examples, and comprehensive technical analysis tools designed for educational purposes."
-msgstr ""
+msgstr "Atklājiet XauSync AI inteliģento tirgus analīzes platformu. Mācieties ar AI-darbināmiem ieskatiem, reālās pasaules piemēriem un visaptverošiem tehniskās analīzes rīkiem, kas paredzēti izglītības nolūkiem."
 
 #. js-lingui-explicit-id
 msgid "About XauSync AI, AI market analysis education, learn market behavior, educational market analysis, XAU/USD analysis, AI learning technology, responsible market education"
-msgstr ""
+msgstr "Par XauSync AI, AI tirgus analīzes izglītība, mācīties tirgus uzvedību, izglītojoša tirgus analīze, XAU/USD analīze, AI mācību tehnoloģija, atbildīga tirgus izglītība"
 
 #. js-lingui-explicit-id
 msgid "Discover XauSync AI's intelligent market analysis platform and our commitment to providing AI-driven insights for educational use."
-msgstr ""
+msgstr "Atklājiet XauSync AI inteliģento tirgus analīzes platformu un mūsu apņemšanos nodrošināt AI-darbināmus ieskatus izglītības nolūkiem."
 
 #. js-lingui-explicit-id
 msgid "About XauSync AI - AI-Powered Market Analysis Education Platform"
-msgstr ""
+msgstr "Par XauSync AI - AI-darbināma tirgus analīzes izglītības platforma"
 
 #. js-lingui-explicit-id
 msgid "AI-Powered Market Analysis for Learning"
-msgstr ""
+msgstr "AI-darbināma tirgus analīze mācībām"
 
 #. js-lingui-explicit-id
 msgid "{NAME_APP} is an AI-powered educational platform designed for studying XAU/USD market dynamics. Our application combines advanced artificial intelligence with comprehensive market data to provide analytical insights and real-world examples for understanding technical analysis and market behavior."
-msgstr ""
+msgstr "{NAME_APP} ir AI-darbināma izglītojoša platforma, kas paredzēta XAU/USD tirgus dinamiku studēšanai. Mūsu lietotne apvieno uzlabotu mākslīgo intelektu ar visaptverošiem tirgus datiem, lai nodrošinātu analītiskus ieskatus un reālās pasaules piemērus tehniskās analīzes un tirgus uzvedības izpratnei."
 
 #. js-lingui-explicit-id
 msgid "What {NAME_APP} Does"
-msgstr ""
+msgstr "Ko dara {NAME_APP}"
 
 #. js-lingui-explicit-id
 msgid "AI-Powered Analysis"
-msgstr ""
+msgstr "AI-darbināma analīze"
 
 #. js-lingui-explicit-id
 msgid "Advanced machine learning algorithms analyze XAU/USD market patterns to provide AI-assisted insights and practical examples for understanding market dynamics and technical analysis."
-msgstr ""
+msgstr "Uzlaboti mašīnmācīšanās algoritmi analizē XAU/USD tirgus modeļus, lai nodrošinātu AI-darbināmus ieskatus un praktiskus piemērus tirgus dinamiku un tehniskās analīzes izpratnei."
 
 #. js-lingui-explicit-id
 msgid "Real-Time Market Data"
-msgstr ""
+msgstr "Tirgus dati reāllaikā"
 
 #. js-lingui-explicit-id
 msgid "Access live XAU/USD market data with interactive charts for studying price action, trends, and technical indicators in real-world scenarios."
-msgstr ""
+msgstr "Piekļūstiet XAU/USD tirgus datiem reāllaikā ar interaktīviem diagrammām, lai pētītu cenu darbību, tendences un tehniskos rādītājus reālās pasaules scenārijos."
 
 #. js-lingui-explicit-id
 msgid "Technical Indicators"
-msgstr ""
+msgstr "Tehniskie rādītāji"
 
 #. js-lingui-explicit-id
 msgid "Comprehensive suite of technical indicators including RSI, MACD, Bollinger Bands, and custom AI-driven indicators for studying market patterns and price dynamics."
-msgstr ""
+msgstr "Visaptverošs tehnisko rādītāju komplekts, ieskaitot RSI, MACD, Bollinger Bands un pielāgotus AI-darbināmus rādītājus, lai pētītu tirgus modeļus un cenu dinamiku."
 
 #. js-lingui-explicit-id
 msgid "Pattern Recognition"
-msgstr ""
+msgstr "Modeļu atpazīšana"
 
 #. js-lingui-explicit-id
 msgid "AI-driven pattern recognition identifies chart patterns and trend reversals for understanding market movements and studying technical formations."
-msgstr ""
+msgstr "AI-darbināta modeļu atpazīšana identificē diagrammu modeļus un tendences reversus, lai izprastu tirgus kustības un pētītu tehniskās formācijas."
 
 #. js-lingui-explicit-id
 msgid "Educational Alerts"
-msgstr ""
+msgstr "Izglītojošie brīdinājumi"
 
 #. js-lingui-explicit-id
 msgid "AI-assisted notifications for market events and practical examples to study real-time conditions and technical formations."
-msgstr ""
+msgstr "AI-darbināti paziņojumi par tirgus notikumiem un praktiski piemēri, lai pētītu reāllaika apstākļus un tehniskās formācijas."
 
 #. js-lingui-explicit-id
 msgid "Market Analytics"
-msgstr ""
+msgstr "Tirgus analītika"
 
 #. js-lingui-explicit-id
 msgid "Market insights with trend analysis, volatility metrics, and comprehensive statistics for understanding market dynamics and price movements."
-msgstr ""
+msgstr "Tirgus ieskati ar tendences analīzi, svārstīguma metriku un visaptverošu statistiku, lai izprastu tirgus dinamiku un cenu kustības."
 
 #. js-lingui-explicit-id
 msgid "AI-Powered Insights"
-msgstr ""
+msgstr "AI-darbināti ieskati"
 
 #. js-lingui-explicit-id
 msgid "Machine Learning"
-msgstr ""
+msgstr "Mašīnmācīšanās"
 
 #. js-lingui-explicit-id
 msgid "State-of-the-art ML models trained on historical XAU/USD data to identify patterns and provide analytical insights for study purposes."
-msgstr ""
+msgstr "Mūsdienīgi ML modeļi, kas apmācīti uz vēsturiskajiem XAU/USD datiem, lai identificētu modeļus un sniegtu analītiskus ieskatus studiju nolūkos."
 
 #. js-lingui-explicit-id
 msgid "Real-Time Processing"
-msgstr ""
+msgstr "Reāllaika apstrāde"
 
 #. js-lingui-explicit-id
 msgid "High-performance data processing ensures instant analysis and AI-assisted insights with minimal latency for studying market conditions."
-msgstr ""
+msgstr "Augstas veiktspējas datu apstrāde nodrošina tūlītēju analīzi un AI-darbināmus ieskatus ar minimālu latentumu, lai pētītu tirgus apstākļus."
 
 #. js-lingui-explicit-id
 msgid "Market Context"
-msgstr ""
+msgstr "Tirgus konteksts"
 
 #. js-lingui-explicit-id
 msgid "Analysis incorporates market context, economic factors, and technical indicators for comprehensive insights and practical examples."
-msgstr ""
+msgstr "Analīze ietver tirgus kontekstu, ekonomiskos faktorus un tehniskos rādītājus, lai nodrošinātu visaptverošus ieskatus un praktiskus piemērus."
 
 #. js-lingui-explicit-id
 msgid "Market Analytics and Indicators"
-msgstr ""
+msgstr "Tirgus analītika un rādītāji"
 
 #. js-lingui-explicit-id
 msgid "Technical Analysis"
-msgstr ""
+msgstr "Tehniskā analīze"
 
 #. js-lingui-explicit-id
 msgid "Advanced technical analysis tools including trend lines, support/resistance levels, and multiple time-frame analysis for studying market patterns."
-msgstr ""
+msgstr "Uzlaboti tehniskās analīzes rīki, ieskaitot tendences līnijas, atbalsta/ pretestības līmeņus un vairāku laika periodu analīzi, lai pētītu tirgus modeļus."
 
 #. js-lingui-explicit-id
 msgid "Market Sentiment"
-msgstr ""
+msgstr "Tirgus noskaņojums"
 
 #. js-lingui-explicit-id
 msgid "Analysis of market sentiment and volatility metrics to provide context for understanding market conditions and studying price behavior patterns."
-msgstr ""
+msgstr "Tirgus noskaņojuma un svārstīguma metrikas analīze, lai nodrošinātu kontekstu tirgus apstākļu izpratnei un cenu uzvedības modeļu pētīšanai."
 
 #. js-lingui-explicit-id
 msgid "Purpose"
-msgstr ""
+msgstr "Mērķis"
 
 #. js-lingui-explicit-id
 msgid "{NAME_APP} provides analytical insights and educational tools to help users study market dynamics and technical concepts. Our platform uses real market data as context for exploring analysis techniques and practical examples."
-msgstr ""
+msgstr "{NAME_APP} nodrošina analītiskus ieskatus un izglītojošus rīkus, lai palīdzētu lietotājiem pētīt tirgus dinamiku un tehniskos jēdzienus. Mūsu platforma izmanto reālus tirgus datus kā kontekstu, lai izpētītu analīzes tehnikas un praktiskus piemērus."
 
 #. js-lingui-explicit-id
 msgid "Important: {NAME_APP} provides informational and educational content only. It does not provide financial, investment, or trading advice. Real market examples are for study purposes only. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk and rely on your own judgment."
-msgstr ""
+msgstr "Important: {NAME_APP} nodrošina tikai informatīvu un izglītojošu saturu. Tas nesniedz finanšu, investīciju vai tirdzniecības padomus. Reālu tirgus piemēri ir tikai studiju nolūkiem. Visa analīze var būt nepilnīga, aizkavēta vai neprecīza. Izmantojiet uz savu risku un paļaujieties uz savu spriedumu."
 
 #. js-lingui-explicit-id
 msgid "Responsible Use"
-msgstr ""
+msgstr "Atbildīga lietošana"
 
 #. js-lingui-explicit-id
 msgid "While our AI provides analytical insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a study tool to explore market scenarios and technical concepts."
-msgstr ""
+msgstr "Lai gan mūsu AI nodrošina analītiskus ieskatus, lietotājiem jāpaļaujas uz savu spriedumu un neatkarīgiem pētījumiem. Izmantojiet {NAME_APP} kā studiju rīku, lai izpētītu tirgus scenārijus un tehniskos jēdzienus."
 
 #. js-lingui-explicit-id
 msgid "Always conduct your own research, consider seeking advice from qualified financial professionals, and never risk more than you can afford to lose."
-msgstr ""
+msgstr "Vienmēr veiciet savu pētījumu, apsveriet iespēju meklēt padomu no kvalificētiem finanšu speciālistiem un nekad neriskējiet vairāk, nekā varat atļauties zaudēt."
 
 #. js-lingui-explicit-id
 msgid "We're continuously improving {NAME_APP} based on user feedback and market developments. Have questions, suggestions, or need support? We'd love to hear from you!"
-msgstr ""
+msgstr "Mēs nepārtraukti uzlabojam {NAME_APP} balstoties uz lietotāju atsauksmēm un tirgus attīstību. Jums ir jautājumi, ieteikumi vai nepieciešama palīdzība? Mēs labprāt dzirdētu no jums!"
 
 #. js-lingui-explicit-id
 msgid "Thank you for choosing {NAME_APP} for your market analysis studies!"
-msgstr ""
+msgstr "Paldies, ka izvēlējāties {NAME_APP} saviem tirgus analīzes pētījumiem!"
 
 #. js-lingui-explicit-id
 msgid "Disclaimer — XauSync AI"
-msgstr ""
+msgstr "Atruna — XauSync AI"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Disclaimer - Important information about risks and the educational nature of our AI-powered market analysis app. All content is for informational purposes only."
-msgstr ""
+msgstr "XauSync AI atruna - Svarīga informācija par riskiem un mūsu AI-darbināmas tirgus analīzes lietotnes izglītojošo raksturu. Viss saturs ir tikai informatīviem nolūkiem."
 
 #. js-lingui-explicit-id
 msgid "Disclaimer, XauSync AI, market analysis risks, educational market analysis, financial disclaimer, AI analysis education, learning responsibility"
-msgstr ""
+msgstr "Atruna, XauSync AI, tirgus analīzes riski, izglītojoša tirgus analīze, finanšu atruna, AI analīzes izglītība, mācību atbildība"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Disclaimer - Important information about risks and the educational nature of our AI-powered market analysis app."
-msgstr ""
+msgstr "XauSync AI atruna - Svarīga informācija par riskiem un mūsu AI-darbināmas tirgus analīzes lietotnes izglītojošo raksturu."
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Disclaimer"
-msgstr ""
+msgstr "XauSync AI atruna"
 
 #. js-lingui-explicit-id
 msgid "March 10, 2026"
-msgstr ""
+msgstr "2026. gada 10. marts"
 
 #. js-lingui-explicit-id
 msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). This disclaimer contains important information about the risks associated with using our educational market analysis content and AI-powered features."
-msgstr ""
+msgstr "\"{NAME_APP}\" mobilās un tīmekļa lietotnes izstrādā un pārvalda Vadym Bezsmertnyi, individuālais komersants (Ukraina) (\"mēs\", \"mūsu\"). Šī atruna satur svarīgu informāciju par riskiem, kas saistīti ar mūsu izglītojošā tirgus analīzes satura un AI-darbināmo funkciju izmantošanu."
 
 #. js-lingui-explicit-id
 msgid "Risk Warning"
-msgstr ""
+msgstr "Riska brīdinājums"
 
 #. js-lingui-explicit-id
 msgid "Trading Risks"
-msgstr ""
+msgstr "Tirdzniecības riski"
 
 #. js-lingui-explicit-id
 msgid "Trading financial instruments, including XAU/USD (Gold/US Dollar), involves substantial risk and is not suitable for all investors. You should carefully consider your financial situation, investment objectives, and risk tolerance before engaging in trading activities."
-msgstr ""
+msgstr "Tirdzniecība ar finanšu instrumentiem, tostarp XAU/USD (zelts/ASV dolārs), ietver ievērojamu risku un nav piemērota visiem investoriem. Jums rūpīgi jāapsver sava finansiālā situācija, investīciju mērķi un riska tolerance pirms tirdzniecības aktivitātēm."
 
 #. js-lingui-explicit-id
 msgid "No Investment Advice"
-msgstr ""
+msgstr "Nav ieguldījumu padomu"
 
 #. js-lingui-explicit-id
 msgid "The information, analysis, and insights provided by {NAME_APP} are for informational and educational purposes only. They do not constitute investment advice, financial advice, trading recommendations, or a solicitation to buy or sell any financial instrument."
-msgstr ""
+msgstr "Informācija, analīze un ieskati, ko sniedz {NAME_APP}, ir tikai informatīviem un izglītojošiem nolūkiem. Tie neuzskatāmi par ieguldījumu padomiem, finanšu padomiem, tirdzniecības ieteikumiem vai aicinājumu pirkt vai pārdot jebkuru finanšu instrumentu."
 
 #. js-lingui-explicit-id
 msgid "AI Limitations"
-msgstr ""
+msgstr "AI ierobežojumi"
 
 #. js-lingui-explicit-id
 msgid "Our AI-powered analysis is based on historical data and mathematical algorithms. Past performance is not indicative of future results. AI predictions may be inaccurate, and market conditions can change rapidly due to various factors including economic events, political developments, and market sentiment."
-msgstr ""
+msgstr "Mūsu AI-darbināma analīze balstās uz vēsturiskajiem datiem un matemātiskajiem algoritmiem. Pagātnes rezultāti nav garantija nākotnes rezultātiem. AI prognozes var būt neprecīzas, un tirgus apstākļi var strauji mainīties dažādu faktoru, tostarp ekonomisko notikumu, politisko attīstību un tirgus noskaņojuma dēļ."
 
 #. js-lingui-explicit-id
 msgid "Service Limitations"
-msgstr ""
+msgstr "Pakalpojuma ierobežojumi"
 
 #. js-lingui-explicit-id
 msgid "Technical Issues"
-msgstr ""
+msgstr "Tehniskas problēmas"
 
 #. js-lingui-explicit-id
 msgid "We cannot guarantee uninterrupted service or real-time data accuracy. Technical issues, internet connectivity problems, or system maintenance may temporarily affect service availability."
-msgstr ""
+msgstr "Mēs nevaram garantēt nepārtrauktu pakalpojumu vai reāllaika datu precizitāti. Tehniskas problēmas, interneta savienojuma problēmas vai sistēmas uzturēšana var īslaicīgi ietekmēt pakalpojuma pieejamību."
 
 #. js-lingui-explicit-id
 msgid "Data Accuracy"
-msgstr ""
+msgstr "Dataprecizitāte"
 
 #. js-lingui-explicit-id
 msgid "While we strive to provide accurate market data and analysis, we cannot guarantee the completeness, accuracy, or timeliness of all information. Market data may be delayed or contain errors."
-msgstr ""
+msgstr "Mēs cenšamies nodrošināt precīzus tirgus datus un analīzi, taču nevaram garantēt visas informācijas pilnīgumu, precizitāti vai savlaicīgumu. Tirgus dati var būt aizkavēti vai saturēt kļūdas."
 
 #. js-lingui-explicit-id
 msgid "Third-Party Services"
-msgstr ""
+msgstr "Trešo pušu pakalpojumi"
 
 #. js-lingui-explicit-id
 msgid "Our service may rely on third-party data providers and APIs. We are not responsible for the quality, accuracy, or availability of third-party services."
-msgstr ""
+msgstr "Mūsu pakalpojums var paļauties uz trešo pušu datu sniedzējiem un API. Mēs neesam atbildīgi par trešo pušu pakalpojumu kvalitāti, precizitāti vai pieejamību."
 
 #. js-lingui-explicit-id
 msgid "Financial Responsibility"
-msgstr ""
+msgstr "Finanšu atbildība"
 
 #. js-lingui-explicit-id
 msgid "Financial Decisions"
-msgstr ""
+msgstr "Finanšu lēmumi"
 
 #. js-lingui-explicit-id
 msgid "All decisions based on our content are your sole responsibility. You should conduct your own research, consider seeking advice from qualified financial advisors, and never trade with money you cannot afford to lose."
-msgstr ""
+msgstr "Visi lēmumi, kas balstīti uz mūsu saturu, ir jūsu vienīgā atbildība. Jums jāveic savs pētījums, jāapsver iespēja meklēt padomu no kvalificētiem finanšu konsultantiem un nekad netirgot ar naudu, kuru nevarat atļauties zaudēt."
 
 #. js-lingui-explicit-id
 msgid "Loss Acknowledgment"
-msgstr ""
+msgstr "Zaudējumu atzīšana"
 
 #. js-lingui-explicit-id
 msgid "You acknowledge and agree that you are solely responsible for any losses incurred. {NAME_APP} and its developers shall not be liable for any financial losses resulting from your use of our services."
-msgstr ""
+msgstr "Jūs atzīstat un piekrītat, ka esat vienīgi atbildīgs par jebkādiem zaudējumiem, kas radušies. {NAME_APP} un tā izstrādātāji nav atbildīgi par jebkādiem finanšu zaudējumiem, kas radušies, izmantojot mūsu pakalpojumus."
 
 #. js-lingui-explicit-id
 msgid "Limitation of Liability"
-msgstr ""
+msgstr "Atbildības ierobežojums"
 
 #. js-lingui-explicit-id
 msgid "Service Use at Your Own Risk"
-msgstr ""
+msgstr "Pakalpojuma izmantošana uz jūsu pašu risku"
 
 #. js-lingui-explicit-id
 msgid "You use {NAME_APP} at your own risk. We disclaim all warranties, whether express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement."
-msgstr ""
+msgstr "Jūs izmantojat {NAME_APP} uz savu risku. Mēs atsakāmies no visām garantijām, gan izteiktām, gan netiešām, ieskaitot, bet ne tikai, garantijas par tirgojamību, piemērotību konkrētam mērķim un neieķīlāšanu."
 
 #. js-lingui-explicit-id
 msgid "Damages Exclusion"
-msgstr ""
+msgstr "Zaudējumu izslēgšana"
 
 #. js-lingui-explicit-id
 msgid "To the maximum extent permitted by law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, financial losses, or data loss, arising from your use of our services."
-msgstr ""
+msgstr "Līdz maksimālajam likumā atļautajam apjomam mēs neesam atbildīgi par jebkādiem netiešiem, nejaušiem, īpašiem, sekām vai sodu zaudējumiem, tostarp, bet ne tikai, peļņas zaudējumiem, finanšu zaudējumiem vai datu zudumiem, kas radušies, izmantojot mūsu pakalpojumus."
 
 #. js-lingui-explicit-id
 msgid "User Responsibilities"
-msgstr ""
+msgstr "Lietotāja pienākumi"
 
 #. js-lingui-explicit-id
 msgid "Account Security"
-msgstr ""
+msgstr "Kontu drošība"
 
 #. js-lingui-explicit-id
 msgid "You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account."
-msgstr ""
+msgstr "Jūs esat atbildīgs par savu konta akreditācijas datu konfidencialitātes uzturēšanu un par visām darbībām, kas notiek jūsu kontā."
 
 #. js-lingui-explicit-id
 msgid "Compliance"
-msgstr ""
+msgstr "Atbilstība"
 
 #. js-lingui-explicit-id
 msgid "You must comply with applicable laws and regulations when using our services. This includes meeting any tax or financial requirements in your jurisdiction."
-msgstr ""
+msgstr "Jums jāievēro piemērojamie likumi un noteikumi, izmantojot mūsu pakalpojumus. Tas ietver jebkādu nodokļu vai finanšu prasību izpildi jūsu jurisdikcijā."
 
 #. js-lingui-explicit-id
 msgid "Professional Advice"
-msgstr ""
+msgstr "Profesionāls padoms"
 
 #. js-lingui-explicit-id
 msgid "You should consult with qualified financial, legal, and tax professionals before making any investment decisions."
-msgstr ""
+msgstr "Jums jāapspriežas ar kvalificētiem finanšu, juridiskajiem un nodokļu speciālistiem pirms jebkādu ieguldījumu lēmumu pieņemšanas."
 
 #. js-lingui-explicit-id
 msgid "Market Volatility"
-msgstr ""
+msgstr "Tirgus svārstīgums"
 
 #. js-lingui-explicit-id
 msgid "High Volatility Warning"
-msgstr ""
+msgstr "Augsta svārstīguma brīdinājums"
 
 #. js-lingui-explicit-id
 msgid "The XAU/USD market can be highly volatile, especially during economic announcements, geopolitical events, or periods of market uncertainty. Prices can move rapidly in either direction, potentially resulting in significant gains or losses."
-msgstr ""
+msgstr "XAU/USD tirgus var būt ļoti svārstīgs, īpaši ekonomisko paziņojumu, ģeopolitisko notikumu vai tirgus nenoteiktības periodos. Cenas var strauji mainīties abos virzienos, potenciāli rezultējoties ievērojamos guvumos vai zaudējumos."
 
 #. js-lingui-explicit-id
 msgid "Leverage Risks"
-msgstr ""
+msgstr "Leverage riski"
 
 #. js-lingui-explicit-id
 msgid "If you use leverage in trading activities, be aware that it amplifies both potential gains and losses. High leverage can lead to rapid depletion of capital."
-msgstr ""
+msgstr "Ja jūs izmantojat sviras tirdzniecības aktivitātēs, esiet informēts, ka tas pastiprina gan potenciālos guvumus, gan zaudējumus. Augsta sviras izmantošana var novest pie kapitāla straujas izsīkšanas."
 
 #. js-lingui-explicit-id
 msgid "Changes to Disclaimer"
-msgstr ""
+msgstr "Mainas atrunā"
 
 #. js-lingui-explicit-id
 msgid "We may update this disclaimer periodically. All updates will be published on this page with the revised date. Continued use after changes constitutes acceptance of the updated disclaimer."
-msgstr ""
+msgstr "Mēs varam periodiski atjaunināt šo atrunu. Visi atjauninājumi tiks publicēti šajā lapā ar pārskatīto datumu. Turpinot lietot pēc izmaiņām, tiek uzskatīts, ka piekrītat atjauninātajai atrunai."
 
 #. js-lingui-explicit-id
 msgid "If you have questions about this disclaimer or our services, please contact us at {CONTACT_EMAIL}."
-msgstr ""
+msgstr "Ja jums ir jautājumi par šo atrunu vai mūsu pakalpojumiem, lūdzu, sazinieties ar mums, rakstot uz {CONTACT_EMAIL}."
 
 #. js-lingui-explicit-id
 msgid "Delete Your {NAME_APP} Account"
-msgstr ""
+msgstr "Dzēst savu {NAME_APP} kontu"
 
 #. js-lingui-explicit-id
 msgid "Learn how to delete your XauSync AI account. Find step-by-step instructions for account deletion in app settings and understand what happens after deletion."
-msgstr ""
+msgstr "Uzziniet, kā dzēst savu XauSync AI kontu. Atrodiet soli pa solim instrukcijas konta dzēšanai lietotnes iestatījumos un saprotiet, kas notiek pēc dzēšanas."
 
 #. js-lingui-explicit-id
 msgid "delete account, XauSync AI, account deletion, remove account, data deletion, privacy settings"
-msgstr ""
+msgstr "dzēst kontu, XauSync AI, konta dzēšana, konta noņemšana, datu dzēšana, privātuma iestatījumi"
 
 #. js-lingui-explicit-id
 msgid "Learn how to delete your XauSync AI account and understand the data deletion process."
-msgstr ""
+msgstr "Uzziniet, kā dzēst savu XauSync AI kontu un saprotiet datu dzēšanas procesu."
 
 #. js-lingui-explicit-id
 msgid "How to Delete Your Account"
-msgstr ""
+msgstr "Kā dzēst savu kontu"
 
 #. js-lingui-explicit-id
 msgid "You can delete your {NAME_APP} account directly from the application settings. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
-msgstr ""
+msgstr "Jūs varat dzēst savu {NAME_APP} kontu tieši no lietotnes iestatījumiem. Konta dzēšana ir pastāvīga un noņems piekļuvi jūsu kontam un saistītajiem datiem saskaņā ar mūsu Privātuma politiku."
 
 #. js-lingui-explicit-id
 msgid "Where to Find the Delete Option"
-msgstr ""
+msgstr "Kur atrast dzēšanas opciju"
 
 #. js-lingui-explicit-id
 msgid "To delete your account, open the {NAME_APP} mobile application and follow these steps:"
-msgstr ""
+msgstr "Lai dzēstu savu kontu, atveriet {NAME_APP} mobilo lietotni un izpildiet šos soļus:"
 
 #. js-lingui-explicit-id
 msgid "Go to your profile in the app"
-msgstr ""
+msgstr "Dodieties uz savu profilu lietotnē"
 
 #. js-lingui-explicit-id
 msgid "Navigate to Settings"
-msgstr ""
+msgstr "Dodieties uz Iestatījumiem"
 
 #. js-lingui-explicit-id
 msgid "Scroll to the bottom of the settings page"
-msgstr ""
+msgstr "Ritiniet uz leju līdz iestatījumu lapas apakšai"
 
 #. js-lingui-explicit-id
 msgid "Tap the \"Delete Account\" button"
-msgstr ""
+msgstr "Pieskarieties pogai \"Dzēst kontu\""
 
 #. js-lingui-explicit-id
 msgid "Confirm your decision to permanently delete your account"
-msgstr ""
+msgstr "Apstipriniet savu lēmumu pastāvīgi dzēst savu kontu"
 
 #. js-lingui-explicit-id
 msgid "What Happens After Deletion"
-msgstr ""
+msgstr "Kas notiek pēc dzēšanas"
 
 #. js-lingui-explicit-id
 msgid "Once you delete your account, the following actions will occur:"
-msgstr ""
+msgstr "Kad jūs dzēsīsiet savu kontu, notiks šādas darbības:"
 
 #. js-lingui-explicit-id
 msgid "Immediate loss of access to your {NAME_APP} account"
-msgstr ""
+msgstr "Tūlītēja piekļuves zaudēšana jūsu {NAME_APP} kontam"
 
 #. js-lingui-explicit-id
 msgid "Removal of your authentication data and login credentials"
-msgstr ""
+msgstr "Jūsu autentifikācijas datu un pieteikšanās akreditācijas datu noņemšana"
 
 #. js-lingui-explicit-id
 msgid "Deletion of your personal information and profile data"
-msgstr ""
+msgstr "Jūsu personiskās informācijas un profila datu dzēšana"
 
 #. js-lingui-explicit-id
 msgid "Removal of your learning progress and educational activity"
-msgstr ""
+msgstr "Jūsu mācību progresu un izglītības aktivitāšu noņemšana"
 
 #. js-lingui-explicit-id
 msgid "Deletion of your settings and preferences"
-msgstr ""
+msgstr "Jūsu iestatījumu un preferenču dzēšana"
 
 #. js-lingui-explicit-id
 msgid "Permanent removal of your in-app energy balance - all energy credits will be deleted and cannot be restored"
-msgstr ""
+msgstr "Jūsu lietotnes enerģijas bilances pastāvīga noņemšana - visi enerģijas kredīti tiks dzēsti un tos nevarēs atjaunot"
 
 #. js-lingui-explicit-id
 msgid "Permanent removal of any remaining subscription days or premium access - all active subscriptions linked to your account will be deleted and cannot be restored"
-msgstr ""
+msgstr "Jebkuru atlikušo abonementa dienu vai premium piekļuves pastāvīga noņemšana - visi aktīvie abonementi, kas saistīti ar jūsu kontu, tiks dzēsti un tos nevarēs atjaunot"
 
 #. js-lingui-explicit-id
 msgid "Removal of subscription information and payment history within the app"
-msgstr ""
+msgstr "Abonementa informācijas un maksājumu vēstures noņemšana lietotnē"
 
 #. js-lingui-explicit-id
 msgid "Important Information"
-msgstr ""
+msgstr "Svarīga informācija"
 
 #. js-lingui-explicit-id
 msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance, subscription days, or any account-related benefits. All energy credits, remaining subscription time, and premium access will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
-msgstr ""
+msgstr "Konta dzēšana ir NEATGRIEŽAMA. Kad konts ir dzēsts, jūs nevarēsiet atgūt savus datus, atjaunot kontu vai atgūt lietotnes enerģijas bilanci, abonementa dienas vai jebkādas ar kontu saistītas priekšrocības. Visi enerģijas kredīti, atlikušie abonementa laiki un premium piekļuve tiks pastāvīgi zaudēti. Ja nākotnē vēlaties izmantot {NAME_APP}, jums būs jāizveido jauns konts."
 
 #. js-lingui-explicit-id
 msgid "Need Help?"
-msgstr ""
+msgstr "Vai nepieciešama palīdzība?"
 
 #. js-lingui-explicit-id
 msgid "If you have any questions about account deletion or need assistance with the process, please contact our support team:"
-msgstr ""
+msgstr "Ja jums ir kādi jautājumi par konta dzēšanu vai nepieciešama palīdzība procesā, lūdzu, sazinieties ar mūsu atbalsta komandu:"
 
 #. js-lingui-explicit-id
 msgid "This account deletion process is managed by Vadym Bezsmertnyi, Sole Proprietor (Ukraine), the developer of {NAME_APP}."
-msgstr ""
+msgstr "Šo konta dzēšanas procesu pārvalda Vadym Bezsmertnyi, individuālais komersants (Ukraina), {NAME_APP} izstrādātājs."
 
 #. js-lingui-explicit-id
 msgid "AI-Assisted Analysis"
-msgstr ""
+msgstr "AI atbalstīta analīze"
 
 #. js-lingui-explicit-id
 msgid "Advanced artificial intelligence analyzes XAU/USD market patterns to provide educational insights and practical examples for understanding market behavior."
-msgstr ""
+msgstr "Uzlabota mākslīgā intelekta analīze XAU/USD tirgus modeļiem, lai sniegtu izglītojošus ieskatus un praktiskus piemērus tirgus uzvedības izpratnei."
 
 #. js-lingui-explicit-id
 msgid "Interactive Market Charts"
-msgstr ""
+msgstr "Interaktīvi tirgus diagrammas"
 
 #. js-lingui-explicit-id
 msgid "Educational charts with real market data for studying price action, trends, and technical analysis concepts."
-msgstr ""
+msgstr "Izglītojošas diagrammas ar reāliem tirgus datiem, lai pētītu cenu darbību, tendences un tehniskās analīzes jēdzienus."
 
 #. js-lingui-explicit-id
 msgid "Technical Analysis Tools"
-msgstr ""
+msgstr "Tehniskās analīzes rīki"
 
 #. js-lingui-explicit-id
 msgid "Comprehensive set of technical indicators for learning market analysis concepts and studying price patterns."
-msgstr ""
+msgstr "Visaptverošs tehnisko indikatoru komplekts, lai apgūtu tirgus analīzes jēdzienus un pētītu cenu modeļus."
 
 #. js-lingui-explicit-id
 msgid "Educational market insights and trend analysis for understanding market dynamics and technical concepts."
-msgstr ""
+msgstr "Izglītojoši tirgus ieskati un tendenču analīze, lai izprastu tirgus dinamiku un tehniskos jēdzienus."
 
 #. js-lingui-explicit-id
 msgid "Pattern Recognition Training"
-msgstr ""
+msgstr "Modeļu atpazīšanas apmācība"
 
 #. js-lingui-explicit-id
 msgid "AI-driven pattern identification for learning to recognize market patterns and studying technical analysis scenarios."
-msgstr ""
+msgstr "AI vadīta modeļu identifikācija, lai mācītos atpazīt tirgus modeļus un pētītu tehniskās analīzes scenārijus."
 
 #. js-lingui-explicit-id
 msgid "Assisted Insights"
-msgstr ""
+msgstr "Atbalstīti ieskati"
 
 #. js-lingui-explicit-id
 msgid "Market Focus"
-msgstr ""
+msgstr "Tirgus fokuss"
 
 #. js-lingui-explicit-id
 msgid "Real Market Context"
-msgstr ""
+msgstr "Reāls tirgus konteksts"
 
 #. js-lingui-explicit-id
 msgid "Educational Use"
-msgstr ""
+msgstr "Izglītojoša lietošana"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI — AI-Powered Market Analysis for Learning"
-msgstr ""
+msgstr "XauSync AI — AI-darbināma tirgus analīze mācībām"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior. Explore real market scenarios, technical analysis concepts, and AI-assisted educational insights."
-msgstr ""
+msgstr "XauSync AI nodrošina AI-darbināmus izglītojošus rīkus, lai apgūtu tirgus analīzi un pētītu tirgus uzvedību. Izpētiet reālus tirgus scenārijus, tehniskās analīzes jēdzienus un AI atbalstītus izglītojošus ieskatus."
 
 #. js-lingui-explicit-id
 msgid "XauSync AI, AI market analysis education, learn market behavior, technical analysis study, AI educational tools, market analysis learning, trading concepts education"
-msgstr ""
+msgstr "XauSync AI, AI tirgus analīzes izglītība, mācīties tirgus uzvedību, tehniskās analīzes studijas, AI izglītojoši rīki, tirgus analīzes mācīšanās, tirdzniecības jēdzienu izglītība"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior with real market scenarios."
-msgstr ""
+msgstr "XauSync AI nodrošina AI-darbināmus izglītojošus rīkus, lai apgūtu tirgus analīzi un pētītu tirgus uzvedību ar reāliem tirgus scenārijiem."
 
 #. js-lingui-explicit-id
 msgid "XauSync AI - AI-Powered Market Analysis for Learning"
-msgstr ""
+msgstr "XauSync AI - AI-darbināma tirgus analīze mācībām"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior."
-msgstr ""
+msgstr "XauSync AI nodrošina AI-darbināmus izglītojošus rīkus, lai apgūtu tirgus analīzi un pētītu tirgus uzvedību."
 
 #. js-lingui-explicit-id
 msgid "{NAME_APP}: AI-Powered Market Analysis for Learning"
-msgstr ""
+msgstr "{NAME_APP}: AI-darbināma tirgus analīze mācībām"
 
 #. js-lingui-explicit-id
 msgid "Educational Market Analysis App"
-msgstr ""
+msgstr "Izglītojoša tirgus analīzes lietotne"
 
 #. js-lingui-explicit-id
 msgid "Study market analysis and explore market behavior with AI-powered educational tools. Discover real market scenarios, technical analysis concepts, and practical insights for educational purposes only."
-msgstr ""
+msgstr "Pētiet tirgus analīzi un izpētiet tirgus uzvedību ar AI-darbināmiem izglītojošiem rīkiem. Atklājiet reālus tirgus scenārijus, tehniskās analīzes jēdzienus un praktiskus ieskatus tikai izglītojošiem mērķiem."
 
 #. js-lingui-explicit-id
 msgid "Download on the App Store"
-msgstr ""
+msgstr "Lejupielādēt App Store"
 
 #. js-lingui-explicit-id
 msgid "AI-Powered Learning Tools"
-msgstr ""
+msgstr "AI-darbināmi mācību rīki"
 
 #. js-lingui-explicit-id
 msgid "Educational insights and analysis for learning market behavior and studying technical analysis concepts"
-msgstr ""
+msgstr "Izglītojoši ieskati un analīze, lai apgūtu tirgus uzvedību un pētītu tehniskās analīzes jēdzienus"
 
 #. js-lingui-explicit-id
 msgid "Educational Purpose"
-msgstr ""
+msgstr "Izglītojošs mērķis"
 
 #. js-lingui-explicit-id
 msgid "{NAME_APP} provides educational insights and analytical tools to help users study market behavior and analysis concepts. Our platform uses real market data as educational context for exploring technical analysis and market scenarios."
-msgstr ""
+msgstr "{NAME_APP} nodrošina izglītojošus ieskatus un analītiskus rīkus, lai palīdzētu lietotājiem pētīt tirgus uzvedību un analīzes jēdzienus. Mūsu platforma izmanto reālus tirgus datus kā izglītojošu kontekstu tehniskās analīzes un tirgus scenāriju izpētei."
 
 #. js-lingui-explicit-id
 msgid "Important: {NAME_APP} provides informational and educational content only. It does not provide financial, investment, or trading advice. Real market examples are used for study purposes only. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk."
-msgstr ""
+msgstr "Svarīgi: {NAME_APP} nodrošina tikai informatīvu un izglītojošu saturu. Tas nesniedz finanšu, ieguldījumu vai tirdzniecības padomus. Reāli tirgus piemēri tiek izmantoti tikai mācību nolūkos. Visa analīze var būt nepilnīga, aizkavēta vai neprecīza. Lietojiet uz savu risku."
 
 #. js-lingui-explicit-id
 msgid "Learning Responsibility"
-msgstr ""
+msgstr "Mācību atbildība"
 
 #. js-lingui-explicit-id
 msgid "While our AI provides educational insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a learning tool to study market scenarios and technical analysis concepts."
-msgstr ""
+msgstr "Lai gan mūsu AI nodrošina izglītojošus ieskatus, lietotājiem jāpaļaujas uz savu spriedumu un neatkarīgiem pētījumiem. Izmantojiet {NAME_APP} kā mācību rīku, lai pētītu tirgus scenārijus un tehniskās analīzes jēdzienus."
 
 #. js-lingui-explicit-id
 msgid "Start Your Educational Journey"
-msgstr ""
+msgstr "Sāciet savu izglītojošo ceļojumu"
 
 #. js-lingui-explicit-id
 msgid "Discover how {NAME_APP} provides AI-powered market analysis tools for educational study and technical learning"
-msgstr ""
+msgstr "Atklājiet, kā {NAME_APP} nodrošina AI-darbināmus tirgus analīzes rīkus izglītojošai studijai un tehniskajai mācībai"
 
 #. js-lingui-explicit-id
 msgid "Explore {NAME_APP}"
-msgstr ""
+msgstr "Izpētiet {NAME_APP}"
 
 #. js-lingui-explicit-id
 msgid "View Disclaimer"
-msgstr ""
+msgstr "Skatīt atrunu"
 
 #. js-lingui-explicit-id
 msgid "Privacy Policy — XauSync AI"
-msgstr ""
+msgstr "Privātuma politika — XauSync AI"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI-powered educational market analysis app. Understand our data practices and your privacy rights."
-msgstr ""
+msgstr "XauSync AI privātuma politika - Uzziniet, kā mēs vācam, izmantojam un aizsargājam jūsu personisko informāciju, izmantojot mūsu AI-darbināmo izglītojošo tirgus analīzes lietotni. Izprotiet mūsu datu praksi un jūsu privātuma tiesības."
 
 #. js-lingui-explicit-id
 msgid "Privacy Policy, XauSync AI, data protection, personal information, AI market analysis education, privacy rights, data security, GDPR compliance"
-msgstr ""
+msgstr "Privātuma politika, XauSync AI, datu aizsardzība, personiskā informācija, AI tirgus analīzes izglītība, privātuma tiesības, datu drošība, GDPR atbilstība"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI-powered educational market analysis app."
-msgstr ""
+msgstr "XauSync AI privātuma politika - Uzziniet, kā mēs vācam, izmantojam un aizsargājam jūsu personisko informāciju, izmantojot mūsu AI-darbināmo izglītojošo tirgus analīzes lietotni."
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Privacy Policy"
-msgstr ""
+msgstr "XauSync AI privātuma politika"
 
 #. js-lingui-explicit-id
 msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our AI-powered educational market analysis app and services (\"Service\")."
-msgstr ""
+msgstr "Mobilās un tīmekļa lietotnes \"{NAME_APP}\" izstrādā un pārvalda Vadym Bezsmertnyi, individuālais komersants (Ukraina) (\"mēs\", \"mūsu\"). Šī privātuma politika izskaidro, kā mēs vācam, izmantojam un aizsargājam jūsu personisko informāciju, kad piekļūstat un izmantojat mūsu AI-darbināmo izglītojošo tirgus analīzes lietotni un pakalpojumus (\"Pakalpojums\")."
 
 #. js-lingui-explicit-id
 msgid "Authentication Data"
-msgstr ""
+msgstr "Autentifikācijas dati"
 
 #. js-lingui-explicit-id
 msgid "To provide access to {NAME_APP} features, we collect authentication information when you create an account or sign in:"
-msgstr ""
+msgstr "Lai nodrošinātu piekļuvi {NAME_APP} funkcijām, mēs vācam autentifikācijas informāciju, kad izveidojat kontu vai piesakāties:"
 
 #. js-lingui-explicit-id
 msgid "Email address and display name from your account"
-msgstr ""
+msgstr "E-pasta adrese un parādāmais vārds no jūsu konta"
 
 #. js-lingui-explicit-id
 msgid "Firebase UID for user identification"
-msgstr ""
+msgstr "Firebase UID lietotāja identifikācijai"
 
 #. js-lingui-explicit-id
 msgid "Authentication provider information (Google, Apple, Email/Password)"
-msgstr ""
+msgstr "Autentifikācijas pakalpojumu sniedzēja informācija (Google, Apple, E-pasts/Parole)"
 
 #. js-lingui-explicit-id
 msgid "Profile photo URL (if provided)"
-msgstr ""
+msgstr "Profila foto URL (ja norādīts)"
 
 #. js-lingui-explicit-id
 msgid "Onboarding preferences and settings"
-msgstr ""
+msgstr "Iepriekšējās iestatījumu preferences un iestatījumi"
 
 #. js-lingui-explicit-id
 msgid "Device and Session Data"
-msgstr ""
+msgstr "Ierīces un sesijas dati"
 
 #. js-lingui-explicit-id
 msgid "We automatically collect technical information to operate and improve our services:"
-msgstr ""
+msgstr "Mēs automātiski vācam tehnisko informāciju, lai nodrošinātu un uzlabotu mūsu pakalpojumus:"
 
 #. js-lingui-explicit-id
 msgid "Unique device identifier"
-msgstr ""
+msgstr "Unikāls ierīces identifikators"
 
 #. js-lingui-explicit-id
 msgid "IP address and general location information"
-msgstr ""
+msgstr "IP adrese un vispārīga atrašanās vietas informācija"
 
 #. js-lingui-explicit-id
 msgid "Browser and application user agent details"
-msgstr ""
+msgstr "Pārlūkprogrammas un lietotnes lietotāja aģenta detaļas"
 
 #. js-lingui-explicit-id
 msgid "Push notification token for alerts"
-msgstr ""
+msgstr "Push paziņojumu tokens brīdinājumiem"
 
 #. js-lingui-explicit-id
 msgid "Session tokens and authentication refresh tokens"
-msgstr ""
+msgstr "Sesijas tokeni un autentifikācijas atjaunošanas tokeni"
 
 #. js-lingui-explicit-id
 msgid "Analytics and Usage Data"
-msgstr ""
+msgstr "Analītikas un lietošanas dati"
 
 #. js-lingui-explicit-id
 msgid "We use Firebase Analytics to understand how our app is used:"
-msgstr ""
+msgstr "Mēs izmantojam Firebase Analytics, lai saprastu, kā tiek izmantota mūsu lietotne:"
 
 #. js-lingui-explicit-id
 msgid "Feature usage patterns and frequency"
-msgstr ""
+msgstr "Funkciju izmantošanas modeļi un biežums"
 
 #. js-lingui-explicit-id
 msgid "Screen views and navigation paths"
-msgstr ""
+msgstr "Ekrāna skatījumi un navigācijas ceļi"
 
 #. js-lingui-explicit-id
 msgid "App performance and crash data"
-msgstr ""
+msgstr "Lietotnes veiktspējas un avāriju dati"
 
 #. js-lingui-explicit-id
 msgid "General demographic information (anonymous)"
-msgstr ""
+msgstr "Vispārīga demogrāfiskā informācija (anonīma)"
 
 #. js-lingui-explicit-id
 msgid "Learning Data"
-msgstr ""
+msgstr "Mācību dati"
 
 #. js-lingui-explicit-id
 msgid "We store data related to your learning activities and analysis:"
-msgstr ""
+msgstr "Mēs glabājam datus, kas saistīti ar jūsu mācību aktivitātēm un analīzi:"
 
 #. js-lingui-explicit-id
 msgid "Saved analysis examples and learning history"
-msgstr ""
+msgstr "Saglabātie analīzes piemēri un mācību vēsture"
 
 #. js-lingui-explicit-id
 msgid "Custom indicators and settings preferences"
-msgstr ""
+msgstr "Pielāgotie indikatori un iestatījumu preferences"
 
 #. js-lingui-explicit-id
 msgid "Alert configurations and notification preferences"
-msgstr ""
+msgstr "Brīdinājumu konfigurācijas un paziņojumu preferences"
 
 #. js-lingui-explicit-id
 msgid "Market watchlists and favorites"
-msgstr ""
+msgstr "Tirgus vērošanas saraksti un favorīti"
 
 #. js-lingui-explicit-id
 msgid "How We Use Your Information"
-msgstr ""
+msgstr "Kā mēs izmantojam jūsu informāciju"
 
 #. js-lingui-explicit-id
 msgid "Service Provision"
-msgstr ""
+msgstr "Pakalpojumu sniegšana"
 
 #. js-lingui-explicit-id
 msgid "We use your information to provide and maintain our AI-powered educational market analysis service:"
-msgstr ""
+msgstr "Mēs izmantojam jūsu informāciju, lai nodrošinātu un uzturētu mūsu AI darbināto izglītības tirgus analīzes pakalpojumu:"
 
 #. js-lingui-explicit-id
 msgid "Authenticate users and provide personalized access"
-msgstr ""
+msgstr "Autentificēt lietotājus un nodrošināt personalizētu piekļuvi"
 
 #. js-lingui-explicit-id
 msgid "Deliver real-time market analysis and educational insights"
-msgstr ""
+msgstr "Sniedziet reāllaika tirgus analīzi un izglītojošus ieskatus"
 
 #. js-lingui-explicit-id
 msgid "Send push notifications for market alerts"
-msgstr ""
+msgstr "Sūtīt push paziņojumus par tirgus brīdinājumiem"
 
 #. js-lingui-explicit-id
 msgid "Maintain your learning history and preferences"
-msgstr ""
+msgstr "Uzturēt jūsu mācību vēsturi un preferences"
 
 #. js-lingui-explicit-id
 msgid "Service Improvement"
-msgstr ""
+msgstr "Pakalpojumu uzlabošana"
 
 #. js-lingui-explicit-id
 msgid "Analytics data helps us enhance the user experience:"
-msgstr ""
+msgstr "Analītikas dati palīdz mums uzlabot lietotāja pieredzi:"
 
 #. js-lingui-explicit-id
 msgid "Identify and fix technical issues"
-msgstr ""
+msgstr "Identificēt un novērst tehniskās problēmas"
 
 #. js-lingui-explicit-id
 msgid "Optimize app performance and features"
-msgstr ""
+msgstr "Optimizēt lietotnes veiktspēju un funkcijas"
 
 #. js-lingui-explicit-id
 msgid "Understand user behavior to improve design"
-msgstr ""
+msgstr "Izprast lietotāju uzvedību, lai uzlabotu dizainu"
 
 #. js-lingui-explicit-id
 msgid "Develop new features based on usage patterns"
-msgstr ""
+msgstr "Izstrādāt jaunas funkcijas, pamatojoties uz lietošanas modeļiem"
 
 #. js-lingui-explicit-id
 msgid "Service Providers"
-msgstr ""
+msgstr "Pakalpojumu sniedzēji"
 
 #. js-lingui-explicit-id
 msgid "We integrate with trusted third-party services to deliver {NAME_APP}:"
-msgstr ""
+msgstr "Mēs integrējamies ar uzticamiem trešo pušu pakalpojumiem, lai nodrošinātu {NAME_APP}:"
 
 #. js-lingui-explicit-id
 msgid "Firebase Authentication for secure user login"
-msgstr ""
+msgstr "Firebase autentifikācija drošai lietotāja pieteikšanai"
 
 #. js-lingui-explicit-id
 msgid "Google Sign-In and Apple Sign-In for social authentication"
-msgstr ""
+msgstr "Google pieteikšanās un Apple pieteikšanās sociālai autentifikācijai"
 
 #. js-lingui-explicit-id
 msgid "Firebase Analytics for usage insights"
-msgstr ""
+msgstr "Firebase analītika lietošanas ieskatiem"
 
 #. js-lingui-explicit-id
 msgid "RevenueCat for subscription management and billing"
-msgstr ""
+msgstr "RevenueCat abonementu pārvaldībai un rēķinu izrakstīšanai"
 
 #. js-lingui-explicit-id
 msgid "MetaApi.cloud for real-time market data integration"
-msgstr ""
+msgstr "MetaApi.cloud reāllaika tirgus datu integrācijai"
 
 #. js-lingui-explicit-id
 msgid "Data Sharing"
-msgstr ""
+msgstr "Datu koplietošana"
 
 #. js-lingui-explicit-id
 msgid "We only share data with third parties when necessary:"
-msgstr ""
+msgstr "Mēs datus kopīgojam ar trešajām pusēm tikai tad, kad tas ir nepieciešams:"
 
 #. js-lingui-explicit-id
 msgid "Authentication providers for login verification"
-msgstr ""
+msgstr "Autentifikācijas pakalpojumu sniedzēji pieteikšanās pārbaudei"
 
 #. js-lingui-explicit-id
 msgid "App stores for subscription billing processing"
-msgstr ""
+msgstr "Lietotņu veikali abonementu rēķinu apstrādei"
 
 #. js-lingui-explicit-id
 msgid "Market data providers for real-time price information"
-msgstr ""
+msgstr "Tirgus datu sniedzēji reāllaika cenu informācijai"
 
 #. js-lingui-explicit-id
 msgid "Analytics services (anonymous, aggregated data only)"
-msgstr ""
+msgstr "Analītikas pakalpojumi (tikai anonīmi, apkopoti dati)"
 
 #. js-lingui-explicit-id
 msgid "Security Measures"
-msgstr ""
+msgstr "Drošības pasākumi"
 
 #. js-lingui-explicit-id
 msgid "We implement industry-standard security to protect your data:"
-msgstr ""
+msgstr "Mēs ieviešam nozares standarta drošību, lai aizsargātu jūsu datus:"
 
 #. js-lingui-explicit-id
 msgid "Encryption for data transmission"
-msgstr ""
+msgstr "Datu pārraides šifrēšana"
 
 #. js-lingui-explicit-id
 msgid "Secure Firebase backend with access controls"
-msgstr ""
+msgstr "Drošs Firebase aizmugures gals ar piekļuves kontroles mehānismiem"
 
 #. js-lingui-explicit-id
 msgid "Regular security reviews and updates"
-msgstr ""
+msgstr "Regulāras drošības pārbaudes un atjauninājumi"
 
 #. js-lingui-explicit-id
 msgid "Limited access to user data by authorized personnel only"
-msgstr ""
+msgstr "Ierobežota piekļuve lietotāju datiem tikai pilnvarotam personālam"
 
 #. js-lingui-explicit-id
 msgid "We retain data for a limited period where necessary for legal, security, billing, or operational purposes:"
-msgstr ""
+msgstr "Mēs datus saglabājam ierobežotu laiku, ja tas ir nepieciešams juridisku, drošības, rēķinu vai operacionālu mērķu nodrošināšanai:"
 
 #. js-lingui-explicit-id
 msgid "Account data: retained while your account is active"
-msgstr ""
+msgstr "Kontu dati: saglabāti, kamēr jūsu konts ir aktīvs"
 
 #. js-lingui-explicit-id
 msgid "Learning history: retained for a reasonable period after account deletion"
-msgstr ""
+msgstr "Mācību vēsture: saglabāta saprātīgu laiku pēc konta dzēšanas"
 
 #. js-lingui-explicit-id
 msgid "Analytics data: retained in anonymous, aggregated form"
-msgstr ""
+msgstr "Analītikas dati: saglabāti anonīmā, apkopotā formā"
 
 #. js-lingui-explicit-id
 msgid "Authentication tokens: automatically refreshed and expired"
-msgstr ""
+msgstr "Autentifikācijas žetoni: automātiski atjaunināti un beigušies"
 
 #. js-lingui-explicit-id
 msgid "Your Rights and Choices"
-msgstr ""
+msgstr "Jūsu tiesības un izvēles"
 
 #. js-lingui-explicit-id
 msgid "You have the following rights regarding your personal data:"
-msgstr ""
+msgstr "Jums ir šādas tiesības attiecībā uz jūsu personas datiem:"
 
 #. js-lingui-explicit-id
 msgid "Access: Request a copy of your personal data"
-msgstr ""
+msgstr "Piekļuve: Pieprasīt jūsu personas datu kopiju"
 
 #. js-lingui-explicit-id
 msgid "Correction: Update inaccurate or incomplete information"
-msgstr ""
+msgstr "Labojums: Atjaunināt neprecīzu vai nepilnīgu informāciju"
 
 #. js-lingui-explicit-id
 msgid "Deletion: Request removal of your account and data"
-msgstr ""
+msgstr "Dzēšana: Pieprasīt jūsu konta un datu noņemšanu"
 
 #. js-lingui-explicit-id
 msgid "Portability: Request your data in a readable format"
-msgstr ""
+msgstr "Pārvietojamība: Pieprasīt jūsu datus lasāmā formātā"
 
 #. js-lingui-explicit-id
 msgid "Opt-out: Disable analytics tracking in app settings"
-msgstr ""
+msgstr "Izvēle atteikties: Atspējot analītikas izsekošanu lietotnes iestatījumos"
 
 #. js-lingui-explicit-id
 msgid "Managing Your Data"
-msgstr ""
+msgstr "Jūsu datu pārvaldība"
 
 #. js-lingui-explicit-id
 msgid "You can manage your data through the app:"
-msgstr ""
+msgstr "Jūs varat pārvaldīt savus datus, izmantojot lietotni:"
 
 #. js-lingui-explicit-id
 msgid "Account settings to update profile information"
-msgstr ""
+msgstr "Kontu iestatījumi, lai atjauninātu profila informāciju"
 
 #. js-lingui-explicit-id
 msgid "Privacy settings to control data sharing preferences"
-msgstr ""
+msgstr "Privātuma iestatījumi, lai kontrolētu datu koplietošanas preferences"
 
 #. js-lingui-explicit-id
 msgid "Delete account option to remove all personal data"
-msgstr ""
+msgstr "Konta dzēšanas opcija, lai noņemtu visus personiskos datus"
 
 #. js-lingui-explicit-id
 msgid "Contact us to request data access or correction"
-msgstr ""
+msgstr "Sazinieties ar mums, lai pieprasītu piekļuvi datiem vai to labojumu"
 
 #. js-lingui-explicit-id
 msgid "Push Notifications"
-msgstr ""
+msgstr "Push paziņojumi"
 
 #. js-lingui-explicit-id
 msgid "Notification Types"
-msgstr ""
+msgstr "Paziņojumu veidi"
 
 #. js-lingui-explicit-id
 msgid "With your permission, we send push notifications for:"
-msgstr ""
+msgstr "Ar jūsu atļauju mēs sūtām push paziņojumus par:"
 
 #. js-lingui-explicit-id
 msgid "Learning alerts and market examples"
-msgstr ""
+msgstr "Mācību brīdinājumi un tirgus piemēri"
 
 #. js-lingui-explicit-id
 msgid "Price movement notifications"
-msgstr ""
+msgstr "Cenu svārstību paziņojumi"
 
 #. js-lingui-explicit-id
 msgid "AI analysis updates and insights"
-msgstr ""
+msgstr "AI analīzes atjauninājumi un ieskati"
 
 #. js-lingui-explicit-id
 msgid "Important service announcements"
-msgstr ""
+msgstr "Svarīgi pakalpojumu paziņojumi"
 
 #. js-lingui-explicit-id
 msgid "Notification Control"
-msgstr ""
+msgstr "Paziņojumu kontrole"
 
 #. js-lingui-explicit-id
 msgid "You have full control over notifications:"
-msgstr ""
+msgstr "Jums ir pilnīga kontrole pār paziņojumiem:"
 
 #. js-lingui-explicit-id
 msgid "Enable/disable notifications in app settings"
-msgstr ""
+msgstr "Iespējot/atspējot paziņojumus lietotnes iestatījumos"
 
 #. js-lingui-explicit-id
 msgid "Choose which alert types you receive"
-msgstr ""
+msgstr "Izvēlieties, kādus brīdinājumu veidus saņemt"
 
 #. js-lingui-explicit-id
 msgid "Manage notification frequency and timing"
-msgstr ""
+msgstr "Pārvaldīt paziņojumu biežumu un laiku"
 
 #. js-lingui-explicit-id
 msgid "Revoke notification permission at any time"
-msgstr ""
+msgstr "Atcelt paziņojumu atļauju jebkurā laikā"
 
 #. js-lingui-explicit-id
 msgid "Subscriptions and Payments"
-msgstr ""
+msgstr "Abonementi un maksājumi"
 
 #. js-lingui-explicit-id
 msgid "Billing Information"
-msgstr ""
+msgstr "Rēķinu informācija"
 
 #. js-lingui-explicit-id
 msgid "We use RevenueCat and app stores for subscription management:"
-msgstr ""
+msgstr "Mēs izmantojam RevenueCat un lietotņu veikalus abonementu pārvaldībai:"
 
 #. js-lingui-explicit-id
 msgid "Payment processing through App Store and Google Play"
-msgstr ""
+msgstr "Maksājumu apstrāde caur App Store un Google Play"
 
 #. js-lingui-explicit-id
 msgid "Subscription status and renewal management"
-msgstr ""
+msgstr "Abonementa statusa un atjaunošanas pārvaldība"
 
 #. js-lingui-explicit-id
 msgid "Receipt validation and fraud prevention"
-msgstr ""
+msgstr "Kvīšu validācija un krāpšanas novēršana"
 
 #. js-lingui-explicit-id
 msgid "No credit card information stored on our servers"
-msgstr ""
+msgstr "Mūsu serveros netiek glabāta kredītkaršu informācija"
 
 #. js-lingui-explicit-id
 msgid "Subscription Data"
-msgstr ""
+msgstr "Abonementa dati"
 
 #. js-lingui-explicit-id
 msgid "We store minimal subscription-related information:"
-msgstr ""
+msgstr "Mēs glabājam minimālu informāciju par abonementiem:"
 
 #. js-lingui-explicit-id
 msgid "Subscription status and plan type"
-msgstr ""
+msgstr "Abonementa statuss un plāna veids"
 
 #. js-lingui-explicit-id
 msgid "Purchase dates and renewal information"
-msgstr ""
+msgstr "Pirkšanas datumi un atjaunošanas informācija"
 
 #. js-lingui-explicit-id
 msgid "Feature access levels and permissions"
-msgstr ""
+msgstr "Funkciju piekļuves līmeņi un atļaujas"
 
 #. js-lingui-explicit-id
 msgid "Support and billing communication history"
-msgstr ""
+msgstr "Atbalsta un rēķinu saziņas vēsture"
 
 #. js-lingui-explicit-id
 msgid "Children's Privacy"
-msgstr ""
+msgstr "Bērnu privātums"
 
 #. js-lingui-explicit-id
 msgid "Age Restrictions"
-msgstr ""
+msgstr "Vecuma ierobežojumi"
 
 #. js-lingui-explicit-id
 msgid "Our service is not intended for individuals under 18:"
-msgstr ""
+msgstr "Mūsu pakalpojums nav paredzēts personām, kas jaunākas par 18 gadiem:"
 
 #. js-lingui-explicit-id
 msgid "We do not knowingly collect data from children"
-msgstr ""
+msgstr "Mēs apzināti neveicam datu vākšanu no bērniem"
 
 #. js-lingui-explicit-id
 msgid "The service is designed for adult users"
-msgstr ""
+msgstr "Pakalpojums ir paredzēts pieaugušajiem lietotājiem"
 
 #. js-lingui-explicit-id
 msgid "Parental controls are not implemented"
-msgstr ""
+msgstr "Vecāku kontrole nav ieviesta"
 
 #. js-lingui-explicit-id
 msgid "If we discover underage users, we delete their data"
-msgstr ""
+msgstr "Ja atklājam nepilngadīgus lietotājus, mēs dzēšam viņu datus"
 
 #. js-lingui-explicit-id
 msgid "Global Service"
-msgstr ""
+msgstr "Globālais pakalpojums"
 
 #. js-lingui-explicit-id
 msgid "As a global application, data may be processed internationally:"
-msgstr ""
+msgstr "Kā globālā lietotne, dati var tikt apstrādāti starptautiski:"
 
 #. js-lingui-explicit-id
 msgid "Firebase servers may be located outside your country"
-msgstr ""
+msgstr "Firebase serveri var atrasties ārpus jūsu valsts"
 
 #. js-lingui-explicit-id
 msgid "Data transfers include appropriate safeguards"
-msgstr ""
+msgstr "Datu pārsūtīšanā tiek nodrošināti atbilstoši drošības pasākumi"
 
 #. js-lingui-explicit-id
 msgid "We comply with applicable data protection laws"
-msgstr ""
+msgstr "Mēs ievērojam piemērojamos datu aizsardzības likumus"
 
 #. js-lingui-explicit-id
 msgid "Security measures protect international transfers"
-msgstr ""
+msgstr "Drošības pasākumi aizsargā starptautiskos pārsūtījumus"
 
 #. js-lingui-explicit-id
 msgid "Changes to This Privacy Policy"
-msgstr ""
+msgstr "Izmaiņas šajā Privātuma politikā"
 
 #. js-lingui-explicit-id
 msgid "We may update this Privacy Policy periodically. Changes will be posted on this page with a revised date. For significant changes, we will notify users through the app or email. Continued use of the service after changes constitutes acceptance of the updated policy."
-msgstr ""
+msgstr "Mēs varam periodiski atjaunināt šo Privātuma politiku. Izmaiņas tiks publicētas šajā lapā ar atjauninātu datumu. Svarīgu izmaiņu gadījumā mēs informēsim lietotājus caur lietotni vai e-pastu. Turpinot izmantot pakalpojumu pēc izmaiņām, tiek uzskatīts, ka piekrītat atjauninātajai politikai."
 
 #. js-lingui-explicit-id
 msgid "If you have questions about this Privacy Policy or need to exercise your rights, please contact us at {CONTACT_EMAIL}."
-msgstr ""
+msgstr "Ja jums ir jautājumi par šo Privātuma politiku vai nepieciešams izmantot savas tiesības, lūdzu, sazinieties ar mums, rakstot uz {CONTACT_EMAIL}."
 
 #. js-lingui-explicit-id
 msgid "Terms of Use — XauSync AI"
-msgstr ""
+msgstr "Lietošanas noteikumi — XauSync AI"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities, educational purpose, and service guidelines."
-msgstr ""
+msgstr "XauSync AI Lietošanas noteikumi - Izlasiet mūsu noteikumus par AI darbināmas izglītības tirgus analīzes lietotnes izmantošanu, ieskaitot lietotāja pienākumus, izglītības mērķi un pakalpojuma vadlīnijas."
 
 #. js-lingui-explicit-id
 msgid "Terms of Use, XauSync AI, legal terms, user agreement, market analysis terms, educational market analysis, service terms"
-msgstr ""
+msgstr "Lietošanas noteikumi, XauSync AI, juridiskie noteikumi, lietotāja līgums, tirgus analīzes noteikumi, izglītojoša tirgus analīze, pakalpojuma noteikumi"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities and service guidelines."
-msgstr ""
+msgstr "XauSync AI Lietošanas noteikumi - Izlasiet mūsu noteikumus par AI darbināmas izglītības tirgus analīzes lietotnes izmantošanu, ieskaitot lietotāja pienākumus un pakalpojuma vadlīnijas."
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Terms of Use"
-msgstr ""
+msgstr "XauSync AI Lietošanas noteikumi"
 
 #. js-lingui-explicit-id
 msgid "\"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). By accessing or using our AI-powered educational market analysis app and web services (\"Service\"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service."
-msgstr ""
+msgstr "Mobilās un tīmekļa lietotnes \"{NAME_APP}\" izstrādā un pārvalda Vadym Bezsmertnyi, individuālais komersants (Ukraina) (\"mēs\", \"mūsu\"). Piekļūstot vai izmantojot mūsu AI-darbināmo izglītojošo tirgus analīzes lietotni un tīmekļa pakalpojumus (\"Pakalpojums\"), jūs (Lietotājs) piekrītat ievērot un būt saistītiem ar šiem Lietošanas noteikumiem. Lūdzu, rūpīgi izlasiet šos noteikumus pirms pakalpojuma izmantošanas."
 
 #. js-lingui-explicit-id
 msgid "{NAME_APP} is an AI-powered mobile and web application designed to provide educational market analysis, learning insights, and information for studying XAU/USD (Gold/US Dollar) market behavior. The application offers real-time market data, AI-generated educational insights, technical indicators, pattern recognition, and analytical tools to help users understand market analysis concepts. The service is intended for informational and educational purposes only."
-msgstr ""
+msgstr "{NAME_APP} ir AI-darbināma mobilā un tīmekļa lietotne, kas paredzēta, lai nodrošinātu izglītojošu tirgus analīzi, mācību ieskatus un informāciju par XAU/USD (zelts/ASV dolārs) tirgus uzvedības studijām. Lietotne piedāvā reāllaika tirgus datus, AI ģenerētus izglītojošus ieskatus, tehniskos indikatorus, modeļu atpazīšanu un analītiskos rīkus, lai palīdzētu lietotājiem izprast tirgus analīzes jēdzienus. Pakalpojums ir paredzēts tikai informatīviem un izglītojošiem mērķiem."
 
 #. js-lingui-explicit-id
 msgid "2. Educational and Informational Use"
-msgstr ""
+msgstr "2. Izglītojoša un informatīva izmantošana"
 
 #. js-lingui-explicit-id
 msgid "{NAME_APP} provides market analysis and educational insights for learning purposes only. The application does not provide financial advice, investment recommendations, or guarantee profits, outcomes, or results. Users are responsible for their own decisions and should conduct their own research before making any financial decisions."
-msgstr ""
+msgstr "{NAME_APP} nodrošina tirgus analīzi un izglītojošus ieskatus tikai mācību nolūkos. Lietotne nesniedz finanšu padomus, ieguldījumu ieteikumus un negarantē peļņu, rezultātus vai iznākumus. Lietotāji ir atbildīgi par saviem lēmumiem un pirms jebkādu finanšu lēmumu pieņemšanas jāveic savi pētījumi."
 
 #. js-lingui-explicit-id
 msgid "3. No Financial Advice"
-msgstr ""
+msgstr "3. Nav finanšu padomu"
 
 #. js-lingui-explicit-id
 msgid "The content, educational insights, and analysis provided by {NAME_APP} do not constitute financial advice, investment advice, or trading recommendations. All information is for educational purposes only. Users should consult with qualified financial advisors before making any investment decisions."
-msgstr ""
+msgstr "{NAME_APP} sniegtie saturs, izglītojošie ieskati un analīze neveido finanšu padomus, ieguldījumu padomus vai tirdzniecības ieteikumus. Visa informācija ir tikai izglītojošiem mērķiem. Lietotājiem jāapspriežas ar kvalificētiem finanšu konsultantiem pirms jebkādu ieguldījumu lēmumu pieņemšanas."
 
 #. js-lingui-explicit-id
 msgid "4. Trading Risks"
-msgstr ""
+msgstr "4. Tirdzniecības riski"
 
 #. js-lingui-explicit-id
 msgid "Trading financial instruments, including XAU/USD, involves substantial risk and may not be suitable for all investors. Past performance does not guarantee future results. {NAME_APP} does not guarantee profits, outcomes, or results. Users should never trade with money they cannot afford to lose."
-msgstr ""
+msgstr "Tirdzniecība ar finanšu instrumentiem, tostarp XAU/USD, ietver būtisku risku un var nebūt piemērota visiem investoriem. Pagātnes rezultāti negarantē nākotnes rezultātus. {NAME_APP} negarantē peļņu, rezultātus vai iznākumus. Lietotājiem nekad nevajadzētu tirgoties ar naudu, kuru viņi nevar atļauties zaudēt."
 
 #. js-lingui-explicit-id
 msgid "5. AI Analysis Limitations"
-msgstr ""
+msgstr "5. AI analīzes ierobežojumi"
 
 #. js-lingui-explicit-id
 msgid "The AI-powered analysis and educational insights provided by {NAME_APP} are based on historical data and algorithms. Market conditions can change rapidly, and AI predictions may be incomplete, delayed, or inaccurate. Users should use AI insights as one tool among many in their learning process."
-msgstr ""
+msgstr "{NAME_APP} sniegtā AI-darbināmā analīze un izglītojošie ieskati balstās uz vēsturiskajiem datiem un algoritmiem. Tirgus apstākļi var mainīties strauji, un AI prognozes var būt nepilnīgas, aizkavētas vai neprecīzas. Lietotājiem vajadzētu izmantot AI ieskatus kā vienu no daudziem rīkiem savā mācību procesā."
 
 #. js-lingui-explicit-id
 msgid "6. Account Registration and Security"
-msgstr ""
+msgstr "6. Konta reģistrācija un drošība"
 
 #. js-lingui-explicit-id
 msgid "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use."
-msgstr ""
+msgstr "Lai piekļūtu {NAME_APP} funkcijām, lietotāji var izveidot kontu, izmantojot e-pasta/paroles, Google pieteikšanos vai Apple pieteikšanos. Lietotāji ir atbildīgi par savu konta akreditācijas datu konfidencialitātes uzturēšanu un par visām aktivitātēm, kas notiek viņu kontā. Lietotājiem jāsniedz precīza informācija reģistrācijas laikā un nekavējoties jāinformē mūs par jebkādu nesankcionētu izmantošanu."
 
 #. js-lingui-explicit-id
 msgid "7. Subscriptions and Payments"
-msgstr ""
+msgstr "7. Abonementi un maksājumi"
 
 #. js-lingui-explicit-id
 msgid "{NAME_APP} offers premium features through subscription plans. Subscriptions are managed through the App Store, Google Play Store, and RevenueCat. Payment processing is handled by the respective app stores. Subscription fees are non-refundable except as required by law or app store policies. Users may manage their subscriptions through their app store account settings."
-msgstr ""
+msgstr "{NAME_APP} piedāvā premium funkcijas caur abonementu plāniem. Abonementi tiek pārvaldīti caur App Store, Google Play Store un RevenueCat. Maksājumu apstrādi veic attiecīgie lietotņu veikali. Abonementa maksa nav atmaksājama, izņemot gadījumus, kad to prasa likums vai lietotņu veikalu politikas. Lietotāji var pārvaldīt savus abonementus caur savu lietotņu veikala konta iestatījumiem."
 
 #. js-lingui-explicit-id
 msgid "8. Acceptable Use"
-msgstr ""
+msgstr "8. Pieņemama lietošana"
 
 #. js-lingui-explicit-id
 msgid "Users agree to use {NAME_APP} in accordance with these terms and applicable laws. Prohibited activities include:"
-msgstr ""
+msgstr "Lietotāji piekrīt izmantot {NAME_APP} saskaņā ar šiem noteikumiem un piemērojamiem likumiem. Aizliegtās darbības ietver:"
 
 #. js-lingui-explicit-id
 msgid "Reverse-engineering or attempting to extract our source code"
-msgstr ""
+msgstr "Avota koda reversā inženierija vai mēģinājumi to iegūt"
 
 #. js-lingui-explicit-id
 msgid "Using automated bots or scripts to access the service"
-msgstr ""
+msgstr "Automatizētu botu vai skriptu izmantošana, lai piekļūtu pakalpojumam"
 
 #. js-lingui-explicit-id
 msgid "Sharing account credentials with third parties"
-msgstr ""
+msgstr "Konta akreditācijas datu koplietošana ar trešajām personām"
 
 #. js-lingui-explicit-id
 msgid "Using the service for unlawful activities or market manipulation"
-msgstr ""
+msgstr "Pakalpojuma izmantošana nelikumīgām darbībām vai tirgus manipulācijai"
 
 #. js-lingui-explicit-id
 msgid "Distributing proprietary information without authorization"
-msgstr ""
+msgstr "Konfidenciālas informācijas izplatīšana bez atļaujas"
 
 #. js-lingui-explicit-id
 msgid "Interfering with the service's operation or security"
-msgstr ""
+msgstr "Iiejaukšanās pakalpojuma darbībā vai drošībā"
 
 #. js-lingui-explicit-id
 msgid "9. Intellectual Property"
-msgstr ""
+msgstr "9. Intelektuālā īpašuma tiesības"
 
 #. js-lingui-explicit-id
 msgid "All content, features, and functionality of {NAME_APP} are owned by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) and protected by copyright, trademark, and other intellectual property laws. Users may not copy, modify, distribute, or create derivative works without our explicit written permission."
-msgstr ""
+msgstr "Visa {NAME_APP} satura, funkciju un funkcionalitātes īpašnieks ir Vadym Bezsmertnyi, individuālais komersants (Ukraina), un tās ir aizsargātas ar autortiesību, preču zīmju un citiem intelektuālā īpašuma likumiem. Lietotāji nedrīkst kopēt, modificēt, izplatīt vai radīt atvasinātus darbus bez mūsu skaidras rakstiskas atļaujas."
 
 #. js-lingui-explicit-id
 msgid "10. Market Data and Third-Party Content"
-msgstr ""
+msgstr "10. Tirgus dati un trešo pušu saturs"
 
 #. js-lingui-explicit-id
 msgid "Market data provided through {NAME_APP} is sourced from third-party providers and may be delayed or contain errors. We do not guarantee the accuracy, completeness, or timeliness of market data. Users should verify critical market information from multiple sources before making decisions."
-msgstr ""
+msgstr "Tirgus dati, kas tiek sniegti caur {NAME_APP}, tiek iegūti no trešo pušu pakalpojumu sniedzējiem un var būt aizkavēti vai saturēt kļūdas. Mēs negarantējam tirgus datu precizitāti, pilnīgumu vai savlaicīgumu. Lietotājiem jāapstiprina svarīga tirgus informācija no vairākiem avotiem pirms lēmumu pieņemšanas."
 
 #. js-lingui-explicit-id
 msgid "11. Service Availability"
-msgstr ""
+msgstr "11. Pakalpojuma pieejamība"
 
 #. js-lingui-explicit-id
 msgid "We strive to provide reliable service but cannot guarantee uninterrupted access. {NAME_APP} may be temporarily unavailable for maintenance, technical issues, or other reasons beyond our control. We are not liable for losses resulting from service interruptions."
-msgstr ""
+msgstr "Mēs cenšamies nodrošināt uzticamu pakalpojumu, taču nevaram garantēt nepārtrauktu piekļuvi. {NAME_APP} var būt pagaidu nepieejams uzturēšanas, tehnisku problēmu vai citu mūsu kontrolei neatkarīgu iemeslu dēļ. Mēs neesam atbildīgi par zaudējumiem, kas rodas pakalpojuma pārtraukumu dēļ."
 
 #. js-lingui-explicit-id
 msgid "12. Limitation of Liability"
-msgstr ""
+msgstr "12. Atbildības ierobežojums"
 
 #. js-lingui-explicit-id
 msgid "To the maximum extent permitted by law, {NAME_APP} and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to financial losses, lost profits, data loss, or other damages, arising from your use of our services or inability to use our services."
-msgstr ""
+msgstr "Līdz maksimālajam apmēram, ko pieļauj likums, {NAME_APP} un tā izstrādātāji nav atbildīgi par jebkādiem netiešiem, nejaušiem, īpašiem, sekām vai soda zaudējumiem, tostarp, bet ne tikai, finanšu zaudējumiem, peļņas zudumu, datu zudumu vai citiem zaudējumiem, kas rodas no jūsu pakalpojumu izmantošanas vai nespējas izmantot mūsu pakalpojumus."
 
 #. js-lingui-explicit-id
 msgid "13. Indemnification"
-msgstr ""
+msgstr "13. Atlīdzība"
 
 #. js-lingui-explicit-id
 msgid "Users agree to indemnify and hold harmless {NAME_APP} and its developers from any claims, damages, or expenses arising from their use of the service, violation of these terms, or infringement of third-party rights."
-msgstr ""
+msgstr "Lietotāji piekrīt atlīdzināt un aizsargāt {NAME_APP} un tā izstrādātājus no jebkādiem prasījumiem, zaudējumiem vai izdevumiem, kas rodas no viņu pakalpojumu izmantošanas, šo noteikumu pārkāpuma vai trešo pušu tiesību pārkāpuma."
 
 #. js-lingui-explicit-id
 msgid "14. Account Suspension and Termination"
-msgstr ""
+msgstr "14. Konta apturēšana un izbeigšana"
 
 #. js-lingui-explicit-id
 msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users may delete their accounts at any time through the app settings."
-msgstr ""
+msgstr "Mēs paturam tiesības apturēt vai izbeigt lietotāju kontus par šo noteikumu pārkāpumiem, krāpniecisku darbību vai jebkādu iemeslu, kas nepieciešams, lai aizsargātu mūsu pakalpojumu vai citus lietotājus. Izbeigtie lietotāji zaudē piekļuvi visām funkcijām un datiem. Lietotāji var dzēst savus kontus jebkurā laikā, izmantojot lietotnes iestatījumus."
 
 #. js-lingui-explicit-id
 msgid "15. Privacy and Data Protection"
-msgstr ""
+msgstr "15. Privātums un datu aizsardzība"
 
 #. js-lingui-explicit-id
 msgid "Your privacy is important to us. Our collection, use, and protection of your personal information is described in our Privacy Policy, which is incorporated into these terms by reference. By using {NAME_APP}, you consent to our data practices as described in the Privacy Policy."
-msgstr ""
+msgstr "Jūsu privātums ir svarīgs mums. Mūsu personas datu vākšana, izmantošana un aizsardzība ir aprakstīta mūsu Privātuma politikā, kas ir iekļauta šajos noteikumos ar atsauci. Izmantojot {NAME_APP}, jūs piekrītat mūsu datu praksēm, kā aprakstīts Privātuma politikā."
 
 #. js-lingui-explicit-id
 msgid "16. Dispute Resolution"
-msgstr ""
+msgstr "16. Strīdu izšķiršana"
 
 #. js-lingui-explicit-id
 msgid "Any disputes arising from these terms or your use of {NAME_APP} shall be governed by applicable laws. We encourage users to contact us directly at {CONTACT_EMAIL} to resolve any issues informally before pursuing formal dispute resolution."
-msgstr ""
+msgstr "Jebkuri strīdi, kas rodas no šo noteikumu vai jūsu {NAME_APP} izmantošanas, tiks regulēti saskaņā ar piemērojamiem likumiem. Mēs iesakām lietotājiem tieši sazināties ar mums pa {CONTACT_EMAIL}, lai neformāli atrisinātu jebkādas problēmas pirms formālas strīdu izšķiršanas."
 
 #. js-lingui-explicit-id
 msgid "17. Changes to Terms"
-msgstr ""
+msgstr "17. Noteikumu izmaiņas"
 
 #. js-lingui-explicit-id
 msgid "We may update these Terms of Use periodically. Changes will be posted on this page with a revised date. For significant changes, we will notify users through the app or email. Continued use of the service after changes constitutes acceptance of the updated terms."
-msgstr ""
+msgstr "Mēs varam periodiski atjaunināt šos Lietošanas noteikumus. Izmaiņas tiks publicētas šajā lapā ar atjaunināto datumu. Par būtiskām izmaiņām mēs informēsim lietotājus caur lietotni vai e-pastu. Turpinot pakalpojuma izmantošanu pēc izmaiņām, tiek uzskatīts, ka piekrītat atjauninātajiem noteikumiem."
 
 #. js-lingui-explicit-id
 msgid "18. Contact Information"
-msgstr ""
+msgstr "18. Kontaktinformācija"
 
 #. js-lingui-explicit-id
 msgid "If you have questions about these Terms of Use, please contact us at {CONTACT_EMAIL}."
-msgstr ""
+msgstr "Ja jums ir jautājumi par šiem Lietošanas noteikumiem, lūdzu, sazinieties ar mums pa {CONTACT_EMAIL}."
 
 #. js-lingui-explicit-id
 msgid "Home"
