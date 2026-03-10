@@ -54,7 +54,7 @@ const TermsOfUse: FunctionComponent = () => {
         <meta
           name="description"
           content={i18n._(
-            "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis application, including user responsibilities, educational purpose, and service guidelines."
+            "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities, educational purpose, and service guidelines."
           )}
         />
         <meta
@@ -70,7 +70,7 @@ const TermsOfUse: FunctionComponent = () => {
         <meta
           property="og:description"
           content={i18n._(
-            "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis application, including user responsibilities and service guidelines."
+            "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities and service guidelines."
           )}
         />
         <meta property="og:image" content="/og-image.png" />
@@ -90,7 +90,7 @@ const TermsOfUse: FunctionComponent = () => {
         <meta
           name="twitter:description"
           content={i18n._(
-            "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis application, including user responsibilities and service guidelines."
+            "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities and service guidelines."
           )}
         />
         <meta name="twitter:image" content="/twitter-image.png" />
@@ -98,7 +98,7 @@ const TermsOfUse: FunctionComponent = () => {
           name="twitter:image:alt"
           content={i18n._("XauSync AI Terms of Use")}
         />
-        <link rel="canonical" href="https://xausync.ai/term-of-use" />
+        <link rel="canonical" href="https://xausync.ai/terms-of-use" />
         <meta
           name="author"
           content="Vadym Bezsmertnyi, Sole Proprietor (Ukraine)"
@@ -113,7 +113,7 @@ const TermsOfUse: FunctionComponent = () => {
           </p>
           <p className={styles.text}>
             {i18n._(
-              `"{NAME_APP}" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) ("us", "we", or "our"). By accessing or using our AI-powered educational market analysis application and web services ("Service"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service.`,
+              `"{NAME_APP}" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) ("us", "we", or "our"). By accessing or using our AI-powered educational market analysis app and web services ("Service"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service.`,
               { NAME_APP }
             )}
           </p>
@@ -122,7 +122,7 @@ const TermsOfUse: FunctionComponent = () => {
           {line(
             i18n._("1. Purpose of the Application"),
             i18n._(
-              `{NAME_APP} is an AI-powered mobile and web application designed to provide educational market analysis, learning insights, and educational information for studying XAU/USD (Gold/US Dollar) market behavior. The application offers real-time market data, AI-generated educational insights, technical indicators, pattern recognition, and analytical tools to help users learn market analysis concepts. The service is intended for informational and educational purposes only.`,
+              `{NAME_APP} is an AI-powered mobile and web application designed to provide educational market analysis, learning insights, and information for studying XAU/USD (Gold/US Dollar) market behavior. The application offers real-time market data, AI-generated educational insights, technical indicators, pattern recognition, and analytical tools to help users understand market analysis concepts. The service is intended for informational and educational purposes only.`,
               { NAME_APP }
             )
           )}
@@ -131,7 +131,7 @@ const TermsOfUse: FunctionComponent = () => {
           {line(
             i18n._("2. Educational and Informational Use"),
             i18n._(
-              `{NAME_APP} provides market analysis and educational insights for learning purposes only. The application does not provide financial advice, investment recommendations, or guarantee market analysis success. Users are responsible for their own decisions and should conduct their own research before making any financial decisions.`,
+              `{NAME_APP} provides market analysis and educational insights for learning purposes only. The application does not provide financial advice, investment recommendations, or guarantee profits, outcomes, or results. Users are responsible for their own decisions and should conduct their own research before making any financial decisions.`,
               { NAME_APP }
             )
           )}
@@ -149,7 +149,7 @@ const TermsOfUse: FunctionComponent = () => {
           {line(
             i18n._("4. Trading Risks"),
             i18n._(
-              "Trading financial instruments, including XAU/USD, involves substantial risk and may not be suitable for all investors. Past performance does not guarantee future results. {NAME_APP} does not guarantee profits or educational success. Users should never trade with money they cannot afford to lose.",
+              "Trading financial instruments, including XAU/USD, involves substantial risk and may not be suitable for all investors. Past performance does not guarantee future results. {NAME_APP} does not guarantee profits, outcomes, or results. Users should never trade with money they cannot afford to lose.",
               { NAME_APP }
             )
           )}
@@ -167,7 +167,7 @@ const TermsOfUse: FunctionComponent = () => {
           {line(
             i18n._("6. Account Registration and Security"),
             i18n._(
-              "To access {NAME_APP} features, users must create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users must provide accurate information during registration and notify us immediately of any unauthorized use.",
+              "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use.",
               { NAME_APP }
             )
           )}
@@ -195,7 +195,7 @@ const TermsOfUse: FunctionComponent = () => {
               i18n._("Using automated bots or scripts to access the service"),
               i18n._("Sharing account credentials with third parties"),
               i18n._(
-                "Using the service for illegal activities or market manipulation"
+                "Using the service for unlawful activities or market manipulation"
               ),
               i18n._(
                 "Distributing proprietary information without authorization"
@@ -235,7 +235,7 @@ const TermsOfUse: FunctionComponent = () => {
           {line(
             i18n._("12. Limitation of Liability"),
             i18n._(
-              "To the maximum extent permitted by law, {NAME_APP} and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to financial losses, data loss, or other damages, arising from your use of our services.",
+              "To the maximum extent permitted by law, {NAME_APP} and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to financial losses, lost profits, data loss, or other damages, arising from your use of our services or inability to use our services.",
               { NAME_APP }
             )
           )}
