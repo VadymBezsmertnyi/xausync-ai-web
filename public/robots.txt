@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+
+Sitemap: https://xausync.ai/sitemap.xml
+
+# Allow search engines to crawl the main site
+# Disallow API routes and internal Next.js files
+# Include sitemap for better indexing
