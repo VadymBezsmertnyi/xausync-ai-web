@@ -40,15 +40,19 @@
 }
 
 .footerLink {
-  color: var(--text-gray);
+  color: var(--gold);
   text-decoration: none;
   font-size: 0.9rem;
   line-height: 1.5;
-  transition: color 0.2s ease;
+  transition:
+    color 0.2s ease,
+    transform 0.2s ease;
+  display: inline-block;
 }
 
 .footerLink:hover {
-  color: var(--gold);
+  color: var(--white);
+  transform: translateY(-1px);
 }
 
 .footerBottom {

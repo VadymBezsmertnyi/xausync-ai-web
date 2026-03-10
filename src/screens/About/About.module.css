@@ -37,10 +37,10 @@
 
 .introCard {
   margin-bottom: 60px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
   border-radius: 16px;
-  background: var(--dark);
-  border: 1.5px solid var(--gold-border);
+  background: rgba(20, 20, 30, 0.9);
+  border: 1px solid rgba(244, 197, 66, 0.2);
   transition:
     transform 0.3s ease,
     box-shadow 0.3s ease;
@@ -48,7 +48,7 @@
 
 .introCard:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 12px rgba(244, 197, 66, 0.2);
+  box-shadow: 0 10px 30px rgba(244, 197, 66, 0.15);
 }
 
 .introText {
@@ -77,18 +77,18 @@
 
 .featureCard {
   height: 100%;
-  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
   border-radius: 12px;
   transition:
     transform 0.3s ease,
     box-shadow 0.3s ease;
-  border: 1.5px solid var(--gold-border);
-  background: var(--background);
+  border: 1px solid rgba(244, 197, 66, 0.2);
+  background: rgba(20, 20, 30, 0.9);
 }
 
 .featureCard:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 6px 20px rgba(244, 197, 66, 0.3);
+  transform: translateY(-3px);
+  box-shadow: 0 10px 30px rgba(244, 197, 66, 0.15);
   border-color: var(--gold);
 }
 
@@ -115,20 +115,19 @@
 }
 
 .techCard {
-  background: var(--background);
+  background: rgba(20, 20, 30, 0.9);
   border-radius: 16px;
-  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
-  border: 1.5px solid var(--input-border);
-  height: 100%;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(244, 197, 66, 0.2);
   transition:
     transform 0.3s ease,
     box-shadow 0.3s ease;
 }
 
 .techCard:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 6px 20px rgba(244, 197, 66, 0.2);
-  border-color: var(--gold-border);
+  transform: translateY(-3px);
+  box-shadow: 0 10px 30px rgba(244, 197, 66, 0.15);
+  border-color: var(--gold);
 }
 
 .techTitle {

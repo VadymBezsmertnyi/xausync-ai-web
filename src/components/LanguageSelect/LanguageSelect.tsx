@@ -68,13 +68,28 @@ const LanguageSelect: FunctionComponent = () => {
                 onClick={() => {
                   onSelectLanguage(languageItem.key);
                 }}
-                sx={styles.buttonModal}
+                sx={{
+                  ...styles.buttonModal,
+                  ...(language === languageItem.key && {
+                    "&.selected": {
+                      backgroundColor: "rgba(244, 197, 66, 0.15)",
+                    },
+                  }),
+                }}
               >
                 <Box sx={styles.titlesButtonModal}>
                   {getUnicodeFlagIcon(languageItem.flag)}
                   <Typography>{languageItem.title}</Typography>
                 </Box>
-                <Checkbox checked={language === languageItem.key} />
+                <Checkbox
+                  checked={language === languageItem.key}
+                  sx={{
+                    color: "var(--gold)",
+                    "&.Mui-checked": {
+                      color: "var(--gold)",
+                    },
+                  }}
+                />
               </Button>
             ))}
           </Box>
