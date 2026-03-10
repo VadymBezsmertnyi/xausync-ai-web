@@ -37,7 +37,7 @@ const Disclaimer: FunctionComponent = () => {
         </p>
         <p className={styles.text}>
           {i18n._(
-            `The "{NAME_APP}" mobile and web applications are developed and operated by Vadym Bezsmertnyi, FOP ("us", "we", or "our"). This disclaimer contains important information about the risks associated with using our trading analysis and AI-powered services.`,
+            `The "{NAME_APP}" mobile and web applications are developed and operated by fop_vadym_bezsmertnyi ("us", "we", or "our"). This disclaimer contains important information about the risks associated with using our trading analysis and AI-powered services.`,
             { NAME_APP }
           )}
         </p>

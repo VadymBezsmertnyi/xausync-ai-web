@@ -51,12 +51,11 @@ const TermsOfUse: FunctionComponent = () => {
       <h1 className={styles.mainTitle}>{i18n._("Terms of Use")}</h1>
       <div>
         <p className={styles.text}>
-          <strong>{i18n._("Last updated:")}</strong>{" "}
-          {i18n._("February 6, 2026")}
+          <strong>{i18n._("Last updated:")}</strong> {i18n._("March 10, 2026")}
         </p>
         <p className={styles.text}>
           {i18n._(
-            `"{NAME_APP}" mobile and web applications are developed and operated by Vadym Bezsmertnyi, FOP ("us", "we", or "our"). By accessing or using our mobile application and web services ("Service"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service.`,
+            `"{NAME_APP}" mobile and web applications are developed and operated by fop_vadym_bezsmertnyi ("us", "we", or "our"). By accessing or using our AI-powered trading analysis application and web services ("Service"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service.`,
             { NAME_APP }
           )}
         </p>
@@ -65,180 +64,175 @@ const TermsOfUse: FunctionComponent = () => {
         {line(
           i18n._("1. Purpose of the Application"),
           i18n._(
-            `{NAME_APP} is a comprehensive mobile and web application designed to help beauty professionals (stylists, makeup artists, nail technicians, and other beauty specialists) manage their business operations effectively. The application allows users to create detailed client profiles, manage appointments, synchronize schedules with device calendars, send SMS reminders to clients, convert voice notes to text for appointment documentation, store photos from appointments, and receive notifications about upcoming appointments.`,
+            `{NAME_APP} is an AI-powered mobile and web application designed to provide trading analysis, market insights, and educational information for XAU/USD (Gold/US Dollar) trading. The application offers real-time market data, AI-generated trading signals, technical indicators, pattern recognition, and analytical tools to assist traders in making informed decisions. The service is intended for informational and educational purposes only.`,
             { NAME_APP }
           )
         )}
       </div>
       <div>
         {line(
-          i18n._(`2. Permissions and Usage Restrictions`),
+          i18n._("2. Educational and Informational Use"),
           i18n._(
-            `By using {NAME_APP}, you agree to utilize the app solely for its intended purposes. Any misuse of the app, such as reverse-engineering, unauthorized modifications, or illegal activities, is strictly prohibited. Users are also responsible for maintaining the confidentiality of their account credentials and ensuring that the app is used in compliance with local laws and regulations.`,
+            `{NAME_APP} provides market analysis and trading insights for educational purposes only. The application does not provide financial advice, investment recommendations, or guarantee trading success. Users are responsible for their own trading decisions and should conduct their own research before making any financial decisions.`,
             { NAME_APP }
           )
         )}
       </div>
       <div>
         {line(
-          i18n._(`3. Subscriptions and Payments`),
+          i18n._("3. No Financial Advice"),
           i18n._(
-            `{NAME_APP} offers a free tier with basic features, and two premium subscription plans (Pro and Premium) for advanced functionality. All subscriptions are billed monthly. Payments are processed through the Apple App Store or Google Play, according to their respective policies. Apple and Google may adjust subscription prices depending on your region. Subscriptions renew automatically unless canceled at least 24 hours before the end of the billing period. All payments are non-refundable unless required by applicable law.`,
-            {
-              NAME_APP,
-            }
-          )
-        )}
-      </div>
-      <div>
-        {line(
-          i18n._(`4. Subscription Information`),
-          i18n._(`The following subscription plans are available:`)
-        )}
-      </div>
-      <div>
-        {line(
-          i18n._("Free Plan"),
-          i18n._("Price: Free"),
-          [
-            i18n._("Up to 20 clients"),
-            i18n._("3 appointments per client"),
-            i18n._("1 photo per appointment"),
-            i18n._("1 SMS per month"),
-            i18n._("3 minutes speech-to-text per month"),
-            i18n._("Basic calendar sync"),
-          ],
-          false,
-          true
-        )}
-      </div>
-      <div>
-        {line(
-          i18n._("Pro Plan"),
-          i18n._("Price: $4.99 per month"),
-          [
-            i18n._("Up to 100 clients"),
-            i18n._("10 appointments per client"),
-            i18n._("3 photos per appointment"),
-            i18n._("20 SMS per month"),
-            i18n._("60 minutes speech-to-text per month"),
-            i18n._("Export clients (CSV)"),
-            i18n._("Advanced calendar sync"),
-          ],
-          true,
-          false
-        )}
-      </div>
-      <div>
-        {line(
-          i18n._("Premium Plan"),
-          i18n._("Price: $9.99 per month"),
-          [
-            i18n._("Unlimited clients"),
-            i18n._("Unlimited appointments per client"),
-            i18n._("20 photos per appointment"),
-            i18n._("50 SMS per month"),
-            i18n._("300 minutes speech-to-text per month"),
-            i18n._("Export/import clients (CSV)"),
-            i18n._("Google Calendar integration"),
-            i18n._("Full calendar sync and analytics"),
-            i18n._("Priority support"),
-          ],
-          true,
-          false
-        )}
-      </div>
-      <div>
-        {line(
-          i18n._(`5. Notifications and Reminders`),
-          i18n._(
-            `The application sends push notifications and SMS reminders to inform users about upcoming appointments and related updates. By enabling push notifications and SMS features, users consent to receiving these alerts. It is the user's responsibility to ensure notifications are active on their device and to provide accurate phone numbers for SMS reminders to avoid missing important updates.`
-          )
-        )}
-      </div>
-      <div>
-        {line(
-          i18n._(`6. Data Management and Privacy`),
-          i18n._(
-            `The application provides tools for managing and storing client data, including voice recordings and SMS data. Users are responsible for entering accurate information, maintaining backups of critical data when necessary, and ensuring they have proper consent from clients for data collection. {NAME_APP} is not liable for any data loss due to user error, device failure, unauthorized access, or third-party service failures. Users must comply with applicable data protection laws and regulations.`,
+            "The content, signals, and analysis provided by {NAME_APP} do not constitute financial advice, investment advice, or trading recommendations. All information is for educational purposes only. Users should consult with qualified financial advisors before making any investment decisions.",
             { NAME_APP }
           )
         )}
       </div>
       <div>
         {line(
-          i18n._(`7. Service Limitations and Disclaimers`),
+          i18n._("4. Trading Risks"),
           i18n._(
-            `While we strive to provide reliable service, we cannot guarantee uninterrupted access or complete data security. We are not responsible for temporary service interruptions due to maintenance or technical issues, data loss caused by user actions or device malfunctions, third-party service failures (SMS providers, payment processors, etc.), compliance issues arising from user misuse of the service, or financial losses resulting from service interruptions or data issues.`
-          )
-        )}
-      </div>
-      <div>
-        {line(
-          i18n._(`8. Changes to Terms`),
-          i18n._(
-            `These Terms of Use may be updated periodically. Any changes will be published within the application, and the effective date will be revised accordingly. Continued use of the service after updates signifies acceptance of the new terms.`
-          )
-        )}
-      </div>
-      <div>
-        {line(
-          i18n._(`9. Limitation of Liability`),
-          i18n._(
-            `{NAME_APP} and its developers are not responsible for any damages resulting from the use or inability to use the service. This includes issues caused by errors, interruptions, third-party integrations, or unauthorized access to data. We are not responsible for illegal use of the application by users.`,
+            "Trading financial instruments, including XAU/USD, involves substantial risk and may not be suitable for all investors. Past performance does not guarantee future results. {NAME_APP} does not guarantee profits or trading success. Users should never trade with money they cannot afford to lose.",
             { NAME_APP }
           )
         )}
       </div>
       <div>
         {line(
-          i18n._(`10. Prohibited Activities and Content Monitoring`),
+          i18n._("5. AI Analysis Limitations"),
           i18n._(
-            `We may monitor usage patterns to ensure compliance with these terms. In case of detecting misuse of the service, violations of applicable laws, or activities that compromise the integrity of the platform, we may suspend or terminate user accounts without refund. Users are responsible for ensuring that their use of the service complies with all applicable laws and regulations.`
-          )
-        )}
-      </div>
-      <div>
-        {line(
-          i18n._(`11. Support`),
-          i18n._(
-            `For assistance with technical issues, subscription questions, or other inquiries, users can contact us at {CONTACT_EMAIL}. Our team strives to address support requests promptly, typically within 48 hours.`,
-            { CONTACT_EMAIL }
-          )
-        )}
-      </div>
-      <div>
-        {line(
-          i18n._(`12. Account Deletion`),
-          i18n._(
-            `If you wish to delete your account, you can do so through the app's settings or by submitting a request via the developer's feedback form at the following link: https://vb-dev.org.ua/#feedback.`
-          )
-        )}
-      </div>
-      <div>
-        {line(
-          i18n._(`13. Apple's Standard Terms`),
-          i18n._(
-            `In addition to these Terms of Use, {NAME_APP} operates under the Apple Standard End User License Agreement (EULA), which can be found at the following link:`,
+            "The AI-powered analysis and signals provided by {NAME_APP} are based on historical data and algorithms. Market conditions can change rapidly, and AI predictions may be incomplete, delayed, or inaccurate. Users should use AI insights as one tool among many in their trading decision-making process.",
             { NAME_APP }
           )
         )}
-        <a
-          href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className={styles.link}
-        >
-          Apple Standard EULA
-        </a>
       </div>
       <div>
         {line(
+          i18n._("6. Account Registration and Security"),
           i18n._(
-            `By using {NAME_APP}, you confirm that you have read and agreed to these Terms of Use.`,
+            "To access {NAME_APP} features, users must create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users must provide accurate information during registration and notify us immediately of any unauthorized use.",
+            { NAME_APP }
+          )
+        )}
+      </div>
+      <div>
+        {line(
+          i18n._("7. Subscriptions and Payments"),
+          i18n._(
+            "{NAME_APP} offers premium features through subscription plans. Subscriptions are managed through the App Store, Google Play Store, and RevenueCat. Payment processing is handled by the respective app stores. Subscription fees are non-refundable except as required by law or app store policies. Users may manage their subscriptions through their app store account settings.",
+            { NAME_APP }
+          )
+        )}
+      </div>
+      <div>
+        {line(
+          i18n._("8. Acceptable Use"),
+          i18n._(
+            "Users agree to use {NAME_APP} in accordance with these terms and applicable laws. Prohibited activities include:",
             { NAME_APP }
           ),
-          ""
+          [
+            i18n._(
+              "Reverse-engineering or attempting to extract our source code"
+            ),
+            i18n._("Using automated bots or scripts to access the service"),
+            i18n._("Sharing account credentials with third parties"),
+            i18n._(
+              "Using the service for illegal activities or market manipulation"
+            ),
+            i18n._(
+              "Distributing proprietary information without authorization"
+            ),
+            i18n._("Interfering with the service's operation or security"),
+          ]
+        )}
+      </div>
+      <div>
+        {line(
+          i18n._("9. Intellectual Property"),
+          i18n._(
+            "All content, features, and functionality of {NAME_APP} are owned by fop_vadym_bezsmertnyi and protected by copyright, trademark, and other intellectual property laws. Users may not copy, modify, distribute, or create derivative works without our explicit written permission.",
+            { NAME_APP }
+          )
+        )}
+      </div>
+      <div>
+        {line(
+          i18n._("10. Market Data and Third-Party Content"),
+          i18n._(
+            "Market data provided through {NAME_APP} is sourced from third-party providers and may be delayed or contain errors. We do not guarantee the accuracy, completeness, or timeliness of market data. Users should verify critical market information from multiple sources before making trading decisions.",
+            { NAME_APP }
+          )
+        )}
+      </div>
+      <div>
+        {line(
+          i18n._("11. Service Availability"),
+          i18n._(
+            "We strive to provide reliable service but cannot guarantee uninterrupted access. {NAME_APP} may be temporarily unavailable for maintenance, technical issues, or other reasons beyond our control. We are not liable for losses resulting from service interruptions.",
+            { NAME_APP }
+          )
+        )}
+      </div>
+      <div>
+        {line(
+          i18n._("12. Limitation of Liability"),
+          i18n._(
+            "To the maximum extent permitted by law, {NAME_APP} and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to trading losses, data loss, or financial damages, arising from your use of our services.",
+            { NAME_APP }
+          )
+        )}
+      </div>
+      <div>
+        {line(
+          i18n._("13. Indemnification"),
+          i18n._(
+            "Users agree to indemnify and hold harmless {NAME_APP} and its developers from any claims, damages, or expenses arising from their use of the service, violation of these terms, or infringement of third-party rights.",
+            { NAME_APP }
+          )
+        )}
+      </div>
+      <div>
+        {line(
+          i18n._("14. Account Suspension and Termination"),
+          i18n._(
+            "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users may delete their accounts at any time through the app settings.",
+            { NAME_APP }
+          )
+        )}
+      </div>
+      <div>
+        {line(
+          i18n._("15. Privacy and Data Protection"),
+          i18n._(
+            "Your privacy is important to us. Our collection, use, and protection of your personal information is described in our Privacy Policy, which is incorporated into these terms by reference. By using {NAME_APP}, you consent to our data practices as described in the Privacy Policy.",
+            { NAME_APP }
+          )
+        )}
+      </div>
+      <div>
+        {line(
+          i18n._("16. Dispute Resolution"),
+          i18n._(
+            "Any disputes arising from these terms or your use of {NAME_APP} shall be governed by applicable laws. We encourage users to contact us directly at {CONTACT_EMAIL} to resolve any issues informally before pursuing formal dispute resolution.",
+            { NAME_APP, CONTACT_EMAIL }
+          )
+        )}
+      </div>
+      <div>
+        {line(
+          i18n._("17. Changes to Terms"),
+          i18n._(
+            "We may update these Terms of Use periodically. Changes will be posted on this page with a revised date. For significant changes, we will notify users through the app or email. Continued use of the service after changes constitutes acceptance of the updated terms."
+          )
+        )}
+      </div>
+      <div>
+        {line(
+          i18n._("18. Contact Information"),
+          i18n._(
+            "If you have questions about these Terms of Use, please contact us at {CONTACT_EMAIL}.",
+            { CONTACT_EMAIL }
+          )
         )}
       </div>
     </div>
