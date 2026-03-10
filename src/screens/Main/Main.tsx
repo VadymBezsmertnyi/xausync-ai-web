@@ -97,27 +97,21 @@ export default function Main() {
   return (
     <>
       <Head>
-        <title>
-          {i18n._("{NAME_APP} – AI-Powered XAU/USD Trading Analysis", {
-            NAME_APP,
-          })}
-        </title>
+        <title>{i18n._("XauSync AI — AI Trading Insights")}</title>
         <meta
           name="description"
           content={i18n._(
-            "XauSync AI provides advanced AI-powered analysis and real-time signals for XAU/USD trading."
+            "XauSync AI provides AI-powered trading insights, market analysis, and educational trading tools for XAU/USD trading."
           )}
         />
         <meta
           property="og:title"
-          content={i18n._("{NAME_APP} – AI-Powered XAU/USD Trading Analysis", {
-            NAME_APP,
-          })}
+          content={i18n._("XauSync AI — AI Trading Insights")}
         />
         <meta
           property="og:description"
           content={i18n._(
-            "XauSync AI provides advanced AI-powered analysis and real-time signals for XAU/USD trading."
+            "XauSync AI provides AI-powered trading insights, market analysis, and educational trading tools for XAU/USD trading."
           )}
         />
         <meta property="og:image" content="/icon.png" />
@@ -126,14 +120,12 @@ export default function Main() {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content={i18n._("{NAME_APP} – AI-Powered XAU/USD Trading Analysis", {
-            NAME_APP,
-          })}
+          content={i18n._("XauSync AI — AI Trading Insights")}
         />
         <meta
           name="twitter:description"
           content={i18n._(
-            "XauSync AI provides advanced AI-powered analysis and real-time signals for XAU/USD trading."
+            "XauSync AI provides AI-powered trading insights, market analysis, and educational trading tools for XAU/USD trading."
           )}
         />
         <meta name="twitter:image" content="/icon.png" />

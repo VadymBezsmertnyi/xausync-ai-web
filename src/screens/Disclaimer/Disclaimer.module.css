@@ -1,6 +1,6 @@
 .container {
-  padding: 40px 20px;
-  max-width: 1200px;
+  padding: 60px 20px;
+  max-width: 900px;
   margin: 0 auto;
   background-color: var(--background);
   min-height: 100vh;
@@ -18,7 +18,7 @@
   font-size: 3.5rem;
   font-weight: 700;
   color: var(--gold);
-  margin-bottom: 16px;
+  margin-bottom: 32px;
   font-family: "Tenor Sans", serif;
   letter-spacing: -0.22px;
   text-align: center;
@@ -26,10 +26,10 @@
 
 .title {
   font-weight: 600;
-  font-size: 2.5rem;
+  font-size: 2rem;
   color: var(--gold);
-  margin-top: 40px;
-  margin-bottom: 20px;
+  margin-top: 48px;
+  margin-bottom: 24px;
   text-align: left;
   font-family: "Tenor Sans", serif;
 }
@@ -38,8 +38,8 @@
   font-weight: 600;
   font-size: 1.3rem;
   color: var(--gold);
-  margin-top: 24px;
-  margin-bottom: 12px;
+  margin-top: 32px;
+  margin-bottom: 16px;
   font-family: "Tenor Sans", serif;
 }
 
@@ -47,15 +47,15 @@
   font-weight: 400;
   font-size: 1rem;
   color: var(--text-gray);
-  margin-top: 8px;
-  margin-bottom: 16px;
-  line-height: 1.6;
+  margin-top: 12px;
+  margin-bottom: 20px;
+  line-height: 1.7;
   font-family: "Inter", sans-serif;
 }
 
 .list {
-  margin-left: 20px;
-  margin-bottom: 16px;
+  margin-left: 24px;
+  margin-bottom: 20px;
 }
 
 .itemList {
@@ -63,14 +63,14 @@
   font-size: 1rem;
   color: var(--text-gray);
   margin-top: 8px;
-  margin-bottom: 4px;
-  line-height: 1.5;
+  margin-bottom: 8px;
+  line-height: 1.6;
   font-family: "Inter", sans-serif;
 }
 
 @media (max-width: 768px) {
   .container {
-    padding: 20px 16px;
+    padding: 40px 16px;
   }
 
   .mainTitle {
@@ -78,7 +78,7 @@
   }
 
   .title {
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
 
   .subTitle {
@@ -95,12 +95,16 @@
 }
 
 @media (max-width: 480px) {
+  .container {
+    padding: 32px 12px;
+  }
+
   .mainTitle {
     font-size: 2rem;
   }
 
   .title {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
   }
 
   .subTitle {
