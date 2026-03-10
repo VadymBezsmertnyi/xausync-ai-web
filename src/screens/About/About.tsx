@@ -60,7 +60,7 @@ const About: FunctionComponent = () => {
           <CardContent>
             <Typography variant="h6" className={styles.introText}>
               {i18n._(
-                `Welcome to {NAME_APP} – your advanced AI-powered platform for XAU/USD trading analysis! Our application combines cutting-edge artificial intelligence with comprehensive market data to provide intelligent trading insights and real-time analysis.`,
+                `{NAME_APP} is an advanced AI-powered platform designed for XAU/USD trading analysis. Our application combines sophisticated artificial intelligence with comprehensive market data to provide intelligent trading insights and educational analysis for informed decision-making.`,
                 { NAME_APP }
               )}
             </Typography>
@@ -69,7 +69,7 @@ const About: FunctionComponent = () => {
 
         <Box className={styles.featuresSection}>
           <Typography variant="h4" className={styles.sectionTitle}>
-            {i18n._("Core Features")}
+            {i18n._("What {NAME_APP} Does", { NAME_APP })}
           </Typography>
 
           <Grid container spacing={3}>
@@ -84,7 +84,7 @@ const About: FunctionComponent = () => {
                     className={styles.featureDescription}
                   >
                     {i18n._(
-                      "Advanced machine learning algorithms analyze XAU/USD market patterns, identify trading opportunities, and generate real-time signals with high accuracy."
+                      "Advanced machine learning algorithms analyze XAU/USD market patterns and identify potential trading opportunities. Our AI processes historical data and current market conditions to generate insights for educational purposes."
                     )}
                   </Typography>
                 </CardContent>
@@ -102,7 +102,7 @@ const About: FunctionComponent = () => {
                     className={styles.featureDescription}
                   >
                     {i18n._(
-                      "Access live XAU/USD market data with TradingView-style interactive charts, comprehensive technical indicators, and instant price updates."
+                      "Access live XAU/USD market data with interactive charts, comprehensive technical indicators, and instant price updates. Stay informed with real-time market information."
                     )}
                   </Typography>
                 </CardContent>
@@ -120,7 +120,7 @@ const About: FunctionComponent = () => {
                     className={styles.featureDescription}
                   >
                     {i18n._(
-                      "Comprehensive suite of technical indicators including RSI, MACD, Bollinger Bands, and custom AI-driven indicators for thorough market analysis."
+                      "Comprehensive suite of technical indicators including RSI, MACD, Bollinger Bands, and custom AI-driven indicators for thorough market analysis and trend identification."
                     )}
                   </Typography>
                 </CardContent>
@@ -138,7 +138,7 @@ const About: FunctionComponent = () => {
                     className={styles.featureDescription}
                   >
                     {i18n._(
-                      "AI-driven pattern recognition identifies chart patterns, trend reversals, and profitable trading opportunities automatically."
+                      "AI-driven pattern recognition identifies chart patterns, trend reversals, and potential market movements to help traders understand market dynamics."
                     )}
                   </Typography>
                 </CardContent>
@@ -156,7 +156,7 @@ const About: FunctionComponent = () => {
                     className={styles.featureDescription}
                   >
                     {i18n._(
-                      "Receive instant notifications for trading opportunities, market movements, and important price levels directly on your device."
+                      "Receive notifications for significant market movements, important price levels, and analysis updates directly on your device to stay informed."
                     )}
                   </Typography>
                 </CardContent>
@@ -174,7 +174,7 @@ const About: FunctionComponent = () => {
                     className={styles.featureDescription}
                   >
                     {i18n._(
-                      "Deep market insights with trend analysis, volatility metrics, and comprehensive market statistics to inform your trading decisions."
+                      "Deep market insights with trend analysis, volatility metrics, and comprehensive market statistics to provide context for trading decisions."
                     )}
                   </Typography>
                 </CardContent>
@@ -185,7 +185,7 @@ const About: FunctionComponent = () => {
 
         <Box className={styles.technologySection}>
           <Typography variant="h4" className={styles.sectionTitle}>
-            {i18n._("Technology & Innovation")}
+            {i18n._("AI-Powered Insights")}
           </Typography>
 
           <Grid container spacing={3}>
@@ -200,7 +200,7 @@ const About: FunctionComponent = () => {
                     className={styles.techDescription}
                   >
                     {i18n._(
-                      "State-of-the-art ML models trained on historical XAU/USD data to identify patterns and predict market movements."
+                      "State-of-the-art ML models trained on historical XAU/USD data to identify patterns and provide market analysis insights."
                     )}
                   </Typography>
                 </CardContent>
@@ -218,7 +218,7 @@ const About: FunctionComponent = () => {
                     className={styles.techDescription}
                   >
                     {i18n._(
-                      "High-performance data processing ensures instant analysis and signal generation with minimal latency."
+                      "High-performance data processing ensures instant analysis and market insights with minimal latency."
                     )}
                   </Typography>
                 </CardContent>
@@ -229,14 +229,58 @@ const About: FunctionComponent = () => {
               <Card className={styles.techCard}>
                 <CardContent>
                   <Typography variant="h6" className={styles.techTitle}>
-                    {i18n._("Educational Focus")}
+                    {i18n._("Market Context")}
                   </Typography>
                   <Typography
                     variant="body2"
                     className={styles.techDescription}
                   >
                     {i18n._(
-                      "Designed to help traders understand market dynamics and improve their trading strategies through AI insights."
+                      "Analysis incorporates market context, economic factors, and technical indicators for comprehensive insights."
+                    )}
+                  </Typography>
+                </CardContent>
+              </Card>
+            </Grid>
+          </Grid>
+        </Box>
+
+        <Box className={styles.analyticsSection}>
+          <Typography variant="h4" className={styles.sectionTitle}>
+            {i18n._("Market Analytics and Indicators")}
+          </Typography>
+
+          <Grid container spacing={3}>
+            <Grid item xs={12} md={6}>
+              <Card className={styles.techCard}>
+                <CardContent>
+                  <Typography variant="h6" className={styles.techTitle}>
+                    {i18n._("Technical Analysis")}
+                  </Typography>
+                  <Typography
+                    variant="body2"
+                    className={styles.techDescription}
+                  >
+                    {i18n._(
+                      "Advanced technical analysis tools including trend lines, support/resistance levels, and multiple time-frame analysis."
+                    )}
+                  </Typography>
+                </CardContent>
+              </Card>
+            </Grid>
+
+            <Grid item xs={12} md={6}>
+              <Card className={styles.techCard}>
+                <CardContent>
+                  <Typography variant="h6" className={styles.techTitle}>
+                    {i18n._("Market Sentiment")}
+                  </Typography>
+                  <Typography
+                    variant="body2"
+                    className={styles.techDescription}
+                  >
+                    {i18n._(
+                      "Analysis of market sentiment and volatility metrics to provide context for market conditions and potential movements."
                     )}
                   </Typography>
                 </CardContent>
@@ -247,19 +291,41 @@ const About: FunctionComponent = () => {
 
         <Box className={styles.purposeSection}>
           <Typography variant="h4" className={styles.sectionTitle}>
-            {i18n._("Our Purpose")}
+            {i18n._("Educational Purpose")}
           </Typography>
           <Card className={styles.purposeCard}>
             <CardContent>
               <Typography variant="body1" className={styles.purposeText}>
                 {i18n._(
-                  `{NAME_APP} is designed to empower traders with intelligent tools and insights. While our AI provides advanced analysis, we emphasize that trading involves risks and decisions should be made carefully. Our platform serves as an educational and analytical tool to supplement your trading knowledge.`,
+                  "{NAME_APP} is designed to provide educational insights and analytical tools to help traders understand market dynamics. Our platform serves as an educational resource to supplement your trading knowledge and decision-making process.",
                   { NAME_APP }
                 )}
               </Typography>
               <Typography variant="body2" className={styles.purposeNote}>
                 {i18n._(
-                  "Remember: All trading involves risk. Never trade more than you can afford to lose, and consider seeking advice from qualified financial professionals."
+                  "Important: {NAME_APP} provides informational and educational content only. All trading decisions remain your sole responsibility. Trading involves substantial risk, and you should never trade more than you can afford to lose.",
+                  { NAME_APP }
+                )}
+              </Typography>
+            </CardContent>
+          </Card>
+        </Box>
+
+        <Box className={styles.responsibleSection}>
+          <Typography variant="h4" className={styles.sectionTitle}>
+            {i18n._("Responsible Use")}
+          </Typography>
+          <Card className={styles.purposeCard}>
+            <CardContent>
+              <Typography variant="body1" className={styles.purposeText}>
+                {i18n._(
+                  "While our AI provides advanced analysis, we emphasize that trading involves risks and decisions should be made carefully. Use {NAME_APP} as one tool among many in your trading research and analysis process.",
+                  { NAME_APP }
+                )}
+              </Typography>
+              <Typography variant="body2" className={styles.purposeNote}>
+                {i18n._(
+                  "Always conduct your own research, consider seeking advice from qualified financial professionals, and never risk more than you can afford to lose."
                 )}
               </Typography>
             </CardContent>

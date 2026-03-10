@@ -1,6 +1,6 @@
 .container {
-  padding: 40px 20px;
-  max-width: 1200px;
+  padding: 60px 20px;
+  max-width: 1000px;
   margin: 0 auto;
   background-color: var(--background);
   min-height: 100vh;
@@ -16,14 +16,14 @@
 
 .header {
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 60px;
 }
 
 .mainTitle {
   font-size: 3.5rem;
   font-weight: 700;
   color: var(--gold);
-  margin-bottom: 16px;
+  margin-bottom: 20px;
   font-family: "Tenor Sans", serif;
   letter-spacing: -0.22px;
 }
@@ -36,24 +36,33 @@
 }
 
 .introCard {
-  margin-bottom: 40px;
-  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+  margin-bottom: 60px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
   border-radius: 16px;
   background: var(--dark);
   border: 1.5px solid var(--gold-border);
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+.introCard:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(244, 197, 66, 0.2);
 }
 
 .introText {
   font-size: 1.2rem;
-  line-height: 1.6;
+  line-height: 1.7;
   color: var(--white);
   text-align: center;
+  font-weight: 400;
   font-family: "Tenor Sans", serif;
   margin-bottom: 16px;
 }
 
 .featuresSection {
-  margin-bottom: 40px;
+  margin-bottom: 60px;
   overflow: visible;
 }
 
@@ -62,7 +71,7 @@
   font-weight: 600;
   color: var(--gold);
   text-align: center;
-  margin-bottom: 32px;
+  margin-bottom: 40px;
   font-family: "Tenor Sans", serif;
 }
 
@@ -79,27 +88,28 @@
 
 .featureCard:hover {
   transform: translateY(-4px);
-  box-shadow: 0 4px 20px rgba(244, 197, 66, 0.3);
+  box-shadow: 0 6px 20px rgba(244, 197, 66, 0.3);
   border-color: var(--gold);
 }
 
 .featureTitle {
-  font-weight: 700;
+  font-weight: 600;
   color: var(--gold);
-  margin-bottom: 12px;
+  margin-bottom: 16px;
   font-size: 1.3rem;
   font-family: "Tenor Sans", serif;
 }
 
 .featureDescription {
   color: var(--text-gray);
-  line-height: 1.6;
+  line-height: 1.7;
   font-size: 1rem;
+  font-weight: 400;
   font-family: "Inter", sans-serif;
 }
 
 .technologySection {
-  margin-bottom: 40px;
+  margin-bottom: 60px;
   padding-top: 20px;
   overflow: visible;
 }
@@ -117,14 +127,14 @@
 
 .techCard:hover {
   transform: translateY(-4px);
-  box-shadow: 0 8px 24px rgba(244, 197, 66, 0.2);
+  box-shadow: 0 6px 20px rgba(244, 197, 66, 0.2);
   border-color: var(--gold-border);
 }
 
 .techTitle {
   color: var(--gold);
-  font-weight: 700;
-  margin-bottom: 12px;
+  font-weight: 600;
+  margin-bottom: 16px;
   font-size: 1.2rem;
   font-family: "Tenor Sans", serif;
   text-align: center;
@@ -132,31 +142,48 @@
 
 .techDescription {
   color: var(--text-gray);
-  line-height: 1.6;
+  line-height: 1.7;
   font-size: 0.95rem;
   font-family: "Inter", sans-serif;
   text-align: center;
+  font-weight: 400;
 }
 
-.purposeSection {
-  margin-bottom: 40px;
+.analyticsSection {
+  margin-bottom: 60px;
+  padding-top: 20px;
+  overflow: visible;
+}
+
+.responsibleSection {
+  margin-bottom: 60px;
+  padding-top: 20px;
   overflow: visible;
 }
 
 .purposeCard {
   background: var(--dark);
   border-radius: 16px;
-  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
   border: 1.5px solid var(--gold-border);
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+.purposeCard:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(244, 197, 66, 0.2);
 }
 
 .purposeText {
   color: var(--white);
   text-align: center;
-  line-height: 1.6;
+  line-height: 1.7;
   font-size: 1rem;
   font-family: "Inter", sans-serif;
-  margin-bottom: 16px;
+  margin-bottom: 20px;
+  font-weight: 400;
 }
 
 .purposeNote {
@@ -165,11 +192,12 @@
   font-size: 0.9rem;
   font-family: "Inter", sans-serif;
   font-style: italic;
-  line-height: 1.4;
+  line-height: 1.6;
   background: var(--tag-gold-muted);
-  padding: 12px 16px;
+  padding: 16px 20px;
   border-radius: 8px;
   border-left: 4px solid var(--gold);
+  margin-top: 16px;
 }
 
 .contactSection {
@@ -181,14 +209,23 @@
   border-radius: 12px;
   box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
   border: 1.5px solid var(--gold-border);
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+.contactCard:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(244, 197, 66, 0.2);
 }
 
 .contactText {
   color: var(--white);
-  line-height: 1.6;
-  margin-bottom: 16px;
+  line-height: 1.7;
+  margin-bottom: 20px;
   text-align: center;
   font-family: "Inter", sans-serif;
+  font-weight: 400;
 }
 
 .emailText {
@@ -201,7 +238,7 @@
 
 .footer {
   text-align: center;
-  margin-top: 40px;
+  margin-top: 60px;
   padding: 20px 0;
 }
 
@@ -214,7 +251,7 @@
 
 @media (max-width: 768px) {
   .container {
-    padding: 20px 16px;
+    padding: 40px 16px;
   }
 
   .mainTitle {
@@ -232,9 +269,50 @@
   .introText {
     font-size: 1.1rem;
   }
+
+  .featureTitle {
+    font-size: 1.2rem;
+  }
+
+  .featureDescription {
+    font-size: 0.95rem;
+  }
+
+  .techTitle {
+    font-size: 1.1rem;
+  }
+
+  .techDescription {
+    font-size: 0.9rem;
+  }
+
+  .purposeText {
+    font-size: 0.95rem;
+  }
+
+  .purposeNote {
+    font-size: 0.85rem;
+    padding: 12px 16px;
+  }
+
+  .contactText {
+    font-size: 0.95rem;
+  }
+
+  .emailText {
+    font-size: 1rem;
+  }
+
+  .thankYouText {
+    font-size: 1.2rem;
+  }
 }
 
 @media (max-width: 480px) {
+  .container {
+    padding: 32px 12px;
+  }
+
   .mainTitle {
     font-size: 2rem;
   }
@@ -249,5 +327,42 @@
 
   .introText {
     font-size: 1rem;
+  }
+
+  .featureTitle {
+    font-size: 1.1rem;
+  }
+
+  .featureDescription {
+    font-size: 0.9rem;
+  }
+
+  .techTitle {
+    font-size: 1rem;
+  }
+
+  .techDescription {
+    font-size: 0.85rem;
+  }
+
+  .purposeText {
+    font-size: 0.9rem;
+  }
+
+  .purposeNote {
+    font-size: 0.8rem;
+    padding: 10px 12px;
+  }
+
+  .contactText {
+    font-size: 0.9rem;
+  }
+
+  .emailText {
+    font-size: 0.95rem;
+  }
+
+  .thankYouText {
+    font-size: 1.1rem;
   }
 }
