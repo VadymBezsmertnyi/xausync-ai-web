@@ -2,38 +2,22 @@
   padding: 40px 20px;
   max-width: 1200px;
   margin: 0 auto;
-  background-color: #ffffff;
+  background-color: var(--background);
   min-height: 100vh;
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+  font-family:
+    "Inter",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
     sans-serif;
   position: relative;
   overflow: visible;
 }
 
-.container::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 300px;
-  height: 569px;
-  background-image: url("/background-flowers.png");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: top right;
-  z-index: 0;
-  opacity: 0.8;
-}
-
-.container > * {
-  position: relative;
-  z-index: 1;
-}
-
 .mainTitle {
   font-size: 3.5rem;
   font-weight: 700;
-  color: #582c83;
+  color: var(--gold);
   margin-bottom: 16px;
   font-family: "Tenor Sans", serif;
   letter-spacing: -0.22px;
@@ -43,7 +27,7 @@
 .title {
   font-weight: 600;
   font-size: 2.5rem;
-  color: #582c83;
+  color: var(--gold);
   margin-top: 40px;
   margin-bottom: 20px;
   text-align: left;
@@ -53,7 +37,7 @@
 .subTitle {
   font-weight: 600;
   font-size: 1.3rem;
-  color: #582c83;
+  color: var(--gold);
   margin-top: 24px;
   margin-bottom: 12px;
   font-family: "Tenor Sans", serif;
@@ -62,7 +46,7 @@
 .text {
   font-weight: 400;
   font-size: 1rem;
-  color: #8f9bb3;
+  color: var(--text-gray);
   margin-top: 8px;
   margin-bottom: 16px;
   line-height: 1.6;
@@ -71,7 +55,7 @@
 
 .link {
   text-decoration: underline;
-  color: #582c83;
+  color: var(--gold);
   font-weight: 500;
 }
 
@@ -83,7 +67,7 @@
 .itemList {
   font-weight: 400;
   font-size: 1rem;
-  color: #8f9bb3;
+  color: var(--text-gray);
   margin-top: 8px;
   margin-bottom: 4px;
   line-height: 1.5;
@@ -93,12 +77,6 @@
 @media (max-width: 768px) {
   .container {
     padding: 20px 16px;
-  }
-
-  .container::before {
-    width: 200px;
-    height: 380px;
-    opacity: 0.6;
   }
 
   .mainTitle {
@@ -123,12 +101,6 @@
 }
 
 @media (max-width: 480px) {
-  .container::before {
-    width: 150px;
-    height: 285px;
-    opacity: 0.4;
-  }
-
   .mainTitle {
     font-size: 2rem;
   }

@@ -1,21 +1,8 @@
 export const PATHS = {
   main: "/",
-  about: "/about",
-  termOfUse: "/term-of-use",
   privacyPolicy: "/privacy-policy",
-  profile: "/profile",
-  profileWorkshops: "/profile/workshops",
-  profileWorkshopsAdd: "/profile/workshops/add",
-  profileWorkshopsEdit: "/profile/workshops/edit",
-  profileWorkshopsDetail: "/profile/workshops/detail",
-  profileEvents: "/profile/events",
-  profileEventsAdd: "/profile/events/add",
-  profileEventsEdit: "/profile/events/edit",
-  profileEventsDetail: "/profile/events/detail",
-  profileProducts: "/profile/products",
-  profileProductsAdd: "/profile/products/add",
-  profileProductsEdit: "/profile/products/edit",
-  profileProductsDetail: "/profile/products/detail",
+  termOfUse: "/term-of-use",
+  disclaimer: "/disclaimer",
 } as const;
 
 export const PATHS_API = {

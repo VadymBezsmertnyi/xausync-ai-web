@@ -32,9 +32,9 @@ type HeaderProps = {
 
 const getMenuItems = (i18n: I18n) => [
   { path: PATHS.main, label: i18n._("Home") },
-  { path: PATHS.about, label: i18n._("About") },
-  { path: PATHS.termOfUse, label: i18n._("Terms of Use") },
   { path: PATHS.privacyPolicy, label: i18n._("Privacy Policy") },
+  { path: PATHS.termOfUse, label: i18n._("Terms of Use") },
+  { path: PATHS.disclaimer, label: i18n._("Disclaimer") },
 ];
 
 export const Header: FunctionComponent<HeaderProps> = ({
@@ -76,7 +76,7 @@ export const Header: FunctionComponent<HeaderProps> = ({
           }}
         >
           <Image
-            src={"/adaptive-logo.png"}
+            src={"/icon.png"}
             alt={i18n._("Logo")}
             width={50}
             height={50}

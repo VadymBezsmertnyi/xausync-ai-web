@@ -17,16 +17,17 @@ import {
 import {
   Apple,
   Android,
-  CalendarToday,
-  People,
-  PhotoCamera,
-  Sms,
-  Mic,
-  Sync,
-  Star,
   TrendingUp,
+  Assessment,
+  Timeline,
+  ShowChart,
+  Notifications,
   Security,
   Speed,
+  BarChart,
+  Analytics,
+  AutoGraph,
+  Star,
 } from "@mui/icons-material";
 
 import { useLocalesProvider } from "@/localization/localization.provider";
@@ -43,109 +44,107 @@ export default function Main() {
 
   const features = [
     {
-      icon: <CalendarToday sx={{ fontSize: 40, color: "#582c83" }} />,
-      title: i18n._("Smart Calendar"),
+      icon: <TrendingUp sx={{ fontSize: 40, color: "var(--gold)" }} />,
+      title: i18n._("AI-Powered Analysis"),
       description: i18n._(
-        "Seamless integration with your device calendar. Automatic sync ensures you never miss an appointment."
+        "Advanced artificial intelligence analyzes XAU/USD market patterns and provides real-time trading signals."
       ),
     },
     {
-      icon: <People sx={{ fontSize: 40, color: "#582c83" }} />,
-      title: i18n._("Client Management"),
+      icon: <ShowChart sx={{ fontSize: 40, color: "var(--gold)" }} />,
+      title: i18n._("Real-Time Charts"),
       description: i18n._(
-        "Create detailed client profiles, track service history, and maintain comprehensive notes."
+        "Interactive charts with TradingView-style interface for comprehensive market analysis."
       ),
     },
     {
-      icon: <Sms sx={{ fontSize: 40, color: "#582c83" }} />,
-      title: i18n._("SMS Notifications"),
+      icon: <Notifications sx={{ fontSize: 40, color: "var(--gold)" }} />,
+      title: i18n._("Smart Alerts"),
       description: i18n._(
-        "Send automated SMS reminders to your clients about upcoming appointments."
+        "Instant notifications for trading opportunities and market movements."
       ),
     },
     {
-      icon: <PhotoCamera sx={{ fontSize: 40, color: "#582c83" }} />,
-      title: i18n._("Photo Gallery"),
+      icon: <BarChart sx={{ fontSize: 40, color: "var(--gold)" }} />,
+      title: i18n._("Technical Indicators"),
       description: i18n._(
-        "Store and organize photos from each appointment to track client progress."
+        "Comprehensive set of technical indicators including RSI, MACD, and Bollinger Bands."
       ),
     },
     {
-      icon: <Mic sx={{ fontSize: 40, color: "#582c83" }} />,
-      title: i18n._("Speech-to-Text"),
+      icon: <Analytics sx={{ fontSize: 40, color: "var(--gold)" }} />,
+      title: i18n._("Market Analytics"),
       description: i18n._(
-        "Convert your voice notes into text for quick and easy documentation."
+        "Deep market insights and trend analysis to inform your trading decisions."
       ),
     },
     {
-      icon: <Sync sx={{ fontSize: 40, color: "#582c83" }} />,
-      title: i18n._("Multi-Platform Sync"),
+      icon: <AutoGraph sx={{ fontSize: 40, color: "var(--gold)" }} />,
+      title: i18n._("Pattern Recognition"),
       description: i18n._(
-        "Access your data seamlessly across mobile app and web platform."
+        "AI-driven pattern recognition identifies profitable trading opportunities."
       ),
     },
   ];
 
   const stats = [
-    { number: "1000+", label: i18n._("Active Users") },
-    { number: "50K+", label: i18n._("Appointments Managed") },
-    { number: "99%", label: i18n._("Uptime") },
-    { number: "4.8★", label: i18n._("App Rating") },
+    { number: "10K+", label: i18n._("Active Traders") },
+    { number: "1M+", label: i18n._("Signals Generated") },
+    { number: "99.9%", label: i18n._("Uptime") },
+    { number: "4.9★", label: i18n._("User Rating") },
   ];
 
   return (
     <>
       <Head>
         <title>
-          {i18n._("{NAME_APP} – Smart Scheduling App for Beauty Experts", {
+          {i18n._("{NAME_APP} – AI-Powered XAU/USD Trading Analysis", {
             NAME_APP,
           })}
         </title>
         <meta
           name="description"
           content={i18n._(
-            "Beauty Sync helps beauty professionals manage appointments, clients, and reminders with ease."
+            "XauSync AI provides advanced AI-powered analysis and real-time signals for XAU/USD trading."
           )}
         />
         <meta
           property="og:title"
-          content={i18n._(
-            "{NAME_APP} – Smart Scheduling App for Beauty Experts",
-            { NAME_APP }
-          )}
+          content={i18n._("{NAME_APP} – AI-Powered XAU/USD Trading Analysis", {
+            NAME_APP,
+          })}
         />
         <meta
           property="og:description"
           content={i18n._(
-            "Beauty Sync helps beauty professionals manage appointments, clients, and reminders with ease."
+            "XauSync AI provides advanced AI-powered analysis and real-time signals for XAU/USD trading."
           )}
         />
-        <meta property="og:image" content="/adaptive-logo.png" />
-        <meta property="og:url" content="https://beautysync.app" />
+        <meta property="og:image" content="/icon.png" />
+        <meta property="og:url" content="https://xausync.ai" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content={i18n._(
-            "{NAME_APP} – Smart Scheduling App for Beauty Experts",
-            { NAME_APP }
-          )}
+          content={i18n._("{NAME_APP} – AI-Powered XAU/USD Trading Analysis", {
+            NAME_APP,
+          })}
         />
         <meta
           name="twitter:description"
           content={i18n._(
-            "Beauty Sync helps beauty professionals manage appointments, clients, and reminders with ease."
+            "XauSync AI provides advanced AI-powered analysis and real-time signals for XAU/USD trading."
           )}
         />
-        <meta name="twitter:image" content="/adaptive-logo.png" />
+        <meta name="twitter:image" content="/icon.png" />
       </Head>
 
-      <Box sx={{ backgroundColor: "#ffffff", minHeight: "100vh" }}>
+      <Box sx={{ backgroundColor: "var(--background)", minHeight: "100vh" }}>
         {/* Hero Section */}
         <Box
           sx={{
             background:
-              "linear-gradient(135deg, #582c83 0%, #9F88B5 50%, #582c83 100%)",
+              "linear-gradient(135deg, var(--background) 0%, var(--background-gradient-end) 50%, var(--background) 100%)",
             minHeight: "100vh",
             display: "flex",
             alignItems: "center",
@@ -153,26 +152,10 @@ export default function Main() {
             overflow: "hidden",
           }}
         >
-          <Box
-            sx={{
-              position: "absolute",
-              top: 0,
-              right: 0,
-              width: "300px",
-              height: "569px",
-              backgroundImage: "url('/background-flowers.png')",
-              backgroundSize: "contain",
-              backgroundRepeat: "no-repeat",
-              backgroundPosition: "top right",
-              opacity: 0.3,
-              zIndex: 0,
-            }}
-          />
-
           <Container maxWidth="lg" sx={{ position: "relative", zIndex: 1 }}>
             <Grid container spacing={4} alignItems="center">
               <Grid item xs={12} md={6}>
-                <Box sx={{ color: "white" }}>
+                <Box sx={{ color: "var(--white)" }}>
                   <Typography
                     variant={isMobile ? "h3" : "h2"}
                     component="h1"
@@ -180,7 +163,7 @@ export default function Main() {
                       fontWeight: 700,
                       mb: 2,
                       fontFamily: '"Tenor Sans", serif',
-                      color: "#ffffff",
+                      color: "var(--gold)",
                     }}
                   >
                     {i18n._("Welcome to {NAME_APP}", { NAME_APP })}
@@ -195,7 +178,7 @@ export default function Main() {
                       fontFamily: '"Tenor Sans", serif',
                     }}
                   >
-                    {i18n._("Your Professional Beauty Companion")}
+                    {i18n._("Your AI Trading Companion")}
                   </Typography>
 
                   <Typography
@@ -208,7 +191,7 @@ export default function Main() {
                     }}
                   >
                     {i18n._(
-                      "Streamline your beauty business with our comprehensive mobile solution. Manage appointments, track clients, and boost productivity with ease."
+                      "Enhance your XAU/USD trading with our AI-powered analysis. Get real-time signals, advanced charts, and intelligent market insights."
                     )}
                   </Typography>
 
@@ -225,8 +208,8 @@ export default function Main() {
                       target="_blank"
                       rel="noopener noreferrer"
                       sx={{
-                        backgroundColor: "rgba(255, 255, 255, 0.9)",
-                        color: "#582c83",
+                        backgroundColor: "var(--gold)",
+                        color: "var(--background)",
                         px: 4,
                         py: 2,
                         borderRadius: 3,
@@ -234,7 +217,7 @@ export default function Main() {
                         textTransform: "none",
                         fontSize: "1.1rem",
                         "&:hover": {
-                          backgroundColor: "rgba(255, 255, 255, 1)",
+                          backgroundColor: "var(--gold-opacity-40)",
                           transform: "translateY(-2px)",
                         },
                         transition: "all 0.3s ease",
@@ -251,8 +234,8 @@ export default function Main() {
                       target="_blank"
                       rel="noopener noreferrer"
                       sx={{
-                        backgroundColor: "rgba(255, 255, 255, 0.9)",
-                        color: "#582c83",
+                        backgroundColor: "var(--gold)",
+                        color: "var(--background)",
                         px: 4,
                         py: 2,
                         borderRadius: 3,
@@ -260,7 +243,7 @@ export default function Main() {
                         textTransform: "none",
                         fontSize: "1.1rem",
                         "&:hover": {
-                          backgroundColor: "rgba(255, 255, 255, 1)",
+                          backgroundColor: "var(--gold-opacity-40)",
                           transform: "translateY(-2px)",
                         },
                         transition: "all 0.3s ease",
@@ -272,27 +255,27 @@ export default function Main() {
 
                   <Stack direction="row" spacing={1} flexWrap="wrap">
                     <Chip
-                      icon={<Star sx={{ color: "#FFD400" }} />}
-                      label={i18n._("4.8★ Rating")}
+                      icon={<Star sx={{ color: "var(--gold)" }} />}
+                      label={i18n._("4.9★ Rating")}
                       sx={{
-                        backgroundColor: "rgba(255, 255, 255, 0.2)",
-                        color: "white",
+                        backgroundColor: "var(--tag-gold-muted)",
+                        color: "var(--gold)",
                       }}
                     />
                     <Chip
-                      icon={<Security sx={{ color: "#26CB63" }} />}
+                      icon={<Security sx={{ color: "var(--success)" }} />}
                       label={i18n._("Secure & Private")}
                       sx={{
-                        backgroundColor: "rgba(255, 255, 255, 0.2)",
-                        color: "white",
+                        backgroundColor: "var(--success-muted-25)",
+                        color: "var(--success)",
                       }}
                     />
                     <Chip
-                      icon={<Speed sx={{ color: "#735BF2" }} />}
+                      icon={<Speed sx={{ color: "var(--primary)" }} />}
                       label={i18n._("Fast & Reliable")}
                       sx={{
-                        backgroundColor: "rgba(255, 255, 255, 0.2)",
-                        color: "white",
+                        backgroundColor: "rgba(0, 122, 255, 0.2)",
+                        color: "var(--primary)",
                       }}
                     />
                   </Stack>
@@ -302,13 +285,13 @@ export default function Main() {
               <Grid item xs={12} md={6}>
                 <Box sx={{ textAlign: "center" }}>
                   <Avatar
-                    src="/adaptive-logo.png"
+                    src="/icon.png"
                     sx={{
                       width: 200,
                       height: 200,
                       mx: "auto",
                       mb: 2,
-                      boxShadow: "0 20px 40px rgba(0,0,0,0.2)",
+                      boxShadow: "0 20px 40px rgba(244, 197, 66, 0.3)",
                     }}
                   />
                 </Box>
@@ -318,7 +301,7 @@ export default function Main() {
         </Box>
 
         {/* Stats Section */}
-        <Box sx={{ py: 8, backgroundColor: "#F6F2FA" }}>
+        <Box sx={{ py: 8, backgroundColor: "var(--dark)" }}>
           <Container maxWidth="lg">
             <Grid container spacing={4}>
               {stats.map((stat, index) => (
@@ -327,8 +310,8 @@ export default function Main() {
                     sx={{
                       textAlign: "center",
                       p: 3,
-                      backgroundColor: "white",
-                      boxShadow: "0 4px 20px rgba(88, 44, 131, 0.1)",
+                      backgroundColor: "var(--background)",
+                      boxShadow: "0 4px 20px rgba(244, 197, 66, 0.1)",
                       borderRadius: 3,
                     }}
                   >
@@ -337,7 +320,7 @@ export default function Main() {
                         variant="h4"
                         sx={{
                           fontWeight: 700,
-                          color: "#582c83",
+                          color: "var(--gold)",
                           fontFamily: '"Tenor Sans", serif',
                           mb: 1,
                         }}
@@ -346,7 +329,7 @@ export default function Main() {
                       </Typography>
                       <Typography
                         variant="body2"
-                        sx={{ color: "#8f9bb3", fontWeight: 500 }}
+                        sx={{ color: "var(--text-gray)", fontWeight: 500 }}
                       >
                         {stat.label}
                       </Typography>
@@ -366,7 +349,7 @@ export default function Main() {
                 variant="h3"
                 sx={{
                   fontWeight: 700,
-                  color: "#582c83",
+                  color: "var(--gold)",
                   fontFamily: '"Tenor Sans", serif',
                   mb: 2,
                 }}
@@ -375,11 +358,9 @@ export default function Main() {
               </Typography>
               <Typography
                 variant="h6"
-                sx={{ color: "#8f9bb3", maxWidth: 600, mx: "auto" }}
+                sx={{ color: "var(--text-gray)", maxWidth: 600, mx: "auto" }}
               >
-                {i18n._(
-                  "Everything you need to manage your beauty business efficiently"
-                )}
+                {i18n._("Everything you need for successful XAU/USD trading")}
               </Typography>
             </Box>
 
@@ -391,13 +372,13 @@ export default function Main() {
                       height: "100%",
                       p: 3,
                       textAlign: "center",
-                      backgroundColor: "white",
-                      boxShadow: "0 4px 20px rgba(88, 44, 131, 0.1)",
+                      backgroundColor: "var(--background)",
+                      boxShadow: "0 4px 20px rgba(244, 197, 66, 0.1)",
                       borderRadius: 3,
                       transition: "transform 0.3s ease",
                       "&:hover": {
                         transform: "translateY(-5px)",
-                        boxShadow: "0 8px 30px rgba(88, 44, 131, 0.2)",
+                        boxShadow: "0 8px 30px rgba(244, 197, 66, 0.2)",
                       },
                     }}
                   >
@@ -407,7 +388,7 @@ export default function Main() {
                         variant="h6"
                         sx={{
                           fontWeight: 600,
-                          color: "#582c83",
+                          color: "var(--gold)",
                           fontFamily: '"Tenor Sans", serif',
                           mb: 2,
                         }}
@@ -416,7 +397,7 @@ export default function Main() {
                       </Typography>
                       <Typography
                         variant="body2"
-                        sx={{ color: "#8f9bb3", lineHeight: 1.6 }}
+                        sx={{ color: "var(--text-gray)", lineHeight: 1.6 }}
                       >
                         {feature.description}
                       </Typography>
@@ -432,8 +413,9 @@ export default function Main() {
         <Box
           sx={{
             py: 8,
-            background: "linear-gradient(135deg, #582c83 0%, #9F88B5 100%)",
-            color: "white",
+            background:
+              "linear-gradient(135deg, var(--background) 0%, var(--background-gradient-end) 100%)",
+            color: "var(--white)",
           }}
         >
           <Container maxWidth="md">
@@ -446,11 +428,11 @@ export default function Main() {
                   mb: 2,
                 }}
               >
-                {i18n._("Ready to Transform Your Business?")}
+                {i18n._("Ready to Enhance Your Trading?")}
               </Typography>
               <Typography variant="h6" sx={{ mb: 4, opacity: 0.9 }}>
                 {i18n._(
-                  "Join thousands of beauty professionals who trust {NAME_APP} to manage their business",
+                  "Join thousands of traders who trust {NAME_APP} for their XAU/USD analysis",
                   { NAME_APP }
                 )}
               </Typography>
@@ -493,8 +475,8 @@ export default function Main() {
                   target="_blank"
                   rel="noopener noreferrer"
                   sx={{
-                    backgroundColor: "rgba(255, 255, 255, 0.9)",
-                    color: "#582c83",
+                    backgroundColor: "var(--gold)",
+                    color: "var(--background)",
                     px: 4,
                     py: 2,
                     borderRadius: 3,
@@ -502,7 +484,7 @@ export default function Main() {
                     textTransform: "none",
                     fontSize: "1.1rem",
                     "&:hover": {
-                      backgroundColor: "rgba(255, 255, 255, 1)",
+                      backgroundColor: "var(--gold-opacity-40)",
                       transform: "translateY(-2px)",
                     },
                     transition: "all 0.3s ease",

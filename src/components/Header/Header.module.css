@@ -3,10 +3,14 @@
   justify-content: space-between;
   align-items: center;
   padding: 16px 20px;
-  background-color: #ffffff;
-  box-shadow: 0 3px 3px rgba(32, 19, 11, 0.1);
-  border-bottom: 1.5px solid #e6dfec;
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+  background-color: var(--background);
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+  border-bottom: 1.5px solid var(--gold-border);
+  font-family:
+    "Inter",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
     sans-serif;
 }
 
@@ -31,7 +35,7 @@
 .titleLogo {
   font-size: 20px;
   font-family: "Tenor Sans", serif;
-  color: #582c83;
+  color: var(--gold);
   font-weight: 700;
   letter-spacing: -0.22px;
 }
@@ -50,7 +54,7 @@
 
 .mobileMenuButton {
   display: none;
-  color: #582c83;
+  color: var(--gold);
 }
 
 .menuElement {
@@ -61,15 +65,15 @@
   font-family: "Tenor Sans", serif;
   font-size: 14px;
   font-weight: 500;
-  color: #8f9bb3;
+  color: var(--text-gray);
   text-decoration: none;
   border: 1.5px solid transparent;
 }
 
 .menuElement:hover {
-  color: #582c83;
-  background-color: #f6f2fa;
-  border-color: #ded1e9;
+  color: var(--gold);
+  background-color: var(--tag-gold-muted);
+  border-color: var(--gold-border);
   transform: translateY(-1px);
 }
 
@@ -78,21 +82,21 @@
 }
 
 .menuElementActive {
-  color: #582c83 !important;
-  background-color: #f6f2fa !important;
-  border-color: #ded1e9 !important;
+  color: var(--gold) !important;
+  background-color: var(--tag-gold-muted) !important;
+  border-color: var(--gold-border) !important;
   font-weight: 600 !important;
 }
 
 /* Mobile Drawer Styles */
 .mobileDrawer .MuiDrawer-paper {
-  background-color: #ffffff;
-  border-left: 1.5px solid #e6dfec;
+  background-color: var(--background);
+  border-left: 1.5px solid var(--gold-border);
 }
 
 .drawerPaper {
-  background-color: #ffffff !important;
-  border-left: 1.5px solid #e6dfec !important;
+  background-color: var(--background) !important;
+  border-left: 1.5px solid var(--gold-border) !important;
 }
 
 .drawerHeader {
@@ -100,15 +104,15 @@
   justify-content: space-between;
   align-items: center;
   padding: 16px 20px;
-  border-bottom: 1.5px solid #e6dfec;
-  background-color: #f6f2fa;
+  border-bottom: 1.5px solid var(--gold-border);
+  background-color: var(--dark);
 }
 
 .drawerTitle {
   font-family: "Tenor Sans", serif;
   font-size: 18px;
   font-weight: 700;
-  color: #582c83;
+  color: var(--gold);
 }
 
 .drawerList {
@@ -127,7 +131,7 @@
   font-family: "Tenor Sans", serif;
   font-size: 16px;
   font-weight: 500;
-  color: #8f9bb3;
+  color: var(--text-gray);
   text-decoration: none;
   transition: all 0.3s ease;
   border-radius: 8px;
@@ -135,13 +139,13 @@
 }
 
 .drawerLink:hover {
-  color: #582c83;
-  background-color: #f6f2fa;
+  color: var(--gold);
+  background-color: var(--tag-gold-muted);
 }
 
 .drawerLinkActive {
-  color: #582c83 !important;
-  background-color: #f6f2fa !important;
+  color: var(--gold) !important;
+  background-color: var(--tag-gold-muted) !important;
   font-weight: 600 !important;
 }
 

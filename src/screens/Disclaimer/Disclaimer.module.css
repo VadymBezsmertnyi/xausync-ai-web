@@ -1,0 +1,117 @@
+.container {
+  padding: 40px 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: var(--background);
+  min-height: 100vh;
+  font-family:
+    "Inter",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+  position: relative;
+  overflow: visible;
+}
+
+.mainTitle {
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: var(--gold);
+  margin-bottom: 16px;
+  font-family: "Tenor Sans", serif;
+  letter-spacing: -0.22px;
+  text-align: center;
+}
+
+.title {
+  font-weight: 600;
+  font-size: 2.5rem;
+  color: var(--gold);
+  margin-top: 40px;
+  margin-bottom: 20px;
+  text-align: left;
+  font-family: "Tenor Sans", serif;
+}
+
+.subTitle {
+  font-weight: 600;
+  font-size: 1.3rem;
+  color: var(--gold);
+  margin-top: 24px;
+  margin-bottom: 12px;
+  font-family: "Tenor Sans", serif;
+}
+
+.text {
+  font-weight: 400;
+  font-size: 1rem;
+  color: var(--text-gray);
+  margin-top: 8px;
+  margin-bottom: 16px;
+  line-height: 1.6;
+  font-family: "Inter", sans-serif;
+}
+
+.list {
+  margin-left: 20px;
+  margin-bottom: 16px;
+}
+
+.itemList {
+  font-weight: 400;
+  font-size: 1rem;
+  color: var(--text-gray);
+  margin-top: 8px;
+  margin-bottom: 4px;
+  line-height: 1.5;
+  font-family: "Inter", sans-serif;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 20px 16px;
+  }
+
+  .mainTitle {
+    font-size: 2.5rem;
+  }
+
+  .title {
+    font-size: 2rem;
+  }
+
+  .subTitle {
+    font-size: 1.2rem;
+  }
+
+  .text {
+    font-size: 0.95rem;
+  }
+
+  .itemList {
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .mainTitle {
+    font-size: 2rem;
+  }
+
+  .title {
+    font-size: 1.8rem;
+  }
+
+  .subTitle {
+    font-size: 1.1rem;
+  }
+
+  .text {
+    font-size: 0.9rem;
+  }
+
+  .itemList {
+    font-size: 0.9rem;
+  }
+}

@@ -2,7 +2,6 @@ import React, { FunctionComponent } from "react";
 
 // providers
 import LocalesProvider from "@/localization/localization.provider";
-import ApiProvider from "@/providers/ApiProvider/ApiProvider";
 import LoadingProvider from "@/providers/LoadingProvider/LoadingProvider";
 
 // components
@@ -16,12 +15,10 @@ const Layout: FunctionComponent<LayoutProps> = ({ children }) => {
   return (
     <LocalesProvider>
       <LoadingProvider>
-        <ApiProvider>
-          <>
-            <Header />
-            <main>{children}</main>
-          </>
-        </ApiProvider>
+        <>
+          <Header />
+          <main>{children}</main>
+        </>
       </LoadingProvider>
     </LocalesProvider>
   );
