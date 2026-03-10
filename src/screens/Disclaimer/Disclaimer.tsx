@@ -36,7 +36,7 @@ const Disclaimer: FunctionComponent = () => {
         <meta
           name="description"
           content={i18n._(
-            "XauSync AI Disclaimer - Important information about market analysis risks and the educational nature of our AI-powered educational market analysis application. Understand that all content is for informational purposes only."
+            "XauSync AI Disclaimer - Important information about market analysis risks and the educational nature of our AI-powered market analysis app. All content is for informational purposes only."
           )}
         />
         <meta
@@ -49,7 +49,7 @@ const Disclaimer: FunctionComponent = () => {
         <meta
           property="og:description"
           content={i18n._(
-            "XauSync AI Disclaimer - Important information about market analysis risks and the educational nature of our AI-powered educational market analysis application."
+            "XauSync AI Disclaimer - Important information about market analysis risks and the educational nature of our AI-powered market analysis app."
           )}
         />
         <meta property="og:image" content="/og-image.png" />
@@ -69,7 +69,7 @@ const Disclaimer: FunctionComponent = () => {
         <meta
           name="twitter:description"
           content={i18n._(
-            "XauSync AI Disclaimer - Important information about market analysis risks and the educational nature of our AI-powered educational market analysis application."
+            "XauSync AI Disclaimer - Important information about market analysis risks and the educational nature of our AI-powered market analysis app."
           )}
         />
         <meta name="twitter:image" content="/twitter-image.png" />
@@ -92,7 +92,7 @@ const Disclaimer: FunctionComponent = () => {
           </p>
           <p className={styles.text}>
             {i18n._(
-              `The "{NAME_APP}" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) ("us", "we", or "our"). This disclaimer contains important information about the risks associated with using our educational market analysis and AI-powered services.`,
+              `The "{NAME_APP}" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) ("us", "we", or "our"). This disclaimer contains important information about the risks associated with using our market analysis and AI-powered services.`,
               { NAME_APP }
             )}
           </p>
@@ -108,7 +108,7 @@ const Disclaimer: FunctionComponent = () => {
           {line(
             i18n._("No Investment Advice"),
             i18n._(
-              "The information, analysis, and educational insights provided by {NAME_APP} are for informational and educational purposes only. They do not constitute investment advice, financial advice, trading recommendations, or a solicitation to buy or sell any financial instrument.",
+              "The information, analysis, and insights provided by {NAME_APP} are for informational and educational purposes only. They do not constitute investment advice, financial advice, trading recommendations, or a solicitation to buy or sell any financial instrument.",
               { NAME_APP }
             )
           )}
@@ -145,13 +145,13 @@ const Disclaimer: FunctionComponent = () => {
           {line(
             i18n._("Financial Decisions"),
             i18n._(
-              "All financial decisions are your sole responsibility. You should conduct your own research, consider seeking advice from qualified financial advisors, and never trade with money you cannot afford to lose."
+              "All decisions based on our content are your sole responsibility. You should conduct your own research, consider seeking advice from qualified financial advisors, and never trade with money you cannot afford to lose."
             )
           )}
           {line(
             i18n._("Loss Acknowledgment"),
             i18n._(
-              "You acknowledge and agree that you are solely responsible for any trading losses incurred. {NAME_APP} and its developers shall not be liable for any financial losses resulting from your use of our services.",
+              "You acknowledge and agree that you are solely responsible for any losses incurred. {NAME_APP} and its developers shall not be liable for any financial losses resulting from your use of our services.",
               { NAME_APP }
             )
           )}
@@ -204,7 +204,7 @@ const Disclaimer: FunctionComponent = () => {
           {line(
             i18n._("Leverage Risks"),
             i18n._(
-              "If you use leverage in your trading, be aware that it amplifies both potential outcomes and losses. High leverage can lead to rapid depletion of your trading capital."
+              "If you use leverage in your trading, be aware that it amplifies both potential gains and losses. High leverage can lead to rapid depletion of your capital."
             )
           )}
         </div>
@@ -212,7 +212,7 @@ const Disclaimer: FunctionComponent = () => {
           {line(
             i18n._("Changes to Disclaimer"),
             i18n._(
-              "We may update this disclaimer periodically. All updates will be published on this page with the revised date. Continued use of our services after changes constitutes acceptance of the updated disclaimer."
+              "We may update this disclaimer periodically. All updates will be published on this page with the revised date. Continued use after changes constitutes acceptance of the updated disclaimer."
             )
           )}
           {line(
