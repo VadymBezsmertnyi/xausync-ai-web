@@ -14,12 +14,84 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
+msgid "Permanent removal of any remaining Energy balance - all internal learning currency (Energy) linked to your account will be deleted and cannot be restored"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Removal of Energy purchase information and transaction history within the app"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance or any account-related benefits. All energy credits will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "RevenueCat for Energy purchase management and billing"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "App stores for Energy purchase billing processing"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy Purchases and Payments"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "We use RevenueCat and app stores for Energy purchase management:"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy purchase status and transaction management"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy Purchase Data"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "We store minimal Energy purchase-related information:"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy balance and transaction status"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Purchase dates and transaction information"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "7. Energy Purchases and Payments"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
+msgstr ""
+
+#. js-lingui-explicit-id
 msgid "AI-powered educational market analysis and learning insights"
 msgstr "KI-gestützte Bildungs-Marktanalyse und Lerneinblicke"
 
 #. js-lingui-explicit-id
 msgid "Navigation"
 msgstr "Navigation"
+
+#. js-lingui-explicit-id
+msgid "Home"
+msgstr "Startseite"
+
+#. js-lingui-explicit-id
+msgid "About"
+msgstr "Über uns"
+
+#. js-lingui-explicit-id
+msgid "Privacy Policy"
+msgstr "Datenschutzerklärung"
+
+#. js-lingui-explicit-id
+msgid "Terms of Use"
+msgstr "Nutzungsbedingungen"
 
 #. js-lingui-explicit-id
 msgid "Disclaimer"
@@ -36,6 +108,142 @@ msgstr "Entwickelt von Vadym Bezsmertnyi, Einzelunternehmen (Ukraine)"
 #. js-lingui-explicit-id
 msgid "© {year} {NAME_APP}. All rights reserved."
 msgstr "© {year} {NAME_APP}. Alle Rechte vorbehalten."
+
+#. js-lingui-explicit-id
+msgid "Logo"
+msgstr "Logo"
+
+#. js-lingui-explicit-id
+msgid "Menu"
+msgstr "Menü"
+
+#. js-lingui-explicit-id
+msgid "Select language"
+msgstr "Sprache auswählen"
+
+#. js-lingui-explicit-id
+msgid "Name of the {otherName}"
+msgstr "Name des {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The text must contain a minimum of {min} and a maximum of {max} characters."
+msgstr "Der Text muss mindestens {min} und höchstens {max} Zeichen enthalten."
+
+#. js-lingui-explicit-id
+msgid "The place of the {otherName}"
+msgstr "Der Ort des {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The location of the {otherName} must be selected."
+msgstr "Der Standort des {otherName} muss ausgewählt werden."
+
+#. js-lingui-explicit-id
+msgid "Date of the {otherName}"
+msgstr "Datum des {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The end date must be greater than the start date."
+msgstr "Das Enddatum muss größer als das Startdatum sein."
+
+#. js-lingui-explicit-id
+msgid "Tell us about the {otherName}"
+msgstr "Erzählen Sie uns über den {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Description of the {otherName}"
+msgstr "Beschreibung des {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Phone number the {otherName}"
+msgstr "Telefonnummer des {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter phone number"
+msgstr "Bitte Telefonnummer eingeben"
+
+#. js-lingui-explicit-id
+msgid "Types of {otherName} jobs"
+msgstr "Arten von {otherName} Aufträgen"
+
+#. js-lingui-explicit-id
+msgid "Please select at least one type"
+msgstr "Bitte wählen Sie mindestens einen Typ aus"
+
+#. js-lingui-explicit-id
+msgid "Price {otherName}"
+msgstr "Preis {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter price for {otherName}"
+msgstr "Bitte Preis für {otherName} eingeben"
+
+#. js-lingui-explicit-id
+msgid "Category {otherName}"
+msgstr "Kategorie {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter category for {otherName}"
+msgstr "Bitte Kategorie für {otherName} eingeben"
+
+#. js-lingui-explicit-id
+msgid "Brand {otherName}"
+msgstr "Marke {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter brand for {otherName}"
+msgstr "Bitte Marke für {otherName} eingeben"
+
+#. js-lingui-explicit-id
+msgid "Mileage {otherName}"
+msgstr "Kilometerstand {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter mileage for {otherName}"
+msgstr "Bitte Kilometerstand für {otherName} eingeben"
+
+#. js-lingui-explicit-id
+msgid "Year release {otherName}"
+msgstr "Jahr der Veröffentlichung {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
+msgstr "Bitte Jahr mit Minimum {min} und Maximum {max} für {otherName} eingeben"
+
+#. js-lingui-explicit-id
+msgid "Type fuel {otherName}"
+msgstr "Kraftstoffart {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type fuel for {otherName}"
+msgstr "Bitte Kraftstoffart für {otherName} eingeben"
+
+#. js-lingui-explicit-id
+msgid "Type transmission {otherName}"
+msgstr "Getriebeart {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type transmission for {otherName}"
+msgstr "Bitte Getriebeart für {otherName} eingeben"
+
+#. js-lingui-explicit-id
+msgid "Type parts {otherName}"
+msgstr "Teiletyp {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type parts for {otherName}"
+msgstr "Bitte Teiletyp für {otherName} eingeben"
+
+#. js-lingui-explicit-id
+msgid "Incorrectly entered data"
+msgstr "Falsch eingegebene Daten"
+
+#. js-lingui-explicit-id
+msgid "Images {otherName}"
+msgstr "Bilder {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please add images for {otherName}"
+msgstr "Bitte Bilder für {otherName} hinzufügen"
 
 #. js-lingui-explicit-id
 msgid "About XauSync AI — AI-Powered Market Analysis Education"
@@ -56,6 +264,10 @@ msgstr "Entdecken Sie XauSync AIs intelligente Marktanalyse-Plattform und unser 
 #. js-lingui-explicit-id
 msgid "About XauSync AI - AI-Powered Market Analysis Education Platform"
 msgstr "Über XauSync AI - KI-gestützte Marktanalyse-Bildungsplattform"
+
+#. js-lingui-explicit-id
+msgid "About {NAME_APP}"
+msgstr "Über {NAME_APP}"
 
 #. js-lingui-explicit-id
 msgid "AI-Powered Market Analysis for Learning"
@@ -190,8 +402,16 @@ msgid "Always conduct your own research, consider seeking advice from qualified 
 msgstr "Führen Sie immer eigene Recherchen durch, erwägen Sie die Beratung durch qualifizierte Finanzexperten und riskieren Sie niemals mehr als Sie sich leisten können zu verlieren."
 
 #. js-lingui-explicit-id
+msgid "Get in Touch"
+msgstr "Kontakt aufnehmen"
+
+#. js-lingui-explicit-id
 msgid "We're continuously improving {NAME_APP} based on user feedback and market developments. Have questions, suggestions, or need support? We'd love to hear from you!"
 msgstr "Wir verbessern kontinuierlich {NAME_APP} basierend auf Benutzerfeedback und Marktentwicklungen. Haben Sie Fragen, Vorschläge oder benötigen Support? Wir würden gerne von Ihnen hören!"
+
+#. js-lingui-explicit-id
+msgid "Contact us: {CONTACT_EMAIL}"
+msgstr "Kontaktieren Sie uns: {CONTACT_EMAIL}"
 
 #. js-lingui-explicit-id
 msgid "Thank you for choosing {NAME_APP} for your market analysis studies!"
@@ -216,6 +436,10 @@ msgstr "XauSync AI Haftungsausschluss - Wichtige Informationen über Risiken und
 #. js-lingui-explicit-id
 msgid "XauSync AI Disclaimer"
 msgstr "XauSync AI Haftungsausschluss"
+
+#. js-lingui-explicit-id
+msgid "Last updated:"
+msgstr "Zuletzt aktualisiert:"
 
 #. js-lingui-explicit-id
 msgid "March 10, 2026"
@@ -378,6 +602,10 @@ msgid "We may update this disclaimer periodically. All updates will be published
 msgstr "Wir können diesen Haftungsausschluss regelmäßig aktualisieren. Alle Updates werden auf dieser Seite mit dem überarbeiteten Datum veröffentlicht. Die fortgesetzte Nutzung nach Änderungen stellt die Annahme des aktualisierten Haftungsausschlusses dar."
 
 #. js-lingui-explicit-id
+msgid "Contact Information"
+msgstr "Kontaktinformationen"
+
+#. js-lingui-explicit-id
 msgid "If you have questions about this disclaimer or our services, please contact us at {CONTACT_EMAIL}."
 msgstr "Wenn Sie Fragen zu diesem Haftungsausschluss oder unseren Services haben, kontaktieren Sie uns bitte unter {CONTACT_EMAIL}."
 
@@ -466,20 +694,8 @@ msgid "Permanent removal of your in-app energy balance - all energy credits will
 msgstr "Permanente Entfernung Ihres In-App-Energiesaldos - alle Energieguthaben werden gelöscht und können nicht wiederhergestellt werden"
 
 #. js-lingui-explicit-id
-msgid "Permanent removal of any remaining subscription days or premium access - all active subscriptions linked to your account will be deleted and cannot be restored"
-msgstr "Permanente Entfernung verbleibender Abonnement-Tage oder Premium-Zugang - alle aktiven Abonnements, die mit Ihrem Konto verknüpft sind, werden gelöscht und können nicht wiederhergestellt werden"
-
-#. js-lingui-explicit-id
-msgid "Removal of subscription information and payment history within the app"
-msgstr "Entfernung von Abonnementinformationen und Zahlungshistorie innerhalb der App"
-
-#. js-lingui-explicit-id
 msgid "Important Information"
 msgstr "Wichtige Informationen"
-
-#. js-lingui-explicit-id
-msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance, subscription days, or any account-related benefits. All energy credits, remaining subscription time, and premium access will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
-msgstr "Kontolöschung ist UNUMKEHRBAR. Einmal gelöscht, können Sie Ihre Daten nicht wiederherstellen, Ihr Konto nicht wiederherstellen oder Ihr In-App-Energiesaldo, Abonnement-Tage oder kontobezogene Vorteile nicht wiederherstellen. Alle Energieguthaben, verbleibende Abonnementzeit und Premium-Zugang werden permanent verloren sein. Wenn Sie {NAME_APP} in Zukunft erneut verwenden möchten, müssen Sie ein neues Konto erstellen."
 
 #. js-lingui-explicit-id
 msgid "Need Help?"
@@ -586,6 +802,14 @@ msgid "Download on the App Store"
 msgstr "Im App Store herunterladen"
 
 #. js-lingui-explicit-id
+msgid "Get it on Google Play"
+msgstr "Bei Google Play erhalten"
+
+#. js-lingui-explicit-id
+msgid "Secure & Private"
+msgstr "Sicher & Privat"
+
+#. js-lingui-explicit-id
 msgid "AI-Powered Learning Tools"
 msgstr "KI-gestützte Lernwerkzeuge"
 
@@ -652,6 +876,10 @@ msgstr "XauSync AI Datenschutzerklärung"
 #. js-lingui-explicit-id
 msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our AI-powered educational market analysis app and services (\"Service\")."
 msgstr "Die \"{NAME_APP}\" mobilen und Web-Anwendungen werden entwickelt und betrieben von Vadym Bezsmertnyi, Einzelunternehmen (Ukraine) (\"uns\", \"wir\" oder \"unser\"). Diese Datenschutzerklärung erklärt, wie wir Ihre persönlichen Informationen sammeln, verwenden und schützen, wenn Sie auf unsere KI-gestützte Bildungs-Marktanalyse-App und Services (\"Service\") zugreifen und diese verwenden."
+
+#. js-lingui-explicit-id
+msgid "Information We Collect"
+msgstr "Informationen, die wir sammeln"
 
 #. js-lingui-explicit-id
 msgid "Authentication Data"
@@ -830,10 +1058,6 @@ msgid "Firebase Analytics for usage insights"
 msgstr "Firebase Analytics für Nutzungseinblicke"
 
 #. js-lingui-explicit-id
-msgid "RevenueCat for subscription management and billing"
-msgstr "RevenueCat für Abonnementverwaltung und Abrechnung"
-
-#. js-lingui-explicit-id
 msgid "MetaApi.cloud for real-time market data integration"
 msgstr "MetaApi.cloud für Echtzeit-Marktdaten-Integration"
 
@@ -850,16 +1074,16 @@ msgid "Authentication providers for login verification"
 msgstr "Authentifizierungsanbieter für Login-Verifizierung"
 
 #. js-lingui-explicit-id
-msgid "App stores for subscription billing processing"
-msgstr "App-Stores für Abonnement-Abrechnungsverarbeitung"
-
-#. js-lingui-explicit-id
 msgid "Market data providers for real-time price information"
 msgstr "Marktdatenanbieter für Echtzeit-Preisinformationen"
 
 #. js-lingui-explicit-id
 msgid "Analytics services (anonymous, aggregated data only)"
 msgstr "Analyse-Services (nur anonyme, aggregierte Daten)"
+
+#. js-lingui-explicit-id
+msgid "Data Security"
+msgstr "Datensicherheit"
 
 #. js-lingui-explicit-id
 msgid "Security Measures"
@@ -886,6 +1110,10 @@ msgid "Limited access to user data by authorized personnel only"
 msgstr "Beschränkter Zugriff auf Benutzerdaten nur durch autorisiertes Personal"
 
 #. js-lingui-explicit-id
+msgid "Data Retention"
+msgstr "Datenspeicherung"
+
+#. js-lingui-explicit-id
 msgid "We retain data for a limited period where necessary for legal, security, billing, or operational purposes:"
 msgstr "Wir behalten Daten für einen begrenzten Zeitraum auf, wo es für rechtliche, Sicherheits-, Abrechnungs- oder operative Zwecke notwendig ist:"
 
@@ -908,6 +1136,10 @@ msgstr "Authentifizierungstokens: automatisch aktualisiert und abgelaufen"
 #. js-lingui-explicit-id
 msgid "Your Rights and Choices"
 msgstr "Ihre Rechte und Wahlmöglichkeiten"
+
+#. js-lingui-explicit-id
+msgid "User Rights"
+msgstr "Benutzerrechte"
 
 #. js-lingui-explicit-id
 msgid "You have the following rights regarding your personal data:"
@@ -1010,24 +1242,12 @@ msgid "Revoke notification permission at any time"
 msgstr "Benachrichtigungserlaubnis jederzeit widerrufen"
 
 #. js-lingui-explicit-id
-msgid "Subscriptions and Payments"
-msgstr "Abonnements und Zahlungen"
-
-#. js-lingui-explicit-id
 msgid "Billing Information"
 msgstr "Abrechnungsinformationen"
 
 #. js-lingui-explicit-id
-msgid "We use RevenueCat and app stores for subscription management:"
-msgstr "Wir verwenden RevenueCat und App-Stores für Abonnementverwaltung:"
-
-#. js-lingui-explicit-id
 msgid "Payment processing through App Store and Google Play"
 msgstr "Zahlungsverarbeitung über App Store und Google Play"
-
-#. js-lingui-explicit-id
-msgid "Subscription status and renewal management"
-msgstr "Abonnementstatus und Verlängerungsverwaltung"
 
 #. js-lingui-explicit-id
 msgid "Receipt validation and fraud prevention"
@@ -1036,22 +1256,6 @@ msgstr "Quittungsvalidierung und Betrugsprävention"
 #. js-lingui-explicit-id
 msgid "No credit card information stored on our servers"
 msgstr "Keine Kreditkarteninformationen auf unseren Servern gespeichert"
-
-#. js-lingui-explicit-id
-msgid "Subscription Data"
-msgstr "Abonnementdaten"
-
-#. js-lingui-explicit-id
-msgid "We store minimal subscription-related information:"
-msgstr "Wir speichern minimale abonnementbezogene Informationen:"
-
-#. js-lingui-explicit-id
-msgid "Subscription status and plan type"
-msgstr "Abonnementstatus und Plantyp"
-
-#. js-lingui-explicit-id
-msgid "Purchase dates and renewal information"
-msgstr "Kaufdaten und Verlängerungsinformationen"
 
 #. js-lingui-explicit-id
 msgid "Feature access levels and permissions"
@@ -1088,6 +1292,10 @@ msgstr "Elternkontrollen sind nicht implementiert"
 #. js-lingui-explicit-id
 msgid "If we discover underage users, we delete their data"
 msgstr "Wenn wir minderjährige Benutzer entdecken, löschen wir ihre Daten"
+
+#. js-lingui-explicit-id
+msgid "International Data Transfers"
+msgstr "Internationale Datenübertragungen"
 
 #. js-lingui-explicit-id
 msgid "Global Service"
@@ -1150,6 +1358,10 @@ msgid "\"{NAME_APP}\" mobile and web applications are developed and operated by 
 msgstr "\"{NAME_APP}\" mobile und Web-Anwendungen werden entwickelt und betrieben von Vadym Bezsmertnyi, Einzelunternehmen (Ukraine) (\"uns\", \"wir\" oder \"unser\"). Durch den Zugriff oder die Nutzung unserer KI-gestützten Bildungs-Marktanalyse-App und Web-Services (\"Service\") stimmen Sie (der Benutzer) zu, diese Nutzungsbedingungen einzuhalten und daran gebunden zu sein. Bitte lesen Sie diese Bedingungen sorgfältig vor der Nutzung des Services."
 
 #. js-lingui-explicit-id
+msgid "1. Purpose of the Application"
+msgstr "1. Zweck der Anwendung"
+
+#. js-lingui-explicit-id
 msgid "{NAME_APP} is an AI-powered mobile and web application designed to provide educational market analysis, learning insights, and information for studying XAU/USD (Gold/US Dollar) market behavior. The application offers real-time market data, AI-generated educational insights, technical indicators, pattern recognition, and analytical tools to help users understand market analysis concepts. The service is intended for informational and educational purposes only."
 msgstr "{NAME_APP} ist eine KI-gestützte mobile und Web-Anwendung, die zur Bereitstellung von Bildungs-Marktanalyse, Lerneinblicken und Informationen zum Studium des XAU/USD (Gold/US-Dollar) Marktverhaltens konzipiert wurde. Die Anwendung bietet Echtzeit-Marktdaten, KI-generierte Bildungseinblicke, technische Indikatoren, Mustererkennung und analytische Werkzeuge, um Benutzern beim Verständnis von Marktanalysekonzepten zu helfen. Der Service dient nur Informations- und Bildungszwecken."
 
@@ -1192,14 +1404,6 @@ msgstr "6. Konto-Registrierung und Sicherheit"
 #. js-lingui-explicit-id
 msgid "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use."
 msgstr "Um auf {NAME_APP}-Funktionen zuzugreifen, können Benutzer ein Konto mit E-Mail/Passwort, Google Sign-In oder Apple Sign-In erstellen. Benutzer sind für die Wahrung der Vertraulichkeit ihrer Kontodaten und für alle Aktivitäten, die unter ihrem Konto stattfinden, verantwortlich. Benutzer sollten genaue Informationen bei der Registrierung bereitstellen und uns sofort bei unbefugter Nutzung benachrichtigen."
-
-#. js-lingui-explicit-id
-msgid "7. Subscriptions and Payments"
-msgstr "7. Abonnements und Zahlungen"
-
-#. js-lingui-explicit-id
-msgid "{NAME_APP} offers premium features through subscription plans. Subscriptions are managed through the App Store, Google Play Store, and RevenueCat. Payment processing is handled by the respective app stores. Subscription fees are non-refundable except as required by law or app store policies. Users may manage their subscriptions through their app store account settings."
-msgstr "{NAME_APP} bietet Premium-Funktionen durch Abonnementpläne. Abonnements werden über den App Store, Google Play Store und RevenueCat verwaltet. Die Zahlungsabwicklung wird von den jeweiligen App-Stores gehandhabt. Abonnementgebühren sind nicht erstattungsfähig, außer wie gesetzlich oder durch App Store-Richtlinien erforderlich. Benutzer können ihre Abonnements über ihre App Store-Kontoeinstellungen verwalten."
 
 #. js-lingui-explicit-id
 msgid "8. Acceptable Use"
@@ -1312,207 +1516,3 @@ msgstr "18. Kontaktinformationen"
 #. js-lingui-explicit-id
 msgid "If you have questions about these Terms of Use, please contact us at {CONTACT_EMAIL}."
 msgstr "Wenn Sie Fragen zu diesen Nutzungsbedingungen haben, kontaktieren Sie uns bitte unter {CONTACT_EMAIL}."
-
-#. js-lingui-explicit-id
-msgid "Home"
-msgstr "Startseite"
-
-#. js-lingui-explicit-id
-msgid "About"
-msgstr "Über uns"
-
-#. js-lingui-explicit-id
-msgid "Terms of Use"
-msgstr "Nutzungsbedingungen"
-
-#. js-lingui-explicit-id
-msgid "Privacy Policy"
-msgstr "Datenschutzerklärung"
-
-#. js-lingui-explicit-id
-msgid "Logo"
-msgstr "Logo"
-
-#. js-lingui-explicit-id
-msgid "Menu"
-msgstr "Menü"
-
-#. js-lingui-explicit-id
-msgid "Select language"
-msgstr "Sprache auswählen"
-
-#. js-lingui-explicit-id
-msgid "Name of the {otherName}"
-msgstr "Name des {otherName}"
-
-#. js-lingui-explicit-id
-msgid "The text must contain a minimum of {min} and a maximum of {max} characters."
-msgstr "Der Text muss mindestens {min} und höchstens {max} Zeichen enthalten."
-
-#. js-lingui-explicit-id
-msgid "The place of the {otherName}"
-msgstr "Der Ort des {otherName}"
-
-#. js-lingui-explicit-id
-msgid "The location of the {otherName} must be selected."
-msgstr "Der Standort des {otherName} muss ausgewählt werden."
-
-#. js-lingui-explicit-id
-msgid "Date of the {otherName}"
-msgstr "Datum des {otherName}"
-
-#. js-lingui-explicit-id
-msgid "The end date must be greater than the start date."
-msgstr "Das Enddatum muss größer als das Startdatum sein."
-
-#. js-lingui-explicit-id
-msgid "Tell us about the {otherName}"
-msgstr "Erzählen Sie uns über den {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Description of the {otherName}"
-msgstr "Beschreibung des {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Phone number the {otherName}"
-msgstr "Telefonnummer des {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter phone number"
-msgstr "Bitte Telefonnummer eingeben"
-
-#. js-lingui-explicit-id
-msgid "Types of {otherName} jobs"
-msgstr "Arten von {otherName} Aufträgen"
-
-#. js-lingui-explicit-id
-msgid "Please select at least one type"
-msgstr "Bitte wählen Sie mindestens einen Typ aus"
-
-#. js-lingui-explicit-id
-msgid "Price {otherName}"
-msgstr "Preis {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter price for {otherName}"
-msgstr "Bitte Preis für {otherName} eingeben"
-
-#. js-lingui-explicit-id
-msgid "Category {otherName}"
-msgstr "Kategorie {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter category for {otherName}"
-msgstr "Bitte Kategorie für {otherName} eingeben"
-
-#. js-lingui-explicit-id
-msgid "Brand {otherName}"
-msgstr "Marke {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter brand for {otherName}"
-msgstr "Bitte Marke für {otherName} eingeben"
-
-#. js-lingui-explicit-id
-msgid "Mileage {otherName}"
-msgstr "Kilometerstand {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter mileage for {otherName}"
-msgstr "Bitte Kilometerstand für {otherName} eingeben"
-
-#. js-lingui-explicit-id
-msgid "Year release {otherName}"
-msgstr "Jahr der Veröffentlichung {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
-msgstr "Bitte Jahr mit Minimum {min} und Maximum {max} für {otherName} eingeben"
-
-#. js-lingui-explicit-id
-msgid "Type fuel {otherName}"
-msgstr "Kraftstoffart {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter type fuel for {otherName}"
-msgstr "Bitte Kraftstoffart für {otherName} eingeben"
-
-#. js-lingui-explicit-id
-msgid "Type transmission {otherName}"
-msgstr "Getriebeart {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter type transmission for {otherName}"
-msgstr "Bitte Getriebeart für {otherName} eingeben"
-
-#. js-lingui-explicit-id
-msgid "Type parts {otherName}"
-msgstr "Teiletyp {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter type parts for {otherName}"
-msgstr "Bitte Teiletyp für {otherName} eingeben"
-
-#. js-lingui-explicit-id
-msgid "Incorrectly entered data"
-msgstr "Falsch eingegebene Daten"
-
-#. js-lingui-explicit-id
-msgid "Images {otherName}"
-msgstr "Bilder {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please add images for {otherName}"
-msgstr "Bitte Bilder für {otherName} hinzufügen"
-
-#. js-lingui-explicit-id
-msgid "About {NAME_APP}"
-msgstr "Über {NAME_APP}"
-
-#. js-lingui-explicit-id
-msgid "Get in Touch"
-msgstr "Kontakt aufnehmen"
-
-#. js-lingui-explicit-id
-msgid "Contact us: {CONTACT_EMAIL}"
-msgstr "Kontaktieren Sie uns: {CONTACT_EMAIL}"
-
-#. js-lingui-explicit-id
-msgid "Get it on Google Play"
-msgstr "Bei Google Play erhalten"
-
-#. js-lingui-explicit-id
-msgid "Secure & Private"
-msgstr "Sicher & Privat"
-
-#. js-lingui-explicit-id
-msgid "Last updated:"
-msgstr "Zuletzt aktualisiert:"
-
-#. js-lingui-explicit-id
-msgid "Information We Collect"
-msgstr "Informationen, die wir sammeln"
-
-#. js-lingui-explicit-id
-msgid "Data Security"
-msgstr "Datensicherheit"
-
-#. js-lingui-explicit-id
-msgid "International Data Transfers"
-msgstr "Internationale Datenübertragungen"
-
-#. js-lingui-explicit-id
-msgid "Data Retention"
-msgstr "Datenspeicherung"
-
-#. js-lingui-explicit-id
-msgid "User Rights"
-msgstr "Benutzerrechte"
-
-#. js-lingui-explicit-id
-msgid "Contact Information"
-msgstr "Kontaktinformationen"
-
-#. js-lingui-explicit-id
-msgid "1. Purpose of the Application"
-msgstr "1. Zweck der Anwendung"

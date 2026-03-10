@@ -14,12 +14,84 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
+msgid "Permanent removal of any remaining Energy balance - all internal learning currency (Energy) linked to your account will be deleted and cannot be restored"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Removal of Energy purchase information and transaction history within the app"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance or any account-related benefits. All energy credits will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "RevenueCat for Energy purchase management and billing"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "App stores for Energy purchase billing processing"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy Purchases and Payments"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "We use RevenueCat and app stores for Energy purchase management:"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy purchase status and transaction management"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy Purchase Data"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "We store minimal Energy purchase-related information:"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy balance and transaction status"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Purchase dates and transaction information"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "7. Energy Purchases and Payments"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
+msgstr ""
+
+#. js-lingui-explicit-id
 msgid "AI-powered educational market analysis and learning insights"
 msgstr "Analiză de piață educațională asistată de AI și perspective de învățare"
 
 #. js-lingui-explicit-id
 msgid "Navigation"
 msgstr "Navigare"
+
+#. js-lingui-explicit-id
+msgid "Home"
+msgstr "Acasă"
+
+#. js-lingui-explicit-id
+msgid "About"
+msgstr "Despre"
+
+#. js-lingui-explicit-id
+msgid "Privacy Policy"
+msgstr "Politică de Confidențialitate"
+
+#. js-lingui-explicit-id
+msgid "Terms of Use"
+msgstr "Termeni de Utilizare"
 
 #. js-lingui-explicit-id
 msgid "Disclaimer"
@@ -36,6 +108,142 @@ msgstr "Dezvoltat de Vadym Bezsmertnyi, Proprietar Unic (Ucraina)"
 #. js-lingui-explicit-id
 msgid "© {year} {NAME_APP}. All rights reserved."
 msgstr "© {year} {NAME_APP}. Toate drepturile rezervate."
+
+#. js-lingui-explicit-id
+msgid "Logo"
+msgstr "Logo"
+
+#. js-lingui-explicit-id
+msgid "Menu"
+msgstr "Meniu"
+
+#. js-lingui-explicit-id
+msgid "Select language"
+msgstr "Selectați limba"
+
+#. js-lingui-explicit-id
+msgid "Name of the {otherName}"
+msgstr "Numele {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The text must contain a minimum of {min} and a maximum of {max} characters."
+msgstr "Textul trebuie să conțină minimum {min} și maximum {max} caractere."
+
+#. js-lingui-explicit-id
+msgid "The place of the {otherName}"
+msgstr "Locul {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The location of the {otherName} must be selected."
+msgstr "Locația {otherName} trebuie selectată."
+
+#. js-lingui-explicit-id
+msgid "Date of the {otherName}"
+msgstr "Data {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The end date must be greater than the start date."
+msgstr "Data de sfârșit trebuie să fie mai mare decât data de început."
+
+#. js-lingui-explicit-id
+msgid "Tell us about the {otherName}"
+msgstr "Spuneți-ne despre {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Description of the {otherName}"
+msgstr "Descrierea {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Phone number the {otherName}"
+msgstr "Numărul de telefon {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter phone number"
+msgstr "Vă rugăm să introduceți numărul de telefon"
+
+#. js-lingui-explicit-id
+msgid "Types of {otherName} jobs"
+msgstr "Tipuri de locuri de muncă {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please select at least one type"
+msgstr "Vă rugăm să selectați cel puțin un tip"
+
+#. js-lingui-explicit-id
+msgid "Price {otherName}"
+msgstr "Preț {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter price for {otherName}"
+msgstr "Vă rugăm să introduceți prețul pentru {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Category {otherName}"
+msgstr "Categorie {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter category for {otherName}"
+msgstr "Vă rugăm să introduceți categoria pentru {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Brand {otherName}"
+msgstr "Marcă {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter brand for {otherName}"
+msgstr "Vă rugăm să introduceți marca pentru {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Mileage {otherName}"
+msgstr "Kilometraj {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter mileage for {otherName}"
+msgstr "Vă rugăm să introduceți kilometrajul pentru {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Year release {otherName}"
+msgstr "Anul lansării {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
+msgstr "Vă rugăm să introduceți anul minim de {min} și maxim de {max} pentru {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type fuel {otherName}"
+msgstr "Tip combustibil {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type fuel for {otherName}"
+msgstr "Vă rugăm să introduceți tipul de combustibil pentru {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type transmission {otherName}"
+msgstr "Tip transmisie {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type transmission for {otherName}"
+msgstr "Vă rugăm să introduceți tipul de transmisie pentru {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type parts {otherName}"
+msgstr "Tip piese {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type parts for {otherName}"
+msgstr "Vă rugăm să introduceți tipul de piese pentru {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Incorrectly entered data"
+msgstr "Date introduse incorect"
+
+#. js-lingui-explicit-id
+msgid "Images {otherName}"
+msgstr "Imagini {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please add images for {otherName}"
+msgstr "Vă rugăm să adăugați imagini pentru {otherName}"
 
 #. js-lingui-explicit-id
 msgid "About XauSync AI — AI-Powered Market Analysis Education"
@@ -56,6 +264,10 @@ msgstr "Descoperiți platforma inteligentă de analiză a pieței XauSync AI și
 #. js-lingui-explicit-id
 msgid "About XauSync AI - AI-Powered Market Analysis Education Platform"
 msgstr "Despre XauSync AI - Platformă educațională de analiză a pieței asistată de AI"
+
+#. js-lingui-explicit-id
+msgid "About {NAME_APP}"
+msgstr "Despre {NAME_APP}"
 
 #. js-lingui-explicit-id
 msgid "AI-Powered Market Analysis for Learning"
@@ -190,8 +402,16 @@ msgid "Always conduct your own research, consider seeking advice from qualified 
 msgstr "Întotdeauna efectuați propriile cercetări, luați în considerare consultarea unui profesionist financiar calificat și nu riscați niciodată mai mult decât vă puteți permite să pierdeți."
 
 #. js-lingui-explicit-id
+msgid "Get in Touch"
+msgstr "Contactați-ne"
+
+#. js-lingui-explicit-id
 msgid "We're continuously improving {NAME_APP} based on user feedback and market developments. Have questions, suggestions, or need support? We'd love to hear from you!"
 msgstr "Îmbunătățim continuu {NAME_APP} pe baza feedback-ului utilizatorilor și a evoluțiilor pieței. Aveți întrebări, sugestii sau aveți nevoie de suport? Ne-ar plăcea să auzim de la dvs.!"
+
+#. js-lingui-explicit-id
+msgid "Contact us: {CONTACT_EMAIL}"
+msgstr "Contactați-ne: {CONTACT_EMAIL}"
 
 #. js-lingui-explicit-id
 msgid "Thank you for choosing {NAME_APP} for your market analysis studies!"
@@ -216,6 +436,10 @@ msgstr "Declinare de responsabilitate XauSync AI - Informații importante despre
 #. js-lingui-explicit-id
 msgid "XauSync AI Disclaimer"
 msgstr "Declinare de responsabilitate XauSync AI"
+
+#. js-lingui-explicit-id
+msgid "Last updated:"
+msgstr "Ultima actualizare:"
 
 #. js-lingui-explicit-id
 msgid "March 10, 2026"
@@ -378,6 +602,10 @@ msgid "We may update this disclaimer periodically. All updates will be published
 msgstr "Putem actualiza această declinare de responsabilitate periodic. Toate actualizările vor fi publicate pe această pagină cu data revizuită. Continuarea utilizării după modificări constituie acceptarea declinării de responsabilitate actualizate."
 
 #. js-lingui-explicit-id
+msgid "Contact Information"
+msgstr "Informații de Contact"
+
+#. js-lingui-explicit-id
 msgid "If you have questions about this disclaimer or our services, please contact us at {CONTACT_EMAIL}."
 msgstr "Dacă aveți întrebări despre această declinare de responsabilitate sau despre serviciile noastre, vă rugăm să ne contactați la {CONTACT_EMAIL}."
 
@@ -466,20 +694,8 @@ msgid "Permanent removal of your in-app energy balance - all energy credits will
 msgstr "Eliminarea permanentă a soldului dvs. de energie din aplicație - toate creditele de energie vor fi șterse și nu pot fi restaurate"
 
 #. js-lingui-explicit-id
-msgid "Permanent removal of any remaining subscription days or premium access - all active subscriptions linked to your account will be deleted and cannot be restored"
-msgstr "Eliminarea permanentă a oricăror zile rămase de abonament sau acces premium - toate abonamentele active legate de contul dvs. vor fi șterse și nu pot fi restaurate"
-
-#. js-lingui-explicit-id
-msgid "Removal of subscription information and payment history within the app"
-msgstr "Eliminarea informațiilor despre abonamente și a istoricului de plăți din aplicație"
-
-#. js-lingui-explicit-id
 msgid "Important Information"
 msgstr "Informații importante"
-
-#. js-lingui-explicit-id
-msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance, subscription days, or any account-related benefits. All energy credits, remaining subscription time, and premium access will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
-msgstr "Ștergerea contului este IRREVERSIBILĂ. Odată șters, nu puteți recupera datele dvs., restaura contul sau recupera soldul de energie din aplicație, zilele de abonament sau orice beneficii legate de cont. Toate creditele de energie, timpul rămas de abonament și accesul premium vor fi pierdute permanent. Dacă doriți să utilizați {NAME_APP} din nou în viitor, va trebui să creați un cont nou."
 
 #. js-lingui-explicit-id
 msgid "Need Help?"
@@ -586,6 +802,14 @@ msgid "Download on the App Store"
 msgstr "Descarcă din App Store"
 
 #. js-lingui-explicit-id
+msgid "Get it on Google Play"
+msgstr "Obțineți-l pe Google Play"
+
+#. js-lingui-explicit-id
+msgid "Secure & Private"
+msgstr "Sigur și Privat"
+
+#. js-lingui-explicit-id
 msgid "AI-Powered Learning Tools"
 msgstr "Instrumente de învățare asistate de AI"
 
@@ -652,6 +876,10 @@ msgstr "Politica de confidențialitate XauSync AI"
 #. js-lingui-explicit-id
 msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our AI-powered educational market analysis app and services (\"Service\")."
 msgstr "Aplicațiile mobile și web \"{NAME_APP}\" sunt dezvoltate și operate de Vadym Bezsmertnyi, Proprietar Unic (Ucraina) (\"noi\", \"ne\", sau \"nostru\"). Această Politică de confidențialitate explică cum colectăm, folosim și protejăm informațiile dvs. personale atunci când accesați și utilizați aplicația și serviciile noastre de analiză a pieței educațională asistată de AI (\"Serviciu\")."
+
+#. js-lingui-explicit-id
+msgid "Information We Collect"
+msgstr "Informații pe care le Colectăm"
 
 #. js-lingui-explicit-id
 msgid "Authentication Data"
@@ -830,10 +1058,6 @@ msgid "Firebase Analytics for usage insights"
 msgstr "Firebase Analytics pentru informații despre utilizare"
 
 #. js-lingui-explicit-id
-msgid "RevenueCat for subscription management and billing"
-msgstr "RevenueCat pentru gestionarea abonamentelor și facturare"
-
-#. js-lingui-explicit-id
 msgid "MetaApi.cloud for real-time market data integration"
 msgstr "MetaApi.cloud pentru integrarea datelor de piață în timp real"
 
@@ -850,16 +1074,16 @@ msgid "Authentication providers for login verification"
 msgstr "Furnizorii de autentificare pentru verificarea conectării"
 
 #. js-lingui-explicit-id
-msgid "App stores for subscription billing processing"
-msgstr "Magazinele de aplicații pentru procesarea facturării abonamentelor"
-
-#. js-lingui-explicit-id
 msgid "Market data providers for real-time price information"
 msgstr "Furnizorii de date de piață pentru informații despre prețuri în timp real"
 
 #. js-lingui-explicit-id
 msgid "Analytics services (anonymous, aggregated data only)"
 msgstr "Servicii de analiză (doar date anonime și agregate)"
+
+#. js-lingui-explicit-id
+msgid "Data Security"
+msgstr "Securitatea Datelor"
 
 #. js-lingui-explicit-id
 msgid "Security Measures"
@@ -886,6 +1110,10 @@ msgid "Limited access to user data by authorized personnel only"
 msgstr "Acces limitat la datele utilizatorilor doar pentru personalul autorizat"
 
 #. js-lingui-explicit-id
+msgid "Data Retention"
+msgstr "Păstrarea Datelor"
+
+#. js-lingui-explicit-id
 msgid "We retain data for a limited period where necessary for legal, security, billing, or operational purposes:"
 msgstr "Păstrăm datele pentru o perioadă limitată atunci când este necesar pentru scopuri legale, de securitate, de facturare sau operaționale:"
 
@@ -908,6 +1136,10 @@ msgstr "Tokenurile de autentificare: reîmprospătate și expirate automat"
 #. js-lingui-explicit-id
 msgid "Your Rights and Choices"
 msgstr "Drepturile și opțiunile dvs."
+
+#. js-lingui-explicit-id
+msgid "User Rights"
+msgstr "Drepturile Utilizatorului"
 
 #. js-lingui-explicit-id
 msgid "You have the following rights regarding your personal data:"
@@ -1010,24 +1242,12 @@ msgid "Revoke notification permission at any time"
 msgstr "Revocați permisiunea de notificare în orice moment"
 
 #. js-lingui-explicit-id
-msgid "Subscriptions and Payments"
-msgstr "Abonamente și plăți"
-
-#. js-lingui-explicit-id
 msgid "Billing Information"
 msgstr "Informații de facturare"
 
 #. js-lingui-explicit-id
-msgid "We use RevenueCat and app stores for subscription management:"
-msgstr "Folosim RevenueCat și magazinele de aplicații pentru gestionarea abonamentelor:"
-
-#. js-lingui-explicit-id
 msgid "Payment processing through App Store and Google Play"
 msgstr "Procesarea plăților prin App Store și Google Play"
-
-#. js-lingui-explicit-id
-msgid "Subscription status and renewal management"
-msgstr "Gestionarea stării abonamentului și a reînnoirii"
 
 #. js-lingui-explicit-id
 msgid "Receipt validation and fraud prevention"
@@ -1036,22 +1256,6 @@ msgstr "Validarea chitanțelor și prevenirea fraudei"
 #. js-lingui-explicit-id
 msgid "No credit card information stored on our servers"
 msgstr "Nicio informație despre cardul de credit nu este stocată pe serverele noastre"
-
-#. js-lingui-explicit-id
-msgid "Subscription Data"
-msgstr "Datele abonamentului"
-
-#. js-lingui-explicit-id
-msgid "We store minimal subscription-related information:"
-msgstr "Stocăm informații minime legate de abonament:"
-
-#. js-lingui-explicit-id
-msgid "Subscription status and plan type"
-msgstr "Starea abonamentului și tipul planului"
-
-#. js-lingui-explicit-id
-msgid "Purchase dates and renewal information"
-msgstr "Datele achizițiilor și informațiile despre reînnoire"
 
 #. js-lingui-explicit-id
 msgid "Feature access levels and permissions"
@@ -1088,6 +1292,10 @@ msgstr "Controalele parentale nu sunt implementate"
 #. js-lingui-explicit-id
 msgid "If we discover underage users, we delete their data"
 msgstr "Dacă descoperim utilizatori minori, ștergem datele lor"
+
+#. js-lingui-explicit-id
+msgid "International Data Transfers"
+msgstr "Transferuri Internaționale de Date"
 
 #. js-lingui-explicit-id
 msgid "Global Service"
@@ -1150,6 +1358,10 @@ msgid "\"{NAME_APP}\" mobile and web applications are developed and operated by 
 msgstr "Aplicațiile mobile și web \"{NAME_APP}\" sunt dezvoltate și operate de Vadym Bezsmertnyi, Proprietar Unic (Ucraina) (\"noi\", \"ne\", sau \"nostru\"). Prin accesarea sau utilizarea aplicației noastre de analiză a pieței educațională asistată de AI și a serviciilor web (\"Serviciu\"), dvs. (Utilizatorul) sunteți de acord să respectați și să fiți legat de acești Termeni de utilizare. Vă rugăm să citiți acești termeni cu atenție înainte de a utiliza serviciul."
 
 #. js-lingui-explicit-id
+msgid "1. Purpose of the Application"
+msgstr "1. Scopul Aplicației"
+
+#. js-lingui-explicit-id
 msgid "{NAME_APP} is an AI-powered mobile and web application designed to provide educational market analysis, learning insights, and information for studying XAU/USD (Gold/US Dollar) market behavior. The application offers real-time market data, AI-generated educational insights, technical indicators, pattern recognition, and analytical tools to help users understand market analysis concepts. The service is intended for informational and educational purposes only."
 msgstr "{NAME_APP} este o aplicație mobilă și web asistată de AI, concepută pentru a oferi analiză educațională a pieței, perspective de învățare și informații pentru studiul comportamentului pieței XAU/USD (Aur/Dolar SUA). Aplicația oferă date de piață în timp real, perspective educaționale generate de AI, indicatori tehnici, recunoaștere de modele și instrumente analitice pentru a ajuta utilizatorii să înțeleagă conceptele de analiză a pieței. Serviciul este destinat doar pentru scopuri informative și educaționale."
 
@@ -1192,14 +1404,6 @@ msgstr "6. Înregistrarea și securitatea contului"
 #. js-lingui-explicit-id
 msgid "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use."
 msgstr "Pentru a accesa funcțiile {NAME_APP}, utilizatorii pot crea un cont folosind email/parolă, Google Sign-In sau Apple Sign-In. Utilizatorii sunt responsabili pentru menținerea confidențialității datelor de autentificare a contului și pentru toate activitățile care au loc sub contul lor. Utilizatorii ar trebui să furnizeze informații exacte în timpul înregistrării și să ne notifice imediat despre orice utilizare neautorizată."
-
-#. js-lingui-explicit-id
-msgid "7. Subscriptions and Payments"
-msgstr "7. Abonamente și plăți"
-
-#. js-lingui-explicit-id
-msgid "{NAME_APP} offers premium features through subscription plans. Subscriptions are managed through the App Store, Google Play Store, and RevenueCat. Payment processing is handled by the respective app stores. Subscription fees are non-refundable except as required by law or app store policies. Users may manage their subscriptions through their app store account settings."
-msgstr "{NAME_APP} oferă funcții premium prin planuri de abonament. Abonamentele sunt gestionate prin App Store, Google Play Store și RevenueCat. Procesarea plăților este gestionată de magazinele de aplicații respective. Taxele de abonament nu sunt rambursabile, cu excepția cazurilor prevăzute de lege sau de politicile magazinului de aplicații. Utilizatorii își pot gestiona abonamentele prin setările contului lor din magazinul de aplicații."
 
 #. js-lingui-explicit-id
 msgid "8. Acceptable Use"
@@ -1312,207 +1516,3 @@ msgstr "18. Informații de contact"
 #. js-lingui-explicit-id
 msgid "If you have questions about these Terms of Use, please contact us at {CONTACT_EMAIL}."
 msgstr "Dacă aveți întrebări despre acești Termeni de utilizare, vă rugăm să ne contactați la {CONTACT_EMAIL}."
-
-#. js-lingui-explicit-id
-msgid "Home"
-msgstr "Acasă"
-
-#. js-lingui-explicit-id
-msgid "About"
-msgstr "Despre"
-
-#. js-lingui-explicit-id
-msgid "Terms of Use"
-msgstr "Termeni de Utilizare"
-
-#. js-lingui-explicit-id
-msgid "Privacy Policy"
-msgstr "Politică de Confidențialitate"
-
-#. js-lingui-explicit-id
-msgid "Logo"
-msgstr "Logo"
-
-#. js-lingui-explicit-id
-msgid "Menu"
-msgstr "Meniu"
-
-#. js-lingui-explicit-id
-msgid "Select language"
-msgstr "Selectați limba"
-
-#. js-lingui-explicit-id
-msgid "Name of the {otherName}"
-msgstr "Numele {otherName}"
-
-#. js-lingui-explicit-id
-msgid "The text must contain a minimum of {min} and a maximum of {max} characters."
-msgstr "Textul trebuie să conțină minimum {min} și maximum {max} caractere."
-
-#. js-lingui-explicit-id
-msgid "The place of the {otherName}"
-msgstr "Locul {otherName}"
-
-#. js-lingui-explicit-id
-msgid "The location of the {otherName} must be selected."
-msgstr "Locația {otherName} trebuie selectată."
-
-#. js-lingui-explicit-id
-msgid "Date of the {otherName}"
-msgstr "Data {otherName}"
-
-#. js-lingui-explicit-id
-msgid "The end date must be greater than the start date."
-msgstr "Data de sfârșit trebuie să fie mai mare decât data de început."
-
-#. js-lingui-explicit-id
-msgid "Tell us about the {otherName}"
-msgstr "Spuneți-ne despre {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Description of the {otherName}"
-msgstr "Descrierea {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Phone number the {otherName}"
-msgstr "Numărul de telefon {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter phone number"
-msgstr "Vă rugăm să introduceți numărul de telefon"
-
-#. js-lingui-explicit-id
-msgid "Types of {otherName} jobs"
-msgstr "Tipuri de locuri de muncă {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please select at least one type"
-msgstr "Vă rugăm să selectați cel puțin un tip"
-
-#. js-lingui-explicit-id
-msgid "Price {otherName}"
-msgstr "Preț {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter price for {otherName}"
-msgstr "Vă rugăm să introduceți prețul pentru {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Category {otherName}"
-msgstr "Categorie {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter category for {otherName}"
-msgstr "Vă rugăm să introduceți categoria pentru {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Brand {otherName}"
-msgstr "Marcă {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter brand for {otherName}"
-msgstr "Vă rugăm să introduceți marca pentru {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Mileage {otherName}"
-msgstr "Kilometraj {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter mileage for {otherName}"
-msgstr "Vă rugăm să introduceți kilometrajul pentru {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Year release {otherName}"
-msgstr "Anul lansării {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
-msgstr "Vă rugăm să introduceți anul minim de {min} și maxim de {max} pentru {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Type fuel {otherName}"
-msgstr "Tip combustibil {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter type fuel for {otherName}"
-msgstr "Vă rugăm să introduceți tipul de combustibil pentru {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Type transmission {otherName}"
-msgstr "Tip transmisie {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter type transmission for {otherName}"
-msgstr "Vă rugăm să introduceți tipul de transmisie pentru {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Type parts {otherName}"
-msgstr "Tip piese {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter type parts for {otherName}"
-msgstr "Vă rugăm să introduceți tipul de piese pentru {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Incorrectly entered data"
-msgstr "Date introduse incorect"
-
-#. js-lingui-explicit-id
-msgid "Images {otherName}"
-msgstr "Imagini {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please add images for {otherName}"
-msgstr "Vă rugăm să adăugați imagini pentru {otherName}"
-
-#. js-lingui-explicit-id
-msgid "About {NAME_APP}"
-msgstr "Despre {NAME_APP}"
-
-#. js-lingui-explicit-id
-msgid "Get in Touch"
-msgstr "Contactați-ne"
-
-#. js-lingui-explicit-id
-msgid "Contact us: {CONTACT_EMAIL}"
-msgstr "Contactați-ne: {CONTACT_EMAIL}"
-
-#. js-lingui-explicit-id
-msgid "Get it on Google Play"
-msgstr "Obțineți-l pe Google Play"
-
-#. js-lingui-explicit-id
-msgid "Secure & Private"
-msgstr "Sigur și Privat"
-
-#. js-lingui-explicit-id
-msgid "Last updated:"
-msgstr "Ultima actualizare:"
-
-#. js-lingui-explicit-id
-msgid "Information We Collect"
-msgstr "Informații pe care le Colectăm"
-
-#. js-lingui-explicit-id
-msgid "Data Security"
-msgstr "Securitatea Datelor"
-
-#. js-lingui-explicit-id
-msgid "International Data Transfers"
-msgstr "Transferuri Internaționale de Date"
-
-#. js-lingui-explicit-id
-msgid "Data Retention"
-msgstr "Păstrarea Datelor"
-
-#. js-lingui-explicit-id
-msgid "User Rights"
-msgstr "Drepturile Utilizatorului"
-
-#. js-lingui-explicit-id
-msgid "Contact Information"
-msgstr "Informații de Contact"
-
-#. js-lingui-explicit-id
-msgid "1. Purpose of the Application"
-msgstr "1. Scopul Aplicației"

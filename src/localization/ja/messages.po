@@ -14,12 +14,84 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
+msgid "Permanent removal of any remaining Energy balance - all internal learning currency (Energy) linked to your account will be deleted and cannot be restored"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Removal of Energy purchase information and transaction history within the app"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance or any account-related benefits. All energy credits will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "RevenueCat for Energy purchase management and billing"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "App stores for Energy purchase billing processing"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy Purchases and Payments"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "We use RevenueCat and app stores for Energy purchase management:"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy purchase status and transaction management"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy Purchase Data"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "We store minimal Energy purchase-related information:"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy balance and transaction status"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Purchase dates and transaction information"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "7. Energy Purchases and Payments"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
+msgstr ""
+
+#. js-lingui-explicit-id
 msgid "AI-powered educational market analysis and learning insights"
 msgstr "AI駆動の教育的市場分析と学習インサイト"
 
 #. js-lingui-explicit-id
 msgid "Navigation"
 msgstr "ナビゲーション"
+
+#. js-lingui-explicit-id
+msgid "Home"
+msgstr "ホーム"
+
+#. js-lingui-explicit-id
+msgid "About"
+msgstr "について"
+
+#. js-lingui-explicit-id
+msgid "Privacy Policy"
+msgstr "プライバシーポリシー"
+
+#. js-lingui-explicit-id
+msgid "Terms of Use"
+msgstr "利用規約"
 
 #. js-lingui-explicit-id
 msgid "Disclaimer"
@@ -36,6 +108,142 @@ msgstr "Vadym Bezsmertnyi、個人事業主（ウクライナ）によって開�
 #. js-lingui-explicit-id
 msgid "© {year} {NAME_APP}. All rights reserved."
 msgstr "© {year} {NAME_APP}. 全権利留保。"
+
+#. js-lingui-explicit-id
+msgid "Logo"
+msgstr "ロゴ"
+
+#. js-lingui-explicit-id
+msgid "Menu"
+msgstr "メニュー"
+
+#. js-lingui-explicit-id
+msgid "Select language"
+msgstr "言語を選択"
+
+#. js-lingui-explicit-id
+msgid "Name of the {otherName}"
+msgstr "{otherName}の名前"
+
+#. js-lingui-explicit-id
+msgid "The text must contain a minimum of {min} and a maximum of {max} characters."
+msgstr "テキストは最低{min}文字、最大{max}文字である必要があります。"
+
+#. js-lingui-explicit-id
+msgid "The place of the {otherName}"
+msgstr "{otherName}の場所"
+
+#. js-lingui-explicit-id
+msgid "The location of the {otherName} must be selected."
+msgstr "{otherName}の場所を選択する必要があります。"
+
+#. js-lingui-explicit-id
+msgid "Date of the {otherName}"
+msgstr "{otherName}の日付"
+
+#. js-lingui-explicit-id
+msgid "The end date must be greater than the start date."
+msgstr "終了日は開始日より後である必要があります。"
+
+#. js-lingui-explicit-id
+msgid "Tell us about the {otherName}"
+msgstr "{otherName}について教えてください"
+
+#. js-lingui-explicit-id
+msgid "Description of the {otherName}"
+msgstr "{otherName}の説明"
+
+#. js-lingui-explicit-id
+msgid "Phone number the {otherName}"
+msgstr "{otherName}の電話番号"
+
+#. js-lingui-explicit-id
+msgid "Please enter phone number"
+msgstr "電話番号を入力してください"
+
+#. js-lingui-explicit-id
+msgid "Types of {otherName} jobs"
+msgstr "{otherName}の仕事の種類"
+
+#. js-lingui-explicit-id
+msgid "Please select at least one type"
+msgstr "少なくとも1つのタイプを選択してください"
+
+#. js-lingui-explicit-id
+msgid "Price {otherName}"
+msgstr "{otherName}の価格"
+
+#. js-lingui-explicit-id
+msgid "Please enter price for {otherName}"
+msgstr "{otherName}の価格を入力してください"
+
+#. js-lingui-explicit-id
+msgid "Category {otherName}"
+msgstr "{otherName}のカテゴリー"
+
+#. js-lingui-explicit-id
+msgid "Please enter category for {otherName}"
+msgstr "{otherName}のカテゴリーを入力してください"
+
+#. js-lingui-explicit-id
+msgid "Brand {otherName}"
+msgstr "{otherName}のブランド"
+
+#. js-lingui-explicit-id
+msgid "Please enter brand for {otherName}"
+msgstr "{otherName}のブランドを入力してください"
+
+#. js-lingui-explicit-id
+msgid "Mileage {otherName}"
+msgstr "{otherName}の走行距離"
+
+#. js-lingui-explicit-id
+msgid "Please enter mileage for {otherName}"
+msgstr "{otherName}の走行距離を入力してください"
+
+#. js-lingui-explicit-id
+msgid "Year release {otherName}"
+msgstr "{otherName}の発売年"
+
+#. js-lingui-explicit-id
+msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
+msgstr "{otherName}の年を最低{min}年、最大{max}年で入力してください"
+
+#. js-lingui-explicit-id
+msgid "Type fuel {otherName}"
+msgstr "{otherName}の燃料タイプ"
+
+#. js-lingui-explicit-id
+msgid "Please enter type fuel for {otherName}"
+msgstr "{otherName}の燃料タイプを入力してください"
+
+#. js-lingui-explicit-id
+msgid "Type transmission {otherName}"
+msgstr "{otherName}のトランスミッションタイプ"
+
+#. js-lingui-explicit-id
+msgid "Please enter type transmission for {otherName}"
+msgstr "{otherName}のトランスミッションタイプを入力してください"
+
+#. js-lingui-explicit-id
+msgid "Type parts {otherName}"
+msgstr "{otherName}の部品タイプ"
+
+#. js-lingui-explicit-id
+msgid "Please enter type parts for {otherName}"
+msgstr "{otherName}の部品タイプを入力してください"
+
+#. js-lingui-explicit-id
+msgid "Incorrectly entered data"
+msgstr "入力データが正しくありません"
+
+#. js-lingui-explicit-id
+msgid "Images {otherName}"
+msgstr "{otherName}の画像"
+
+#. js-lingui-explicit-id
+msgid "Please add images for {otherName}"
+msgstr "{otherName}の画像を追加してください"
 
 #. js-lingui-explicit-id
 msgid "About XauSync AI — AI-Powered Market Analysis Education"
@@ -56,6 +264,10 @@ msgstr "XauSync AIのインテリジェント市場分析プラットフォー�
 #. js-lingui-explicit-id
 msgid "About XauSync AI - AI-Powered Market Analysis Education Platform"
 msgstr "XauSync AIについて - AI駆動市場分析教育プラットフォーム"
+
+#. js-lingui-explicit-id
+msgid "About {NAME_APP}"
+msgstr "{NAME_APP}について"
 
 #. js-lingui-explicit-id
 msgid "AI-Powered Market Analysis for Learning"
@@ -190,8 +402,16 @@ msgid "Always conduct your own research, consider seeking advice from qualified 
 msgstr "常に自身の研究を行い、資格のある金融専門家の助言を求めることを検討し、失ってもよい以上のリスクを負わないでください。"
 
 #. js-lingui-explicit-id
+msgid "Get in Touch"
+msgstr "お問い合わせ"
+
+#. js-lingui-explicit-id
 msgid "We're continuously improving {NAME_APP} based on user feedback and market developments. Have questions, suggestions, or need support? We'd love to hear from you!"
 msgstr "私たちはユーザーフィードバックと市場開発に基づいて{NAME_APP}を継続的に改善しています。質問、提案、またはサポートが必要ですか？ぜひお聞かせください！"
+
+#. js-lingui-explicit-id
+msgid "Contact us: {CONTACT_EMAIL}"
+msgstr "お問い合わせ：{CONTACT_EMAIL}"
 
 #. js-lingui-explicit-id
 msgid "Thank you for choosing {NAME_APP} for your market analysis studies!"
@@ -216,6 +436,10 @@ msgstr "XauSync AI免責事項 - 私たちのAI駆動市場分析アプリのリ
 #. js-lingui-explicit-id
 msgid "XauSync AI Disclaimer"
 msgstr "XauSync AI免責事項"
+
+#. js-lingui-explicit-id
+msgid "Last updated:"
+msgstr "最終更新："
 
 #. js-lingui-explicit-id
 msgid "March 10, 2026"
@@ -378,6 +602,10 @@ msgid "We may update this disclaimer periodically. All updates will be published
 msgstr "私たちはこの免責事項を定期的に更新する場合があります。すべての更新は改訂日付でこのページに公開されます。変更後の継続使用は更新された免責事項の受諾を構成します。"
 
 #. js-lingui-explicit-id
+msgid "Contact Information"
+msgstr "連絡先情報"
+
+#. js-lingui-explicit-id
 msgid "If you have questions about this disclaimer or our services, please contact us at {CONTACT_EMAIL}."
 msgstr "この免責事項または私たちのサービスについて質問がある場合は、{CONTACT_EMAIL}までお問い合わせください。"
 
@@ -466,20 +694,8 @@ msgid "Permanent removal of your in-app energy balance - all energy credits will
 msgstr "アプリ内エネルギーバランスの永久削除 - すべてのエネルギークレジットが削除され、復元できません"
 
 #. js-lingui-explicit-id
-msgid "Permanent removal of any remaining subscription days or premium access - all active subscriptions linked to your account will be deleted and cannot be restored"
-msgstr "残りのサブスクリプション日数またはプレミアムアクセスの永久削除 - アカウントにリンクされたすべてのアクティブサブスクリプションが削除され、復元できません"
-
-#. js-lingui-explicit-id
-msgid "Removal of subscription information and payment history within the app"
-msgstr "アプリ内のサブスクリプション情報と支払い履歴の削除"
-
-#. js-lingui-explicit-id
 msgid "Important Information"
 msgstr "重要情報"
-
-#. js-lingui-explicit-id
-msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance, subscription days, or any account-related benefits. All energy credits, remaining subscription time, and premium access will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
-msgstr "アカウント削除は不可逆です。一度削除すると、データを回復できず、アカウントを復元できず、アプリ内エネルギーバランス、サブスクリプション日数、またはアカウント関連の利益を回復できません。すべてのエネルギークレジット、残りのサブスクリプション時間、プレミアムアクセスが永久に失われます。将来再び{NAME_APP}を使用したい場合は、新しいアカウントを作成する必要があります。"
 
 #. js-lingui-explicit-id
 msgid "Need Help?"
@@ -586,6 +802,14 @@ msgid "Download on the App Store"
 msgstr "App Storeでダウンロード"
 
 #. js-lingui-explicit-id
+msgid "Get it on Google Play"
+msgstr "Google Playで入手"
+
+#. js-lingui-explicit-id
+msgid "Secure & Private"
+msgstr "安全でプライベート"
+
+#. js-lingui-explicit-id
 msgid "AI-Powered Learning Tools"
 msgstr "AI駆動学習ツール"
 
@@ -652,6 +876,10 @@ msgstr "XauSync AIプライバシーポリシー"
 #. js-lingui-explicit-id
 msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our AI-powered educational market analysis app and services (\"Service\")."
 msgstr "「{NAME_APP}」モバイルおよびウェブアプリケーションは、Vadym Bezsmertnyi、個人事業主（ウクライナ）（「私たち」、「私たちの」）によって開発および運営されています。このプライバシーポリシーは、AI駆動教育的市場分析アプリとサービス（「サービス」）にアクセスし使用する際に個人情報をどのように収集、使用、保護するかを説明します。"
+
+#. js-lingui-explicit-id
+msgid "Information We Collect"
+msgstr "収集する情報"
 
 #. js-lingui-explicit-id
 msgid "Authentication Data"
@@ -830,10 +1058,6 @@ msgid "Firebase Analytics for usage insights"
 msgstr "使用インサイト用Firebase Analytics"
 
 #. js-lingui-explicit-id
-msgid "RevenueCat for subscription management and billing"
-msgstr "サブスクリプション管理と課金用RevenueCat"
-
-#. js-lingui-explicit-id
 msgid "MetaApi.cloud for real-time market data integration"
 msgstr "リアルタイム市場データ統合用MetaApi.cloud"
 
@@ -850,16 +1074,16 @@ msgid "Authentication providers for login verification"
 msgstr "ログイン認証用認証プロバイダー"
 
 #. js-lingui-explicit-id
-msgid "App stores for subscription billing processing"
-msgstr "サブスクリプション課金処理用アプリストア"
-
-#. js-lingui-explicit-id
 msgid "Market data providers for real-time price information"
 msgstr "リアルタイム価格情報用市場データプロバイダー"
 
 #. js-lingui-explicit-id
 msgid "Analytics services (anonymous, aggregated data only)"
 msgstr "分析サービス（匿名、集約データのみ）"
+
+#. js-lingui-explicit-id
+msgid "Data Security"
+msgstr "データセキュリティ"
 
 #. js-lingui-explicit-id
 msgid "Security Measures"
@@ -886,6 +1110,10 @@ msgid "Limited access to user data by authorized personnel only"
 msgstr "許可された担当者のみによるユーザーデータへの限定アクセス"
 
 #. js-lingui-explicit-id
+msgid "Data Retention"
+msgstr "データ保持"
+
+#. js-lingui-explicit-id
 msgid "We retain data for a limited period where necessary for legal, security, billing, or operational purposes:"
 msgstr "私たちは法的、セキュリティ、課金、または運用目的で必要な場合に限定的期間データを保持します："
 
@@ -908,6 +1136,10 @@ msgstr "認証トークン：自動的に更新され期限切れ"
 #. js-lingui-explicit-id
 msgid "Your Rights and Choices"
 msgstr "あなたの権利と選択"
+
+#. js-lingui-explicit-id
+msgid "User Rights"
+msgstr "ユーザーの権利"
 
 #. js-lingui-explicit-id
 msgid "You have the following rights regarding your personal data:"
@@ -1010,24 +1242,12 @@ msgid "Revoke notification permission at any time"
 msgstr "いつでも通知許可を取り消す"
 
 #. js-lingui-explicit-id
-msgid "Subscriptions and Payments"
-msgstr "サブスクリプションと支払い"
-
-#. js-lingui-explicit-id
 msgid "Billing Information"
 msgstr "課金情報"
 
 #. js-lingui-explicit-id
-msgid "We use RevenueCat and app stores for subscription management:"
-msgstr "私たちはサブスクリプション管理のためにRevenueCatとアプリストアを使用します："
-
-#. js-lingui-explicit-id
 msgid "Payment processing through App Store and Google Play"
 msgstr "App StoreとGoogle Playを通じた支払い処理"
-
-#. js-lingui-explicit-id
-msgid "Subscription status and renewal management"
-msgstr "サブスクリプション状態と更新管理"
 
 #. js-lingui-explicit-id
 msgid "Receipt validation and fraud prevention"
@@ -1036,22 +1256,6 @@ msgstr "レシート検証と詐欺防止"
 #. js-lingui-explicit-id
 msgid "No credit card information stored on our servers"
 msgstr "私たちのサーバーに保存されたクレジットカード情報なし"
-
-#. js-lingui-explicit-id
-msgid "Subscription Data"
-msgstr "サブスクリプションデータ"
-
-#. js-lingui-explicit-id
-msgid "We store minimal subscription-related information:"
-msgstr "We store minimal subscription-related information:"
-
-#. js-lingui-explicit-id
-msgid "Subscription status and plan type"
-msgstr "Subscription status and plan type"
-
-#. js-lingui-explicit-id
-msgid "Purchase dates and renewal information"
-msgstr "Purchase dates and renewal information"
 
 #. js-lingui-explicit-id
 msgid "Feature access levels and permissions"
@@ -1088,6 +1292,10 @@ msgstr "Parental controls are not implemented"
 #. js-lingui-explicit-id
 msgid "If we discover underage users, we delete their data"
 msgstr "If we discover underage users, we delete their data"
+
+#. js-lingui-explicit-id
+msgid "International Data Transfers"
+msgstr "国際データ転送"
 
 #. js-lingui-explicit-id
 msgid "Global Service"
@@ -1150,6 +1358,10 @@ msgid "\"{NAME_APP}\" mobile and web applications are developed and operated by 
 msgstr "「{NAME_APP}」モバイルおよびウェブアプリケーションは、Vadym Bezsmertnyi、個人事業主（ウクライナ）（「私たち」、「私たちの」）によって開発および運営されています。私たちのAI駆動教育的市場分析アプリとウェブサービス（「サービス」）にアクセスまたは使用することにより、あなた（ユーザー）はこれらの利用規約に従うことに同意し、拘束されることになります。サービスを使用する前にこれらの条件を注意深くお読みください。"
 
 #. js-lingui-explicit-id
+msgid "1. Purpose of the Application"
+msgstr "1. アプリケーションの目的"
+
+#. js-lingui-explicit-id
 msgid "{NAME_APP} is an AI-powered mobile and web application designed to provide educational market analysis, learning insights, and information for studying XAU/USD (Gold/US Dollar) market behavior. The application offers real-time market data, AI-generated educational insights, technical indicators, pattern recognition, and analytical tools to help users understand market analysis concepts. The service is intended for informational and educational purposes only."
 msgstr "{NAME_APP} is an AI-powered mobile and web application designed to provide educational market analysis, learning insights, and information for studying XAU/USD (Gold/US Dollar) market behavior. The application offers real-time market data, AI-generated educational insights, technical indicators, pattern recognition, and analytical tools to help users understand market analysis concepts. The service is intended for informational and educational purposes only."
 
@@ -1192,14 +1404,6 @@ msgstr "6. Account Registration and Security"
 #. js-lingui-explicit-id
 msgid "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use."
 msgstr "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use."
-
-#. js-lingui-explicit-id
-msgid "7. Subscriptions and Payments"
-msgstr "7. Subscriptions and Payments"
-
-#. js-lingui-explicit-id
-msgid "{NAME_APP} offers premium features through subscription plans. Subscriptions are managed through the App Store, Google Play Store, and RevenueCat. Payment processing is handled by the respective app stores. Subscription fees are non-refundable except as required by law or app store policies. Users may manage their subscriptions through their app store account settings."
-msgstr "{NAME_APP} offers premium features through subscription plans. Subscriptions are managed through the App Store, Google Play Store, and RevenueCat. Payment processing is handled by the respective app stores. Subscription fees are non-refundable except as required by law or app store policies. Users may manage their subscriptions through their app store account settings."
 
 #. js-lingui-explicit-id
 msgid "8. Acceptable Use"
@@ -1312,207 +1516,3 @@ msgstr "18. Contact Information"
 #. js-lingui-explicit-id
 msgid "If you have questions about these Terms of Use, please contact us at {CONTACT_EMAIL}."
 msgstr "If you have questions about these Terms of Use, please contact us at {CONTACT_EMAIL}."
-
-#. js-lingui-explicit-id
-msgid "Home"
-msgstr "ホーム"
-
-#. js-lingui-explicit-id
-msgid "About"
-msgstr "について"
-
-#. js-lingui-explicit-id
-msgid "Terms of Use"
-msgstr "利用規約"
-
-#. js-lingui-explicit-id
-msgid "Privacy Policy"
-msgstr "プライバシーポリシー"
-
-#. js-lingui-explicit-id
-msgid "Logo"
-msgstr "ロゴ"
-
-#. js-lingui-explicit-id
-msgid "Menu"
-msgstr "メニュー"
-
-#. js-lingui-explicit-id
-msgid "Select language"
-msgstr "言語を選択"
-
-#. js-lingui-explicit-id
-msgid "Name of the {otherName}"
-msgstr "{otherName}の名前"
-
-#. js-lingui-explicit-id
-msgid "The text must contain a minimum of {min} and a maximum of {max} characters."
-msgstr "テキストは最低{min}文字、最大{max}文字である必要があります。"
-
-#. js-lingui-explicit-id
-msgid "The place of the {otherName}"
-msgstr "{otherName}の場所"
-
-#. js-lingui-explicit-id
-msgid "The location of the {otherName} must be selected."
-msgstr "{otherName}の場所を選択する必要があります。"
-
-#. js-lingui-explicit-id
-msgid "Date of the {otherName}"
-msgstr "{otherName}の日付"
-
-#. js-lingui-explicit-id
-msgid "The end date must be greater than the start date."
-msgstr "終了日は開始日より後である必要があります。"
-
-#. js-lingui-explicit-id
-msgid "Tell us about the {otherName}"
-msgstr "{otherName}について教えてください"
-
-#. js-lingui-explicit-id
-msgid "Description of the {otherName}"
-msgstr "{otherName}の説明"
-
-#. js-lingui-explicit-id
-msgid "Phone number the {otherName}"
-msgstr "{otherName}の電話番号"
-
-#. js-lingui-explicit-id
-msgid "Please enter phone number"
-msgstr "電話番号を入力してください"
-
-#. js-lingui-explicit-id
-msgid "Types of {otherName} jobs"
-msgstr "{otherName}の仕事の種類"
-
-#. js-lingui-explicit-id
-msgid "Please select at least one type"
-msgstr "少なくとも1つのタイプを選択してください"
-
-#. js-lingui-explicit-id
-msgid "Price {otherName}"
-msgstr "{otherName}の価格"
-
-#. js-lingui-explicit-id
-msgid "Please enter price for {otherName}"
-msgstr "{otherName}の価格を入力してください"
-
-#. js-lingui-explicit-id
-msgid "Category {otherName}"
-msgstr "{otherName}のカテゴリー"
-
-#. js-lingui-explicit-id
-msgid "Please enter category for {otherName}"
-msgstr "{otherName}のカテゴリーを入力してください"
-
-#. js-lingui-explicit-id
-msgid "Brand {otherName}"
-msgstr "{otherName}のブランド"
-
-#. js-lingui-explicit-id
-msgid "Please enter brand for {otherName}"
-msgstr "{otherName}のブランドを入力してください"
-
-#. js-lingui-explicit-id
-msgid "Mileage {otherName}"
-msgstr "{otherName}の走行距離"
-
-#. js-lingui-explicit-id
-msgid "Please enter mileage for {otherName}"
-msgstr "{otherName}の走行距離を入力してください"
-
-#. js-lingui-explicit-id
-msgid "Year release {otherName}"
-msgstr "{otherName}の発売年"
-
-#. js-lingui-explicit-id
-msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
-msgstr "{otherName}の年を最低{min}年、最大{max}年で入力してください"
-
-#. js-lingui-explicit-id
-msgid "Type fuel {otherName}"
-msgstr "{otherName}の燃料タイプ"
-
-#. js-lingui-explicit-id
-msgid "Please enter type fuel for {otherName}"
-msgstr "{otherName}の燃料タイプを入力してください"
-
-#. js-lingui-explicit-id
-msgid "Type transmission {otherName}"
-msgstr "{otherName}のトランスミッションタイプ"
-
-#. js-lingui-explicit-id
-msgid "Please enter type transmission for {otherName}"
-msgstr "{otherName}のトランスミッションタイプを入力してください"
-
-#. js-lingui-explicit-id
-msgid "Type parts {otherName}"
-msgstr "{otherName}の部品タイプ"
-
-#. js-lingui-explicit-id
-msgid "Please enter type parts for {otherName}"
-msgstr "{otherName}の部品タイプを入力してください"
-
-#. js-lingui-explicit-id
-msgid "Incorrectly entered data"
-msgstr "入力データが正しくありません"
-
-#. js-lingui-explicit-id
-msgid "Images {otherName}"
-msgstr "{otherName}の画像"
-
-#. js-lingui-explicit-id
-msgid "Please add images for {otherName}"
-msgstr "{otherName}の画像を追加してください"
-
-#. js-lingui-explicit-id
-msgid "About {NAME_APP}"
-msgstr "{NAME_APP}について"
-
-#. js-lingui-explicit-id
-msgid "Get in Touch"
-msgstr "お問い合わせ"
-
-#. js-lingui-explicit-id
-msgid "Contact us: {CONTACT_EMAIL}"
-msgstr "お問い合わせ：{CONTACT_EMAIL}"
-
-#. js-lingui-explicit-id
-msgid "Get it on Google Play"
-msgstr "Google Playで入手"
-
-#. js-lingui-explicit-id
-msgid "Secure & Private"
-msgstr "安全でプライベート"
-
-#. js-lingui-explicit-id
-msgid "Last updated:"
-msgstr "最終更新："
-
-#. js-lingui-explicit-id
-msgid "Information We Collect"
-msgstr "収集する情報"
-
-#. js-lingui-explicit-id
-msgid "Data Security"
-msgstr "データセキュリティ"
-
-#. js-lingui-explicit-id
-msgid "International Data Transfers"
-msgstr "国際データ転送"
-
-#. js-lingui-explicit-id
-msgid "Data Retention"
-msgstr "データ保持"
-
-#. js-lingui-explicit-id
-msgid "User Rights"
-msgstr "ユーザーの権利"
-
-#. js-lingui-explicit-id
-msgid "Contact Information"
-msgstr "連絡先情報"
-
-#. js-lingui-explicit-id
-msgid "1. Purpose of the Application"
-msgstr "1. アプリケーションの目的"

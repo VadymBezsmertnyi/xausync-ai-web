@@ -14,12 +14,84 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
+msgid "Permanent removal of any remaining Energy balance - all internal learning currency (Energy) linked to your account will be deleted and cannot be restored"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Removal of Energy purchase information and transaction history within the app"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance or any account-related benefits. All energy credits will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "RevenueCat for Energy purchase management and billing"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "App stores for Energy purchase billing processing"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy Purchases and Payments"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "We use RevenueCat and app stores for Energy purchase management:"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy purchase status and transaction management"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy Purchase Data"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "We store minimal Energy purchase-related information:"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy balance and transaction status"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Purchase dates and transaction information"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "7. Energy Purchases and Payments"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
+msgstr ""
+
+#. js-lingui-explicit-id
 msgid "AI-powered educational market analysis and learning insights"
 msgstr "Tekoälypohjainen koulutuksellinen markkina-analyysi ja oppimisnäkemykset"
 
 #. js-lingui-explicit-id
 msgid "Navigation"
 msgstr "Navigointi"
+
+#. js-lingui-explicit-id
+msgid "Home"
+msgstr "Koti"
+
+#. js-lingui-explicit-id
+msgid "About"
+msgstr "Tietoja"
+
+#. js-lingui-explicit-id
+msgid "Privacy Policy"
+msgstr "Tietosuojakäytäntö"
+
+#. js-lingui-explicit-id
+msgid "Terms of Use"
+msgstr "Käyttöehdot"
 
 #. js-lingui-explicit-id
 msgid "Disclaimer"
@@ -36,6 +108,142 @@ msgstr "Kehittänyt Vadym Bezsmertnyi, Yksityisyrittäjä (Ukraina)"
 #. js-lingui-explicit-id
 msgid "© {year} {NAME_APP}. All rights reserved."
 msgstr "© {year} {NAME_APP}. Kaikki oikeudet pidätetään."
+
+#. js-lingui-explicit-id
+msgid "Logo"
+msgstr "Logo"
+
+#. js-lingui-explicit-id
+msgid "Menu"
+msgstr "Valikko"
+
+#. js-lingui-explicit-id
+msgid "Select language"
+msgstr "Valitse kieli"
+
+#. js-lingui-explicit-id
+msgid "Name of the {otherName}"
+msgstr "{otherName}n nimi"
+
+#. js-lingui-explicit-id
+msgid "The text must contain a minimum of {min} and a maximum of {max} characters."
+msgstr "Tekstin tulee sisältää vähintään {min} ja enintään {max} merkkiä."
+
+#. js-lingui-explicit-id
+msgid "The place of the {otherName}"
+msgstr "{otherName}n paikka"
+
+#. js-lingui-explicit-id
+msgid "The location of the {otherName} must be selected."
+msgstr "{otherName}n sijainti on valittava."
+
+#. js-lingui-explicit-id
+msgid "Date of the {otherName}"
+msgstr "{otherName}n päivämäärä"
+
+#. js-lingui-explicit-id
+msgid "The end date must be greater than the start date."
+msgstr "Päättymispäivän on oltava suurempi kuin alkamispäivän."
+
+#. js-lingui-explicit-id
+msgid "Tell us about the {otherName}"
+msgstr "Kerro meille {otherName}sta"
+
+#. js-lingui-explicit-id
+msgid "Description of the {otherName}"
+msgstr "{otherName}n kuvaus"
+
+#. js-lingui-explicit-id
+msgid "Phone number the {otherName}"
+msgstr "{otherName}n puhelinnumero"
+
+#. js-lingui-explicit-id
+msgid "Please enter phone number"
+msgstr "Syötä puhelinnumero"
+
+#. js-lingui-explicit-id
+msgid "Types of {otherName} jobs"
+msgstr "{otherName}n työtyypit"
+
+#. js-lingui-explicit-id
+msgid "Please select at least one type"
+msgstr "Valitse vähintään yksi tyyppi"
+
+#. js-lingui-explicit-id
+msgid "Price {otherName}"
+msgstr "{otherName}n hinta"
+
+#. js-lingui-explicit-id
+msgid "Please enter price for {otherName}"
+msgstr "Syötä {otherName}n hinta"
+
+#. js-lingui-explicit-id
+msgid "Category {otherName}"
+msgstr "{otherName}n kategoria"
+
+#. js-lingui-explicit-id
+msgid "Please enter category for {otherName}"
+msgstr "Syötä {otherName}n kategoria"
+
+#. js-lingui-explicit-id
+msgid "Brand {otherName}"
+msgstr "{otherName}n merkki"
+
+#. js-lingui-explicit-id
+msgid "Please enter brand for {otherName}"
+msgstr "Syötä {otherName}n merkki"
+
+#. js-lingui-explicit-id
+msgid "Mileage {otherName}"
+msgstr "{otherName}n mittarilukema"
+
+#. js-lingui-explicit-id
+msgid "Please enter mileage for {otherName}"
+msgstr "Syötä {otherName}n mittarilukema"
+
+#. js-lingui-explicit-id
+msgid "Year release {otherName}"
+msgstr "{otherName}n julkaisuvuosi"
+
+#. js-lingui-explicit-id
+msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
+msgstr "Syötä {otherName}n vuosi vähintään {min} ja enintään {max}"
+
+#. js-lingui-explicit-id
+msgid "Type fuel {otherName}"
+msgstr "{otherName}n poltetyyppi"
+
+#. js-lingui-explicit-id
+msgid "Please enter type fuel for {otherName}"
+msgstr "Syötä {otherName}n poltetyyppi"
+
+#. js-lingui-explicit-id
+msgid "Type transmission {otherName}"
+msgstr "{otherName}n vaihteistotyyppi"
+
+#. js-lingui-explicit-id
+msgid "Please enter type transmission for {otherName}"
+msgstr "Syötä {otherName}n vaihteistotyyppi"
+
+#. js-lingui-explicit-id
+msgid "Type parts {otherName}"
+msgstr "{otherName}n osatyypit"
+
+#. js-lingui-explicit-id
+msgid "Please enter type parts for {otherName}"
+msgstr "Syötä {otherName}n osatyypit"
+
+#. js-lingui-explicit-id
+msgid "Incorrectly entered data"
+msgstr "Virheellisesti syötetyt tiedot"
+
+#. js-lingui-explicit-id
+msgid "Images {otherName}"
+msgstr "{otherName}n kuvat"
+
+#. js-lingui-explicit-id
+msgid "Please add images for {otherName}"
+msgstr "Lisää kuvia {otherName}lle"
 
 #. js-lingui-explicit-id
 msgid "About XauSync AI — AI-Powered Market Analysis Education"
@@ -56,6 +264,10 @@ msgstr "Tutustu XauSync AI:n älykkään markkina-analyysialustaan ja sitoutumis
 #. js-lingui-explicit-id
 msgid "About XauSync AI - AI-Powered Market Analysis Education Platform"
 msgstr "Tietoja XauSync AI:stä - Tekoälypohjainen markkina-analyysikoulutusalusta"
+
+#. js-lingui-explicit-id
+msgid "About {NAME_APP}"
+msgstr "Tietoja {NAME_APP}sta"
 
 #. js-lingui-explicit-id
 msgid "AI-Powered Market Analysis for Learning"
@@ -190,8 +402,16 @@ msgid "Always conduct your own research, consider seeking advice from qualified 
 msgstr "Tee aina oma tutkimuksesi, harkitse pätevien finanssialan ammattilaisten neuvoja hakemista ja älä koskaan riskoi enempää kuin sinulla on varaa menettää."
 
 #. js-lingui-explicit-id
+msgid "Get in Touch"
+msgstr "Ota yhteyttä"
+
+#. js-lingui-explicit-id
 msgid "We're continuously improving {NAME_APP} based on user feedback and market developments. Have questions, suggestions, or need support? We'd love to hear from you!"
 msgstr "Parannamme jatkuvasti {NAME_APP}:tä käyttäjäpalautteen ja markkinakehityksen perusteella. Onko sinulla kysymyksiä, ehdotuksia tai tarvitsetko tukea? Haluaisimme kuulla sinulta!"
+
+#. js-lingui-explicit-id
+msgid "Contact us: {CONTACT_EMAIL}"
+msgstr "Ota meihin yhteyttä: {CONTACT_EMAIL}"
 
 #. js-lingui-explicit-id
 msgid "Thank you for choosing {NAME_APP} for your market analysis studies!"
@@ -216,6 +436,10 @@ msgstr "XauSync AI:n vastuuvapauslauseke - Tärkeää tietoa riskeistä ja teko�
 #. js-lingui-explicit-id
 msgid "XauSync AI Disclaimer"
 msgstr "XauSync AI:n vastuuvapauslauseke"
+
+#. js-lingui-explicit-id
+msgid "Last updated:"
+msgstr "Viimeksi päivitetty:"
 
 #. js-lingui-explicit-id
 msgid "March 10, 2026"
@@ -378,6 +602,10 @@ msgid "We may update this disclaimer periodically. All updates will be published
 msgstr "Voimme päivittää tätä vastuuvapauslauseketta säännöllisesti. Kaikki päivitykset julkaistaan tällä sivulla päivitettynä päivämäärällä. Jatkuva käyttö muutosten jälkeen katsotaan päivitetyn vastuuvapauslausekkeen hyväksymiseksi."
 
 #. js-lingui-explicit-id
+msgid "Contact Information"
+msgstr "Yhteystiedot"
+
+#. js-lingui-explicit-id
 msgid "If you have questions about this disclaimer or our services, please contact us at {CONTACT_EMAIL}."
 msgstr "Jos sinulla on kysymyksiä tästä vastuuvapauslausekkeesta tai palveluistamme, ota meihin yhteyttä osoitteessa {CONTACT_EMAIL}."
 
@@ -466,20 +694,8 @@ msgid "Permanent removal of your in-app energy balance - all energy credits will
 msgstr "Sovelluksen sisäisen energiatasapainosi pysyvä poistaminen - kaikki energiahyvitykset poistetaan eikä niitä voi palauttaa"
 
 #. js-lingui-explicit-id
-msgid "Permanent removal of any remaining subscription days or premium access - all active subscriptions linked to your account will be deleted and cannot be restored"
-msgstr "Kaikkien jäljellä olevien tilauspäivien tai premium-pääsyn pysyvä poistaminen - kaikki aktiiviset tilaukset, jotka on liitetty tilillesi, poistetaan eikä niitä voi palauttaa"
-
-#. js-lingui-explicit-id
-msgid "Removal of subscription information and payment history within the app"
-msgstr "Tilaustietojen ja maksuhistorian poistaminen sovelluksen sisällä"
-
-#. js-lingui-explicit-id
 msgid "Important Information"
 msgstr "Tärkeää tietoa"
-
-#. js-lingui-explicit-id
-msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance, subscription days, or any account-related benefits. All energy credits, remaining subscription time, and premium access will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
-msgstr "Tilin poisto ON PEREUTTINEN. Kun se on poistettu, et voi palauttaa tietojasi, palauttaa tilisi tai palauttaa sovelluksen sisäistä energiatasapainoasi, tilauspäiviäsi tai mitään tilin liittyviä etuja. Kaikki energiahyvitykset, jäljellä oleva tilausaika ja premium-pääsy menetetään pysyvästi. Jos haluat käyttää {NAME_APP}:tä uudelleen tulevaisuudessa, sinun on luotava uusi tili."
 
 #. js-lingui-explicit-id
 msgid "Need Help?"
@@ -586,6 +802,14 @@ msgid "Download on the App Store"
 msgstr "Lataa App Storesta"
 
 #. js-lingui-explicit-id
+msgid "Get it on Google Play"
+msgstr "Hanki se Google Playsta"
+
+#. js-lingui-explicit-id
+msgid "Secure & Private"
+msgstr "Turvallinen ja yksityinen"
+
+#. js-lingui-explicit-id
 msgid "AI-Powered Learning Tools"
 msgstr "Tekoälypohjaiset oppimistyökalut"
 
@@ -652,6 +876,10 @@ msgstr "XauSync AI:n tietosuojakäytäntö"
 #. js-lingui-explicit-id
 msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our AI-powered educational market analysis app and services (\"Service\")."
 msgstr "Sovelluksemme \"{NAME_APP}\" mobiili- ja web-sovellukset on kehittänyt ja ylläpitää Vadym Bezsmertnyi, Yksityisyrittäjä (Ukraina) (\"me\", \"meidän\" tai \"yrityksemme\"). Tämä tietosuojakäytäntö selittää, kuinka keräämme, käytämme ja suojaamme henkilötietojasi, kun käytät tekoälypohjaista koulutuksellista markkina-analyysisovellustamme ja palveluitamme (\"Palvelu\")."
+
+#. js-lingui-explicit-id
+msgid "Information We Collect"
+msgstr "Keräämämme tiedot"
 
 #. js-lingui-explicit-id
 msgid "Authentication Data"
@@ -830,10 +1058,6 @@ msgid "Firebase Analytics for usage insights"
 msgstr "Firebase Analytics käyttöön näkemyksiä varten"
 
 #. js-lingui-explicit-id
-msgid "RevenueCat for subscription management and billing"
-msgstr "RevenueCat tilauksenhallintaan ja laskutukseen"
-
-#. js-lingui-explicit-id
 msgid "MetaApi.cloud for real-time market data integration"
 msgstr "MetaApi.cloud reaaliaikaisten markkinatietojen integrointiin"
 
@@ -850,16 +1074,16 @@ msgid "Authentication providers for login verification"
 msgstr "Todennuspalveluntarjoajat kirjautumisen vahvistamiseksi"
 
 #. js-lingui-explicit-id
-msgid "App stores for subscription billing processing"
-msgstr "Sovelluskaupat tilauslaskutuksen käsittelyyn"
-
-#. js-lingui-explicit-id
 msgid "Market data providers for real-time price information"
 msgstr "Markkinatietotoimittajat reaaliaikaiselle hintainformaatiolle"
 
 #. js-lingui-explicit-id
 msgid "Analytics services (anonymous, aggregated data only)"
 msgstr "Analyysipalvelut (vain anonyymit, koottu tiedot)"
+
+#. js-lingui-explicit-id
+msgid "Data Security"
+msgstr "Tietoturva"
 
 #. js-lingui-explicit-id
 msgid "Security Measures"
@@ -886,6 +1110,10 @@ msgid "Limited access to user data by authorized personnel only"
 msgstr "Rajoitettu pääsy käyttäjätietoihin vain valtuutetun henkilöstön toimesta"
 
 #. js-lingui-explicit-id
+msgid "Data Retention"
+msgstr "Tietojen säilytys"
+
+#. js-lingui-explicit-id
 msgid "We retain data for a limited period where necessary for legal, security, billing, or operational purposes:"
 msgstr "Säilytämme tietoja rajoitetun ajan, kun se on tarpeen lakisäällisiin, turvallisuuteen, laskutukseen tai toiminnallisiin tarkoituksiin:"
 
@@ -908,6 +1136,10 @@ msgstr "Todennustokenit: päivitetään ja vanhenevat automaattisesti"
 #. js-lingui-explicit-id
 msgid "Your Rights and Choices"
 msgstr "Oikeutesi ja valintasi"
+
+#. js-lingui-explicit-id
+msgid "User Rights"
+msgstr "Käyttäjän oikeudet"
 
 #. js-lingui-explicit-id
 msgid "You have the following rights regarding your personal data:"
@@ -1010,24 +1242,12 @@ msgid "Revoke notification permission at any time"
 msgstr "Peruuta ilmoituslupa milloin tahansa"
 
 #. js-lingui-explicit-id
-msgid "Subscriptions and Payments"
-msgstr "Tilaukset ja maksut"
-
-#. js-lingui-explicit-id
 msgid "Billing Information"
 msgstr "Laskutustiedot"
 
 #. js-lingui-explicit-id
-msgid "We use RevenueCat and app stores for subscription management:"
-msgstr "Käytämme RevenueCatia ja sovelluskauppoja tilaushallintaan:"
-
-#. js-lingui-explicit-id
 msgid "Payment processing through App Store and Google Play"
 msgstr "Maksujen käsittely App Storen ja Google Playn kautta"
-
-#. js-lingui-explicit-id
-msgid "Subscription status and renewal management"
-msgstr "Tilauksen tila ja uusimishallinta"
 
 #. js-lingui-explicit-id
 msgid "Receipt validation and fraud prevention"
@@ -1036,22 +1256,6 @@ msgstr "Kuitin vahvistus ja petostentorjunta"
 #. js-lingui-explicit-id
 msgid "No credit card information stored on our servers"
 msgstr "Luottokorttitietoja ei ole tallennettu palvelimillemme"
-
-#. js-lingui-explicit-id
-msgid "Subscription Data"
-msgstr "Tilaustiedot"
-
-#. js-lingui-explicit-id
-msgid "We store minimal subscription-related information:"
-msgstr "Tallennamme vähäisiä tilauksiin liittyviä tietoja:"
-
-#. js-lingui-explicit-id
-msgid "Subscription status and plan type"
-msgstr "Tilauksen tila ja suunnitelmatyyppi"
-
-#. js-lingui-explicit-id
-msgid "Purchase dates and renewal information"
-msgstr "Ostopäivämäärät ja uusimistiedot"
 
 #. js-lingui-explicit-id
 msgid "Feature access levels and permissions"
@@ -1088,6 +1292,10 @@ msgstr "Vanhempien valvontatoimintoja ei ole toteutettu"
 #. js-lingui-explicit-id
 msgid "If we discover underage users, we delete their data"
 msgstr "Jos löydämme alaikäisiä käyttäjiä, poistamme heidän tietonsa"
+
+#. js-lingui-explicit-id
+msgid "International Data Transfers"
+msgstr "Kansainväliset tietonsiirrot"
 
 #. js-lingui-explicit-id
 msgid "Global Service"
@@ -1150,6 +1358,10 @@ msgid "\"{NAME_APP}\" mobile and web applications are developed and operated by 
 msgstr "Sovelluksemme \"{NAME_APP}\" mobiili- ja web-sovellukset on kehittänyt ja ylläpitää Vadym Bezsmertnyi, Yksityisyrittäjä (Ukraina) (\"me\", \"meidän\" tai \"yrityksemme\"). Käyttämällä tai käyttämällä tekoälypohjaista koulutuksellista markkina-analyysisovellustamme ja web-palveluitamme (\"Palvelu\"), sinä (Käyttäjä) suostut noudattamaan ja sitoutumaan näihin käyttöehtoihin. Lue nämä ehdot huolellisesti ennen palvelun käyttöä."
 
 #. js-lingui-explicit-id
+msgid "1. Purpose of the Application"
+msgstr "1. Sovelluksen tarkoitus"
+
+#. js-lingui-explicit-id
 msgid "{NAME_APP} is an AI-powered mobile and web application designed to provide educational market analysis, learning insights, and information for studying XAU/USD (Gold/US Dollar) market behavior. The application offers real-time market data, AI-generated educational insights, technical indicators, pattern recognition, and analytical tools to help users understand market analysis concepts. The service is intended for informational and educational purposes only."
 msgstr "{NAME_APP} on tekoälypohjainen mobiili- ja web-sovellus, joka on suunniteltu tarjoamaan koulutuksellista markkina-analyysiä, oppimisnäkemyksiä ja tietoa XAU/USD (kulta/USA dollari) markkinakäyttäytymisen tutkimiseen. Sovellus tarjoaa reaaliaikaista markkinatietoa, tekoälyn tuottamia koulutuksellisia näkemyksiä, teknisiä indikaattoreita, kuvion tunnistusta ja analyyttisiä työkaluja käyttäjien auttamiseksi ymmärtämään markkina-analyysikäsitteitä. Palvelu on tarkoitettu vain informatiivisiin ja koulutuksellisiin tarkoituksiin."
 
@@ -1192,14 +1404,6 @@ msgstr "6. Tilin rekisteröinti ja turvallisuus"
 #. js-lingui-explicit-id
 msgid "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use."
 msgstr "{NAME_APP}:n ominaisuuksien käyttöön käyttäjät voivat luoda tilin käyttämällä sähköposti/salasana, Google Sign-In tai Apple Sign-In. Käyttäjät ovat vastuussa tilinsä tunnistetietojen luottamuksellisuuden ylläpitämisestä ja kaikista toimista, jotka tapahtuvat tilinsä alla. Käyttäjien tulisi antaa tarkkoja tietoja rekisteröinnin aikana ja ilmoittaa meille välittömästä mistä tahansa luvattomasta käytöstä."
-
-#. js-lingui-explicit-id
-msgid "7. Subscriptions and Payments"
-msgstr "7. Tilaukset ja maksut"
-
-#. js-lingui-explicit-id
-msgid "{NAME_APP} offers premium features through subscription plans. Subscriptions are managed through the App Store, Google Play Store, and RevenueCat. Payment processing is handled by the respective app stores. Subscription fees are non-refundable except as required by law or app store policies. Users may manage their subscriptions through their app store account settings."
-msgstr "{NAME_APP} tarjoaa premium-ominaisuuksia tilaussuunnitelmien kautta. Tilausten hallinnointi tapahtuu App Storen, Google Play Storen ja RevenueCatin kautta. Maksujen käsittely hoitaa vastaavat sovelluskaupat. Tilausmaksut ovat palauttamattomia, paitsi kun laki tai sovelluskauppojen käytännöt vaativat. Käyttäjät voivat hallita tilauksiaan sovelluskauppatilinsä asetuksista."
 
 #. js-lingui-explicit-id
 msgid "8. Acceptable Use"
@@ -1312,207 +1516,3 @@ msgstr "18. Yhteystiedot"
 #. js-lingui-explicit-id
 msgid "If you have questions about these Terms of Use, please contact us at {CONTACT_EMAIL}."
 msgstr "Jos sinulla on kysymyksiä näistä käyttöehdoista, ota meihin yhteyttä osoitteessa {CONTACT_EMAIL}."
-
-#. js-lingui-explicit-id
-msgid "Home"
-msgstr "Koti"
-
-#. js-lingui-explicit-id
-msgid "About"
-msgstr "Tietoja"
-
-#. js-lingui-explicit-id
-msgid "Terms of Use"
-msgstr "Käyttöehdot"
-
-#. js-lingui-explicit-id
-msgid "Privacy Policy"
-msgstr "Tietosuojakäytäntö"
-
-#. js-lingui-explicit-id
-msgid "Logo"
-msgstr "Logo"
-
-#. js-lingui-explicit-id
-msgid "Menu"
-msgstr "Valikko"
-
-#. js-lingui-explicit-id
-msgid "Select language"
-msgstr "Valitse kieli"
-
-#. js-lingui-explicit-id
-msgid "Name of the {otherName}"
-msgstr "{otherName}n nimi"
-
-#. js-lingui-explicit-id
-msgid "The text must contain a minimum of {min} and a maximum of {max} characters."
-msgstr "Tekstin tulee sisältää vähintään {min} ja enintään {max} merkkiä."
-
-#. js-lingui-explicit-id
-msgid "The place of the {otherName}"
-msgstr "{otherName}n paikka"
-
-#. js-lingui-explicit-id
-msgid "The location of the {otherName} must be selected."
-msgstr "{otherName}n sijainti on valittava."
-
-#. js-lingui-explicit-id
-msgid "Date of the {otherName}"
-msgstr "{otherName}n päivämäärä"
-
-#. js-lingui-explicit-id
-msgid "The end date must be greater than the start date."
-msgstr "Päättymispäivän on oltava suurempi kuin alkamispäivän."
-
-#. js-lingui-explicit-id
-msgid "Tell us about the {otherName}"
-msgstr "Kerro meille {otherName}sta"
-
-#. js-lingui-explicit-id
-msgid "Description of the {otherName}"
-msgstr "{otherName}n kuvaus"
-
-#. js-lingui-explicit-id
-msgid "Phone number the {otherName}"
-msgstr "{otherName}n puhelinnumero"
-
-#. js-lingui-explicit-id
-msgid "Please enter phone number"
-msgstr "Syötä puhelinnumero"
-
-#. js-lingui-explicit-id
-msgid "Types of {otherName} jobs"
-msgstr "{otherName}n työtyypit"
-
-#. js-lingui-explicit-id
-msgid "Please select at least one type"
-msgstr "Valitse vähintään yksi tyyppi"
-
-#. js-lingui-explicit-id
-msgid "Price {otherName}"
-msgstr "{otherName}n hinta"
-
-#. js-lingui-explicit-id
-msgid "Please enter price for {otherName}"
-msgstr "Syötä {otherName}n hinta"
-
-#. js-lingui-explicit-id
-msgid "Category {otherName}"
-msgstr "{otherName}n kategoria"
-
-#. js-lingui-explicit-id
-msgid "Please enter category for {otherName}"
-msgstr "Syötä {otherName}n kategoria"
-
-#. js-lingui-explicit-id
-msgid "Brand {otherName}"
-msgstr "{otherName}n merkki"
-
-#. js-lingui-explicit-id
-msgid "Please enter brand for {otherName}"
-msgstr "Syötä {otherName}n merkki"
-
-#. js-lingui-explicit-id
-msgid "Mileage {otherName}"
-msgstr "{otherName}n mittarilukema"
-
-#. js-lingui-explicit-id
-msgid "Please enter mileage for {otherName}"
-msgstr "Syötä {otherName}n mittarilukema"
-
-#. js-lingui-explicit-id
-msgid "Year release {otherName}"
-msgstr "{otherName}n julkaisuvuosi"
-
-#. js-lingui-explicit-id
-msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
-msgstr "Syötä {otherName}n vuosi vähintään {min} ja enintään {max}"
-
-#. js-lingui-explicit-id
-msgid "Type fuel {otherName}"
-msgstr "{otherName}n poltetyyppi"
-
-#. js-lingui-explicit-id
-msgid "Please enter type fuel for {otherName}"
-msgstr "Syötä {otherName}n poltetyyppi"
-
-#. js-lingui-explicit-id
-msgid "Type transmission {otherName}"
-msgstr "{otherName}n vaihteistotyyppi"
-
-#. js-lingui-explicit-id
-msgid "Please enter type transmission for {otherName}"
-msgstr "Syötä {otherName}n vaihteistotyyppi"
-
-#. js-lingui-explicit-id
-msgid "Type parts {otherName}"
-msgstr "{otherName}n osatyypit"
-
-#. js-lingui-explicit-id
-msgid "Please enter type parts for {otherName}"
-msgstr "Syötä {otherName}n osatyypit"
-
-#. js-lingui-explicit-id
-msgid "Incorrectly entered data"
-msgstr "Virheellisesti syötetyt tiedot"
-
-#. js-lingui-explicit-id
-msgid "Images {otherName}"
-msgstr "{otherName}n kuvat"
-
-#. js-lingui-explicit-id
-msgid "Please add images for {otherName}"
-msgstr "Lisää kuvia {otherName}lle"
-
-#. js-lingui-explicit-id
-msgid "About {NAME_APP}"
-msgstr "Tietoja {NAME_APP}sta"
-
-#. js-lingui-explicit-id
-msgid "Get in Touch"
-msgstr "Ota yhteyttä"
-
-#. js-lingui-explicit-id
-msgid "Contact us: {CONTACT_EMAIL}"
-msgstr "Ota meihin yhteyttä: {CONTACT_EMAIL}"
-
-#. js-lingui-explicit-id
-msgid "Get it on Google Play"
-msgstr "Hanki se Google Playsta"
-
-#. js-lingui-explicit-id
-msgid "Secure & Private"
-msgstr "Turvallinen ja yksityinen"
-
-#. js-lingui-explicit-id
-msgid "Last updated:"
-msgstr "Viimeksi päivitetty:"
-
-#. js-lingui-explicit-id
-msgid "Information We Collect"
-msgstr "Keräämämme tiedot"
-
-#. js-lingui-explicit-id
-msgid "Data Security"
-msgstr "Tietoturva"
-
-#. js-lingui-explicit-id
-msgid "International Data Transfers"
-msgstr "Kansainväliset tietonsiirrot"
-
-#. js-lingui-explicit-id
-msgid "Data Retention"
-msgstr "Tietojen säilytys"
-
-#. js-lingui-explicit-id
-msgid "User Rights"
-msgstr "Käyttäjän oikeudet"
-
-#. js-lingui-explicit-id
-msgid "Contact Information"
-msgstr "Yhteystiedot"
-
-#. js-lingui-explicit-id
-msgid "1. Purpose of the Application"
-msgstr "1. Sovelluksen tarkoitus"

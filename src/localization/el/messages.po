@@ -14,12 +14,84 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
+msgid "Permanent removal of any remaining Energy balance - all internal learning currency (Energy) linked to your account will be deleted and cannot be restored"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Removal of Energy purchase information and transaction history within the app"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance or any account-related benefits. All energy credits will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "RevenueCat for Energy purchase management and billing"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "App stores for Energy purchase billing processing"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy Purchases and Payments"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "We use RevenueCat and app stores for Energy purchase management:"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy purchase status and transaction management"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy Purchase Data"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "We store minimal Energy purchase-related information:"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy balance and transaction status"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Purchase dates and transaction information"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "7. Energy Purchases and Payments"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
+msgstr ""
+
+#. js-lingui-explicit-id
 msgid "AI-powered educational market analysis and learning insights"
 msgstr "Εκπαιδευτική ανάλυση αγοράς με υποστήριξη ΤΝ και γνώσεις εκμάθησης"
 
 #. js-lingui-explicit-id
 msgid "Navigation"
 msgstr "Πλοήγηση"
+
+#. js-lingui-explicit-id
+msgid "Home"
+msgstr "Αρχική"
+
+#. js-lingui-explicit-id
+msgid "About"
+msgstr "Σχετικά"
+
+#. js-lingui-explicit-id
+msgid "Privacy Policy"
+msgstr "Πολιτική Απορρήτου"
+
+#. js-lingui-explicit-id
+msgid "Terms of Use"
+msgstr "Όροι Χρήσης"
 
 #. js-lingui-explicit-id
 msgid "Disclaimer"
@@ -36,6 +108,142 @@ msgstr "Αναπτύχθηκε από τον Vadym Bezsmertnyi, Ατομική �
 #. js-lingui-explicit-id
 msgid "© {year} {NAME_APP}. All rights reserved."
 msgstr "© {year} {NAME_APP}. Με επιφύλαξη παντός δικαιώματος."
+
+#. js-lingui-explicit-id
+msgid "Logo"
+msgstr "Λογότυπο"
+
+#. js-lingui-explicit-id
+msgid "Menu"
+msgstr "Μενού"
+
+#. js-lingui-explicit-id
+msgid "Select language"
+msgstr "Επιλογή γλώσσας"
+
+#. js-lingui-explicit-id
+msgid "Name of the {otherName}"
+msgstr "Όνομα του {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The text must contain a minimum of {min} and a maximum of {max} characters."
+msgstr "Το κείμενο πρέπει να περιέχει ελάχιστο {min} και μέγιστο {max} χαρακτήρες."
+
+#. js-lingui-explicit-id
+msgid "The place of the {otherName}"
+msgstr "Ο τόπος του {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The location of the {otherName} must be selected."
+msgstr "Η τοποθεσία του {otherName} πρέπει να επιλεγεί."
+
+#. js-lingui-explicit-id
+msgid "Date of the {otherName}"
+msgstr "Ημερομηνία του {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The end date must be greater than the start date."
+msgstr "Η ημερομηνία λήξης πρέπει να είναι μεγαλύτερη από την ημερομηνία έναρξης."
+
+#. js-lingui-explicit-id
+msgid "Tell us about the {otherName}"
+msgstr "Πείτε μας για το {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Description of the {otherName}"
+msgstr "Περιγραφή του {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Phone number the {otherName}"
+msgstr "Αριθμός τηλεφώνου του {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter phone number"
+msgstr "Παρακαλώ εισάγετε αριθμό τηλεφώνου"
+
+#. js-lingui-explicit-id
+msgid "Types of {otherName} jobs"
+msgstr "Τύποι εργασιών {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please select at least one type"
+msgstr "Παρακαλώ επιλέξτε τουλάχιστον έναν τύπο"
+
+#. js-lingui-explicit-id
+msgid "Price {otherName}"
+msgstr "Τιμή {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter price for {otherName}"
+msgstr "Παρακαλώ εισάγετε τιμή για {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Category {otherName}"
+msgstr "Κατηγορία {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter category for {otherName}"
+msgstr "Παρακαλώ εισάγετε κατηγορία για {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Brand {otherName}"
+msgstr "Μάρκα {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter brand for {otherName}"
+msgstr "Παρακαλώ εισάγετε μάρκα για {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Mileage {otherName}"
+msgstr "Χιλιόμετρα {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter mileage for {otherName}"
+msgstr "Παρακαλώ εισάγετε χιλιόμετρα για {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Year release {otherName}"
+msgstr "Έτος κυκλοφορίας {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
+msgstr "Παρακαλώ εισάγετε έτος ελάχιστο {min} και μέγιστο {max} για {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type fuel {otherName}"
+msgstr "Τύπος καυσίμου {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type fuel for {otherName}"
+msgstr "Παρακαλώ εισάγετε τύπο καυσίμου για {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type transmission {otherName}"
+msgstr "Τύπος μεταδοσής {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type transmission for {otherName}"
+msgstr "Παρακαλώ εισάγετε τύπο μεταδοσής για {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type parts {otherName}"
+msgstr "Τύπος ανταλλακτικών {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type parts for {otherName}"
+msgstr "Παρακαλώ εισάγετε τύπο ανταλλακτικών για {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Incorrectly entered data"
+msgstr "Εσφαλμένα εισαγμένα δεδομένα"
+
+#. js-lingui-explicit-id
+msgid "Images {otherName}"
+msgstr "Εικόνες {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please add images for {otherName}"
+msgstr "Παρακαλώ προσθέστε εικόνες για {otherName}"
 
 #. js-lingui-explicit-id
 msgid "About XauSync AI — AI-Powered Market Analysis Education"
@@ -56,6 +264,10 @@ msgstr "Ανακαλύψτε την έξυπνη πλατφόρμα ανάλυσ
 #. js-lingui-explicit-id
 msgid "About XauSync AI - AI-Powered Market Analysis Education Platform"
 msgstr "Σχετικά με το XauSync AI - Πλατφόρμα Εκπαίδευσης Ανάλυσης Αγοράς με Υποστήριξη ΤΝ"
+
+#. js-lingui-explicit-id
+msgid "About {NAME_APP}"
+msgstr "Σχετικά με το {NAME_APP}"
 
 #. js-lingui-explicit-id
 msgid "AI-Powered Market Analysis for Learning"
@@ -190,8 +402,16 @@ msgid "Always conduct your own research, consider seeking advice from qualified 
 msgstr "Πραγματοποιήστε πάντα τη δική σας έρευνα, εξετάστε το ενδεχόμενο να ζητήσετε συμβουλές από εξειδικευμένους οικονομικούς επαγγελματίες και μην ρισκάρετε ποτέ περισσότερο από ό,τι μπορείτε να αντέξετε να χάσετε."
 
 #. js-lingui-explicit-id
+msgid "Get in Touch"
+msgstr "Επικοινωνήστε Μαζί μας"
+
+#. js-lingui-explicit-id
 msgid "We're continuously improving {NAME_APP} based on user feedback and market developments. Have questions, suggestions, or need support? We'd love to hear from you!"
 msgstr "Βελτιώνουμε συνεχώς το {NAME_APP} με βάση τα σχόλια των χρηστών και τις εξελίξεις της αγοράς. Έχετε ερωτήσεις, προτάσεις ή χρειάζεστε υποστήριξη; Θα θέλαμε να ακούσουμε από εσάς!"
+
+#. js-lingui-explicit-id
+msgid "Contact us: {CONTACT_EMAIL}"
+msgstr "Επικοινωνήστε μαζί μας: {CONTACT_EMAIL}"
 
 #. js-lingui-explicit-id
 msgid "Thank you for choosing {NAME_APP} for your market analysis studies!"
@@ -216,6 +436,10 @@ msgstr "Αποποίηση Ευθύνης XauSync AI - Σημαντικές πλ
 #. js-lingui-explicit-id
 msgid "XauSync AI Disclaimer"
 msgstr "Αποποίηση Ευθύνης XauSync AI"
+
+#. js-lingui-explicit-id
+msgid "Last updated:"
+msgstr "Τελευταία ενημέρωση:"
 
 #. js-lingui-explicit-id
 msgid "March 10, 2026"
@@ -378,6 +602,10 @@ msgid "We may update this disclaimer periodically. All updates will be published
 msgstr "Μπορούμε να ενημερώνουμε αυτή την αποποίηση ευθύνης περιοδικά. Όλες οι ενημερώσεις θα δημοσιεύονται σε αυτή τη σελίδα με την αναθεωρημένη ημερομηνία. Η συνεχής χρήση μετά τις αλλαγές αποτελεί αποδοχή της ενημερωμένης αποποίησης ευθύνης."
 
 #. js-lingui-explicit-id
+msgid "Contact Information"
+msgstr "Πληροφορίες Επικοινωνίας"
+
+#. js-lingui-explicit-id
 msgid "If you have questions about this disclaimer or our services, please contact us at {CONTACT_EMAIL}."
 msgstr "Εάν έχετε ερωτήσεις για αυτή την αποποίηση ευθύνης ή τις υπηρεσίες μας, παρακαλώ επικοινωνήστε μαζί μας στο {CONTACT_EMAIL}."
 
@@ -466,20 +694,8 @@ msgid "Permanent removal of your in-app energy balance - all energy credits will
 msgstr "Μόνιμη αφαίρεση του ισοζυγίου ενέργειας στην εφαρμογή - όλα τα πιστωτικά ενέργειας θα διαγραφούν και δεν μπορούν να αποκατασταθούν"
 
 #. js-lingui-explicit-id
-msgid "Permanent removal of any remaining subscription days or premium access - all active subscriptions linked to your account will be deleted and cannot be restored"
-msgstr "Μόνιμη αφαίρεση τυχόν εναπολειφθέντων ημερών συνδρομής ή premium πρόσβασης - όλες οι ενεργές συνδρομές που συνδέονται με τον λογαριασμό σας θα διαγραφούν και δεν μπορούν να αποκατασταθούν"
-
-#. js-lingui-explicit-id
-msgid "Removal of subscription information and payment history within the app"
-msgstr "Αφαίρεση πληροφοριών συνδρομής και ιστορικού πληρωμών εντός της εφαρμογής"
-
-#. js-lingui-explicit-id
 msgid "Important Information"
 msgstr "Σημαντικές Πληροφορίες"
-
-#. js-lingui-explicit-id
-msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance, subscription days, or any account-related benefits. All energy credits, remaining subscription time, and premium access will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
-msgstr "Η διαγραφή λογαριασμού είναι ΑΝΑΠΟΔΟΤΗ. Μόλις διαγραφεί, δεν μπορείτε να ανακτήσετε τα δεδομένα σας, να επαναφέρετε τον λογαριασμό σας ή να ανακτήσετε το ισοζύγιο ενέργειας στην εφαρμογή, τις ημέρες συνδρομής ή οποιοδήποτε όφελος που σχετίζεται με τον λογαριασμό. Όλα τα πιστωτικά ενέργειας, ο εναπολειφθείσας χρόνος συνδρομής και η premium πρόσβαση θα χαθούν μόνιμα. Εάν θέλετε να χρησιμοποιήσετε το {NAME_APP} ξανά στο μέλλον, θα πρέπει να δημιουργήσετε έναν νέο λογαριασμό."
 
 #. js-lingui-explicit-id
 msgid "Need Help?"
@@ -586,6 +802,14 @@ msgid "Download on the App Store"
 msgstr "Λήψη από το App Store"
 
 #. js-lingui-explicit-id
+msgid "Get it on Google Play"
+msgstr "Λήψη από το Google Play"
+
+#. js-lingui-explicit-id
+msgid "Secure & Private"
+msgstr "Ασφαλές & Ιδιωτικό"
+
+#. js-lingui-explicit-id
 msgid "AI-Powered Learning Tools"
 msgstr "Εκπαιδευτικά Εργαλεία με Υποστήριξη ΤΝ"
 
@@ -652,6 +876,10 @@ msgstr "Πολιτική Απορρήτου XauSync AI"
 #. js-lingui-explicit-id
 msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our AI-powered educational market analysis app and services (\"Service\")."
 msgstr "Οι εφαρμογές για κινητά και ιστού \"{NAME_APP}\" αναπτύσσονται και λειτουργούν από τον Vadym Bezsmertnyi, Ατομική Επιχείρηση (Ουκρανία) (\"εμείς\", \"εμάς\" ή \"μας\"). Αυτή η Πολιτική Απορρήτου εξηγεί πώς συλλέγουμε, χρησιμοποιούμε και προστατεύουμε τις προσωπικές σας πληροφορίες όταν έχετε πρόσβαση και χρησιμοποιείτε την εφαρμογή και τις υπηρεσίες μας εκπαιδευτικής ανάλυσης αγοράς με υποστήριξη ΤΝ (\"Υπηρεσία\")."
+
+#. js-lingui-explicit-id
+msgid "Information We Collect"
+msgstr "Πληροφορίες που Συλλέγουμε"
 
 #. js-lingui-explicit-id
 msgid "Authentication Data"
@@ -830,10 +1058,6 @@ msgid "Firebase Analytics for usage insights"
 msgstr "Firebase Analytics για γνώσεις χρήσης"
 
 #. js-lingui-explicit-id
-msgid "RevenueCat for subscription management and billing"
-msgstr "RevenueCat για διαχείριση συνδρομών και χρέωση"
-
-#. js-lingui-explicit-id
 msgid "MetaApi.cloud for real-time market data integration"
 msgstr "MetaApi.cloud για ενσωμάτωση δεδομένων αγοράς σε πραγματικό χρόνο"
 
@@ -850,16 +1074,16 @@ msgid "Authentication providers for login verification"
 msgstr "Πάροχοι αυθεντικοποίησης για επαλήθευση σύνδεσης"
 
 #. js-lingui-explicit-id
-msgid "App stores for subscription billing processing"
-msgstr "App stores για επεξεργασία χρέωσης συνδρομών"
-
-#. js-lingui-explicit-id
 msgid "Market data providers for real-time price information"
 msgstr "Πάροχοι δεδομένων αγοράς για πληροφορίες τιμών σε πραγματικό χρόνο"
 
 #. js-lingui-explicit-id
 msgid "Analytics services (anonymous, aggregated data only)"
 msgstr "Υπηρεσίες αναλυτικών (μόνο ανώνυμα, συγκεντρωτικά δεδομένα)"
+
+#. js-lingui-explicit-id
+msgid "Data Security"
+msgstr "Ασφάλεια Δεδομένων"
 
 #. js-lingui-explicit-id
 msgid "Security Measures"
@@ -886,6 +1110,10 @@ msgid "Limited access to user data by authorized personnel only"
 msgstr "Περιορισμένη πρόσβαση στα δεδομένα των χρηστών μόνο από εξουσιοδοτημένο προσωπικό"
 
 #. js-lingui-explicit-id
+msgid "Data Retention"
+msgstr "Διατήρηση Δεδομένων"
+
+#. js-lingui-explicit-id
 msgid "We retain data for a limited period where necessary for legal, security, billing, or operational purposes:"
 msgstr "Διατηρούμε δεδομένα για περιορισμένο περίοδο όπου είναι απαραίτητο για νομικούς, ασφαλειακούς, τιμολογιακούς ή λειτουργικούς σκοπούς:"
 
@@ -908,6 +1136,10 @@ msgstr "Tokens αυθεντικοποίησης: ανανεώνονται και
 #. js-lingui-explicit-id
 msgid "Your Rights and Choices"
 msgstr "Τα Δικαιώματα και οι Επιλογές σας"
+
+#. js-lingui-explicit-id
+msgid "User Rights"
+msgstr "Δικαιώματα Χρήστη"
 
 #. js-lingui-explicit-id
 msgid "You have the following rights regarding your personal data:"
@@ -1010,24 +1242,12 @@ msgid "Revoke notification permission at any time"
 msgstr "Ανάκληση άδειας ειδοποιήσεων ανά πάσα στιγμή"
 
 #. js-lingui-explicit-id
-msgid "Subscriptions and Payments"
-msgstr "Συνδρομές και Πληρωμές"
-
-#. js-lingui-explicit-id
 msgid "Billing Information"
 msgstr "Πληροφορίες Χρέωσης"
 
 #. js-lingui-explicit-id
-msgid "We use RevenueCat and app stores for subscription management:"
-msgstr "Χρησιμοποιούμε το RevenueCat και τα app stores για διαχείριση συνδρομών:"
-
-#. js-lingui-explicit-id
 msgid "Payment processing through App Store and Google Play"
 msgstr "Επεξεργασία πληρωμών μέσω App Store και Google Play"
-
-#. js-lingui-explicit-id
-msgid "Subscription status and renewal management"
-msgstr "Διαχείριση κατάστασης και ανανέωσης συνδρομής"
 
 #. js-lingui-explicit-id
 msgid "Receipt validation and fraud prevention"
@@ -1036,22 +1256,6 @@ msgstr "Επικύρωση αποδείξεων και πρόληψη απάτη
 #. js-lingui-explicit-id
 msgid "No credit card information stored on our servers"
 msgstr "Χωρίς αποθήκευση πληροφοριών πιστωτικής κάρτας στους servers μας"
-
-#. js-lingui-explicit-id
-msgid "Subscription Data"
-msgstr "Δεδομένα Συνδρομής"
-
-#. js-lingui-explicit-id
-msgid "We store minimal subscription-related information:"
-msgstr "Αποθηκεύουμε ελάχιστες συνδρομητικές πληροφορίες:"
-
-#. js-lingui-explicit-id
-msgid "Subscription status and plan type"
-msgstr "Κατάσταση συνδρομής και τύπος σχεδίου"
-
-#. js-lingui-explicit-id
-msgid "Purchase dates and renewal information"
-msgstr "Ημερομηνίες αγοράς και πληροφορίες ανανέωσης"
 
 #. js-lingui-explicit-id
 msgid "Feature access levels and permissions"
@@ -1088,6 +1292,10 @@ msgstr "Γονεϊκοί έλεγχοι δεν έχουν εφαρμοστεί"
 #. js-lingui-explicit-id
 msgid "If we discover underage users, we delete their data"
 msgstr "Εάν ανακαλύψουμε ανήλικους χρήστες, διαγράφουμε τα δεδομένα τους"
+
+#. js-lingui-explicit-id
+msgid "International Data Transfers"
+msgstr "Διεθνείς Μεταφορές Δεδομένων"
 
 #. js-lingui-explicit-id
 msgid "Global Service"
@@ -1150,6 +1358,10 @@ msgid "\"{NAME_APP}\" mobile and web applications are developed and operated by 
 msgstr "Οι εφαρμογές για κινητά και ιστού \"{NAME_APP}\" αναπτύσσονται και λειτουργούν από τον Vadym Bezsmertnyi, Ατομική Επιχείρηση (Ουκρανία) (\"εμείς\", \"εμάς\" ή \"μας\"). Με την πρόσβαση ή τη χρήση της εφαρμογής και των διαδικτυακών υπηρεσιών μας εκπαιδευτικής ανάλυσης αγοράς με υποστήριξη ΤΝ (\"Υπηρεσία\"), εσείς (ο Χρήστης) συμφωνείτε να συμμορφώνεστε και να δεσμεύεστε από αυτούς τους Όρους Χρήσης. Παρακαλώ διαβάστε αυτούς τους όρους προσεκτικά πριν χρησιμοποιήσετε την υπηρεσία."
 
 #. js-lingui-explicit-id
+msgid "1. Purpose of the Application"
+msgstr "1. Σκοπός της Εφαρμογής"
+
+#. js-lingui-explicit-id
 msgid "{NAME_APP} is an AI-powered mobile and web application designed to provide educational market analysis, learning insights, and information for studying XAU/USD (Gold/US Dollar) market behavior. The application offers real-time market data, AI-generated educational insights, technical indicators, pattern recognition, and analytical tools to help users understand market analysis concepts. The service is intended for informational and educational purposes only."
 msgstr "Το {NAME_APP} είναι μια εφαρμογή για κινητά και web με υποστήριξη ΤΝ σχεδιασμένη για να παρέχει εκπαιδευτική ανάλυση αγοράς, γνώσεις εκμάθησης και πληροφορίες για τη μελέτη της συμπεριφοράς της αγοράς XAU/USD (Χρυσός/Δολάριο ΗΠΑ). Η εφαρμογή προσφέρει δεδομένα αγοράς σε πραγματικό χρόνο, εκπαιδευτικές γνώσεις που δημιουργούνται από ΤΝ, τεχνικούς δείκτες, αναγνώριση μοτίβων και αναλυτικά εργαλεία για να βοηθήσει τους χρήστες να κατανοήσουν τις εννοίες ανάλυσης αγοράς. Η υπηρεσία προορίζεται μόνο για ενημερωτικούς και εκπαιδευτικούς σκοπούς."
 
@@ -1192,14 +1404,6 @@ msgstr "6. Εγγραφή Λογαριασμού και Ασφάλεια"
 #. js-lingui-explicit-id
 msgid "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use."
 msgstr "Για την πρόσβαση στις λειτουργίες του {NAME_APP}, οι χρήστες μπορούν να δημιουργήσουν έναν λογαριασμό χρησιμοποιώντας email/password, Google Sign-In ή Apple Sign-In. Οι χρήστες είναι υπεύθυνοι για τη διατήρηση της εμπιστευτικότητας των διαπιστευτηρίων του λογαριασμού τους και για όλες τις δραστηριότητες που συμβαίνουν υπό τον λογαριασμό τους. Οι χρήστες θα πρέπει να παρέχουν ακριβείς πληροφορίες κατά την εγγραφή και να μας ειδοποιήσουν αμέσως για οποιαδήποτε μη εξουσιοδοτημένη χρήση."
-
-#. js-lingui-explicit-id
-msgid "7. Subscriptions and Payments"
-msgstr "7. Συνδρομές και Πληρωμές"
-
-#. js-lingui-explicit-id
-msgid "{NAME_APP} offers premium features through subscription plans. Subscriptions are managed through the App Store, Google Play Store, and RevenueCat. Payment processing is handled by the respective app stores. Subscription fees are non-refundable except as required by law or app store policies. Users may manage their subscriptions through their app store account settings."
-msgstr "Το {NAME_APP} προσφέρει premium λειτουργίες μέσω σχεδίων συνδρομής. Οι συνδρομές διαχειρίζονται μέσω του App Store, Google Play Store και RevenueCat. Η επεξεργασία πληρωμών διαχειρίζεται από τα αντίστοιχα app stores. Τα τέλη συνδρομής δεν επιστρέφονται εκτός εάν απαιτείται από το νόμο ή τις πολιτικές των app stores. Οι χρήστες μπορούν να διαχειριστούν τις συνδρομές τους μέσω των ρυθμίσεων του λογαριασμού τους στο app store."
 
 #. js-lingui-explicit-id
 msgid "8. Acceptable Use"
@@ -1312,207 +1516,3 @@ msgstr "18. Πληροφορίες Επικοινωνίας"
 #. js-lingui-explicit-id
 msgid "If you have questions about these Terms of Use, please contact us at {CONTACT_EMAIL}."
 msgstr "Εάν έχετε ερωτήσεις για αυτούς τους Όρους Χρήσης, παρακαλώ επικοινωνήστε μαζί μας στο {CONTACT_EMAIL}."
-
-#. js-lingui-explicit-id
-msgid "Home"
-msgstr "Αρχική"
-
-#. js-lingui-explicit-id
-msgid "About"
-msgstr "Σχετικά"
-
-#. js-lingui-explicit-id
-msgid "Terms of Use"
-msgstr "Όροι Χρήσης"
-
-#. js-lingui-explicit-id
-msgid "Privacy Policy"
-msgstr "Πολιτική Απορρήτου"
-
-#. js-lingui-explicit-id
-msgid "Logo"
-msgstr "Λογότυπο"
-
-#. js-lingui-explicit-id
-msgid "Menu"
-msgstr "Μενού"
-
-#. js-lingui-explicit-id
-msgid "Select language"
-msgstr "Επιλογή γλώσσας"
-
-#. js-lingui-explicit-id
-msgid "Name of the {otherName}"
-msgstr "Όνομα του {otherName}"
-
-#. js-lingui-explicit-id
-msgid "The text must contain a minimum of {min} and a maximum of {max} characters."
-msgstr "Το κείμενο πρέπει να περιέχει ελάχιστο {min} και μέγιστο {max} χαρακτήρες."
-
-#. js-lingui-explicit-id
-msgid "The place of the {otherName}"
-msgstr "Ο τόπος του {otherName}"
-
-#. js-lingui-explicit-id
-msgid "The location of the {otherName} must be selected."
-msgstr "Η τοποθεσία του {otherName} πρέπει να επιλεγεί."
-
-#. js-lingui-explicit-id
-msgid "Date of the {otherName}"
-msgstr "Ημερομηνία του {otherName}"
-
-#. js-lingui-explicit-id
-msgid "The end date must be greater than the start date."
-msgstr "Η ημερομηνία λήξης πρέπει να είναι μεγαλύτερη από την ημερομηνία έναρξης."
-
-#. js-lingui-explicit-id
-msgid "Tell us about the {otherName}"
-msgstr "Πείτε μας για το {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Description of the {otherName}"
-msgstr "Περιγραφή του {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Phone number the {otherName}"
-msgstr "Αριθμός τηλεφώνου του {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter phone number"
-msgstr "Παρακαλώ εισάγετε αριθμό τηλεφώνου"
-
-#. js-lingui-explicit-id
-msgid "Types of {otherName} jobs"
-msgstr "Τύποι εργασιών {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please select at least one type"
-msgstr "Παρακαλώ επιλέξτε τουλάχιστον έναν τύπο"
-
-#. js-lingui-explicit-id
-msgid "Price {otherName}"
-msgstr "Τιμή {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter price for {otherName}"
-msgstr "Παρακαλώ εισάγετε τιμή για {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Category {otherName}"
-msgstr "Κατηγορία {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter category for {otherName}"
-msgstr "Παρακαλώ εισάγετε κατηγορία για {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Brand {otherName}"
-msgstr "Μάρκα {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter brand for {otherName}"
-msgstr "Παρακαλώ εισάγετε μάρκα για {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Mileage {otherName}"
-msgstr "Χιλιόμετρα {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter mileage for {otherName}"
-msgstr "Παρακαλώ εισάγετε χιλιόμετρα για {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Year release {otherName}"
-msgstr "Έτος κυκλοφορίας {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
-msgstr "Παρακαλώ εισάγετε έτος ελάχιστο {min} και μέγιστο {max} για {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Type fuel {otherName}"
-msgstr "Τύπος καυσίμου {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter type fuel for {otherName}"
-msgstr "Παρακαλώ εισάγετε τύπο καυσίμου για {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Type transmission {otherName}"
-msgstr "Τύπος μεταδοσής {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter type transmission for {otherName}"
-msgstr "Παρακαλώ εισάγετε τύπο μεταδοσής για {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Type parts {otherName}"
-msgstr "Τύπος ανταλλακτικών {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter type parts for {otherName}"
-msgstr "Παρακαλώ εισάγετε τύπο ανταλλακτικών για {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Incorrectly entered data"
-msgstr "Εσφαλμένα εισαγμένα δεδομένα"
-
-#. js-lingui-explicit-id
-msgid "Images {otherName}"
-msgstr "Εικόνες {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please add images for {otherName}"
-msgstr "Παρακαλώ προσθέστε εικόνες για {otherName}"
-
-#. js-lingui-explicit-id
-msgid "About {NAME_APP}"
-msgstr "Σχετικά με το {NAME_APP}"
-
-#. js-lingui-explicit-id
-msgid "Get in Touch"
-msgstr "Επικοινωνήστε Μαζί μας"
-
-#. js-lingui-explicit-id
-msgid "Contact us: {CONTACT_EMAIL}"
-msgstr "Επικοινωνήστε μαζί μας: {CONTACT_EMAIL}"
-
-#. js-lingui-explicit-id
-msgid "Get it on Google Play"
-msgstr "Λήψη από το Google Play"
-
-#. js-lingui-explicit-id
-msgid "Secure & Private"
-msgstr "Ασφαλές & Ιδιωτικό"
-
-#. js-lingui-explicit-id
-msgid "Last updated:"
-msgstr "Τελευταία ενημέρωση:"
-
-#. js-lingui-explicit-id
-msgid "Information We Collect"
-msgstr "Πληροφορίες που Συλλέγουμε"
-
-#. js-lingui-explicit-id
-msgid "Data Security"
-msgstr "Ασφάλεια Δεδομένων"
-
-#. js-lingui-explicit-id
-msgid "International Data Transfers"
-msgstr "Διεθνείς Μεταφορές Δεδομένων"
-
-#. js-lingui-explicit-id
-msgid "Data Retention"
-msgstr "Διατήρηση Δεδομένων"
-
-#. js-lingui-explicit-id
-msgid "User Rights"
-msgstr "Δικαιώματα Χρήστη"
-
-#. js-lingui-explicit-id
-msgid "Contact Information"
-msgstr "Πληροφορίες Επικοινωνίας"
-
-#. js-lingui-explicit-id
-msgid "1. Purpose of the Application"
-msgstr "1. Σκοπός της Εφαρμογής"

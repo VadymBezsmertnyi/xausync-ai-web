@@ -14,12 +14,84 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
+msgid "Permanent removal of any remaining Energy balance - all internal learning currency (Energy) linked to your account will be deleted and cannot be restored"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Removal of Energy purchase information and transaction history within the app"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance or any account-related benefits. All energy credits will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "RevenueCat for Energy purchase management and billing"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "App stores for Energy purchase billing processing"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy Purchases and Payments"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "We use RevenueCat and app stores for Energy purchase management:"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy purchase status and transaction management"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy Purchase Data"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "We store minimal Energy purchase-related information:"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Energy balance and transaction status"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "Purchase dates and transaction information"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "7. Energy Purchases and Payments"
+msgstr ""
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
+msgstr ""
+
+#. js-lingui-explicit-id
 msgid "AI-powered educational market analysis and learning insights"
 msgstr "AI-poháněný vzdělávací tržní analýza a learning poznatky"
 
 #. js-lingui-explicit-id
 msgid "Navigation"
 msgstr "Navigace"
+
+#. js-lingui-explicit-id
+msgid "Home"
+msgstr "Domů"
+
+#. js-lingui-explicit-id
+msgid "About"
+msgstr "O aplikaci"
+
+#. js-lingui-explicit-id
+msgid "Privacy Policy"
+msgstr "Zásady ochrany osobních údajů"
+
+#. js-lingui-explicit-id
+msgid "Terms of Use"
+msgstr "Podmínky použití"
 
 #. js-lingui-explicit-id
 msgid "Disclaimer"
@@ -36,6 +108,142 @@ msgstr "Vyvinuto Vadym Bezsmertnyi, OSVČ (Ukrajina)"
 #. js-lingui-explicit-id
 msgid "© {year} {NAME_APP}. All rights reserved."
 msgstr "© {year} {NAME_APP}. Všechna práva vyhrazena."
+
+#. js-lingui-explicit-id
+msgid "Logo"
+msgstr "Logo"
+
+#. js-lingui-explicit-id
+msgid "Menu"
+msgstr "Menu"
+
+#. js-lingui-explicit-id
+msgid "Select language"
+msgstr "Vyberte jazyk"
+
+#. js-lingui-explicit-id
+msgid "Name of the {otherName}"
+msgstr "Název {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The text must contain a minimum of {min} and a maximum of {max} characters."
+msgstr "Text musí obsahovat minimálně {min} a maximálně {max} znaků."
+
+#. js-lingui-explicit-id
+msgid "The place of the {otherName}"
+msgstr "Místo {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The location of the {otherName} must be selected."
+msgstr "Umístění {otherName} musí být vybráno."
+
+#. js-lingui-explicit-id
+msgid "Date of the {otherName}"
+msgstr "Datum {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The end date must be greater than the start date."
+msgstr "Datum konce musí být větší než datum začátku."
+
+#. js-lingui-explicit-id
+msgid "Tell us about the {otherName}"
+msgstr "Řekněte nám o {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Description of the {otherName}"
+msgstr "Popis {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Phone number the {otherName}"
+msgstr "Telefonní číslo {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter phone number"
+msgstr "Prosím zadejte telefonní číslo"
+
+#. js-lingui-explicit-id
+msgid "Types of {otherName} jobs"
+msgstr "Typy prací {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please select at least one type"
+msgstr "Prosím vyberte alespoň jeden typ"
+
+#. js-lingui-explicit-id
+msgid "Price {otherName}"
+msgstr "Cena {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter price for {otherName}"
+msgstr "Prosím zadejte cenu pro {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Category {otherName}"
+msgstr "Kategorie {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter category for {otherName}"
+msgstr "Prosím zadejte kategorii pro {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Brand {otherName}"
+msgstr "Značka {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter brand for {otherName}"
+msgstr "Prosím zadejte značku pro {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Mileage {otherName}"
+msgstr "Najetí {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter mileage for {otherName}"
+msgstr "Prosím zadejte najetí pro {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Year release {otherName}"
+msgstr "Rok výroby {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
+msgstr "Prosím zadejte rok minimálně {min} a maximálně {max} pro {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type fuel {otherName}"
+msgstr "Typ paliva {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type fuel for {otherName}"
+msgstr "Prosím zadejte typ paliva pro {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type transmission {otherName}"
+msgstr "Typ převodovky {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type transmission for {otherName}"
+msgstr "Prosím zadejte typ převodovky pro {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type parts {otherName}"
+msgstr "Typ dílu {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type parts for {otherName}"
+msgstr "Prosím zadejte typu dílu pro {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Incorrectly entered data"
+msgstr "Nesprávně zadaná data"
+
+#. js-lingui-explicit-id
+msgid "Images {otherName}"
+msgstr "Obrázky {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please add images for {otherName}"
+msgstr "Prosím přidejte obrázky pro {otherName}"
 
 #. js-lingui-explicit-id
 msgid "About XauSync AI — AI-Powered Market Analysis Education"
@@ -56,6 +264,10 @@ msgstr "Objevte inteligentní platformu tržní analýzy XauSync AI a náš záv
 #. js-lingui-explicit-id
 msgid "About XauSync AI - AI-Powered Market Analysis Education Platform"
 msgstr "O XauSync AI - Platforma AI-Poháněného Vzdělávání Tržní Analýzy"
+
+#. js-lingui-explicit-id
+msgid "About {NAME_APP}"
+msgstr "O aplikaci {NAME_APP}"
 
 #. js-lingui-explicit-id
 msgid "AI-Powered Market Analysis for Learning"
@@ -190,8 +402,16 @@ msgid "Always conduct your own research, consider seeking advice from qualified 
 msgstr "Vždy provádějte vlastní výzkum, zvažte vyhledání rady od kvalifikovaných finančních profesionálů a nikdy neriskujte více, než si můžete dovolit ztratit."
 
 #. js-lingui-explicit-id
+msgid "Get in Touch"
+msgstr "Kontaktujte nás"
+
+#. js-lingui-explicit-id
 msgid "We're continuously improving {NAME_APP} based on user feedback and market developments. Have questions, suggestions, or need support? We'd love to hear from you!"
 msgstr "Neustále vylepšujeme {NAME_APP} na základě zpětné vazby uživatelů a tržního vývoje. Máte otázky, návrhy nebo potřebujete podporu? Rádi bychom slyšeli od vás!"
+
+#. js-lingui-explicit-id
+msgid "Contact us: {CONTACT_EMAIL}"
+msgstr "Kontaktujte nás: {CONTACT_EMAIL}"
 
 #. js-lingui-explicit-id
 msgid "Thank you for choosing {NAME_APP} for your market analysis studies!"
@@ -216,6 +436,10 @@ msgstr "XauSync AI Prohlášení - Důležité informace o rizicích a vzděláv
 #. js-lingui-explicit-id
 msgid "XauSync AI Disclaimer"
 msgstr "XauSync AI Prohlášení"
+
+#. js-lingui-explicit-id
+msgid "Last updated:"
+msgstr "Naposledy aktualizováno:"
 
 #. js-lingui-explicit-id
 msgid "March 10, 2026"
@@ -378,6 +602,10 @@ msgid "We may update this disclaimer periodically. All updates will be published
 msgstr "Můžeme toto prohlášení pravidelně aktualizovat. Všechny aktualizace budou zveřejněny na této stránce s revidovaným datem. Pokračující používání po změnách představuje přijetí aktualizovaného prohlášení."
 
 #. js-lingui-explicit-id
+msgid "Contact Information"
+msgstr "Kontaktní Informace"
+
+#. js-lingui-explicit-id
 msgid "If you have questions about this disclaimer or our services, please contact us at {CONTACT_EMAIL}."
 msgstr "Pokud máte otázky k tomuto prohlášení nebo našim službám, kontaktujte nás na {CONTACT_EMAIL}."
 
@@ -466,20 +694,8 @@ msgid "Permanent removal of your in-app energy balance - all energy credits will
 msgstr "Trvalé odstranění vašeho zůstatku energie v aplikaci - všechny kredity energie budou smazány a nelze je obnovit"
 
 #. js-lingui-explicit-id
-msgid "Permanent removal of any remaining subscription days or premium access - all active subscriptions linked to your account will be deleted and cannot be restored"
-msgstr "Trvalé odstranění všech zbývajících dní předplatného nebo prémiového přístupu - všechna aktivní předplatná spojená s vaším účtem budou smazána a nelze je obnovit"
-
-#. js-lingui-explicit-id
-msgid "Removal of subscription information and payment history within the app"
-msgstr "Odstranění informací o předplatném a historie plateb v rámci aplikace"
-
-#. js-lingui-explicit-id
 msgid "Important Information"
 msgstr "Důležité Informace"
-
-#. js-lingui-explicit-id
-msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance, subscription days, or any account-related benefits. All energy credits, remaining subscription time, and premium access will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
-msgstr "Smazání účtu je NEVZPĚTNÉ. Jakmile je smazáno, nemůžete obnovit svá data, obnovit svůj účet nebo obnovit svůj zůstatek energie v aplikaci, dny předplatného nebo jakékoli výhody spojené s účtem. Všechny kredity energie, zbývající čas předplatného a prémiový přístup budou trvale ztraceny. Pokud chcete v budoucnu znovu používat {NAME_APP}, budete muset vytvořit nový účet."
 
 #. js-lingui-explicit-id
 msgid "Need Help?"
@@ -586,6 +802,14 @@ msgid "Download on the App Store"
 msgstr "Stáhnout v App Store"
 
 #. js-lingui-explicit-id
+msgid "Get it on Google Play"
+msgstr "Získat na Google Play"
+
+#. js-lingui-explicit-id
+msgid "Secure & Private"
+msgstr "Bezpečné a soukromé"
+
+#. js-lingui-explicit-id
 msgid "AI-Powered Learning Tools"
 msgstr "AI-Poháněné Vzdělávací Nástroje"
 
@@ -652,6 +876,10 @@ msgstr "Zásady Ochrany Osobních Údajů XauSync AI"
 #. js-lingui-explicit-id
 msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our AI-powered educational market analysis app and services (\"Service\")."
 msgstr "Mobilní a webové aplikace \"{NAME_APP}\" jsou vyvíjeny a provozovány Vadym Bezsmertnyi, OSVČ (Ukrajina) (\"nás\", \"my\" nebo \"naše\"). Tyto Zásady ochrany osobních údajů vysvětlují, jak shromažďujeme, používáme a chráníme vaše osobní informace, když přistupujete a používáte naši AI-poháněnou vzdělávací aplikaci tržní analýzy a služby (\"Služba\")."
+
+#. js-lingui-explicit-id
+msgid "Information We Collect"
+msgstr "Informace, Které Shromažďujeme"
 
 #. js-lingui-explicit-id
 msgid "Authentication Data"
@@ -830,10 +1058,6 @@ msgid "Firebase Analytics for usage insights"
 msgstr "Firebase Analytics pro poznatky o používání"
 
 #. js-lingui-explicit-id
-msgid "RevenueCat for subscription management and billing"
-msgstr "RevenueCat pro správu předplatného a fakturaci"
-
-#. js-lingui-explicit-id
 msgid "MetaApi.cloud for real-time market data integration"
 msgstr "MetaApi.cloud pro integraci tržních dat v reálném čase"
 
@@ -850,16 +1074,16 @@ msgid "Authentication providers for login verification"
 msgstr "Poskytovatelé autentizace pro ověření přihlášení"
 
 #. js-lingui-explicit-id
-msgid "App stores for subscription billing processing"
-msgstr "Obchody s aplikacemi pro zpracování fakturace předplatného"
-
-#. js-lingui-explicit-id
 msgid "Market data providers for real-time price information"
 msgstr "Poskytovatelé tržních dat pro informace o ceně v reálném čase"
 
 #. js-lingui-explicit-id
 msgid "Analytics services (anonymous, aggregated data only)"
 msgstr "Analytické služby (pouze anonymní, agregovaná data)"
+
+#. js-lingui-explicit-id
+msgid "Data Security"
+msgstr "Bezpečnost Dat"
 
 #. js-lingui-explicit-id
 msgid "Security Measures"
@@ -886,6 +1110,10 @@ msgid "Limited access to user data by authorized personnel only"
 msgstr "Omezený přístup k datům uživatele pouze oprávněným personálem"
 
 #. js-lingui-explicit-id
+msgid "Data Retention"
+msgstr "Uchovávání Dat"
+
+#. js-lingui-explicit-id
 msgid "We retain data for a limited period where necessary for legal, security, billing, or operational purposes:"
 msgstr "Uchováváme data po omezenou dobu, kde je to nezbytné pro právní, bezpečnostní, fakturační nebo provozní účely:"
 
@@ -908,6 +1136,10 @@ msgstr "Autentizační tokeny: automaticky obnoveny a vypršeny"
 #. js-lingui-explicit-id
 msgid "Your Rights and Choices"
 msgstr "Vaše Práva a Možnosti"
+
+#. js-lingui-explicit-id
+msgid "User Rights"
+msgstr "Práva Uživatele"
 
 #. js-lingui-explicit-id
 msgid "You have the following rights regarding your personal data:"
@@ -1010,24 +1242,12 @@ msgid "Revoke notification permission at any time"
 msgstr "Odvolat povolení oznámení kdykoli"
 
 #. js-lingui-explicit-id
-msgid "Subscriptions and Payments"
-msgstr "Předplatné a Platby"
-
-#. js-lingui-explicit-id
 msgid "Billing Information"
 msgstr "Fakturační Informace"
 
 #. js-lingui-explicit-id
-msgid "We use RevenueCat and app stores for subscription management:"
-msgstr "Používáme RevenueCat a obchody s aplikacemi pro správu předplatného:"
-
-#. js-lingui-explicit-id
 msgid "Payment processing through App Store and Google Play"
 msgstr "Zpracování plateb přes App Store a Google Play"
-
-#. js-lingui-explicit-id
-msgid "Subscription status and renewal management"
-msgstr "Stav předplatného a správa obnovování"
 
 #. js-lingui-explicit-id
 msgid "Receipt validation and fraud prevention"
@@ -1036,22 +1256,6 @@ msgstr "Ověření příjmu a prevence podvodů"
 #. js-lingui-explicit-id
 msgid "No credit card information stored on our servers"
 msgstr "Žádné informace o kreditní kartě nejsou uloženy na našich serverech"
-
-#. js-lingui-explicit-id
-msgid "Subscription Data"
-msgstr "Data o Předplatném"
-
-#. js-lingui-explicit-id
-msgid "We store minimal subscription-related information:"
-msgstr "Ukládáme minimální informace související s předplatným:"
-
-#. js-lingui-explicit-id
-msgid "Subscription status and plan type"
-msgstr "Stav předplatného a typ plánu"
-
-#. js-lingui-explicit-id
-msgid "Purchase dates and renewal information"
-msgstr "Datum nákupu a informace o obnovování"
 
 #. js-lingui-explicit-id
 msgid "Feature access levels and permissions"
@@ -1088,6 +1292,10 @@ msgstr "Rodičovská kontrola není implementována"
 #. js-lingui-explicit-id
 msgid "If we discover underage users, we delete their data"
 msgstr "Pokud objevíme mladistvé uživatele, mažeme jejich data"
+
+#. js-lingui-explicit-id
+msgid "International Data Transfers"
+msgstr "Mezinárodní Přenosy Dat"
 
 #. js-lingui-explicit-id
 msgid "Global Service"
@@ -1150,6 +1358,10 @@ msgid "\"{NAME_APP}\" mobile and web applications are developed and operated by 
 msgstr "\"{NAME_APP}\" mobilní a webové aplikace jsou vyvíjeny a provozovány Vadym Bezsmertnyi, OSVČ (Ukrajina) (\"nás\", \"my\" nebo \"naše\"). Přístupem nebo používáním naší AI-poháněné vzdělávací aplikace tržní analýzy a webových služeb (\"Služba\") vy (Uživatel) souhlasíte s dodržováním a vázáním těmito Podmínkami použití. Pečlivě si přečtěte tyto podmínky před použitím služby."
 
 #. js-lingui-explicit-id
+msgid "1. Purpose of the Application"
+msgstr "1. Účel Aplikace"
+
+#. js-lingui-explicit-id
 msgid "{NAME_APP} is an AI-powered mobile and web application designed to provide educational market analysis, learning insights, and information for studying XAU/USD (Gold/US Dollar) market behavior. The application offers real-time market data, AI-generated educational insights, technical indicators, pattern recognition, and analytical tools to help users understand market analysis concepts. The service is intended for informational and educational purposes only."
 msgstr "{NAME_APP} je AI-poháněná mobilní a webová aplikace navržená pro poskytování vzdělávací tržní analýzy, learning poznatků a informací pro studium chování trhu XAU/USD (Zlato/US dolar). Aplikace nabízí tržní data v reálném čase, AI-generované vzdělávací poznatky, technické ukazatele, rozpoznávání vzorců a analytické nástroje, které pomáhají uživatelům porozumět konceptům tržní analýzy. Služba je určena pouze pro informační a vzdělávací účely."
 
@@ -1192,14 +1404,6 @@ msgstr "6. Registrace Účtu a Bezpečnost"
 #. js-lingui-explicit-id
 msgid "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use."
 msgstr "Pro přístup k funkcím {NAME_APP} mohou uživatelé vytvořit účet pomocí e-mailu/hesla, Google Sign-In nebo Apple Sign-In. Uživatelé jsou zodpovědní za udržování důvěrnosti přihlašovacích údajů svého účtu a za všechny aktivity, které se vyskytnou pod jejich účtem. Uživatelé by měli poskytnout přesné informace během registrace a okamžitě nás informovat o jakémkoli neoprávněném použití."
-
-#. js-lingui-explicit-id
-msgid "7. Subscriptions and Payments"
-msgstr "7. Předplatné a Platby"
-
-#. js-lingui-explicit-id
-msgid "{NAME_APP} offers premium features through subscription plans. Subscriptions are managed through the App Store, Google Play Store, and RevenueCat. Payment processing is handled by the respective app stores. Subscription fees are non-refundable except as required by law or app store policies. Users may manage their subscriptions through their app store account settings."
-msgstr "{NAME_APP} nabízí prémiové funkce prostřednictvím plánů předplatného. Předplatné je spravováno prostřednictvím App Store, Google Play Store a RevenueCat. Zpracování plateb je řešeno příslušnými obchody s aplikacemi. Poplatky za předplatné se nevracejí s výjimkou případů vyžadovaných zákonem nebo politikami obchodů s aplikacemi. Uživatelé mohou spravovat svá předplatná prostřednictvím nastavení účtu v obchodě s aplikacemi."
 
 #. js-lingui-explicit-id
 msgid "8. Acceptable Use"
@@ -1312,207 +1516,3 @@ msgstr "18. Kontaktní Informace"
 #. js-lingui-explicit-id
 msgid "If you have questions about these Terms of Use, please contact us at {CONTACT_EMAIL}."
 msgstr "Pokud máte otázky k těmto Podmínkám použití, kontaktujte nás na {CONTACT_EMAIL}."
-
-#. js-lingui-explicit-id
-msgid "Home"
-msgstr "Domů"
-
-#. js-lingui-explicit-id
-msgid "About"
-msgstr "O aplikaci"
-
-#. js-lingui-explicit-id
-msgid "Terms of Use"
-msgstr "Podmínky použití"
-
-#. js-lingui-explicit-id
-msgid "Privacy Policy"
-msgstr "Zásady ochrany osobních údajů"
-
-#. js-lingui-explicit-id
-msgid "Logo"
-msgstr "Logo"
-
-#. js-lingui-explicit-id
-msgid "Menu"
-msgstr "Menu"
-
-#. js-lingui-explicit-id
-msgid "Select language"
-msgstr "Vyberte jazyk"
-
-#. js-lingui-explicit-id
-msgid "Name of the {otherName}"
-msgstr "Název {otherName}"
-
-#. js-lingui-explicit-id
-msgid "The text must contain a minimum of {min} and a maximum of {max} characters."
-msgstr "Text musí obsahovat minimálně {min} a maximálně {max} znaků."
-
-#. js-lingui-explicit-id
-msgid "The place of the {otherName}"
-msgstr "Místo {otherName}"
-
-#. js-lingui-explicit-id
-msgid "The location of the {otherName} must be selected."
-msgstr "Umístění {otherName} musí být vybráno."
-
-#. js-lingui-explicit-id
-msgid "Date of the {otherName}"
-msgstr "Datum {otherName}"
-
-#. js-lingui-explicit-id
-msgid "The end date must be greater than the start date."
-msgstr "Datum konce musí být větší než datum začátku."
-
-#. js-lingui-explicit-id
-msgid "Tell us about the {otherName}"
-msgstr "Řekněte nám o {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Description of the {otherName}"
-msgstr "Popis {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Phone number the {otherName}"
-msgstr "Telefonní číslo {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter phone number"
-msgstr "Prosím zadejte telefonní číslo"
-
-#. js-lingui-explicit-id
-msgid "Types of {otherName} jobs"
-msgstr "Typy prací {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please select at least one type"
-msgstr "Prosím vyberte alespoň jeden typ"
-
-#. js-lingui-explicit-id
-msgid "Price {otherName}"
-msgstr "Cena {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter price for {otherName}"
-msgstr "Prosím zadejte cenu pro {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Category {otherName}"
-msgstr "Kategorie {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter category for {otherName}"
-msgstr "Prosím zadejte kategorii pro {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Brand {otherName}"
-msgstr "Značka {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter brand for {otherName}"
-msgstr "Prosím zadejte značku pro {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Mileage {otherName}"
-msgstr "Najetí {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter mileage for {otherName}"
-msgstr "Prosím zadejte najetí pro {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Year release {otherName}"
-msgstr "Rok výroby {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
-msgstr "Prosím zadejte rok minimálně {min} a maximálně {max} pro {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Type fuel {otherName}"
-msgstr "Typ paliva {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter type fuel for {otherName}"
-msgstr "Prosím zadejte typ paliva pro {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Type transmission {otherName}"
-msgstr "Typ převodovky {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter type transmission for {otherName}"
-msgstr "Prosím zadejte typ převodovky pro {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Type parts {otherName}"
-msgstr "Typ dílu {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please enter type parts for {otherName}"
-msgstr "Prosím zadejte typu dílu pro {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Incorrectly entered data"
-msgstr "Nesprávně zadaná data"
-
-#. js-lingui-explicit-id
-msgid "Images {otherName}"
-msgstr "Obrázky {otherName}"
-
-#. js-lingui-explicit-id
-msgid "Please add images for {otherName}"
-msgstr "Prosím přidejte obrázky pro {otherName}"
-
-#. js-lingui-explicit-id
-msgid "About {NAME_APP}"
-msgstr "O aplikaci {NAME_APP}"
-
-#. js-lingui-explicit-id
-msgid "Get in Touch"
-msgstr "Kontaktujte nás"
-
-#. js-lingui-explicit-id
-msgid "Contact us: {CONTACT_EMAIL}"
-msgstr "Kontaktujte nás: {CONTACT_EMAIL}"
-
-#. js-lingui-explicit-id
-msgid "Get it on Google Play"
-msgstr "Získat na Google Play"
-
-#. js-lingui-explicit-id
-msgid "Secure & Private"
-msgstr "Bezpečné a soukromé"
-
-#. js-lingui-explicit-id
-msgid "Last updated:"
-msgstr "Naposledy aktualizováno:"
-
-#. js-lingui-explicit-id
-msgid "Information We Collect"
-msgstr "Informace, Které Shromažďujeme"
-
-#. js-lingui-explicit-id
-msgid "Data Security"
-msgstr "Bezpečnost Dat"
-
-#. js-lingui-explicit-id
-msgid "International Data Transfers"
-msgstr "Mezinárodní Přenosy Dat"
-
-#. js-lingui-explicit-id
-msgid "Data Retention"
-msgstr "Uchovávání Dat"
-
-#. js-lingui-explicit-id
-msgid "User Rights"
-msgstr "Práva Uživatele"
-
-#. js-lingui-explicit-id
-msgid "Contact Information"
-msgstr "Kontaktní Informace"
-
-#. js-lingui-explicit-id
-msgid "1. Purpose of the Application"
-msgstr "1. Účel Aplikace"
