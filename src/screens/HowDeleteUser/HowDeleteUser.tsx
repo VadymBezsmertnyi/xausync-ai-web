@@ -130,7 +130,17 @@ const HowDeleteUser: FunctionComponent = () => {
             </li>
             <li className={styles.itemList}>
               {i18n._(
-                "Removal of subscription information and payment history"
+                "Permanent removal of your in-app energy balance - all energy credits will be deleted and cannot be restored"
+              )}
+            </li>
+            <li className={styles.itemList}>
+              {i18n._(
+                "Permanent removal of any remaining subscription days or premium access - all active subscriptions linked to your account will be deleted and cannot be restored"
+              )}
+            </li>
+            <li className={styles.itemList}>
+              {i18n._(
+                "Removal of subscription information and payment history within the app"
               )}
             </li>
           </ul>
@@ -141,7 +151,7 @@ const HowDeleteUser: FunctionComponent = () => {
           <div className={styles.warningBox}>
             <p className={styles.warningText}>
               {i18n._(
-                "Account deletion is irreversible. Once deleted, you cannot recover your data or restore your account. If you want to use {NAME_APP} again in the future, you will need to create a new account.",
+                "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance, subscription days, or any account-related benefits. All energy credits, remaining subscription time, and premium access will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account.",
                 { NAME_APP }
               )}
             </p>
