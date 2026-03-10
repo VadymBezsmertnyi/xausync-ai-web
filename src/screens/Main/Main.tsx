@@ -60,7 +60,7 @@ export default function Main() {
       icon: <Notifications sx={{ fontSize: 40, color: "var(--gold)" }} />,
       title: i18n._("Learning Alerts"),
       description: i18n._(
-        "Educational notifications for market scenarios and learning opportunities to study real-time market conditions."
+        "Educational notifications for market scenarios and learning examples to study real-time market conditions."
       ),
     },
     {
@@ -74,7 +74,7 @@ export default function Main() {
       icon: <Analytics sx={{ fontSize: 40, color: "var(--gold)" }} />,
       title: i18n._("Market Analytics Learning"),
       description: i18n._(
-        "Educational market insights and trend analysis for understanding market dynamics and trading logic."
+        "Educational market insights and trend analysis for understanding market dynamics and market analysis concepts."
       ),
     },
     {
@@ -96,27 +96,29 @@ export default function Main() {
   return (
     <>
       <Head>
-        <title>{i18n._("XauSync AI — Learn Trading Analysis with AI")}</title>
+        <title>
+          {i18n._("XauSync AI — AI-Powered Market Analysis Learning")}
+        </title>
         <meta
           name="description"
           content={i18n._(
-            "XauSync AI provides AI-powered educational tools for learning trading analysis and market behavior. Study real market scenarios, technical analysis, and trading logic with AI-assisted insights."
+            "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior. Explore real market scenarios, technical analysis concepts, and AI-assisted educational insights."
           )}
         />
         <meta
           name="keywords"
           content={i18n._(
-            "XauSync AI, learn trading, AI trading education, market analysis learning, technical analysis study, trading logic, AI educational tools, market behavior learning"
+            "XauSync AI, AI market analysis education, learn market behavior, technical analysis study, AI educational tools, market analysis learning, trading concepts education"
           )}
         />
         <meta
           property="og:title"
-          content={i18n._("XauSync AI — Learn Trading Analysis with AI")}
+          content={i18n._("XauSync AI — AI-Powered Market Analysis Learning")}
         />
         <meta
           property="og:description"
           content={i18n._(
-            "XauSync AI provides AI-powered educational tools for learning trading analysis and market behavior. Study real market scenarios and technical analysis concepts."
+            "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior with real market scenarios."
           )}
         />
         <meta property="og:image" content="/og-image.png" />
@@ -124,7 +126,7 @@ export default function Main() {
         <meta property="og:image:height" content="630" />
         <meta
           property="og:image:alt"
-          content={i18n._("XauSync AI - Learn Trading Analysis with AI")}
+          content={i18n._("XauSync AI - AI-Powered Market Analysis Learning")}
         />
         <meta property="og:url" content="https://xausync.ai" />
         <meta property="og:type" content="website" />
@@ -132,18 +134,18 @@ export default function Main() {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content={i18n._("XauSync AI — Learn Trading Analysis with AI")}
+          content={i18n._("XauSync AI — AI-Powered Market Analysis Learning")}
         />
         <meta
           name="twitter:description"
           content={i18n._(
-            "XauSync AI provides AI-powered educational tools for learning trading analysis and market behavior."
+            "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior."
           )}
         />
         <meta name="twitter:image" content="/twitter-image.png" />
         <meta
           name="twitter:image:alt"
-          content={i18n._("XauSync AI - Learn Trading Analysis with AI")}
+          content={i18n._("XauSync AI - AI-Powered Market Analysis Learning")}
         />
         <meta name="twitter:site" content="@xausync_ai" />
         <link rel="canonical" href="https://xausync.ai" />
@@ -180,7 +182,7 @@ export default function Main() {
                       color: "var(--gold)",
                     }}
                   >
-                    {i18n._("{NAME_APP}: Learn Trading Analysis with AI", {
+                    {i18n._("{NAME_APP}: AI-Powered Market Analysis Learning", {
                       NAME_APP,
                     })}
                   </Typography>
@@ -207,7 +209,7 @@ export default function Main() {
                     }}
                   >
                     {i18n._(
-                      "Learn trading logic and market behavior with AI-powered educational tools. Study real market scenarios, technical analysis, and market insights for educational purposes only."
+                      "Learn market analysis and study market behavior with AI-powered educational tools. Explore real market scenarios, technical analysis concepts, and educational insights for learning purposes only."
                     )}
                   </Typography>
 
@@ -373,7 +375,7 @@ export default function Main() {
                 sx={{ color: "var(--text-gray)", maxWidth: 600, mx: "auto" }}
               >
                 {i18n._(
-                  "Educational insights and analysis for learning trading logic and market behavior"
+                  "Educational insights and analysis for learning market behavior and studying technical analysis concepts"
                 )}
               </Typography>
             </Box>
@@ -445,7 +447,7 @@ export default function Main() {
                     sx={{ color: "var(--text-gray)", lineHeight: 1.7, mb: 3 }}
                   >
                     {i18n._(
-                      "{NAME_APP} provides educational insights and analytical tools to help users learn trading logic and market behavior. Our platform uses real market data as educational context for studying technical analysis and market scenarios.",
+                      "{NAME_APP} provides educational insights and analytical tools to help users study market behavior and analysis concepts. Our platform uses real market data as educational context for exploring technical analysis and market scenarios.",
                       { NAME_APP }
                     )}
                   </Typography>
@@ -524,11 +526,11 @@ export default function Main() {
                   mb: 2,
                 }}
               >
-                {i18n._("Start Your Trading Analysis Learning Journey")}
+                {i18n._("Start Your Market Analysis Learning Journey")}
               </Typography>
               <Typography variant="h6" sx={{ mb: 4, opacity: 0.9 }}>
                 {i18n._(
-                  "Join learners who use {NAME_APP} for educational market insights and trading analysis study",
+                  "Join learners who use {NAME_APP} for educational market insights and market analysis study",
                   { NAME_APP }
                 )}
               </Typography>

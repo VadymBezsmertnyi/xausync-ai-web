@@ -54,13 +54,13 @@ const TermsOfUse: FunctionComponent = () => {
         <meta
           name="description"
           content={i18n._(
-            "XauSync AI Terms of Use - Read our terms for using the AI-powered trading analysis platform, including user responsibilities, educational purpose, and service guidelines."
+            "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis application, including user responsibilities, educational purpose, and service guidelines."
           )}
         />
         <meta
           name="keywords"
           content={i18n._(
-            "Terms of Use, XauSync AI, legal terms, user agreement, trading analysis terms, educational trading, service terms"
+            "Terms of Use, XauSync AI, legal terms, user agreement, market analysis terms, educational market analysis, service terms"
           )}
         />
         <meta
@@ -70,7 +70,7 @@ const TermsOfUse: FunctionComponent = () => {
         <meta
           property="og:description"
           content={i18n._(
-            "XauSync AI Terms of Use - Read our terms for using the AI-powered trading analysis platform, including user responsibilities and service guidelines."
+            "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis application, including user responsibilities and service guidelines."
           )}
         />
         <meta property="og:image" content="/og-image.png" />
@@ -90,7 +90,7 @@ const TermsOfUse: FunctionComponent = () => {
         <meta
           name="twitter:description"
           content={i18n._(
-            "XauSync AI Terms of Use - Read our terms for using the AI-powered trading analysis platform, including user responsibilities and service guidelines."
+            "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis application, including user responsibilities and service guidelines."
           )}
         />
         <meta name="twitter:image" content="/twitter-image.png" />
@@ -113,7 +113,7 @@ const TermsOfUse: FunctionComponent = () => {
           </p>
           <p className={styles.text}>
             {i18n._(
-              `"{NAME_APP}" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) ("us", "we", or "our"). By accessing or using our AI-powered trading analysis application and web services ("Service"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service.`,
+              `"{NAME_APP}" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) ("us", "we", or "our"). By accessing or using our AI-powered educational market analysis application and web services ("Service"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service.`,
               { NAME_APP }
             )}
           </p>
@@ -122,7 +122,7 @@ const TermsOfUse: FunctionComponent = () => {
           {line(
             i18n._("1. Purpose of the Application"),
             i18n._(
-              `{NAME_APP} is an AI-powered mobile and web application designed to provide trading analysis, market insights, and educational information for XAU/USD (Gold/US Dollar) trading. The application offers real-time market data, AI-generated trading signals, technical indicators, pattern recognition, and analytical tools to assist traders in making informed decisions. The service is intended for informational and educational purposes only.`,
+              `{NAME_APP} is an AI-powered mobile and web application designed to provide educational market analysis, learning insights, and educational information for studying XAU/USD (Gold/US Dollar) market behavior. The application offers real-time market data, AI-generated educational insights, technical indicators, pattern recognition, and analytical tools to help users learn market analysis concepts. The service is intended for informational and educational purposes only.`,
               { NAME_APP }
             )
           )}
@@ -131,7 +131,7 @@ const TermsOfUse: FunctionComponent = () => {
           {line(
             i18n._("2. Educational and Informational Use"),
             i18n._(
-              `{NAME_APP} provides market analysis and trading insights for educational purposes only. The application does not provide financial advice, investment recommendations, or guarantee trading success. Users are responsible for their own trading decisions and should conduct their own research before making any financial decisions.`,
+              `{NAME_APP} provides market analysis and educational insights for learning purposes only. The application does not provide financial advice, investment recommendations, or guarantee market analysis success. Users are responsible for their own decisions and should conduct their own research before making any financial decisions.`,
               { NAME_APP }
             )
           )}
@@ -140,7 +140,7 @@ const TermsOfUse: FunctionComponent = () => {
           {line(
             i18n._("3. No Financial Advice"),
             i18n._(
-              "The content, signals, and analysis provided by {NAME_APP} do not constitute financial advice, investment advice, or trading recommendations. All information is for educational purposes only. Users should consult with qualified financial advisors before making any investment decisions.",
+              "The content, educational insights, and analysis provided by {NAME_APP} do not constitute financial advice, investment advice, or trading recommendations. All information is for educational purposes only. Users should consult with qualified financial advisors before making any investment decisions.",
               { NAME_APP }
             )
           )}
@@ -149,7 +149,7 @@ const TermsOfUse: FunctionComponent = () => {
           {line(
             i18n._("4. Trading Risks"),
             i18n._(
-              "Trading financial instruments, including XAU/USD, involves substantial risk and may not be suitable for all investors. Past performance does not guarantee future results. {NAME_APP} does not guarantee profits or trading success. Users should never trade with money they cannot afford to lose.",
+              "Trading financial instruments, including XAU/USD, involves substantial risk and may not be suitable for all investors. Past performance does not guarantee future results. {NAME_APP} does not guarantee profits or educational success. Users should never trade with money they cannot afford to lose.",
               { NAME_APP }
             )
           )}
@@ -158,7 +158,7 @@ const TermsOfUse: FunctionComponent = () => {
           {line(
             i18n._("5. AI Analysis Limitations"),
             i18n._(
-              "The AI-powered analysis and signals provided by {NAME_APP} are based on historical data and algorithms. Market conditions can change rapidly, and AI predictions may be incomplete, delayed, or inaccurate. Users should use AI insights as one tool among many in their trading decision-making process.",
+              "The AI-powered analysis and educational insights provided by {NAME_APP} are based on historical data and algorithms. Market conditions can change rapidly, and AI predictions may be incomplete, delayed, or inaccurate. Users should use AI insights as one tool among many in their learning process.",
               { NAME_APP }
             )
           )}
@@ -217,7 +217,7 @@ const TermsOfUse: FunctionComponent = () => {
           {line(
             i18n._("10. Market Data and Third-Party Content"),
             i18n._(
-              "Market data provided through {NAME_APP} is sourced from third-party providers and may be delayed or contain errors. We do not guarantee the accuracy, completeness, or timeliness of market data. Users should verify critical market information from multiple sources before making trading decisions.",
+              "Market data provided through {NAME_APP} is sourced from third-party providers and may be delayed or contain errors. We do not guarantee the accuracy, completeness, or timeliness of market data. Users should verify critical market information from multiple sources before making decisions.",
               { NAME_APP }
             )
           )}
@@ -235,7 +235,7 @@ const TermsOfUse: FunctionComponent = () => {
           {line(
             i18n._("12. Limitation of Liability"),
             i18n._(
-              "To the maximum extent permitted by law, {NAME_APP} and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to trading losses, data loss, or financial damages, arising from your use of our services.",
+              "To the maximum extent permitted by law, {NAME_APP} and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to financial losses, data loss, or other damages, arising from your use of our services.",
               { NAME_APP }
             )
           )}

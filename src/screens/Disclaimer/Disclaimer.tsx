@@ -36,20 +36,20 @@ const Disclaimer: FunctionComponent = () => {
         <meta
           name="description"
           content={i18n._(
-            "XauSync AI Disclaimer - Important information about trading risks and the educational nature of our AI-powered trading analysis platform. Understand that all content is for informational purposes only."
+            "XauSync AI Disclaimer - Important information about market analysis risks and the educational nature of our AI-powered educational market analysis application. Understand that all content is for informational purposes only."
           )}
         />
         <meta
           name="keywords"
           content={i18n._(
-            "Disclaimer, XauSync AI, trading risks, educational trading, financial disclaimer, AI analysis, trading responsibility"
+            "Disclaimer, XauSync AI, market analysis risks, educational market analysis, financial disclaimer, AI analysis education, learning responsibility"
           )}
         />
         <meta property="og:title" content={i18n._("Disclaimer — XauSync AI")} />
         <meta
           property="og:description"
           content={i18n._(
-            "XauSync AI Disclaimer - Important information about trading risks and the educational nature of our AI-powered trading analysis platform."
+            "XauSync AI Disclaimer - Important information about market analysis risks and the educational nature of our AI-powered educational market analysis application."
           )}
         />
         <meta property="og:image" content="/og-image.png" />
@@ -69,7 +69,7 @@ const Disclaimer: FunctionComponent = () => {
         <meta
           name="twitter:description"
           content={i18n._(
-            "XauSync AI Disclaimer - Important information about trading risks and the educational nature of our AI-powered trading analysis platform."
+            "XauSync AI Disclaimer - Important information about market analysis risks and the educational nature of our AI-powered educational market analysis application."
           )}
         />
         <meta name="twitter:image" content="/twitter-image.png" />
@@ -92,7 +92,7 @@ const Disclaimer: FunctionComponent = () => {
           </p>
           <p className={styles.text}>
             {i18n._(
-              `The "{NAME_APP}" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) ("us", "we", or "our"). This disclaimer contains important information about the risks associated with using our trading analysis and AI-powered services.`,
+              `The "{NAME_APP}" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) ("us", "we", or "our"). This disclaimer contains important information about the risks associated with using our educational market analysis and AI-powered services.`,
               { NAME_APP }
             )}
           </p>
@@ -108,7 +108,7 @@ const Disclaimer: FunctionComponent = () => {
           {line(
             i18n._("No Investment Advice"),
             i18n._(
-              "The information, analysis, and signals provided by {NAME_APP} are for informational and educational purposes only. They do not constitute investment advice, financial advice, trading recommendations, or a solicitation to buy or sell any financial instrument.",
+              "The information, analysis, and educational insights provided by {NAME_APP} are for informational and educational purposes only. They do not constitute investment advice, financial advice, trading recommendations, or a solicitation to buy or sell any financial instrument.",
               { NAME_APP }
             )
           )}
@@ -143,9 +143,9 @@ const Disclaimer: FunctionComponent = () => {
         <div>
           <h2 className={styles.title}>{i18n._("Financial Responsibility")}</h2>
           {line(
-            i18n._("Trading Decisions"),
+            i18n._("Financial Decisions"),
             i18n._(
-              "All trading decisions are your sole responsibility. You should conduct your own research, consider seeking advice from qualified financial advisors, and never trade with money you cannot afford to lose."
+              "All financial decisions are your sole responsibility. You should conduct your own research, consider seeking advice from qualified financial advisors, and never trade with money you cannot afford to lose."
             )
           )}
           {line(
@@ -168,7 +168,7 @@ const Disclaimer: FunctionComponent = () => {
           {line(
             i18n._("Damages Exclusion"),
             i18n._(
-              "To the maximum extent permitted by law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, trading losses, or data loss, arising from your use of our services."
+              "To the maximum extent permitted by law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, financial losses, or data loss, arising from your use of our services."
             )
           )}
         </div>
@@ -204,7 +204,7 @@ const Disclaimer: FunctionComponent = () => {
           {line(
             i18n._("Leverage Risks"),
             i18n._(
-              "If you use leverage in your trading, be aware that it amplifies both potential profits and losses. High leverage can lead to rapid depletion of your trading capital."
+              "If you use leverage in your trading, be aware that it amplifies both potential outcomes and losses. High leverage can lead to rapid depletion of your trading capital."
             )
           )}
         </div>

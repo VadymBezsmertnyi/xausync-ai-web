@@ -30,13 +30,13 @@ const About: FunctionComponent = () => {
         <meta
           name="description"
           content={i18n._(
-            "Learn about XauSync AI's educational market analysis platform, our AI-powered learning tools, and commitment to teaching trading logic and market behavior through real market examples."
+            "Learn about XauSync AI's educational market analysis platform, our AI-powered learning tools, and commitment to teaching market analysis concepts and studying market behavior through real market examples."
           )}
         />
         <meta
           name="keywords"
           content={i18n._(
-            "About XauSync AI, AI trading education, market analysis learning, educational trading, XAU/USD analysis, AI learning technology, responsible trading education"
+            "About XauSync AI, AI market analysis education, learn market behavior, educational market analysis, XAU/USD analysis, AI learning technology, responsible market education"
           )}
         />
         <meta
@@ -48,7 +48,7 @@ const About: FunctionComponent = () => {
         <meta
           property="og:description"
           content={i18n._(
-            "Learn about XauSync AI's educational market analysis platform and our commitment to teaching trading logic through AI-powered learning tools."
+            "Learn about XauSync AI's educational market analysis platform and our commitment to teaching market analysis concepts through AI-powered learning tools."
           )}
         />
         <meta property="og:image" content="/og-image.png" />
@@ -72,7 +72,7 @@ const About: FunctionComponent = () => {
         <meta
           name="twitter:description"
           content={i18n._(
-            "Learn about XauSync AI's educational market analysis platform and our commitment to teaching trading logic through AI-powered learning tools."
+            "Learn about XauSync AI's educational market analysis platform and our commitment to teaching market analysis concepts through AI-powered learning tools."
           )}
         />
         <meta name="twitter:image" content="/twitter-image.png" />
@@ -102,7 +102,7 @@ const About: FunctionComponent = () => {
           <CardContent>
             <Typography variant="h6" className={styles.introText}>
               {i18n._(
-                `{NAME_APP} is an advanced AI-powered educational platform designed for learning XAU/USD market analysis. Our application combines sophisticated artificial intelligence with comprehensive market data to provide educational insights and learning scenarios for understanding trading logic and market behavior.`,
+                `{NAME_APP} is an advanced AI-powered educational platform designed for learning XAU/USD market analysis. Our application combines sophisticated artificial intelligence with comprehensive market data to provide educational insights and learning scenarios for understanding market analysis concepts and market behavior.`,
                 { NAME_APP }
               )}
             </Typography>
@@ -126,7 +126,7 @@ const About: FunctionComponent = () => {
                     className={styles.featureDescription}
                   >
                     {i18n._(
-                      "Advanced machine learning algorithms analyze XAU/USD market patterns to provide educational insights and learning examples for understanding market behavior and trading concepts."
+                      "Advanced machine learning algorithms analyze XAU/USD market patterns to provide educational insights and learning examples for understanding market behavior and market analysis concepts."
                     )}
                   </Typography>
                 </CardContent>
@@ -198,7 +198,7 @@ const About: FunctionComponent = () => {
                     className={styles.featureDescription}
                   >
                     {i18n._(
-                      "Educational notifications for market scenarios and learning opportunities to study real-time market conditions and technical analysis examples."
+                      "Educational notifications for market scenarios and learning examples to study real-time market conditions and technical analysis concepts."
                     )}
                   </Typography>
                 </CardContent>
@@ -216,7 +216,7 @@ const About: FunctionComponent = () => {
                     className={styles.featureDescription}
                   >
                     {i18n._(
-                      "Educational market insights with trend analysis, volatility metrics, and comprehensive market statistics for understanding market dynamics and trading logic."
+                      "Educational market insights with trend analysis, volatility metrics, and comprehensive market statistics for understanding market dynamics and market analysis concepts."
                     )}
                   </Typography>
                 </CardContent>
@@ -339,7 +339,7 @@ const About: FunctionComponent = () => {
             <CardContent>
               <Typography variant="body1" className={styles.purposeText}>
                 {i18n._(
-                  "{NAME_APP} is designed to provide educational insights and analytical tools to help users learn trading logic and market behavior. Our platform uses real market data as educational context for studying technical analysis and market scenarios.",
+                  "{NAME_APP} is designed to provide educational insights and analytical tools to help users study market behavior and analysis concepts. Our platform uses real market data as educational context for exploring technical analysis and market scenarios.",
                   { NAME_APP }
                 )}
               </Typography>
@@ -396,7 +396,7 @@ const About: FunctionComponent = () => {
         <Box className={styles.footer}>
           <Typography variant="h6" className={styles.thankYouText}>
             {i18n._(
-              "Thank you for choosing {NAME_APP} for your trading analysis!",
+              "Thank you for choosing {NAME_APP} for your market analysis learning!",
               { NAME_APP }
             )}
           </Typography>

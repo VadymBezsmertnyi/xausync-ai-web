@@ -23,7 +23,9 @@ const Footer: FunctionComponent = () => {
               {NAME_APP}
             </Typography>
             <Typography variant="body2" className={styles.footerText}>
-              {i18n._("AI-powered trading analysis and market insights")}
+              {i18n._(
+                "AI-powered educational market analysis and learning insights"
+              )}
             </Typography>
           </Box>
 

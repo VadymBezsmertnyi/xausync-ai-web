@@ -36,13 +36,13 @@ export const PrivacyPolicy: FunctionComponent = () => {
         <meta
           name="description"
           content={i18n._(
-            "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI trading analysis platform. Understand our data practices and your privacy rights."
+            "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI-powered educational market analysis application. Understand our data practices and your privacy rights."
           )}
         />
         <meta
           name="keywords"
           content={i18n._(
-            "Privacy Policy, XauSync AI, data protection, personal information, AI trading, privacy rights, data security, GDPR compliance"
+            "Privacy Policy, XauSync AI, data protection, personal information, AI market analysis education, privacy rights, data security, GDPR compliance"
           )}
         />
         <meta
@@ -52,7 +52,7 @@ export const PrivacyPolicy: FunctionComponent = () => {
         <meta
           property="og:description"
           content={i18n._(
-            "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI trading analysis platform."
+            "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI-powered educational market analysis application."
           )}
         />
         <meta property="og:image" content="/og-image.png" />
@@ -72,7 +72,7 @@ export const PrivacyPolicy: FunctionComponent = () => {
         <meta
           name="twitter:description"
           content={i18n._(
-            "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI trading analysis platform."
+            "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI-powered educational market analysis application."
           )}
         />
         <meta name="twitter:image" content="/twitter-image.png" />
@@ -95,7 +95,7 @@ export const PrivacyPolicy: FunctionComponent = () => {
           </p>
           <p className={styles.text}>
             {i18n._(
-              `The "{NAME_APP}" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) ("us", "we", or "our"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our AI-powered trading analysis application and services ("Service").`,
+              `The "{NAME_APP}" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) ("us", "we", or "our"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our AI-powered educational market analysis application and services ("Service").`,
               { NAME_APP }
             )}
           </p>
@@ -144,12 +144,12 @@ export const PrivacyPolicy: FunctionComponent = () => {
             ]
           )}
           {line(
-            i18n._("Trading Data"),
+            i18n._("Learning Data"),
             i18n._(
-              "We store data related to your trading activities and analysis:"
+              "We store data related to your learning activities and analysis:"
             ),
             [
-              i18n._("Saved trading deals and analysis history"),
+              i18n._("Saved analysis examples and learning history"),
               i18n._("Custom indicators and settings preferences"),
               i18n._("Alert configurations and notification preferences"),
               i18n._("Market watchlists and favorites"),
@@ -163,13 +163,15 @@ export const PrivacyPolicy: FunctionComponent = () => {
           {line(
             i18n._("Service Provision"),
             i18n._(
-              "We use your information to provide and maintain our AI trading analysis service:"
+              "We use your information to provide and maintain our AI-powered educational market analysis service:"
             ),
             [
               i18n._("Authenticate users and provide personalized access"),
-              i18n._("Deliver real-time market analysis and trading signals"),
+              i18n._(
+                "Deliver real-time market analysis and educational insights"
+              ),
               i18n._("Send push notifications for market alerts"),
-              i18n._("Maintain your trading history and preferences"),
+              i18n._("Maintain your learning history and preferences"),
             ]
           )}
           {line(
@@ -234,7 +236,7 @@ export const PrivacyPolicy: FunctionComponent = () => {
             [
               i18n._("Account data: retained while your account is active"),
               i18n._(
-                "Trading history: retained for 2 years after account deletion"
+                "Learning history: retained for 2 years after account deletion"
               ),
               i18n._("Analytics data: retained in anonymous, aggregated form"),
               i18n._(
@@ -275,7 +277,7 @@ export const PrivacyPolicy: FunctionComponent = () => {
             i18n._("Notification Types"),
             i18n._("With your permission, we send push notifications for:"),
             [
-              i18n._("Trading alerts and market opportunities"),
+              i18n._("Learning alerts and market examples"),
               i18n._("Price movement notifications"),
               i18n._("AI analysis updates and insights"),
               i18n._("Important service announcements"),
