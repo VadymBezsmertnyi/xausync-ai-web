@@ -44,9 +44,9 @@ export default function Main() {
   const features = [
     {
       icon: <TrendingUp sx={{ fontSize: 40, color: "var(--gold)" }} />,
-      title: i18n._("AI-Powered Learning"),
+      title: i18n._("AI-Assisted Analysis"),
       description: i18n._(
-        "Advanced artificial intelligence analyzes XAU/USD market patterns to provide educational insights and learning examples for understanding market behavior."
+        "Advanced artificial intelligence analyzes XAU/USD market patterns to provide educational insights and practical examples for understanding market behavior."
       ),
     },
     {
@@ -58,9 +58,9 @@ export default function Main() {
     },
     {
       icon: <Notifications sx={{ fontSize: 40, color: "var(--gold)" }} />,
-      title: i18n._("Learning Alerts"),
+      title: i18n._("Educational Alerts"),
       description: i18n._(
-        "Educational notifications for market scenarios and learning examples to study real-time market conditions."
+        "AI-assisted notifications for market events and practical examples to study real-time conditions and technical formations."
       ),
     },
     {
@@ -72,9 +72,9 @@ export default function Main() {
     },
     {
       icon: <Analytics sx={{ fontSize: 40, color: "var(--gold)" }} />,
-      title: i18n._("Market Analytics Learning"),
+      title: i18n._("Market Analytics"),
       description: i18n._(
-        "Educational market insights and trend analysis for understanding market dynamics and market analysis concepts."
+        "Educational market insights and trend analysis for understanding market dynamics and technical concepts."
       ),
     },
     {
@@ -87,17 +87,17 @@ export default function Main() {
   ];
 
   const stats = [
-    { number: "10K+", label: i18n._("Active Learners") },
-    { number: "1M+", label: i18n._("Learning Scenarios") },
-    { number: "99.9%", label: i18n._("Uptime") },
-    { number: "4.9★", label: i18n._("User Rating") },
+    { number: "AI", label: i18n._("Powered Analysis") },
+    { number: "24/7", label: i18n._("Market Access") },
+    { number: "XAU", label: i18n._("Gold Focus") },
+    { number: "EDU", label: i18n._("Learning Purpose") },
   ];
 
   return (
     <>
       <Head>
         <title>
-          {i18n._("XauSync AI — AI-Powered Market Analysis Learning")}
+          {i18n._("XauSync AI — AI-Powered Market Analysis for Learning")}
         </title>
         <meta
           name="description"
@@ -113,7 +113,9 @@ export default function Main() {
         />
         <meta
           property="og:title"
-          content={i18n._("XauSync AI — AI-Powered Market Analysis Learning")}
+          content={i18n._(
+            "XauSync AI — AI-Powered Market Analysis for Learning"
+          )}
         />
         <meta
           property="og:description"
@@ -126,7 +128,9 @@ export default function Main() {
         <meta property="og:image:height" content="630" />
         <meta
           property="og:image:alt"
-          content={i18n._("XauSync AI - AI-Powered Market Analysis Learning")}
+          content={i18n._(
+            "XauSync AI - AI-Powered Market Analysis for Learning"
+          )}
         />
         <meta property="og:url" content="https://xausync.ai" />
         <meta property="og:type" content="website" />
@@ -134,7 +138,9 @@ export default function Main() {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content={i18n._("XauSync AI — AI-Powered Market Analysis Learning")}
+          content={i18n._(
+            "XauSync AI — AI-Powered Market Analysis for Learning"
+          )}
         />
         <meta
           name="twitter:description"
@@ -145,7 +151,9 @@ export default function Main() {
         <meta name="twitter:image" content="/twitter-image.png" />
         <meta
           name="twitter:image:alt"
-          content={i18n._("XauSync AI - AI-Powered Market Analysis Learning")}
+          content={i18n._(
+            "XauSync AI - AI-Powered Market Analysis for Learning"
+          )}
         />
         <meta name="twitter:site" content="@xausync_ai" />
         <link rel="canonical" href="https://xausync.ai" />
@@ -182,9 +190,12 @@ export default function Main() {
                       color: "var(--gold)",
                     }}
                   >
-                    {i18n._("{NAME_APP}: AI-Powered Market Analysis Learning", {
-                      NAME_APP,
-                    })}
+                    {i18n._(
+                      "{NAME_APP}: AI-Powered Market Analysis for Learning",
+                      {
+                        NAME_APP,
+                      }
+                    )}
                   </Typography>
 
                   <Typography
@@ -196,7 +207,7 @@ export default function Main() {
                       fontFamily: '"Tenor Sans", serif',
                     }}
                   >
-                    {i18n._("Educational Market Analysis Platform")}
+                    {i18n._("Educational Market Analysis App")}
                   </Typography>
 
                   <Typography
@@ -209,7 +220,7 @@ export default function Main() {
                     }}
                   >
                     {i18n._(
-                      "Learn market analysis and study market behavior with AI-powered educational tools. Explore real market scenarios, technical analysis concepts, and educational insights for learning purposes only."
+                      "Study market analysis and explore market behavior with AI-powered educational tools. Discover real market scenarios, technical analysis concepts, and practical insights for educational purposes only."
                     )}
                   </Typography>
 
@@ -493,7 +504,7 @@ export default function Main() {
                     }}
                   >
                     {i18n._(
-                      "Important: {NAME_APP} provides educational content only. Real market examples are used for learning purposes. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk.",
+                      "Important: {NAME_APP} provides informational and educational content only. It does not provide financial, investment, or trading advice. Real market examples are used for study purposes only. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk.",
                       { NAME_APP }
                     )}
                   </Typography>
@@ -555,11 +566,11 @@ export default function Main() {
                   mb: 2,
                 }}
               >
-                {i18n._("Start Your Market Analysis Learning Journey")}
+                {i18n._("Start Your Educational Journey")}
               </Typography>
               <Typography variant="h6" sx={{ mb: 4, opacity: 0.9 }}>
                 {i18n._(
-                  "Join learners who use {NAME_APP} for educational market insights and market analysis study",
+                  "Discover how {NAME_APP} provides AI-powered market analysis tools for educational study and technical learning",
                   { NAME_APP }
                 )}
               </Typography>
@@ -589,7 +600,7 @@ export default function Main() {
                     transition: "all 0.3s ease",
                   }}
                 >
-                  {i18n._("Learn About {NAME_APP}", { NAME_APP })}
+                  {i18n._("Explore {NAME_APP}", { NAME_APP })}
                 </Button>
 
                 <Button
