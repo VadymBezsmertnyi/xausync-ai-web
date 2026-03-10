@@ -85,10 +85,10 @@ export default function Main() {
   ];
 
   const stats = [
-    { number: "AI", label: i18n._("Powered Analysis") },
-    { number: "24/7", label: i18n._("Market Access") },
-    { number: "XAU", label: i18n._("Gold Focus") },
-    { number: "EDU", label: i18n._("Learning Purpose") },
+    { number: "AI", label: i18n._("Assisted Insights") },
+    { number: "XAU", label: i18n._("Market Focus") },
+    { number: "LIVE", label: i18n._("Real Market Context") },
+    { number: "EDU", label: i18n._("Educational Use") },
   ];
 
   return (
