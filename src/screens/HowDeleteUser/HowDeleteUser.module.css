@@ -1,117 +1,142 @@
 .container {
-  padding: 40px 20px;
-  max-width: 1200px;
+  padding: 60px 20px;
+  max-width: 1000px;
   margin: 0 auto;
-  background-color: #ffffff;
+  background-color: var(--background);
   min-height: 100vh;
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+  font-family:
+    "Inter",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
     sans-serif;
   position: relative;
   overflow: visible;
 }
 
-.container::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 300px;
-  height: 569px;
-  background-image: url("/background-flowers.png");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: top right;
-  z-index: 0;
-  opacity: 0.8;
-}
-
-.container > * {
-  position: relative;
-  z-index: 1;
-}
-
 .mainTitle {
   font-size: 3.5rem;
   font-weight: 700;
-  color: #582c83;
-  margin-bottom: 16px;
+  color: var(--gold);
+  margin-bottom: 60px;
   font-family: "Tenor Sans", serif;
-  letter-spacing: -0.22px;
   text-align: center;
+  line-height: 1.2;
 }
 
 .title {
   font-weight: 600;
-  font-size: 2.5rem;
-  color: #582c83;
+  font-size: 2rem;
+  color: var(--gold);
   margin-top: 40px;
   margin-bottom: 20px;
   text-align: left;
   font-family: "Tenor Sans", serif;
+  line-height: 1.3;
 }
 
 .text {
   font-weight: 400;
-  font-size: 1rem;
-  color: #8f9bb3;
+  font-size: 1.1rem;
+  color: var(--text-gray);
   margin-top: 8px;
-  margin-bottom: 16px;
-  line-height: 1.6;
+  margin-bottom: 24px;
+  line-height: 1.7;
   font-family: "Inter", sans-serif;
 }
 
+.section {
+  margin-bottom: 48px;
+  padding: 32px;
+  background-color: var(--background);
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(244, 197, 66, 0.1);
+  border: 1px solid rgba(244, 197, 66, 0.2);
+}
+
+.introSection {
+  margin-bottom: 48px;
+  padding: 40px;
+  background: linear-gradient(
+    135deg,
+    var(--background) 0%,
+    var(--background-gradient-end) 100%
+  );
+  border-radius: 12px;
+  border: 1px solid rgba(244, 197, 66, 0.3);
+}
+
 .list {
-  margin-left: 20px;
-  margin-bottom: 16px;
+  margin-left: 24px;
+  margin-bottom: 24px;
+}
+
+.orderedList {
+  margin-left: 24px;
+  margin-bottom: 24px;
+  padding-left: 8px;
 }
 
 .itemList {
   font-weight: 400;
-  font-size: 1rem;
-  color: #8f9bb3;
-  margin-top: 8px;
-  margin-bottom: 4px;
-  line-height: 1.5;
+  font-size: 1.05rem;
+  color: var(--text-gray);
+  margin-top: 12px;
+  margin-bottom: 8px;
+  line-height: 1.6;
   font-family: "Inter", sans-serif;
+}
+
+.warningBox {
+  background-color: rgba(244, 197, 66, 0.1);
+  border: 2px solid var(--gold);
+  border-radius: 8px;
+  padding: 20px;
+  margin: 24px 0;
+}
+
+.warningText {
+  font-weight: 500;
+  font-size: 1.05rem;
+  color: var(--gold);
+  line-height: 1.6;
+  font-family: "Inter", sans-serif;
+  margin: 0;
+}
+
+.contactText {
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: var(--gold);
+  margin-top: 16px;
+  margin-bottom: 0;
+  font-family: "Inter", sans-serif;
+}
+
+.footerNote {
+  margin-top: 60px;
+  padding-top: 32px;
+  border-top: 1px solid rgba(244, 197, 66, 0.2);
+}
+
+.footerText {
+  font-weight: 400;
+  font-size: 0.9rem;
+  color: var(--text-gray);
+  line-height: 1.6;
+  font-family: "Inter", sans-serif;
+  margin: 0;
+  opacity: 0.8;
 }
 
 @media (max-width: 768px) {
   .container {
-    padding: 20px 16px;
-  }
-
-  .container::before {
-    width: 200px;
-    height: 380px;
-    opacity: 0.6;
+    padding: 40px 16px;
   }
 
   .mainTitle {
     font-size: 2.5rem;
-  }
-
-  .title {
-    font-size: 2rem;
-  }
-
-  .text {
-    font-size: 0.95rem;
-  }
-
-  .itemList {
-    font-size: 0.95rem;
-  }
-}
-
-@media (max-width: 480px) {
-  .container::before {
-    width: 150px;
-    height: 285px;
-    opacity: 0.4;
-  }
-
-  .mainTitle {
-    font-size: 2rem;
+    margin-bottom: 40px;
   }
 
   .title {
@@ -119,10 +144,72 @@
   }
 
   .text {
-    font-size: 0.9rem;
+    font-size: 1rem;
+  }
+
+  .section {
+    padding: 24px;
+    margin-bottom: 32px;
+  }
+
+  .introSection {
+    padding: 32px 24px;
   }
 
   .itemList {
-    font-size: 0.9rem;
+    font-size: 1rem;
+  }
+
+  .warningText {
+    font-size: 1rem;
+  }
+
+  .contactText {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 32px 12px;
+  }
+
+  .mainTitle {
+    font-size: 2rem;
+    margin-bottom: 32px;
+  }
+
+  .title {
+    font-size: 1.6rem;
+  }
+
+  .text {
+    font-size: 0.95rem;
+  }
+
+  .section {
+    padding: 20px;
+    margin-bottom: 24px;
+  }
+
+  .introSection {
+    padding: 24px 20px;
+  }
+
+  .itemList {
+    font-size: 0.95rem;
+  }
+
+  .warningText {
+    font-size: 0.95rem;
+  }
+
+  .contactText {
+    font-size: 0.95rem;
+  }
+
+  .footerNote {
+    margin-top: 48px;
+    padding-top: 24px;
   }
 }
