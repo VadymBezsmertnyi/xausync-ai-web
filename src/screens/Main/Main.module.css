@@ -1,6 +1,11 @@
 /* Hero Section */
 .heroSection {
-  background: linear-gradient(135deg, var(--background) 0%, var(--background-gradient-end) 50%, var(--background) 100%);
+  background: linear-gradient(
+    135deg,
+    var(--background) 0%,
+    var(--background-gradient-end) 50%,
+    var(--background) 100%
+  );
   min-height: 100vh;
   display: flex;
   align-items: center;
@@ -9,77 +14,89 @@
 }
 
 .heroTitle {
-  fontWeight: 700;
-  marginBottom: 16px;
-  fontFamily: '"Tenor Sans", serif';
+  fontweight: 700;
+  marginbottom: 16px;
+  fontfamily: '"Tenor Sans", serif';
   color: var(--gold);
 }
 
 .heroSubtitle {
-  fontWeight: 300;
-  marginBottom: 24px;
+  fontweight: 300;
+  marginbottom: 24px;
   opacity: 0.9;
-  fontFamily: '"Tenor Sans", serif';
+  fontfamily: '"Tenor Sans", serif';
 }
 
 .heroText {
-  marginBottom: 32px;
+  marginbottom: 32px;
   opacity: 0.9;
-  lineHeight: 1.6;
-  fontSize: "1.1rem";
+  lineheight: 1.6;
+  fontsize: "1.1rem";
 }
 
 /* Stats Section */
 .statsSection {
   padding: 80px 0;
+  background: var(--background);
 }
 
 .statsCard {
-  textAlign: center;
+  textalign: center;
   padding: 24px;
-  backgroundColor: var(--background-card);
-  borderRadius: 16px;
-  boxShadow: var(--premium-shadow);
+  background: linear-gradient(
+    135deg,
+    rgba(18, 18, 26, 0.9) 0%,
+    rgba(24, 24, 32, 0.9) 100%
+  );
+  borderradius: 16px;
   border: 1px solid var(--gold-border);
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  boxshadow: 0 4px 20px rgba(244, 197, 66, 0.1);
 }
 
 .statsCard:hover {
   transform: translateY(-4px);
-  box-shadow: var(--gold-shadow);
+  boxshadow: 0 8px 30px rgba(244, 197, 66, 0.3);
+  border-color: var(--gold);
 }
 
 .statsNumber {
-  fontSize: "2.5rem";
-  fontWeight: 700;
+  fontsize: "2.5rem";
+  fontweight: 700;
   color: var(--gold);
-  fontFamily: '"Tenor Sans", serif';
-  marginBottom: 8px;
+  fontfamily: '"Tenor Sans", serif';
+  marginbottom: 8px;
 }
 
 .statsLabel {
-  fontSize: "1rem";
+  fontsize: "1rem";
   color: var(--text-gray);
-  fontWeight: 500;
+  fontweight: 500;
 }
 
 /* Features Section */
 .featuresSection {
   padding: 80px 0;
+  background: var(--background);
 }
 
 .featureCard {
   height: 100%;
-  backgroundColor: var(--background-card);
-  borderRadius: 16px;
+  background: linear-gradient(
+    135deg,
+    rgba(18, 18, 26, 0.9) 0%,
+    rgba(24, 24, 32, 0.9) 100%
+  );
+  borderradius: 16px;
   border: 1px solid var(--gold-border);
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   position: relative;
   overflow: hidden;
+  boxshadow: 0 4px 20px rgba(244, 197, 66, 0.1);
 }
 
 .featureCard::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
@@ -90,21 +107,22 @@
 
 .featureCard:hover {
   transform: translateY(-8px);
-  box-shadow: var(--gold-shadow);
+  box-shadow: 0 8px 30px rgba(244, 197, 66, 0.3);
+  border-color: var(--gold);
 }
 
 .featureTitle {
-  fontSize: "1.25rem";
-  fontWeight: 600;
+  fontsize: "1.25rem";
+  fontweight: 600;
   color: var(--gold);
-  marginBottom: 16px;
-  fontFamily: '"Tenor Sans", serif';
+  marginbottom: 16px;
+  fontfamily: '"Tenor Sans", serif';
 }
 
 .featureDescription {
-  fontSize: "1rem";
+  fontsize: "1rem";
   color: var(--text-gray);
-  lineHeight: 1.6;
+  lineheight: 1.6;
 }
 
 /* Educational Section */
@@ -114,8 +132,8 @@
 
 .educationalCard {
   height: 100%;
-  backgroundColor: var(--background-card);
-  borderRadius: 16px;
+  backgroundcolor: var(--background-card);
+  borderradius: 16px;
   border: 1px solid var(--gold-border);
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -127,46 +145,98 @@
 
 /* CTA Section */
 .ctaSection {
-  background: linear-gradient(135deg, var(--background) 0%, var(--background-gradient-end) 50%, var(--background) 100%);
+  background: linear-gradient(
+    135deg,
+    var(--background) 0%,
+    var(--background-gradient-end) 50%,
+    var(--background) 100%
+  );
   padding: 100px 0;
-  textAlign: center;
+  text-align: center;
 }
 
 .ctaTitle {
-  fontWeight: 700;
-  fontFamily: '"Tenor Sans", serif';
-  marginBottom: 16px;
+  font-weight: 700;
+  font-family: '"Tenor Sans", serif';
+  margin-bottom: 16px;
 }
 
 .ctaText {
-  marginBottom: 32px;
+  margin-bottom: 32px;
   opacity: 0.9;
+}
+
+/* CTA Buttons */
+.ctaButton {
+  background: linear-gradient(
+    135deg,
+    rgba(18, 18, 26, 0.9) 0%,
+    rgba(24, 24, 32, 0.9) 100%
+  );
+  border: 1px solid var(--gold-border);
+  color: var(--gold);
+  font-weight: 600;
+  padding: 16px 32px;
+  border-radius: 12px;
+  text-transform: "none";
+  font-size: "1.1rem";
+  font-family: '"Inter", sans-serif';
+  transition: "all 0.3s cubic-bezier(0.4, 0, 0.2, 1)";
+  text-decoration: "none";
+  display: "inline-flex";
+  align-items: "center";
+  box-shadow: "0 4px 20px rgba(244, 197, 66, 0.1)";
+}
+
+.ctaButton:hover {
+  background: linear-gradient(
+    135deg,
+    rgba(244, 197, 66, 0.2) 0%,
+    rgba(230, 181, 56, 0.2) 100%
+  );
+  border-color: var(--gold);
+  color: var(--white);
+  transform: translateY(-2px);
+  text-decoration: "none";
+  box-shadow: "0 8px 30px rgba(244, 197, 66, 0.3)";
 }
 
 /* Store Buttons */
 .storeButton {
-  backgroundColor: "rgba(255, 255, 255, 0.9)";
-  color: var(--background);
-  fontWeight: 600;
+  background: linear-gradient(
+    135deg,
+    rgba(18, 18, 26, 0.9) 0%,
+    rgba(24, 24, 32, 0.9) 100%
+  );
+  border: 1px solid var(--gold-border);
+  color: var(--gold);
+  fontweight: 600;
   padding: 16px 32px;
-  borderRadius: 12px;
-  textTransform: "none";
-  fontSize: "1rem";
-  fontFamily: '"Inter", sans-serif';
-  transition: "all 0.3s ease";
-  textDecoration: "none";
+  borderradius: 12px;
+  texttransform: "none";
+  fontsize: "1rem";
+  fontfamily: '"Inter", sans-serif';
+  transition: "all 0.3s cubic-bezier(0.4, 0, 0.2, 1)";
+  textdecoration: "none";
   display: "inline-flex";
-  alignItems: "center";
+  alignitems: "center";
   gap: 8px;
+  boxshadow: "0 4px 20px rgba(244, 197, 66, 0.1)";
 }
 
 .storeButton:hover {
-  backgroundColor: var(--gold);
-  color: var(--background);
+  background: linear-gradient(
+    135deg,
+    rgba(244, 197, 66, 0.2) 0%,
+    rgba(230, 181, 56, 0.2) 100%
+  );
+  border-color: var(--gold);
+  color: var(--white);
   transform: translateY(-2px);
-  textDecoration: "none";
+  textdecoration: "none";
+  boxshadow: "0 8px 30px rgba(244, 197, 66, 0.3)";
 }
 
 .storeButton svg {
-  fontSize: 24px;
+  fontsize: 24px;
 }

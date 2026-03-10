@@ -23,9 +23,7 @@ import {
   BarChart,
   Analytics,
   AutoGraph,
-  Star,
   Security,
-  Speed,
 } from "@mui/icons-material";
 
 import { useLocalesProvider } from "@/localization/localization.provider";
@@ -204,62 +202,6 @@ export default function Main() {
                     <Button
                       variant="contained"
                       size="large"
-                      sx={{
-                        background:
-                          "linear-gradient(135deg, var(--gold) 0%, #e6b538 100%)",
-                        color: "var(--background)",
-                        fontWeight: 600,
-                        py: 1.5,
-                        px: 4,
-                        borderRadius: "12px",
-                        boxShadow: "0 4px 20px rgba(244, 197, 66, 0.3)",
-                        transition: "all 0.3s cubic-bezier(0.4, 0, 0.2, 1)",
-                        textTransform: "none",
-                        fontSize: "1rem",
-                        fontFamily: '"Inter", sans-serif',
-                        "&:hover": {
-                          background:
-                            "linear-gradient(135deg, #f4d568 0%, #e6b538 100%)",
-                          transform: "translateY(-2px)",
-                          boxShadow: "0 8px 30px rgba(244, 197, 66, 0.4)",
-                        },
-                      }}
-                    >
-                      {i18n._("Learn More")}
-                    </Button>
-
-                    <Button
-                      variant="outlined"
-                      size="large"
-                      href="/privacy-policy"
-                      sx={{
-                        borderColor: "var(--gold)",
-                        color: "var(--gold)",
-                        fontWeight: 600,
-                        py: 1.5,
-                        px: 4,
-                        borderRadius: "12px",
-                        borderWidth: "2px",
-                        transition: "all 0.3s cubic-bezier(0.4, 0, 0.2, 1)",
-                        textTransform: "none",
-                        fontSize: "1rem",
-                        fontFamily: '"Inter", sans-serif',
-                        background: "transparent",
-                        "&:hover": {
-                          background: "var(--gold)",
-                          color: "var(--background)",
-                          transform: "translateY(-2px)",
-                          boxShadow: "0 8px 30px rgba(244, 197, 66, 0.4)",
-                          borderColor: "var(--gold)",
-                        },
-                      }}
-                    >
-                      {i18n._("Privacy Policy")}
-                    </Button>
-
-                    <Button
-                      variant="contained"
-                      size="large"
                       href={appStoreUrl}
                       className={styles.storeButton}
                       startIcon={<Apple />}
@@ -280,27 +222,11 @@ export default function Main() {
 
                   <Stack direction="row" spacing={1} flexWrap="wrap">
                     <Chip
-                      icon={<Star sx={{ color: "var(--gold)" }} />}
-                      label={i18n._("4.9★ Rating")}
-                      sx={{
-                        backgroundColor: "var(--tag-gold-muted)",
-                        color: "var(--gold)",
-                      }}
-                    />
-                    <Chip
                       icon={<Security sx={{ color: "var(--success)" }} />}
                       label={i18n._("Secure & Private")}
                       sx={{
                         backgroundColor: "var(--success-muted-25)",
                         color: "var(--success)",
-                      }}
-                    />
-                    <Chip
-                      icon={<Speed sx={{ color: "var(--primary)" }} />}
-                      label={i18n._("Fast & Reliable")}
-                      sx={{
-                        backgroundColor: "rgba(0, 122, 255, 0.2)",
-                        color: "var(--primary)",
                       }}
                     />
                   </Stack>
@@ -326,7 +252,7 @@ export default function Main() {
         </Box>
 
         {/* Stats Section */}
-        <Box sx={{ py: 8, backgroundColor: "var(--dark)" }}>
+        <Box sx={{ py: 8 }}>
           <Container maxWidth="lg">
             <Grid container spacing={4}>
               {stats.map((stat, index) => (
@@ -501,47 +427,16 @@ export default function Main() {
                   variant="contained"
                   size="large"
                   href="/about"
-                  sx={{
-                    backgroundColor: "rgba(255, 255, 255, 0.9)",
-                    color: "var(--background)",
-                    px: 4,
-                    py: 2,
-                    borderRadius: 3,
-                    fontWeight: 600,
-                    textTransform: "none",
-                    fontSize: "1.1rem",
-                    "&:hover": {
-                      backgroundColor: "var(--gold)",
-                      color: "var(--background)",
-                      transform: "translateY(-2px)",
-                    },
-                    transition: "all 0.3s ease",
-                  }}
+                  className={styles.ctaButton}
                 >
                   {i18n._("Explore {NAME_APP}", { NAME_APP })}
                 </Button>
 
                 <Button
-                  variant="outlined"
+                  variant="contained"
                   size="large"
                   href="/disclaimer"
-                  sx={{
-                    backgroundColor: "transparent",
-                    color: "var(--white)",
-                    px: 4,
-                    py: 2,
-                    borderRadius: 3,
-                    fontWeight: 600,
-                    textTransform: "none",
-                    fontSize: "1.1rem",
-                    border: "2px solid var(--white)",
-                    "&:hover": {
-                      backgroundColor: "var(--white)",
-                      color: "var(--background)",
-                      transform: "translateY(-2px)",
-                    },
-                    transition: "all 0.3s ease",
-                  }}
+                  className={styles.ctaButton}
                 >
                   {i18n._("View Disclaimer")}
                 </Button>

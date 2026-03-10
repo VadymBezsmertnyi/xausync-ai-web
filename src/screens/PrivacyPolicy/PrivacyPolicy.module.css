@@ -2,11 +2,7 @@
   padding: 60px 20px;
   max-width: 900px;
   margin: 0 auto;
-  background: linear-gradient(
-    180deg,
-    var(--background) 0%,
-    var(--background-gradient-end) 100%
-  );
+  background-color: var(--background);
   min-height: 100vh;
   font-family:
     "Inter",
