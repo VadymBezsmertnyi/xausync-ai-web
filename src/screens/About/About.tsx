@@ -25,28 +25,30 @@ const About: FunctionComponent = () => {
     <>
       <Head>
         <title>
-          {i18n._("About XauSync AI — AI Trading Analysis Platform")}
+          {i18n._("About XauSync AI — Educational Market Analysis Learning")}
         </title>
         <meta
           name="description"
           content={i18n._(
-            "Learn about XauSync AI's AI-powered trading analysis platform, our technology, and commitment to educational trading insights. Discover our approach to responsible AI trading analysis."
+            "Learn about XauSync AI's educational market analysis platform, our AI-powered learning tools, and commitment to teaching trading logic and market behavior through real market examples."
           )}
         />
         <meta
           name="keywords"
           content={i18n._(
-            "About XauSync AI, AI trading platform, trading analysis, educational trading, XAU/USD analysis, AI technology, responsible trading"
+            "About XauSync AI, AI trading education, market analysis learning, educational trading, XAU/USD analysis, AI learning technology, responsible trading education"
           )}
         />
         <meta
           property="og:title"
-          content={i18n._("About XauSync AI — AI Trading Analysis Platform")}
+          content={i18n._(
+            "About XauSync AI — Educational Market Analysis Learning"
+          )}
         />
         <meta
           property="og:description"
           content={i18n._(
-            "Learn about XauSync AI's AI-powered trading analysis platform, our technology, and commitment to educational trading insights."
+            "Learn about XauSync AI's educational market analysis platform and our commitment to teaching trading logic through AI-powered learning tools."
           )}
         />
         <meta property="og:image" content="/og-image.png" />
@@ -54,25 +56,31 @@ const About: FunctionComponent = () => {
         <meta property="og:image:height" content="630" />
         <meta
           property="og:image:alt"
-          content={i18n._("About XauSync AI - AI Trading Analysis Platform")}
+          content={i18n._(
+            "About XauSync AI - Educational Market Analysis Learning Platform"
+          )}
         />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content={NAME_APP} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content={i18n._("About XauSync AI — AI Trading Analysis Platform")}
+          content={i18n._(
+            "About XauSync AI — Educational Market Analysis Learning"
+          )}
         />
         <meta
           name="twitter:description"
           content={i18n._(
-            "Learn about XauSync AI's AI-powered trading analysis platform and our commitment to educational trading insights."
+            "Learn about XauSync AI's educational market analysis platform and our commitment to teaching trading logic through AI-powered learning tools."
           )}
         />
         <meta name="twitter:image" content="/twitter-image.png" />
         <meta
           name="twitter:image:alt"
-          content={i18n._("About XauSync AI - AI Trading Analysis Platform")}
+          content={i18n._(
+            "About XauSync AI - Educational Market Analysis Learning Platform"
+          )}
         />
         <link rel="canonical" href="https://xausync.ai/about" />
         <meta
@@ -86,7 +94,7 @@ const About: FunctionComponent = () => {
             {i18n._("About {NAME_APP}", { NAME_APP })}
           </Typography>
           <Typography variant="h5" className={styles.subtitle}>
-            {i18n._("AI-Powered Trading Analysis Platform")}
+            {i18n._("Educational Market Analysis Learning Platform")}
           </Typography>
         </Box>
 
@@ -94,7 +102,7 @@ const About: FunctionComponent = () => {
           <CardContent>
             <Typography variant="h6" className={styles.introText}>
               {i18n._(
-                `{NAME_APP} is an advanced AI-powered platform designed for XAU/USD trading analysis. Our application combines sophisticated artificial intelligence with comprehensive market data to provide intelligent trading insights and educational analysis for informed decision-making.`,
+                `{NAME_APP} is an advanced AI-powered educational platform designed for learning XAU/USD market analysis. Our application combines sophisticated artificial intelligence with comprehensive market data to provide educational insights and learning scenarios for understanding trading logic and market behavior.`,
                 { NAME_APP }
               )}
             </Typography>
@@ -118,7 +126,7 @@ const About: FunctionComponent = () => {
                     className={styles.featureDescription}
                   >
                     {i18n._(
-                      "Advanced machine learning algorithms analyze XAU/USD market patterns and identify potential trading opportunities. Our AI processes historical data and current market conditions to generate insights for educational purposes."
+                      "Advanced machine learning algorithms analyze XAU/USD market patterns to provide educational insights and learning examples for understanding market behavior and trading concepts."
                     )}
                   </Typography>
                 </CardContent>
@@ -136,7 +144,7 @@ const About: FunctionComponent = () => {
                     className={styles.featureDescription}
                   >
                     {i18n._(
-                      "Access live XAU/USD market data with interactive charts, comprehensive technical indicators, and instant price updates. Stay informed with real-time market information."
+                      "Access live XAU/USD market data with interactive charts for studying price action, trends, and technical analysis concepts in real-time educational scenarios."
                     )}
                   </Typography>
                 </CardContent>
@@ -154,7 +162,7 @@ const About: FunctionComponent = () => {
                     className={styles.featureDescription}
                   >
                     {i18n._(
-                      "Comprehensive suite of technical indicators including RSI, MACD, Bollinger Bands, and custom AI-driven indicators for thorough market analysis and trend identification."
+                      "Comprehensive suite of technical indicators including RSI, MACD, Bollinger Bands, and custom AI-driven indicators for learning market analysis concepts and studying price patterns."
                     )}
                   </Typography>
                 </CardContent>
@@ -172,7 +180,7 @@ const About: FunctionComponent = () => {
                     className={styles.featureDescription}
                   >
                     {i18n._(
-                      "AI-driven pattern recognition identifies chart patterns, trend reversals, and potential market movements to help traders understand market dynamics."
+                      "AI-driven pattern recognition identifies chart patterns and trend reversals for learning to recognize market patterns and studying technical analysis scenarios."
                     )}
                   </Typography>
                 </CardContent>
@@ -190,7 +198,7 @@ const About: FunctionComponent = () => {
                     className={styles.featureDescription}
                   >
                     {i18n._(
-                      "Receive notifications for significant market movements, important price levels, and analysis updates directly on your device to stay informed."
+                      "Educational notifications for market scenarios and learning opportunities to study real-time market conditions and technical analysis examples."
                     )}
                   </Typography>
                 </CardContent>
@@ -208,7 +216,7 @@ const About: FunctionComponent = () => {
                     className={styles.featureDescription}
                   >
                     {i18n._(
-                      "Deep market insights with trend analysis, volatility metrics, and comprehensive market statistics to provide context for trading decisions."
+                      "Educational market insights with trend analysis, volatility metrics, and comprehensive market statistics for understanding market dynamics and trading logic."
                     )}
                   </Typography>
                 </CardContent>
@@ -234,7 +242,7 @@ const About: FunctionComponent = () => {
                     className={styles.techDescription}
                   >
                     {i18n._(
-                      "State-of-the-art ML models trained on historical XAU/USD data to identify patterns and provide market analysis insights."
+                      "State-of-the-art ML models trained on historical XAU/USD data to identify patterns and provide educational market analysis insights for learning purposes."
                     )}
                   </Typography>
                 </CardContent>
@@ -252,7 +260,7 @@ const About: FunctionComponent = () => {
                     className={styles.techDescription}
                   >
                     {i18n._(
-                      "High-performance data processing ensures instant analysis and market insights with minimal latency."
+                      "High-performance data processing ensures instant educational analysis and learning insights with minimal latency for studying market scenarios."
                     )}
                   </Typography>
                 </CardContent>
@@ -270,7 +278,7 @@ const About: FunctionComponent = () => {
                     className={styles.techDescription}
                   >
                     {i18n._(
-                      "Analysis incorporates market context, economic factors, and technical indicators for comprehensive insights."
+                      "Analysis incorporates market context, economic factors, and technical indicators for comprehensive educational insights and learning scenarios."
                     )}
                   </Typography>
                 </CardContent>
@@ -296,7 +304,7 @@ const About: FunctionComponent = () => {
                     className={styles.techDescription}
                   >
                     {i18n._(
-                      "Advanced technical analysis tools including trend lines, support/resistance levels, and multiple time-frame analysis."
+                      "Advanced technical analysis tools including trend lines, support/resistance levels, and multiple time-frame analysis for learning market analysis concepts."
                     )}
                   </Typography>
                 </CardContent>
@@ -314,7 +322,7 @@ const About: FunctionComponent = () => {
                     className={styles.techDescription}
                   >
                     {i18n._(
-                      "Analysis of market sentiment and volatility metrics to provide context for market conditions and potential movements."
+                      "Analysis of market sentiment and volatility metrics to provide educational context for understanding market conditions and studying price behavior patterns."
                     )}
                   </Typography>
                 </CardContent>
@@ -331,13 +339,13 @@ const About: FunctionComponent = () => {
             <CardContent>
               <Typography variant="body1" className={styles.purposeText}>
                 {i18n._(
-                  "{NAME_APP} is designed to provide educational insights and analytical tools to help traders understand market dynamics. Our platform serves as an educational resource to supplement your trading knowledge and decision-making process.",
+                  "{NAME_APP} is designed to provide educational insights and analytical tools to help users learn trading logic and market behavior. Our platform uses real market data as educational context for studying technical analysis and market scenarios.",
                   { NAME_APP }
                 )}
               </Typography>
               <Typography variant="body2" className={styles.purposeNote}>
                 {i18n._(
-                  "Important: {NAME_APP} provides informational and educational content only. All trading decisions remain your sole responsibility. Trading involves substantial risk, and you should never trade more than you can afford to lose.",
+                  "Important: {NAME_APP} provides educational content only. Real market examples are used for learning purposes. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk and rely on your own judgment.",
                   { NAME_APP }
                 )}
               </Typography>
@@ -353,7 +361,7 @@ const About: FunctionComponent = () => {
             <CardContent>
               <Typography variant="body1" className={styles.purposeText}>
                 {i18n._(
-                  "While our AI provides advanced analysis, we emphasize that trading involves risks and decisions should be made carefully. Use {NAME_APP} as one tool among many in your trading research and analysis process.",
+                  "While our AI provides educational insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a learning tool to study market scenarios and technical analysis concepts.",
                   { NAME_APP }
                 )}
               </Typography>
