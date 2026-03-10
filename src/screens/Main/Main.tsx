@@ -221,21 +221,25 @@ export default function Main() {
                     <Button
                       variant="contained"
                       size="large"
-                      href="/about"
                       sx={{
-                        backgroundColor: "var(--gold)",
+                        background:
+                          "linear-gradient(135deg, var(--gold) 0%, #e6b538 100%)",
                         color: "var(--background)",
-                        px: 4,
-                        py: 2,
-                        borderRadius: 3,
                         fontWeight: 600,
+                        py: 1.5,
+                        px: 4,
+                        borderRadius: "12px",
+                        boxShadow: "0 4px 20px rgba(244, 197, 66, 0.3)",
+                        transition: "all 0.3s cubic-bezier(0.4, 0, 0.2, 1)",
                         textTransform: "none",
-                        fontSize: "1.1rem",
+                        fontSize: "1rem",
+                        fontFamily: '"Inter", sans-serif',
                         "&:hover": {
-                          backgroundColor: "var(--gold-opacity-40)",
+                          background:
+                            "linear-gradient(135deg, #f4d568 0%, #e6b538 100%)",
                           transform: "translateY(-2px)",
+                          boxShadow: "0 8px 30px rgba(244, 197, 66, 0.4)",
                         },
-                        transition: "all 0.3s ease",
                       }}
                     >
                       {i18n._("Learn More")}
@@ -246,21 +250,25 @@ export default function Main() {
                       size="large"
                       href="/privacy-policy"
                       sx={{
-                        backgroundColor: "transparent",
+                        borderColor: "var(--gold)",
                         color: "var(--gold)",
-                        px: 4,
-                        py: 2,
-                        borderRadius: 3,
                         fontWeight: 600,
+                        py: 1.5,
+                        px: 4,
+                        borderRadius: "12px",
+                        borderWidth: "2px",
+                        transition: "all 0.3s cubic-bezier(0.4, 0, 0.2, 1)",
                         textTransform: "none",
-                        fontSize: "1.1rem",
-                        border: "2px solid var(--gold)",
+                        fontSize: "1rem",
+                        fontFamily: '"Inter", sans-serif',
+                        background: "transparent",
                         "&:hover": {
-                          backgroundColor: "var(--gold)",
+                          background: "var(--gold)",
                           color: "var(--background)",
                           transform: "translateY(-2px)",
+                          boxShadow: "0 8px 30px rgba(244, 197, 66, 0.4)",
+                          borderColor: "var(--gold)",
                         },
-                        transition: "all 0.3s ease",
                       }}
                     >
                       {i18n._("Privacy Policy")}
@@ -386,20 +394,41 @@ export default function Main() {
                   <Card
                     sx={{
                       height: "100%",
-                      p: 3,
-                      textAlign: "center",
-                      backgroundColor: "var(--background)",
-                      boxShadow: "0 4px 20px rgba(244, 197, 66, 0.1)",
-                      borderRadius: 3,
-                      transition: "transform 0.3s ease",
+                      background:
+                        "linear-gradient(135deg, rgba(18, 18, 26, 0.8) 0%, rgba(24, 24, 32, 0.9) 100%)",
+                      border: "1px solid var(--gold-border)",
+                      borderRadius: "20px",
+                      boxShadow: "var(--premium-shadow)",
+                      position: "relative",
+                      overflow: "hidden",
+                      transition: "all 0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+                      cursor: "pointer",
+                      "&::before": {
+                        content: '""',
+                        position: "absolute",
+                        top: 0,
+                        left: 0,
+                        right: 0,
+                        height: "1px",
+                        background:
+                          "linear-gradient(90deg, transparent, rgba(244, 197, 66, 0.3), transparent)",
+                      },
                       "&:hover": {
-                        transform: "translateY(-5px)",
-                        boxShadow: "0 8px 30px rgba(244, 197, 66, 0.2)",
+                        transform: "translateY(-6px)",
+                        boxShadow: "var(--gold-shadow)",
+                        border: "1px solid rgba(244, 197, 66, 0.25)",
+                        "& .feature-icon": {
+                          color: "#fff",
+                          filter:
+                            "drop-shadow(0 0 8px rgba(244, 197, 66, 0.4))",
+                        },
                       },
                     }}
                   >
                     <CardContent>
-                      <Box sx={{ mb: 2 }}>{feature.icon}</Box>
+                      <Box sx={{ mb: 2 }} className="feature-icon">
+                        {feature.icon}
+                      </Box>
                       <Typography
                         variant="h6"
                         sx={{

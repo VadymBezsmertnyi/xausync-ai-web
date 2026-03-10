@@ -37,18 +37,37 @@
 
 .introCard {
   margin-bottom: 60px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
-  border-radius: 16px;
-  background: rgba(20, 20, 30, 0.9);
-  border: 1px solid rgba(244, 197, 66, 0.2);
-  transition:
-    transform 0.3s ease,
-    box-shadow 0.3s ease;
+  background: linear-gradient(
+    135deg,
+    rgba(18, 18, 26, 0.95) 0%,
+    rgba(24, 24, 32, 0.95) 100%
+  );
+  border-radius: 20px;
+  box-shadow: var(--premium-shadow);
+  border: 1px solid var(--gold-border);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.introCard::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(244, 197, 66, 0.2),
+    transparent
+  );
 }
 
 .introCard:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 10px 30px rgba(244, 197, 66, 0.15);
+  transform: translateY(-4px);
+  box-shadow: var(--gold-shadow);
 }
 
 .introText {
@@ -77,19 +96,38 @@
 
 .featureCard {
   height: 100%;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
-  border-radius: 12px;
-  transition:
-    transform 0.3s ease,
-    box-shadow 0.3s ease;
-  border: 1px solid rgba(244, 197, 66, 0.2);
-  background: rgba(20, 20, 30, 0.9);
+  background: linear-gradient(
+    135deg,
+    rgba(18, 18, 26, 0.95) 0%,
+    rgba(24, 24, 32, 0.95) 100%
+  );
+  border-radius: 20px;
+  box-shadow: var(--premium-shadow);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border: 1px solid var(--gold-border);
+  position: relative;
+  overflow: hidden;
+}
+
+.featureCard::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(244, 197, 66, 0.2),
+    transparent
+  );
 }
 
 .featureCard:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 10px 30px rgba(244, 197, 66, 0.15);
-  border-color: var(--gold);
+  transform: translateY(-6px);
+  box-shadow: var(--gold-shadow);
+  border-color: rgba(244, 197, 66, 0.25);
 }
 
 .featureTitle {
@@ -115,19 +153,38 @@
 }
 
 .techCard {
-  background: rgba(20, 20, 30, 0.9);
-  border-radius: 16px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
-  border: 1px solid rgba(244, 197, 66, 0.2);
-  transition:
-    transform 0.3s ease,
-    box-shadow 0.3s ease;
+  background: linear-gradient(
+    135deg,
+    rgba(18, 18, 26, 0.95) 0%,
+    rgba(24, 24, 32, 0.95) 100%
+  );
+  border-radius: 20px;
+  box-shadow: var(--premium-shadow);
+  border: 1px solid var(--gold-border);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.techCard::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(244, 197, 66, 0.2),
+    transparent
+  );
 }
 
 .techCard:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 10px 30px rgba(244, 197, 66, 0.15);
-  border-color: var(--gold);
+  transform: translateY(-6px);
+  box-shadow: var(--gold-shadow);
+  border-color: rgba(244, 197, 66, 0.25);
 }
 
 .techTitle {
@@ -161,18 +218,30 @@
 }
 
 .purposeCard {
-  background: var(--dark);
+  background: linear-gradient(
+    135deg,
+    rgba(18, 18, 26, 0.95) 0%,
+    rgba(24, 24, 32, 0.95) 100%
+  );
   border-radius: 16px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
-  border: 1.5px solid var(--gold-border);
-  transition:
-    transform 0.3s ease,
-    box-shadow 0.3s ease;
+  box-shadow: var(--premium-shadow);
+  border: 1px solid var(--gold-border);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  color: var(--white);
+}
+
+.purposeCard.MuiPaper-root {
+  background: linear-gradient(
+    135deg,
+    rgba(18, 18, 26, 0.95) 0%,
+    rgba(24, 24, 32, 0.95) 100%
+  ) !important;
+  color: var(--white) !important;
 }
 
 .purposeCard:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 12px rgba(244, 197, 66, 0.2);
+  transform: translateY(-4px);
+  box-shadow: var(--gold-shadow);
 }
 
 .purposeText {
@@ -204,18 +273,30 @@
 }
 
 .contactCard {
-  background: var(--dark);
+  background: linear-gradient(
+    135deg,
+    rgba(18, 18, 26, 0.95) 0%,
+    rgba(24, 24, 32, 0.95) 100%
+  );
   border-radius: 12px;
-  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
-  border: 1.5px solid var(--gold-border);
-  transition:
-    transform 0.3s ease,
-    box-shadow 0.3s ease;
+  box-shadow: var(--premium-shadow);
+  border: 1px solid var(--gold-border);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  color: var(--white);
+}
+
+.contactCard.MuiPaper-root {
+  background: linear-gradient(
+    135deg,
+    rgba(18, 18, 26, 0.95) 0%,
+    rgba(24, 24, 32, 0.95) 100%
+  ) !important;
+  color: var(--white) !important;
 }
 
 .contactCard:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 12px rgba(244, 197, 66, 0.2);
+  transform: translateY(-4px);
+  box-shadow: var(--gold-shadow);
 }
 
 .contactText {

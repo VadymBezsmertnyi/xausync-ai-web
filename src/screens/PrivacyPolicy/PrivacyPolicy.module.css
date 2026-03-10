@@ -2,7 +2,11 @@
   padding: 60px 20px;
   max-width: 900px;
   margin: 0 auto;
-  background-color: var(--background);
+  background: linear-gradient(
+    180deg,
+    var(--background) 0%,
+    var(--background-gradient-end) 100%
+  );
   min-height: 100vh;
   font-family:
     "Inter",
@@ -12,6 +16,22 @@
     sans-serif;
   position: relative;
   overflow: visible;
+}
+
+.container::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 200px;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(244, 197, 66, 0.3),
+    transparent
+  );
 }
 
 .mainTitle {
@@ -26,12 +46,24 @@
 
 .title {
   font-weight: 600;
-  font-size: 2rem;
+  font-size: 1.8rem;
   color: var(--gold);
   margin-top: 48px;
   margin-bottom: 24px;
   text-align: left;
   font-family: "Tenor Sans", serif;
+  position: relative;
+  padding-bottom: 12px;
+}
+
+.title::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 60px;
+  height: 2px;
+  background: linear-gradient(90deg, var(--gold), transparent);
 }
 
 .subTitle {

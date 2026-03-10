@@ -71,11 +71,14 @@
   --card-border-rgb: 74, 85, 104;
 
   /* Additional XauSync AI variables */
-  --background-card: rgba(20, 20, 30, 0.9);
-  --dark-card: rgba(26, 26, 26, 0.9);
-  --gold-border: rgba(244, 197, 66, 0.3);
+  --background-card: rgba(18, 18, 26, 0.95);
+  --dark-card: rgba(24, 24, 32, 0.95);
+  --gold-border: rgba(244, 197, 66, 0.15);
+  --gold-glow: rgba(244, 197, 66, 0.1);
   --text: #ffffff;
-  --tag-gold-muted: rgba(244, 197, 66, 0.1);
+  --tag-gold-muted: rgba(244, 197, 66, 0.08);
+  --premium-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  --gold-shadow: 0 8px 32px rgba(244, 197, 66, 0.12);
 }
 
 * {
