@@ -14,6 +14,1306 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
+msgid "AI-powered educational market analysis and learning insights"
+msgstr "AI-powered educational market analysis and learning insights"
+
+#. js-lingui-explicit-id
+msgid "Navigation"
+msgstr "Navigation"
+
+#. js-lingui-explicit-id
+msgid "Disclaimer"
+msgstr "Disclaimer"
+
+#. js-lingui-explicit-id
+msgid "Developer"
+msgstr "Developer"
+
+#. js-lingui-explicit-id
+msgid "Developed by Vadym Bezsmertnyi, Sole Proprietor (Ukraine)"
+msgstr "Developed by Vadym Bezsmertnyi, Sole Proprietor (Ukraine)"
+
+#. js-lingui-explicit-id
+msgid "© {year} {NAME_APP}. All rights reserved."
+msgstr "© {year} {NAME_APP}. All rights reserved."
+
+#. js-lingui-explicit-id
+msgid "About XauSync AI — AI-Powered Market Analysis Education"
+msgstr "About XauSync AI — AI-Powered Market Analysis Education"
+
+#. js-lingui-explicit-id
+msgid "Discover XauSync AI's intelligent market analysis platform. Learn through AI-driven insights, real-world examples, and comprehensive technical analysis tools designed for educational purposes."
+msgstr "Discover XauSync AI's intelligent market analysis platform. Learn through AI-driven insights, real-world examples, and comprehensive technical analysis tools designed for educational purposes."
+
+#. js-lingui-explicit-id
+msgid "About XauSync AI, AI market analysis education, learn market behavior, educational market analysis, XAU/USD analysis, AI learning technology, responsible market education"
+msgstr "About XauSync AI, AI market analysis education, learn market behavior, educational market analysis, XAU/USD analysis, AI learning technology, responsible market education"
+
+#. js-lingui-explicit-id
+msgid "Discover XauSync AI's intelligent market analysis platform and our commitment to providing AI-driven insights for educational use."
+msgstr "Discover XauSync AI's intelligent market analysis platform and our commitment to providing AI-driven insights for educational use."
+
+#. js-lingui-explicit-id
+msgid "About XauSync AI - AI-Powered Market Analysis Education Platform"
+msgstr "About XauSync AI - AI-Powered Market Analysis Education Platform"
+
+#. js-lingui-explicit-id
+msgid "AI-Powered Market Analysis for Learning"
+msgstr "AI-Powered Market Analysis for Learning"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} is an AI-powered educational platform designed for studying XAU/USD market dynamics. Our application combines advanced artificial intelligence with comprehensive market data to provide analytical insights and real-world examples for understanding technical analysis and market behavior."
+msgstr "{NAME_APP} is an AI-powered educational platform designed for studying XAU/USD market dynamics. Our application combines advanced artificial intelligence with comprehensive market data to provide analytical insights and real-world examples for understanding technical analysis and market behavior."
+
+#. js-lingui-explicit-id
+msgid "What {NAME_APP} Does"
+msgstr "What {NAME_APP} Does"
+
+#. js-lingui-explicit-id
+msgid "AI-Powered Analysis"
+msgstr "AI-Powered Analysis"
+
+#. js-lingui-explicit-id
+msgid "Advanced machine learning algorithms analyze XAU/USD market patterns to provide AI-assisted insights and practical examples for understanding market dynamics and technical analysis."
+msgstr "Advanced machine learning algorithms analyze XAU/USD market patterns to provide AI-assisted insights and practical examples for understanding market dynamics and technical analysis."
+
+#. js-lingui-explicit-id
+msgid "Real-Time Market Data"
+msgstr "Real-Time Market Data"
+
+#. js-lingui-explicit-id
+msgid "Access live XAU/USD market data with interactive charts for studying price action, trends, and technical indicators in real-world scenarios."
+msgstr "Access live XAU/USD market data with interactive charts for studying price action, trends, and technical indicators in real-world scenarios."
+
+#. js-lingui-explicit-id
+msgid "Technical Indicators"
+msgstr "Technical Indicators"
+
+#. js-lingui-explicit-id
+msgid "Comprehensive suite of technical indicators including RSI, MACD, Bollinger Bands, and custom AI-driven indicators for studying market patterns and price dynamics."
+msgstr "Comprehensive suite of technical indicators including RSI, MACD, Bollinger Bands, and custom AI-driven indicators for studying market patterns and price dynamics."
+
+#. js-lingui-explicit-id
+msgid "Pattern Recognition"
+msgstr "Pattern Recognition"
+
+#. js-lingui-explicit-id
+msgid "AI-driven pattern recognition identifies chart patterns and trend reversals for understanding market movements and studying technical formations."
+msgstr "AI-driven pattern recognition identifies chart patterns and trend reversals for understanding market movements and studying technical formations."
+
+#. js-lingui-explicit-id
+msgid "Educational Alerts"
+msgstr "Educational Alerts"
+
+#. js-lingui-explicit-id
+msgid "AI-assisted notifications for market events and practical examples to study real-time conditions and technical formations."
+msgstr "AI-assisted notifications for market events and practical examples to study real-time conditions and technical formations."
+
+#. js-lingui-explicit-id
+msgid "Market Analytics"
+msgstr "Market Analytics"
+
+#. js-lingui-explicit-id
+msgid "Market insights with trend analysis, volatility metrics, and comprehensive statistics for understanding market dynamics and price movements."
+msgstr "Market insights with trend analysis, volatility metrics, and comprehensive statistics for understanding market dynamics and price movements."
+
+#. js-lingui-explicit-id
+msgid "AI-Powered Insights"
+msgstr "AI-Powered Insights"
+
+#. js-lingui-explicit-id
+msgid "Machine Learning"
+msgstr "Machine Learning"
+
+#. js-lingui-explicit-id
+msgid "State-of-the-art ML models trained on historical XAU/USD data to identify patterns and provide analytical insights for study purposes."
+msgstr "State-of-the-art ML models trained on historical XAU/USD data to identify patterns and provide analytical insights for study purposes."
+
+#. js-lingui-explicit-id
+msgid "Real-Time Processing"
+msgstr "Real-Time Processing"
+
+#. js-lingui-explicit-id
+msgid "High-performance data processing ensures instant analysis and AI-assisted insights with minimal latency for studying market conditions."
+msgstr "High-performance data processing ensures instant analysis and AI-assisted insights with minimal latency for studying market conditions."
+
+#. js-lingui-explicit-id
+msgid "Market Context"
+msgstr "Market Context"
+
+#. js-lingui-explicit-id
+msgid "Analysis incorporates market context, economic factors, and technical indicators for comprehensive insights and practical examples."
+msgstr "Analysis incorporates market context, economic factors, and technical indicators for comprehensive insights and practical examples."
+
+#. js-lingui-explicit-id
+msgid "Market Analytics and Indicators"
+msgstr "Market Analytics and Indicators"
+
+#. js-lingui-explicit-id
+msgid "Technical Analysis"
+msgstr "Technical Analysis"
+
+#. js-lingui-explicit-id
+msgid "Advanced technical analysis tools including trend lines, support/resistance levels, and multiple time-frame analysis for studying market patterns."
+msgstr "Advanced technical analysis tools including trend lines, support/resistance levels, and multiple time-frame analysis for studying market patterns."
+
+#. js-lingui-explicit-id
+msgid "Market Sentiment"
+msgstr "Market Sentiment"
+
+#. js-lingui-explicit-id
+msgid "Analysis of market sentiment and volatility metrics to provide context for understanding market conditions and studying price behavior patterns."
+msgstr "Analysis of market sentiment and volatility metrics to provide context for understanding market conditions and studying price behavior patterns."
+
+#. js-lingui-explicit-id
+msgid "Purpose"
+msgstr "Purpose"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} provides analytical insights and educational tools to help users study market dynamics and technical concepts. Our platform uses real market data as context for exploring analysis techniques and practical examples."
+msgstr "{NAME_APP} provides analytical insights and educational tools to help users study market dynamics and technical concepts. Our platform uses real market data as context for exploring analysis techniques and practical examples."
+
+#. js-lingui-explicit-id
+msgid "Important: {NAME_APP} provides informational and educational content only. It does not provide financial, investment, or trading advice. Real market examples are for study purposes only. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk and rely on your own judgment."
+msgstr "Important: {NAME_APP} provides informational and educational content only. It does not provide financial, investment, or trading advice. Real market examples are for study purposes only. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk and rely on your own judgment."
+
+#. js-lingui-explicit-id
+msgid "Responsible Use"
+msgstr "Responsible Use"
+
+#. js-lingui-explicit-id
+msgid "While our AI provides analytical insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a study tool to explore market scenarios and technical concepts."
+msgstr "While our AI provides analytical insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a study tool to explore market scenarios and technical concepts."
+
+#. js-lingui-explicit-id
+msgid "Always conduct your own research, consider seeking advice from qualified financial professionals, and never risk more than you can afford to lose."
+msgstr "Always conduct your own research, consider seeking advice from qualified financial professionals, and never risk more than you can afford to lose."
+
+#. js-lingui-explicit-id
+msgid "We're continuously improving {NAME_APP} based on user feedback and market developments. Have questions, suggestions, or need support? We'd love to hear from you!"
+msgstr "We're continuously improving {NAME_APP} based on user feedback and market developments. Have questions, suggestions, or need support? We'd love to hear from you!"
+
+#. js-lingui-explicit-id
+msgid "Thank you for choosing {NAME_APP} for your market analysis studies!"
+msgstr "Thank you for choosing {NAME_APP} for your market analysis studies!"
+
+#. js-lingui-explicit-id
+msgid "Disclaimer — XauSync AI"
+msgstr "Disclaimer — XauSync AI"
+
+#. js-lingui-explicit-id
+msgid "XauSync AI Disclaimer - Important information about risks and the educational nature of our AI-powered market analysis app. All content is for informational purposes only."
+msgstr "XauSync AI Disclaimer - Important information about risks and the educational nature of our AI-powered market analysis app. All content is for informational purposes only."
+
+#. js-lingui-explicit-id
+msgid "Disclaimer, XauSync AI, market analysis risks, educational market analysis, financial disclaimer, AI analysis education, learning responsibility"
+msgstr "Disclaimer, XauSync AI, market analysis risks, educational market analysis, financial disclaimer, AI analysis education, learning responsibility"
+
+#. js-lingui-explicit-id
+msgid "XauSync AI Disclaimer - Important information about risks and the educational nature of our AI-powered market analysis app."
+msgstr "XauSync AI Disclaimer - Important information about risks and the educational nature of our AI-powered market analysis app."
+
+#. js-lingui-explicit-id
+msgid "XauSync AI Disclaimer"
+msgstr "XauSync AI Disclaimer"
+
+#. js-lingui-explicit-id
+msgid "March 10, 2026"
+msgstr "March 10, 2026"
+
+#. js-lingui-explicit-id
+msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). This disclaimer contains important information about the risks associated with using our educational market analysis content and AI-powered features."
+msgstr "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). This disclaimer contains important information about the risks associated with using our educational market analysis content and AI-powered features."
+
+#. js-lingui-explicit-id
+msgid "Risk Warning"
+msgstr "Risk Warning"
+
+#. js-lingui-explicit-id
+msgid "Trading Risks"
+msgstr "Trading Risks"
+
+#. js-lingui-explicit-id
+msgid "Trading financial instruments, including XAU/USD (Gold/US Dollar), involves substantial risk and is not suitable for all investors. You should carefully consider your financial situation, investment objectives, and risk tolerance before engaging in trading activities."
+msgstr "Trading financial instruments, including XAU/USD (Gold/US Dollar), involves substantial risk and is not suitable for all investors. You should carefully consider your financial situation, investment objectives, and risk tolerance before engaging in trading activities."
+
+#. js-lingui-explicit-id
+msgid "No Investment Advice"
+msgstr "No Investment Advice"
+
+#. js-lingui-explicit-id
+msgid "The information, analysis, and insights provided by {NAME_APP} are for informational and educational purposes only. They do not constitute investment advice, financial advice, trading recommendations, or a solicitation to buy or sell any financial instrument."
+msgstr "The information, analysis, and insights provided by {NAME_APP} are for informational and educational purposes only. They do not constitute investment advice, financial advice, trading recommendations, or a solicitation to buy or sell any financial instrument."
+
+#. js-lingui-explicit-id
+msgid "AI Limitations"
+msgstr "AI Limitations"
+
+#. js-lingui-explicit-id
+msgid "Our AI-powered analysis is based on historical data and mathematical algorithms. Past performance is not indicative of future results. AI predictions may be inaccurate, and market conditions can change rapidly due to various factors including economic events, political developments, and market sentiment."
+msgstr "Our AI-powered analysis is based on historical data and mathematical algorithms. Past performance is not indicative of future results. AI predictions may be inaccurate, and market conditions can change rapidly due to various factors including economic events, political developments, and market sentiment."
+
+#. js-lingui-explicit-id
+msgid "Service Limitations"
+msgstr "Service Limitations"
+
+#. js-lingui-explicit-id
+msgid "Technical Issues"
+msgstr "Technical Issues"
+
+#. js-lingui-explicit-id
+msgid "We cannot guarantee uninterrupted service or real-time data accuracy. Technical issues, internet connectivity problems, or system maintenance may temporarily affect service availability."
+msgstr "We cannot guarantee uninterrupted service or real-time data accuracy. Technical issues, internet connectivity problems, or system maintenance may temporarily affect service availability."
+
+#. js-lingui-explicit-id
+msgid "Data Accuracy"
+msgstr "Data Accuracy"
+
+#. js-lingui-explicit-id
+msgid "While we strive to provide accurate market data and analysis, we cannot guarantee the completeness, accuracy, or timeliness of all information. Market data may be delayed or contain errors."
+msgstr "While we strive to provide accurate market data and analysis, we cannot guarantee the completeness, accuracy, or timeliness of all information. Market data may be delayed or contain errors."
+
+#. js-lingui-explicit-id
+msgid "Third-Party Services"
+msgstr "Third-Party Services"
+
+#. js-lingui-explicit-id
+msgid "Our service may rely on third-party data providers and APIs. We are not responsible for the quality, accuracy, or availability of third-party services."
+msgstr "Our service may rely on third-party data providers and APIs. We are not responsible for the quality, accuracy, or availability of third-party services."
+
+#. js-lingui-explicit-id
+msgid "Financial Responsibility"
+msgstr "Financial Responsibility"
+
+#. js-lingui-explicit-id
+msgid "Financial Decisions"
+msgstr "Financial Decisions"
+
+#. js-lingui-explicit-id
+msgid "All decisions based on our content are your sole responsibility. You should conduct your own research, consider seeking advice from qualified financial advisors, and never trade with money you cannot afford to lose."
+msgstr "All decisions based on our content are your sole responsibility. You should conduct your own research, consider seeking advice from qualified financial advisors, and never trade with money you cannot afford to lose."
+
+#. js-lingui-explicit-id
+msgid "Loss Acknowledgment"
+msgstr "Loss Acknowledgment"
+
+#. js-lingui-explicit-id
+msgid "You acknowledge and agree that you are solely responsible for any losses incurred. {NAME_APP} and its developers shall not be liable for any financial losses resulting from your use of our services."
+msgstr "You acknowledge and agree that you are solely responsible for any losses incurred. {NAME_APP} and its developers shall not be liable for any financial losses resulting from your use of our services."
+
+#. js-lingui-explicit-id
+msgid "Limitation of Liability"
+msgstr "Limitation of Liability"
+
+#. js-lingui-explicit-id
+msgid "Service Use at Your Own Risk"
+msgstr "Service Use at Your Own Risk"
+
+#. js-lingui-explicit-id
+msgid "You use {NAME_APP} at your own risk. We disclaim all warranties, whether express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement."
+msgstr "You use {NAME_APP} at your own risk. We disclaim all warranties, whether express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement."
+
+#. js-lingui-explicit-id
+msgid "Damages Exclusion"
+msgstr "Damages Exclusion"
+
+#. js-lingui-explicit-id
+msgid "To the maximum extent permitted by law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, financial losses, or data loss, arising from your use of our services."
+msgstr "To the maximum extent permitted by law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, financial losses, or data loss, arising from your use of our services."
+
+#. js-lingui-explicit-id
+msgid "User Responsibilities"
+msgstr "User Responsibilities"
+
+#. js-lingui-explicit-id
+msgid "Account Security"
+msgstr "Account Security"
+
+#. js-lingui-explicit-id
+msgid "You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account."
+msgstr "You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account."
+
+#. js-lingui-explicit-id
+msgid "Compliance"
+msgstr "Compliance"
+
+#. js-lingui-explicit-id
+msgid "You must comply with applicable laws and regulations when using our services. This includes meeting any tax or financial requirements in your jurisdiction."
+msgstr "You must comply with applicable laws and regulations when using our services. This includes meeting any tax or financial requirements in your jurisdiction."
+
+#. js-lingui-explicit-id
+msgid "Professional Advice"
+msgstr "Professional Advice"
+
+#. js-lingui-explicit-id
+msgid "You should consult with qualified financial, legal, and tax professionals before making any investment decisions."
+msgstr "You should consult with qualified financial, legal, and tax professionals before making any investment decisions."
+
+#. js-lingui-explicit-id
+msgid "Market Volatility"
+msgstr "Market Volatility"
+
+#. js-lingui-explicit-id
+msgid "High Volatility Warning"
+msgstr "High Volatility Warning"
+
+#. js-lingui-explicit-id
+msgid "The XAU/USD market can be highly volatile, especially during economic announcements, geopolitical events, or periods of market uncertainty. Prices can move rapidly in either direction, potentially resulting in significant gains or losses."
+msgstr "The XAU/USD market can be highly volatile, especially during economic announcements, geopolitical events, or periods of market uncertainty. Prices can move rapidly in either direction, potentially resulting in significant gains or losses."
+
+#. js-lingui-explicit-id
+msgid "Leverage Risks"
+msgstr "Leverage Risks"
+
+#. js-lingui-explicit-id
+msgid "If you use leverage in trading activities, be aware that it amplifies both potential gains and losses. High leverage can lead to rapid depletion of capital."
+msgstr "If you use leverage in trading activities, be aware that it amplifies both potential gains and losses. High leverage can lead to rapid depletion of capital."
+
+#. js-lingui-explicit-id
+msgid "Changes to Disclaimer"
+msgstr "Changes to Disclaimer"
+
+#. js-lingui-explicit-id
+msgid "We may update this disclaimer periodically. All updates will be published on this page with the revised date. Continued use after changes constitutes acceptance of the updated disclaimer."
+msgstr "We may update this disclaimer periodically. All updates will be published on this page with the revised date. Continued use after changes constitutes acceptance of the updated disclaimer."
+
+#. js-lingui-explicit-id
+msgid "If you have questions about this disclaimer or our services, please contact us at {CONTACT_EMAIL}."
+msgstr "If you have questions about this disclaimer or our services, please contact us at {CONTACT_EMAIL}."
+
+#. js-lingui-explicit-id
+msgid "Delete Your {NAME_APP} Account"
+msgstr "Delete Your {NAME_APP} Account"
+
+#. js-lingui-explicit-id
+msgid "Learn how to delete your XauSync AI account. Find step-by-step instructions for account deletion in app settings and understand what happens after deletion."
+msgstr "Learn how to delete your XauSync AI account. Find step-by-step instructions for account deletion in app settings and understand what happens after deletion."
+
+#. js-lingui-explicit-id
+msgid "delete account, XauSync AI, account deletion, remove account, data deletion, privacy settings"
+msgstr "delete account, XauSync AI, account deletion, remove account, data deletion, privacy settings"
+
+#. js-lingui-explicit-id
+msgid "Learn how to delete your XauSync AI account and understand the data deletion process."
+msgstr "Learn how to delete your XauSync AI account and understand the data deletion process."
+
+#. js-lingui-explicit-id
+msgid "How to Delete Your Account"
+msgstr "How to Delete Your Account"
+
+#. js-lingui-explicit-id
+msgid "You can delete your {NAME_APP} account directly from the application settings. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
+msgstr "You can delete your {NAME_APP} account directly from the application settings. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
+
+#. js-lingui-explicit-id
+msgid "Where to Find the Delete Option"
+msgstr "Where to Find the Delete Option"
+
+#. js-lingui-explicit-id
+msgid "To delete your account, open the {NAME_APP} mobile application and follow these steps:"
+msgstr "To delete your account, open the {NAME_APP} mobile application and follow these steps:"
+
+#. js-lingui-explicit-id
+msgid "Go to your profile in the app"
+msgstr "Go to your profile in the app"
+
+#. js-lingui-explicit-id
+msgid "Navigate to Settings"
+msgstr "Navigate to Settings"
+
+#. js-lingui-explicit-id
+msgid "Scroll to the bottom of the settings page"
+msgstr "Scroll to the bottom of the settings page"
+
+#. js-lingui-explicit-id
+msgid "Tap the \"Delete Account\" button"
+msgstr "Tap the \"Delete Account\" button"
+
+#. js-lingui-explicit-id
+msgid "Confirm your decision to permanently delete your account"
+msgstr "Confirm your decision to permanently delete your account"
+
+#. js-lingui-explicit-id
+msgid "What Happens After Deletion"
+msgstr "What Happens After Deletion"
+
+#. js-lingui-explicit-id
+msgid "Once you delete your account, the following actions will occur:"
+msgstr "Once you delete your account, the following actions will occur:"
+
+#. js-lingui-explicit-id
+msgid "Immediate loss of access to your {NAME_APP} account"
+msgstr "Immediate loss of access to your {NAME_APP} account"
+
+#. js-lingui-explicit-id
+msgid "Removal of your authentication data and login credentials"
+msgstr "Removal of your authentication data and login credentials"
+
+#. js-lingui-explicit-id
+msgid "Deletion of your personal information and profile data"
+msgstr "Deletion of your personal information and profile data"
+
+#. js-lingui-explicit-id
+msgid "Removal of your learning progress and educational activity"
+msgstr "Removal of your learning progress and educational activity"
+
+#. js-lingui-explicit-id
+msgid "Deletion of your settings and preferences"
+msgstr "Deletion of your settings and preferences"
+
+#. js-lingui-explicit-id
+msgid "Permanent removal of your in-app energy balance - all energy credits will be deleted and cannot be restored"
+msgstr "Permanent removal of your in-app energy balance - all energy credits will be deleted and cannot be restored"
+
+#. js-lingui-explicit-id
+msgid "Permanent removal of any remaining subscription days or premium access - all active subscriptions linked to your account will be deleted and cannot be restored"
+msgstr "Permanent removal of any remaining subscription days or premium access - all active subscriptions linked to your account will be deleted and cannot be restored"
+
+#. js-lingui-explicit-id
+msgid "Removal of subscription information and payment history within the app"
+msgstr "Removal of subscription information and payment history within the app"
+
+#. js-lingui-explicit-id
+msgid "Important Information"
+msgstr "Important Information"
+
+#. js-lingui-explicit-id
+msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance, subscription days, or any account-related benefits. All energy credits, remaining subscription time, and premium access will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
+msgstr "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance, subscription days, or any account-related benefits. All energy credits, remaining subscription time, and premium access will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
+
+#. js-lingui-explicit-id
+msgid "Need Help?"
+msgstr "Need Help?"
+
+#. js-lingui-explicit-id
+msgid "If you have any questions about account deletion or need assistance with the process, please contact our support team:"
+msgstr "If you have any questions about account deletion or need assistance with the process, please contact our support team:"
+
+#. js-lingui-explicit-id
+msgid "This account deletion process is managed by Vadym Bezsmertnyi, Sole Proprietor (Ukraine), the developer of {NAME_APP}."
+msgstr "This account deletion process is managed by Vadym Bezsmertnyi, Sole Proprietor (Ukraine), the developer of {NAME_APP}."
+
+#. js-lingui-explicit-id
+msgid "AI-Assisted Analysis"
+msgstr "AI-Assisted Analysis"
+
+#. js-lingui-explicit-id
+msgid "Advanced artificial intelligence analyzes XAU/USD market patterns to provide educational insights and practical examples for understanding market behavior."
+msgstr "Advanced artificial intelligence analyzes XAU/USD market patterns to provide educational insights and practical examples for understanding market behavior."
+
+#. js-lingui-explicit-id
+msgid "Interactive Market Charts"
+msgstr "Interactive Market Charts"
+
+#. js-lingui-explicit-id
+msgid "Educational charts with real market data for studying price action, trends, and technical analysis concepts."
+msgstr "Educational charts with real market data for studying price action, trends, and technical analysis concepts."
+
+#. js-lingui-explicit-id
+msgid "Technical Analysis Tools"
+msgstr "Technical Analysis Tools"
+
+#. js-lingui-explicit-id
+msgid "Comprehensive set of technical indicators for learning market analysis concepts and studying price patterns."
+msgstr "Comprehensive set of technical indicators for learning market analysis concepts and studying price patterns."
+
+#. js-lingui-explicit-id
+msgid "Educational market insights and trend analysis for understanding market dynamics and technical concepts."
+msgstr "Educational market insights and trend analysis for understanding market dynamics and technical concepts."
+
+#. js-lingui-explicit-id
+msgid "Pattern Recognition Training"
+msgstr "Pattern Recognition Training"
+
+#. js-lingui-explicit-id
+msgid "AI-driven pattern identification for learning to recognize market patterns and studying technical analysis scenarios."
+msgstr "AI-driven pattern identification for learning to recognize market patterns and studying technical analysis scenarios."
+
+#. js-lingui-explicit-id
+msgid "Assisted Insights"
+msgstr "Assisted Insights"
+
+#. js-lingui-explicit-id
+msgid "Market Focus"
+msgstr "Market Focus"
+
+#. js-lingui-explicit-id
+msgid "Real Market Context"
+msgstr "Real Market Context"
+
+#. js-lingui-explicit-id
+msgid "Educational Use"
+msgstr "Educational Use"
+
+#. js-lingui-explicit-id
+msgid "XauSync AI — AI-Powered Market Analysis for Learning"
+msgstr "XauSync AI — AI-Powered Market Analysis for Learning"
+
+#. js-lingui-explicit-id
+msgid "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior. Explore real market scenarios, technical analysis concepts, and AI-assisted educational insights."
+msgstr "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior. Explore real market scenarios, technical analysis concepts, and AI-assisted educational insights."
+
+#. js-lingui-explicit-id
+msgid "XauSync AI, AI market analysis education, learn market behavior, technical analysis study, AI educational tools, market analysis learning, trading concepts education"
+msgstr "XauSync AI, AI market analysis education, learn market behavior, technical analysis study, AI educational tools, market analysis learning, trading concepts education"
+
+#. js-lingui-explicit-id
+msgid "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior with real market scenarios."
+msgstr "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior with real market scenarios."
+
+#. js-lingui-explicit-id
+msgid "XauSync AI - AI-Powered Market Analysis for Learning"
+msgstr "XauSync AI - AI-Powered Market Analysis for Learning"
+
+#. js-lingui-explicit-id
+msgid "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior."
+msgstr "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior."
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP}: AI-Powered Market Analysis for Learning"
+msgstr "{NAME_APP}: AI-Powered Market Analysis for Learning"
+
+#. js-lingui-explicit-id
+msgid "Educational Market Analysis App"
+msgstr "Educational Market Analysis App"
+
+#. js-lingui-explicit-id
+msgid "Study market analysis and explore market behavior with AI-powered educational tools. Discover real market scenarios, technical analysis concepts, and practical insights for educational purposes only."
+msgstr "Study market analysis and explore market behavior with AI-powered educational tools. Discover real market scenarios, technical analysis concepts, and practical insights for educational purposes only."
+
+#. js-lingui-explicit-id
+msgid "Download on the App Store"
+msgstr "Download on the App Store"
+
+#. js-lingui-explicit-id
+msgid "AI-Powered Learning Tools"
+msgstr "AI-Powered Learning Tools"
+
+#. js-lingui-explicit-id
+msgid "Educational insights and analysis for learning market behavior and studying technical analysis concepts"
+msgstr "Educational insights and analysis for learning market behavior and studying technical analysis concepts"
+
+#. js-lingui-explicit-id
+msgid "Educational Purpose"
+msgstr "Educational Purpose"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} provides educational insights and analytical tools to help users study market behavior and analysis concepts. Our platform uses real market data as educational context for exploring technical analysis and market scenarios."
+msgstr "{NAME_APP} provides educational insights and analytical tools to help users study market behavior and analysis concepts. Our platform uses real market data as educational context for exploring technical analysis and market scenarios."
+
+#. js-lingui-explicit-id
+msgid "Important: {NAME_APP} provides informational and educational content only. It does not provide financial, investment, or trading advice. Real market examples are used for study purposes only. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk."
+msgstr "Important: {NAME_APP} provides informational and educational content only. It does not provide financial, investment, or trading advice. Real market examples are used for study purposes only. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk."
+
+#. js-lingui-explicit-id
+msgid "Learning Responsibility"
+msgstr "Learning Responsibility"
+
+#. js-lingui-explicit-id
+msgid "While our AI provides educational insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a learning tool to study market scenarios and technical analysis concepts."
+msgstr "While our AI provides educational insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a learning tool to study market scenarios and technical analysis concepts."
+
+#. js-lingui-explicit-id
+msgid "Start Your Educational Journey"
+msgstr "Start Your Educational Journey"
+
+#. js-lingui-explicit-id
+msgid "Discover how {NAME_APP} provides AI-powered market analysis tools for educational study and technical learning"
+msgstr "Discover how {NAME_APP} provides AI-powered market analysis tools for educational study and technical learning"
+
+#. js-lingui-explicit-id
+msgid "Explore {NAME_APP}"
+msgstr "Explore {NAME_APP}"
+
+#. js-lingui-explicit-id
+msgid "View Disclaimer"
+msgstr "View Disclaimer"
+
+#. js-lingui-explicit-id
+msgid "Privacy Policy — XauSync AI"
+msgstr "Privacy Policy — XauSync AI"
+
+#. js-lingui-explicit-id
+msgid "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI-powered educational market analysis app. Understand our data practices and your privacy rights."
+msgstr "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI-powered educational market analysis app. Understand our data practices and your privacy rights."
+
+#. js-lingui-explicit-id
+msgid "Privacy Policy, XauSync AI, data protection, personal information, AI market analysis education, privacy rights, data security, GDPR compliance"
+msgstr "Privacy Policy, XauSync AI, data protection, personal information, AI market analysis education, privacy rights, data security, GDPR compliance"
+
+#. js-lingui-explicit-id
+msgid "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI-powered educational market analysis app."
+msgstr "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI-powered educational market analysis app."
+
+#. js-lingui-explicit-id
+msgid "XauSync AI Privacy Policy"
+msgstr "XauSync AI Privacy Policy"
+
+#. js-lingui-explicit-id
+msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our AI-powered educational market analysis app and services (\"Service\")."
+msgstr "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our AI-powered educational market analysis app and services (\"Service\")."
+
+#. js-lingui-explicit-id
+msgid "Authentication Data"
+msgstr "Authentication Data"
+
+#. js-lingui-explicit-id
+msgid "To provide access to {NAME_APP} features, we collect authentication information when you create an account or sign in:"
+msgstr "To provide access to {NAME_APP} features, we collect authentication information when you create an account or sign in:"
+
+#. js-lingui-explicit-id
+msgid "Email address and display name from your account"
+msgstr "Email address and display name from your account"
+
+#. js-lingui-explicit-id
+msgid "Firebase UID for user identification"
+msgstr "Firebase UID for user identification"
+
+#. js-lingui-explicit-id
+msgid "Authentication provider information (Google, Apple, Email/Password)"
+msgstr "Authentication provider information (Google, Apple, Email/Password)"
+
+#. js-lingui-explicit-id
+msgid "Profile photo URL (if provided)"
+msgstr "Profile photo URL (if provided)"
+
+#. js-lingui-explicit-id
+msgid "Onboarding preferences and settings"
+msgstr "Onboarding preferences and settings"
+
+#. js-lingui-explicit-id
+msgid "Device and Session Data"
+msgstr "Device and Session Data"
+
+#. js-lingui-explicit-id
+msgid "We automatically collect technical information to operate and improve our services:"
+msgstr "We automatically collect technical information to operate and improve our services:"
+
+#. js-lingui-explicit-id
+msgid "Unique device identifier"
+msgstr "Unique device identifier"
+
+#. js-lingui-explicit-id
+msgid "IP address and general location information"
+msgstr "IP address and general location information"
+
+#. js-lingui-explicit-id
+msgid "Browser and application user agent details"
+msgstr "Browser and application user agent details"
+
+#. js-lingui-explicit-id
+msgid "Push notification token for alerts"
+msgstr "Push notification token for alerts"
+
+#. js-lingui-explicit-id
+msgid "Session tokens and authentication refresh tokens"
+msgstr "Session tokens and authentication refresh tokens"
+
+#. js-lingui-explicit-id
+msgid "Analytics and Usage Data"
+msgstr "Analytics and Usage Data"
+
+#. js-lingui-explicit-id
+msgid "We use Firebase Analytics to understand how our app is used:"
+msgstr "We use Firebase Analytics to understand how our app is used:"
+
+#. js-lingui-explicit-id
+msgid "Feature usage patterns and frequency"
+msgstr "Feature usage patterns and frequency"
+
+#. js-lingui-explicit-id
+msgid "Screen views and navigation paths"
+msgstr "Screen views and navigation paths"
+
+#. js-lingui-explicit-id
+msgid "App performance and crash data"
+msgstr "App performance and crash data"
+
+#. js-lingui-explicit-id
+msgid "General demographic information (anonymous)"
+msgstr "General demographic information (anonymous)"
+
+#. js-lingui-explicit-id
+msgid "Learning Data"
+msgstr "Learning Data"
+
+#. js-lingui-explicit-id
+msgid "We store data related to your learning activities and analysis:"
+msgstr "We store data related to your learning activities and analysis:"
+
+#. js-lingui-explicit-id
+msgid "Saved analysis examples and learning history"
+msgstr "Saved analysis examples and learning history"
+
+#. js-lingui-explicit-id
+msgid "Custom indicators and settings preferences"
+msgstr "Custom indicators and settings preferences"
+
+#. js-lingui-explicit-id
+msgid "Alert configurations and notification preferences"
+msgstr "Alert configurations and notification preferences"
+
+#. js-lingui-explicit-id
+msgid "Market watchlists and favorites"
+msgstr "Market watchlists and favorites"
+
+#. js-lingui-explicit-id
+msgid "How We Use Your Information"
+msgstr "How We Use Your Information"
+
+#. js-lingui-explicit-id
+msgid "Service Provision"
+msgstr "Service Provision"
+
+#. js-lingui-explicit-id
+msgid "We use your information to provide and maintain our AI-powered educational market analysis service:"
+msgstr "We use your information to provide and maintain our AI-powered educational market analysis service:"
+
+#. js-lingui-explicit-id
+msgid "Authenticate users and provide personalized access"
+msgstr "Authenticate users and provide personalized access"
+
+#. js-lingui-explicit-id
+msgid "Deliver real-time market analysis and educational insights"
+msgstr "Deliver real-time market analysis and educational insights"
+
+#. js-lingui-explicit-id
+msgid "Send push notifications for market alerts"
+msgstr "Send push notifications for market alerts"
+
+#. js-lingui-explicit-id
+msgid "Maintain your learning history and preferences"
+msgstr "Maintain your learning history and preferences"
+
+#. js-lingui-explicit-id
+msgid "Service Improvement"
+msgstr "Service Improvement"
+
+#. js-lingui-explicit-id
+msgid "Analytics data helps us enhance the user experience:"
+msgstr "Analytics data helps us enhance the user experience:"
+
+#. js-lingui-explicit-id
+msgid "Identify and fix technical issues"
+msgstr "Identify and fix technical issues"
+
+#. js-lingui-explicit-id
+msgid "Optimize app performance and features"
+msgstr "Optimize app performance and features"
+
+#. js-lingui-explicit-id
+msgid "Understand user behavior to improve design"
+msgstr "Understand user behavior to improve design"
+
+#. js-lingui-explicit-id
+msgid "Develop new features based on usage patterns"
+msgstr "Develop new features based on usage patterns"
+
+#. js-lingui-explicit-id
+msgid "Service Providers"
+msgstr "Service Providers"
+
+#. js-lingui-explicit-id
+msgid "We integrate with trusted third-party services to deliver {NAME_APP}:"
+msgstr "We integrate with trusted third-party services to deliver {NAME_APP}:"
+
+#. js-lingui-explicit-id
+msgid "Firebase Authentication for secure user login"
+msgstr "Firebase Authentication for secure user login"
+
+#. js-lingui-explicit-id
+msgid "Google Sign-In and Apple Sign-In for social authentication"
+msgstr "Google Sign-In and Apple Sign-In for social authentication"
+
+#. js-lingui-explicit-id
+msgid "Firebase Analytics for usage insights"
+msgstr "Firebase Analytics for usage insights"
+
+#. js-lingui-explicit-id
+msgid "RevenueCat for subscription management and billing"
+msgstr "RevenueCat for subscription management and billing"
+
+#. js-lingui-explicit-id
+msgid "MetaApi.cloud for real-time market data integration"
+msgstr "MetaApi.cloud for real-time market data integration"
+
+#. js-lingui-explicit-id
+msgid "Data Sharing"
+msgstr "Data Sharing"
+
+#. js-lingui-explicit-id
+msgid "We only share data with third parties when necessary:"
+msgstr "We only share data with third parties when necessary:"
+
+#. js-lingui-explicit-id
+msgid "Authentication providers for login verification"
+msgstr "Authentication providers for login verification"
+
+#. js-lingui-explicit-id
+msgid "App stores for subscription billing processing"
+msgstr "App stores for subscription billing processing"
+
+#. js-lingui-explicit-id
+msgid "Market data providers for real-time price information"
+msgstr "Market data providers for real-time price information"
+
+#. js-lingui-explicit-id
+msgid "Analytics services (anonymous, aggregated data only)"
+msgstr "Analytics services (anonymous, aggregated data only)"
+
+#. js-lingui-explicit-id
+msgid "Security Measures"
+msgstr "Security Measures"
+
+#. js-lingui-explicit-id
+msgid "We implement industry-standard security to protect your data:"
+msgstr "We implement industry-standard security to protect your data:"
+
+#. js-lingui-explicit-id
+msgid "Encryption for data transmission"
+msgstr "Encryption for data transmission"
+
+#. js-lingui-explicit-id
+msgid "Secure Firebase backend with access controls"
+msgstr "Secure Firebase backend with access controls"
+
+#. js-lingui-explicit-id
+msgid "Regular security reviews and updates"
+msgstr "Regular security reviews and updates"
+
+#. js-lingui-explicit-id
+msgid "Limited access to user data by authorized personnel only"
+msgstr "Limited access to user data by authorized personnel only"
+
+#. js-lingui-explicit-id
+msgid "We retain data for a limited period where necessary for legal, security, billing, or operational purposes:"
+msgstr "We retain data for a limited period where necessary for legal, security, billing, or operational purposes:"
+
+#. js-lingui-explicit-id
+msgid "Account data: retained while your account is active"
+msgstr "Account data: retained while your account is active"
+
+#. js-lingui-explicit-id
+msgid "Learning history: retained for a reasonable period after account deletion"
+msgstr "Learning history: retained for a reasonable period after account deletion"
+
+#. js-lingui-explicit-id
+msgid "Analytics data: retained in anonymous, aggregated form"
+msgstr "Analytics data: retained in anonymous, aggregated form"
+
+#. js-lingui-explicit-id
+msgid "Authentication tokens: automatically refreshed and expired"
+msgstr "Authentication tokens: automatically refreshed and expired"
+
+#. js-lingui-explicit-id
+msgid "Your Rights and Choices"
+msgstr "Your Rights and Choices"
+
+#. js-lingui-explicit-id
+msgid "You have the following rights regarding your personal data:"
+msgstr "You have the following rights regarding your personal data:"
+
+#. js-lingui-explicit-id
+msgid "Access: Request a copy of your personal data"
+msgstr "Access: Request a copy of your personal data"
+
+#. js-lingui-explicit-id
+msgid "Correction: Update inaccurate or incomplete information"
+msgstr "Correction: Update inaccurate or incomplete information"
+
+#. js-lingui-explicit-id
+msgid "Deletion: Request removal of your account and data"
+msgstr "Deletion: Request removal of your account and data"
+
+#. js-lingui-explicit-id
+msgid "Portability: Request your data in a readable format"
+msgstr "Portability: Request your data in a readable format"
+
+#. js-lingui-explicit-id
+msgid "Opt-out: Disable analytics tracking in app settings"
+msgstr "Opt-out: Disable analytics tracking in app settings"
+
+#. js-lingui-explicit-id
+msgid "Managing Your Data"
+msgstr "Managing Your Data"
+
+#. js-lingui-explicit-id
+msgid "You can manage your data through the app:"
+msgstr "You can manage your data through the app:"
+
+#. js-lingui-explicit-id
+msgid "Account settings to update profile information"
+msgstr "Account settings to update profile information"
+
+#. js-lingui-explicit-id
+msgid "Privacy settings to control data sharing preferences"
+msgstr "Privacy settings to control data sharing preferences"
+
+#. js-lingui-explicit-id
+msgid "Delete account option to remove all personal data"
+msgstr "Delete account option to remove all personal data"
+
+#. js-lingui-explicit-id
+msgid "Contact us to request data access or correction"
+msgstr "Contact us to request data access or correction"
+
+#. js-lingui-explicit-id
+msgid "Push Notifications"
+msgstr "Push Notifications"
+
+#. js-lingui-explicit-id
+msgid "Notification Types"
+msgstr "Notification Types"
+
+#. js-lingui-explicit-id
+msgid "With your permission, we send push notifications for:"
+msgstr "With your permission, we send push notifications for:"
+
+#. js-lingui-explicit-id
+msgid "Learning alerts and market examples"
+msgstr "Learning alerts and market examples"
+
+#. js-lingui-explicit-id
+msgid "Price movement notifications"
+msgstr "Price movement notifications"
+
+#. js-lingui-explicit-id
+msgid "AI analysis updates and insights"
+msgstr "AI analysis updates and insights"
+
+#. js-lingui-explicit-id
+msgid "Important service announcements"
+msgstr "Important service announcements"
+
+#. js-lingui-explicit-id
+msgid "Notification Control"
+msgstr "Notification Control"
+
+#. js-lingui-explicit-id
+msgid "You have full control over notifications:"
+msgstr "You have full control over notifications:"
+
+#. js-lingui-explicit-id
+msgid "Enable/disable notifications in app settings"
+msgstr "Enable/disable notifications in app settings"
+
+#. js-lingui-explicit-id
+msgid "Choose which alert types you receive"
+msgstr "Choose which alert types you receive"
+
+#. js-lingui-explicit-id
+msgid "Manage notification frequency and timing"
+msgstr "Manage notification frequency and timing"
+
+#. js-lingui-explicit-id
+msgid "Revoke notification permission at any time"
+msgstr "Revoke notification permission at any time"
+
+#. js-lingui-explicit-id
+msgid "Subscriptions and Payments"
+msgstr "Subscriptions and Payments"
+
+#. js-lingui-explicit-id
+msgid "Billing Information"
+msgstr "Billing Information"
+
+#. js-lingui-explicit-id
+msgid "We use RevenueCat and app stores for subscription management:"
+msgstr "We use RevenueCat and app stores for subscription management:"
+
+#. js-lingui-explicit-id
+msgid "Payment processing through App Store and Google Play"
+msgstr "Payment processing through App Store and Google Play"
+
+#. js-lingui-explicit-id
+msgid "Subscription status and renewal management"
+msgstr "Subscription status and renewal management"
+
+#. js-lingui-explicit-id
+msgid "Receipt validation and fraud prevention"
+msgstr "Receipt validation and fraud prevention"
+
+#. js-lingui-explicit-id
+msgid "No credit card information stored on our servers"
+msgstr "No credit card information stored on our servers"
+
+#. js-lingui-explicit-id
+msgid "Subscription Data"
+msgstr "Subscription Data"
+
+#. js-lingui-explicit-id
+msgid "We store minimal subscription-related information:"
+msgstr "We store minimal subscription-related information:"
+
+#. js-lingui-explicit-id
+msgid "Subscription status and plan type"
+msgstr "Subscription status and plan type"
+
+#. js-lingui-explicit-id
+msgid "Purchase dates and renewal information"
+msgstr "Purchase dates and renewal information"
+
+#. js-lingui-explicit-id
+msgid "Feature access levels and permissions"
+msgstr "Feature access levels and permissions"
+
+#. js-lingui-explicit-id
+msgid "Support and billing communication history"
+msgstr "Support and billing communication history"
+
+#. js-lingui-explicit-id
+msgid "Children's Privacy"
+msgstr "Children's Privacy"
+
+#. js-lingui-explicit-id
+msgid "Age Restrictions"
+msgstr "Age Restrictions"
+
+#. js-lingui-explicit-id
+msgid "Our service is not intended for individuals under 18:"
+msgstr "Our service is not intended for individuals under 18:"
+
+#. js-lingui-explicit-id
+msgid "We do not knowingly collect data from children"
+msgstr "We do not knowingly collect data from children"
+
+#. js-lingui-explicit-id
+msgid "The service is designed for adult users"
+msgstr "The service is designed for adult users"
+
+#. js-lingui-explicit-id
+msgid "Parental controls are not implemented"
+msgstr "Parental controls are not implemented"
+
+#. js-lingui-explicit-id
+msgid "If we discover underage users, we delete their data"
+msgstr "If we discover underage users, we delete their data"
+
+#. js-lingui-explicit-id
+msgid "Global Service"
+msgstr "Global Service"
+
+#. js-lingui-explicit-id
+msgid "As a global application, data may be processed internationally:"
+msgstr "As a global application, data may be processed internationally:"
+
+#. js-lingui-explicit-id
+msgid "Firebase servers may be located outside your country"
+msgstr "Firebase servers may be located outside your country"
+
+#. js-lingui-explicit-id
+msgid "Data transfers include appropriate safeguards"
+msgstr "Data transfers include appropriate safeguards"
+
+#. js-lingui-explicit-id
+msgid "We comply with applicable data protection laws"
+msgstr "We comply with applicable data protection laws"
+
+#. js-lingui-explicit-id
+msgid "Security measures protect international transfers"
+msgstr "Security measures protect international transfers"
+
+#. js-lingui-explicit-id
+msgid "Changes to This Privacy Policy"
+msgstr "Changes to This Privacy Policy"
+
+#. js-lingui-explicit-id
+msgid "We may update this Privacy Policy periodically. Changes will be posted on this page with a revised date. For significant changes, we will notify users through the app or email. Continued use of the service after changes constitutes acceptance of the updated policy."
+msgstr "We may update this Privacy Policy periodically. Changes will be posted on this page with a revised date. For significant changes, we will notify users through the app or email. Continued use of the service after changes constitutes acceptance of the updated policy."
+
+#. js-lingui-explicit-id
+msgid "If you have questions about this Privacy Policy or need to exercise your rights, please contact us at {CONTACT_EMAIL}."
+msgstr "If you have questions about this Privacy Policy or need to exercise your rights, please contact us at {CONTACT_EMAIL}."
+
+#. js-lingui-explicit-id
+msgid "Terms of Use — XauSync AI"
+msgstr "Terms of Use — XauSync AI"
+
+#. js-lingui-explicit-id
+msgid "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities, educational purpose, and service guidelines."
+msgstr "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities, educational purpose, and service guidelines."
+
+#. js-lingui-explicit-id
+msgid "Terms of Use, XauSync AI, legal terms, user agreement, market analysis terms, educational market analysis, service terms"
+msgstr "Terms of Use, XauSync AI, legal terms, user agreement, market analysis terms, educational market analysis, service terms"
+
+#. js-lingui-explicit-id
+msgid "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities and service guidelines."
+msgstr "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities and service guidelines."
+
+#. js-lingui-explicit-id
+msgid "XauSync AI Terms of Use"
+msgstr "XauSync AI Terms of Use"
+
+#. js-lingui-explicit-id
+msgid "\"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). By accessing or using our AI-powered educational market analysis app and web services (\"Service\"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service."
+msgstr "\"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). By accessing or using our AI-powered educational market analysis app and web services (\"Service\"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service."
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} is an AI-powered mobile and web application designed to provide educational market analysis, learning insights, and information for studying XAU/USD (Gold/US Dollar) market behavior. The application offers real-time market data, AI-generated educational insights, technical indicators, pattern recognition, and analytical tools to help users understand market analysis concepts. The service is intended for informational and educational purposes only."
+msgstr "{NAME_APP} is an AI-powered mobile and web application designed to provide educational market analysis, learning insights, and information for studying XAU/USD (Gold/US Dollar) market behavior. The application offers real-time market data, AI-generated educational insights, technical indicators, pattern recognition, and analytical tools to help users understand market analysis concepts. The service is intended for informational and educational purposes only."
+
+#. js-lingui-explicit-id
+msgid "2. Educational and Informational Use"
+msgstr "2. Educational and Informational Use"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} provides market analysis and educational insights for learning purposes only. The application does not provide financial advice, investment recommendations, or guarantee profits, outcomes, or results. Users are responsible for their own decisions and should conduct their own research before making any financial decisions."
+msgstr "{NAME_APP} provides market analysis and educational insights for learning purposes only. The application does not provide financial advice, investment recommendations, or guarantee profits, outcomes, or results. Users are responsible for their own decisions and should conduct their own research before making any financial decisions."
+
+#. js-lingui-explicit-id
+msgid "3. No Financial Advice"
+msgstr "3. No Financial Advice"
+
+#. js-lingui-explicit-id
+msgid "The content, educational insights, and analysis provided by {NAME_APP} do not constitute financial advice, investment advice, or trading recommendations. All information is for educational purposes only. Users should consult with qualified financial advisors before making any investment decisions."
+msgstr "The content, educational insights, and analysis provided by {NAME_APP} do not constitute financial advice, investment advice, or trading recommendations. All information is for educational purposes only. Users should consult with qualified financial advisors before making any investment decisions."
+
+#. js-lingui-explicit-id
+msgid "4. Trading Risks"
+msgstr "4. Trading Risks"
+
+#. js-lingui-explicit-id
+msgid "Trading financial instruments, including XAU/USD, involves substantial risk and may not be suitable for all investors. Past performance does not guarantee future results. {NAME_APP} does not guarantee profits, outcomes, or results. Users should never trade with money they cannot afford to lose."
+msgstr "Trading financial instruments, including XAU/USD, involves substantial risk and may not be suitable for all investors. Past performance does not guarantee future results. {NAME_APP} does not guarantee profits, outcomes, or results. Users should never trade with money they cannot afford to lose."
+
+#. js-lingui-explicit-id
+msgid "5. AI Analysis Limitations"
+msgstr "5. AI Analysis Limitations"
+
+#. js-lingui-explicit-id
+msgid "The AI-powered analysis and educational insights provided by {NAME_APP} are based on historical data and algorithms. Market conditions can change rapidly, and AI predictions may be incomplete, delayed, or inaccurate. Users should use AI insights as one tool among many in their learning process."
+msgstr "The AI-powered analysis and educational insights provided by {NAME_APP} are based on historical data and algorithms. Market conditions can change rapidly, and AI predictions may be incomplete, delayed, or inaccurate. Users should use AI insights as one tool among many in their learning process."
+
+#. js-lingui-explicit-id
+msgid "6. Account Registration and Security"
+msgstr "6. Account Registration and Security"
+
+#. js-lingui-explicit-id
+msgid "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use."
+msgstr "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use."
+
+#. js-lingui-explicit-id
+msgid "7. Subscriptions and Payments"
+msgstr "7. Subscriptions and Payments"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} offers premium features through subscription plans. Subscriptions are managed through the App Store, Google Play Store, and RevenueCat. Payment processing is handled by the respective app stores. Subscription fees are non-refundable except as required by law or app store policies. Users may manage their subscriptions through their app store account settings."
+msgstr "{NAME_APP} offers premium features through subscription plans. Subscriptions are managed through the App Store, Google Play Store, and RevenueCat. Payment processing is handled by the respective app stores. Subscription fees are non-refundable except as required by law or app store policies. Users may manage their subscriptions through their app store account settings."
+
+#. js-lingui-explicit-id
+msgid "8. Acceptable Use"
+msgstr "8. Acceptable Use"
+
+#. js-lingui-explicit-id
+msgid "Users agree to use {NAME_APP} in accordance with these terms and applicable laws. Prohibited activities include:"
+msgstr "Users agree to use {NAME_APP} in accordance with these terms and applicable laws. Prohibited activities include:"
+
+#. js-lingui-explicit-id
+msgid "Reverse-engineering or attempting to extract our source code"
+msgstr "Reverse-engineering or attempting to extract our source code"
+
+#. js-lingui-explicit-id
+msgid "Using automated bots or scripts to access the service"
+msgstr "Using automated bots or scripts to access the service"
+
+#. js-lingui-explicit-id
+msgid "Sharing account credentials with third parties"
+msgstr "Sharing account credentials with third parties"
+
+#. js-lingui-explicit-id
+msgid "Using the service for unlawful activities or market manipulation"
+msgstr "Using the service for unlawful activities or market manipulation"
+
+#. js-lingui-explicit-id
+msgid "Distributing proprietary information without authorization"
+msgstr "Distributing proprietary information without authorization"
+
+#. js-lingui-explicit-id
+msgid "Interfering with the service's operation or security"
+msgstr "Interfering with the service's operation or security"
+
+#. js-lingui-explicit-id
+msgid "9. Intellectual Property"
+msgstr "9. Intellectual Property"
+
+#. js-lingui-explicit-id
+msgid "All content, features, and functionality of {NAME_APP} are owned by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) and protected by copyright, trademark, and other intellectual property laws. Users may not copy, modify, distribute, or create derivative works without our explicit written permission."
+msgstr "All content, features, and functionality of {NAME_APP} are owned by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) and protected by copyright, trademark, and other intellectual property laws. Users may not copy, modify, distribute, or create derivative works without our explicit written permission."
+
+#. js-lingui-explicit-id
+msgid "10. Market Data and Third-Party Content"
+msgstr "10. Market Data and Third-Party Content"
+
+#. js-lingui-explicit-id
+msgid "Market data provided through {NAME_APP} is sourced from third-party providers and may be delayed or contain errors. We do not guarantee the accuracy, completeness, or timeliness of market data. Users should verify critical market information from multiple sources before making decisions."
+msgstr "Market data provided through {NAME_APP} is sourced from third-party providers and may be delayed or contain errors. We do not guarantee the accuracy, completeness, or timeliness of market data. Users should verify critical market information from multiple sources before making decisions."
+
+#. js-lingui-explicit-id
+msgid "11. Service Availability"
+msgstr "11. Service Availability"
+
+#. js-lingui-explicit-id
+msgid "We strive to provide reliable service but cannot guarantee uninterrupted access. {NAME_APP} may be temporarily unavailable for maintenance, technical issues, or other reasons beyond our control. We are not liable for losses resulting from service interruptions."
+msgstr "We strive to provide reliable service but cannot guarantee uninterrupted access. {NAME_APP} may be temporarily unavailable for maintenance, technical issues, or other reasons beyond our control. We are not liable for losses resulting from service interruptions."
+
+#. js-lingui-explicit-id
+msgid "12. Limitation of Liability"
+msgstr "12. Limitation of Liability"
+
+#. js-lingui-explicit-id
+msgid "To the maximum extent permitted by law, {NAME_APP} and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to financial losses, lost profits, data loss, or other damages, arising from your use of our services or inability to use our services."
+msgstr "To the maximum extent permitted by law, {NAME_APP} and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to financial losses, lost profits, data loss, or other damages, arising from your use of our services or inability to use our services."
+
+#. js-lingui-explicit-id
+msgid "13. Indemnification"
+msgstr "13. Indemnification"
+
+#. js-lingui-explicit-id
+msgid "Users agree to indemnify and hold harmless {NAME_APP} and its developers from any claims, damages, or expenses arising from their use of the service, violation of these terms, or infringement of third-party rights."
+msgstr "Users agree to indemnify and hold harmless {NAME_APP} and its developers from any claims, damages, or expenses arising from their use of the service, violation of these terms, or infringement of third-party rights."
+
+#. js-lingui-explicit-id
+msgid "14. Account Suspension and Termination"
+msgstr "14. Account Suspension and Termination"
+
+#. js-lingui-explicit-id
+msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users may delete their accounts at any time through the app settings."
+msgstr "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users may delete their accounts at any time through the app settings."
+
+#. js-lingui-explicit-id
+msgid "15. Privacy and Data Protection"
+msgstr "15. Privacy and Data Protection"
+
+#. js-lingui-explicit-id
+msgid "Your privacy is important to us. Our collection, use, and protection of your personal information is described in our Privacy Policy, which is incorporated into these terms by reference. By using {NAME_APP}, you consent to our data practices as described in the Privacy Policy."
+msgstr "Your privacy is important to us. Our collection, use, and protection of your personal information is described in our Privacy Policy, which is incorporated into these terms by reference. By using {NAME_APP}, you consent to our data practices as described in the Privacy Policy."
+
+#. js-lingui-explicit-id
+msgid "16. Dispute Resolution"
+msgstr "16. Dispute Resolution"
+
+#. js-lingui-explicit-id
+msgid "Any disputes arising from these terms or your use of {NAME_APP} shall be governed by applicable laws. We encourage users to contact us directly at {CONTACT_EMAIL} to resolve any issues informally before pursuing formal dispute resolution."
+msgstr "Any disputes arising from these terms or your use of {NAME_APP} shall be governed by applicable laws. We encourage users to contact us directly at {CONTACT_EMAIL} to resolve any issues informally before pursuing formal dispute resolution."
+
+#. js-lingui-explicit-id
+msgid "17. Changes to Terms"
+msgstr "17. Changes to Terms"
+
+#. js-lingui-explicit-id
+msgid "We may update these Terms of Use periodically. Changes will be posted on this page with a revised date. For significant changes, we will notify users through the app or email. Continued use of the service after changes constitutes acceptance of the updated terms."
+msgstr "We may update these Terms of Use periodically. Changes will be posted on this page with a revised date. For significant changes, we will notify users through the app or email. Continued use of the service after changes constitutes acceptance of the updated terms."
+
+#. js-lingui-explicit-id
+msgid "18. Contact Information"
+msgstr "18. Contact Information"
+
+#. js-lingui-explicit-id
+msgid "If you have questions about these Terms of Use, please contact us at {CONTACT_EMAIL}."
+msgstr "If you have questions about these Terms of Use, please contact us at {CONTACT_EMAIL}."
+
+#. js-lingui-explicit-id
 msgid "Home"
 msgstr "Home"
 
@@ -170,797 +1470,49 @@ msgid "About {NAME_APP}"
 msgstr "About {NAME_APP}"
 
 #. js-lingui-explicit-id
-msgid "Your professional beauty companion"
-msgstr "Your professional beauty companion"
-
-#. js-lingui-explicit-id
-msgid "Welcome to {NAME_APP} – your comprehensive mobile solution for beauty professionals! Our app is designed to streamline your business operations, manage client relationships, and boost your productivity."
-msgstr "Welcome to {NAME_APP} – your comprehensive mobile solution for beauty professionals! Our app is designed to streamline your business operations, manage client relationships, and boost your productivity."
-
-#. js-lingui-explicit-id
-msgid "Key Features"
-msgstr "Key Features"
-
-#. js-lingui-explicit-id
-msgid "Client Management"
-msgstr "Client Management"
-
-#. js-lingui-explicit-id
-msgid "Create detailed client profiles, track service history, and maintain comprehensive notes for each appointment."
-msgstr "Create detailed client profiles, track service history, and maintain comprehensive notes for each appointment."
-
-#. js-lingui-explicit-id
-msgid "Smart Calendar"
-msgstr "Smart Calendar"
-
-#. js-lingui-explicit-id
-msgid "Seamless integration with your device calendar. Automatic sync ensures you never miss an appointment."
-msgstr "Seamless integration with your device calendar. Automatic sync ensures you never miss an appointment."
-
-#. js-lingui-explicit-id
-msgid "SMS Notifications"
-msgstr "SMS Notifications"
-
-#. js-lingui-explicit-id
-msgid "Send automated SMS reminders to your clients about upcoming appointments and important updates."
-msgstr "Send automated SMS reminders to your clients about upcoming appointments and important updates."
-
-#. js-lingui-explicit-id
-msgid "Speech-to-Text"
-msgstr "Speech-to-Text"
-
-#. js-lingui-explicit-id
-msgid "Convert your voice notes into text for quick and easy appointment documentation and client notes."
-msgstr "Convert your voice notes into text for quick and easy appointment documentation and client notes."
-
-#. js-lingui-explicit-id
-msgid "Photo Gallery"
-msgstr "Photo Gallery"
-
-#. js-lingui-explicit-id
-msgid "Store and organize photos from each appointment to track client progress and showcase your work."
-msgstr "Store and organize photos from each appointment to track client progress and showcase your work."
-
-#. js-lingui-explicit-id
-msgid "Multi-Platform Sync"
-msgstr "Multi-Platform Sync"
-
-#. js-lingui-explicit-id
-msgid "Access your data seamlessly across mobile app and web platform with real-time synchronization."
-msgstr "Access your data seamlessly across mobile app and web platform with real-time synchronization."
-
-#. js-lingui-explicit-id
-msgid "Subscription Plans"
-msgstr "Subscription Plans"
-
-#. js-lingui-explicit-id
-msgid "Free"
-msgstr "Free"
-
-#. js-lingui-explicit-id
-msgid "$0/month"
-msgstr "$0/month"
-
-#. js-lingui-explicit-id
-msgid "Up to 20 clients"
-msgstr "Up to 20 clients"
-
-#. js-lingui-explicit-id
-msgid "3 appointments per client"
-msgstr "3 appointments per client"
-
-#. js-lingui-explicit-id
-msgid "1 photo per appointment"
-msgstr "1 photo per appointment"
-
-#. js-lingui-explicit-id
-msgid "1 SMS per month"
-msgstr "1 SMS per month"
-
-#. js-lingui-explicit-id
-msgid "3 minutes speech-to-text per month"
-msgstr "3 minutes speech-to-text per month"
-
-#. js-lingui-explicit-id
-msgid "Pro"
-msgstr "Pro"
-
-#. js-lingui-explicit-id
-msgid "$4.99/month"
-msgstr "$4.99/month"
-
-#. js-lingui-explicit-id
-msgid "Up to 100 clients"
-msgstr "Up to 100 clients"
-
-#. js-lingui-explicit-id
-msgid "10 appointments per client"
-msgstr "10 appointments per client"
-
-#. js-lingui-explicit-id
-msgid "3 photos per appointment"
-msgstr "3 photos per appointment"
-
-#. js-lingui-explicit-id
-msgid "20 SMS per month"
-msgstr "20 SMS per month"
-
-#. js-lingui-explicit-id
-msgid "60 minutes speech-to-text per month"
-msgstr "60 minutes speech-to-text per month"
-
-#. js-lingui-explicit-id
-msgid "Export clients (CSV)"
-msgstr "Export clients (CSV)"
-
-#. js-lingui-explicit-id
-msgid "Premium"
-msgstr "Premium"
-
-#. js-lingui-explicit-id
-msgid "$9.99/month"
-msgstr "$9.99/month"
-
-#. js-lingui-explicit-id
-msgid "Unlimited clients"
-msgstr "Unlimited clients"
-
-#. js-lingui-explicit-id
-msgid "Unlimited appointments per client"
-msgstr "Unlimited appointments per client"
-
-#. js-lingui-explicit-id
-msgid "20 photos per appointment"
-msgstr "20 photos per appointment"
-
-#. js-lingui-explicit-id
-msgid "50 SMS per month"
-msgstr "50 SMS per month"
-
-#. js-lingui-explicit-id
-msgid "300 minutes speech-to-text per month"
-msgstr "300 minutes speech-to-text per month"
-
-#. js-lingui-explicit-id
-msgid "Export/import clients (CSV)"
-msgstr "Export/import clients (CSV)"
-
-#. js-lingui-explicit-id
-msgid "Google Calendar integration"
-msgstr "Google Calendar integration"
-
-#. js-lingui-explicit-id
-msgid "Priority support"
-msgstr "Priority support"
-
-#. js-lingui-explicit-id
-msgid "Start with our free plan to explore {NAME_APP} features. Upgrade anytime to unlock more capacity and advanced functionality."
-msgstr "Start with our free plan to explore {NAME_APP} features. Upgrade anytime to unlock more capacity and advanced functionality."
-
-#. js-lingui-explicit-id
-msgid "* Prices may vary by region and are subject to local taxes."
-msgstr "* Prices may vary by region and are subject to local taxes."
-
-#. js-lingui-explicit-id
-msgid "** Subscription features, limits, and pricing are subject to change. We reserve the right to modify plans and functionality to improve our service."
-msgstr "** Subscription features, limits, and pricing are subject to change. We reserve the right to modify plans and functionality to improve our service."
-
-#. js-lingui-explicit-id
 msgid "Get in Touch"
 msgstr "Get in Touch"
-
-#. js-lingui-explicit-id
-msgid "We're constantly improving {NAME_APP} based on your feedback. Have suggestions or questions? We'd love to hear from you!"
-msgstr "We're constantly improving {NAME_APP} based on your feedback. Have suggestions or questions? We'd love to hear from you!"
 
 #. js-lingui-explicit-id
 msgid "Contact us: {CONTACT_EMAIL}"
 msgstr "Contact us: {CONTACT_EMAIL}"
 
 #. js-lingui-explicit-id
-msgid "Thank you for choosing {NAME_APP}!"
-msgstr "Thank you for choosing {NAME_APP}!"
-
-#. js-lingui-explicit-id
-msgid "Account Deletion"
-msgstr "Account Deletion"
-
-#. js-lingui-explicit-id
-msgid "How to delete your account?"
-msgstr "How to delete your account?"
-
-#. js-lingui-explicit-id
-msgid "To delete your account from {NAME_APP}, open the mobile application, go to your profile, then navigate to settings. At the bottom of the settings page, you will find the \"Delete account\" button. After clicking it, your account and all associated data will be permanently deleted."
-msgstr "To delete your account from {NAME_APP}, open the mobile application, go to your profile, then navigate to settings. At the bottom of the settings page, you will find the \"Delete account\" button. After clicking it, your account and all associated data will be permanently deleted."
-
-#. js-lingui-explicit-id
-msgid "Automatic account deletion"
-msgstr "Automatic account deletion"
-
-#. js-lingui-explicit-id
-msgid "Accounts that have been inactive for more than one year will be automatically deleted along with all associated data. This helps us maintain data security and comply with privacy regulations."
-msgstr "Accounts that have been inactive for more than one year will be automatically deleted along with all associated data. This helps us maintain data security and comply with privacy regulations."
-
-#. js-lingui-explicit-id
-msgid "What data will be deleted?"
-msgstr "What data will be deleted?"
-
-#. js-lingui-explicit-id
-msgid "When you delete your account, all your personal data and information associated with your account will be permanently removed:"
-msgstr "When you delete your account, all your personal data and information associated with your account will be permanently removed:"
-
-#. js-lingui-explicit-id
-msgid "Authentication data (Google, Facebook, Apple login information)"
-msgstr "Authentication data (Google, Facebook, Apple login information)"
-
-#. js-lingui-explicit-id
-msgid "Personal information (name, email, phone number)"
-msgstr "Personal information (name, email, phone number)"
-
-#. js-lingui-explicit-id
-msgid "All client data and profiles"
-msgstr "All client data and profiles"
-
-#. js-lingui-explicit-id
-msgid "All appointments and scheduling information"
-msgstr "All appointments and scheduling information"
-
-#. js-lingui-explicit-id
-msgid "All photos and images"
-msgstr "All photos and images"
-
-#. js-lingui-explicit-id
-msgid "SMS notifications history"
-msgstr "SMS notifications history"
-
-#. js-lingui-explicit-id
-msgid "Speech-to-text recordings and transcripts"
-msgstr "Speech-to-text recordings and transcripts"
-
-#. js-lingui-explicit-id
-msgid "All settings and preferences"
-msgstr "All settings and preferences"
-
-#. js-lingui-explicit-id
-msgid "Subscription information and payment history"
-msgstr "Subscription information and payment history"
-
-#. js-lingui-explicit-id
-msgid "Important notes"
-msgstr "Important notes"
-
-#. js-lingui-explicit-id
-msgid "Account deletion is irreversible. Once deleted, you cannot recover your data or restore your account. If you want to use {NAME_APP} again in the future, you will need to create a new account."
-msgstr "Account deletion is irreversible. Once deleted, you cannot recover your data or restore your account. If you want to use {NAME_APP} again in the future, you will need to create a new account."
-
-#. js-lingui-explicit-id
-msgid "If you have any questions about account deletion or need assistance, please contact us at our support email."
-msgstr "If you have any questions about account deletion or need assistance, please contact us at our support email."
-
-#. js-lingui-explicit-id
-msgid "Create detailed client profiles, track service history, and maintain comprehensive notes."
-msgstr "Create detailed client profiles, track service history, and maintain comprehensive notes."
-
-#. js-lingui-explicit-id
-msgid "Send automated SMS reminders to your clients about upcoming appointments."
-msgstr "Send automated SMS reminders to your clients about upcoming appointments."
-
-#. js-lingui-explicit-id
-msgid "Store and organize photos from each appointment to track client progress."
-msgstr "Store and organize photos from each appointment to track client progress."
-
-#. js-lingui-explicit-id
-msgid "Convert your voice notes into text for quick and easy documentation."
-msgstr "Convert your voice notes into text for quick and easy documentation."
-
-#. js-lingui-explicit-id
-msgid "Access your data seamlessly across mobile app and web platform."
-msgstr "Access your data seamlessly across mobile app and web platform."
-
-#. js-lingui-explicit-id
-msgid "Active Users"
-msgstr "Active Users"
-
-#. js-lingui-explicit-id
-msgid "Appointments Managed"
-msgstr "Appointments Managed"
-
-#. js-lingui-explicit-id
-msgid "Uptime"
-msgstr "Uptime"
-
-#. js-lingui-explicit-id
-msgid "App Rating"
-msgstr "App Rating"
-
-#. js-lingui-explicit-id
-msgid "{NAME_APP} – Smart Scheduling App for Beauty Experts"
-msgstr "{NAME_APP} – Smart Scheduling App for Beauty Experts"
-
-#. js-lingui-explicit-id
-msgid "Beauty Sync helps beauty professionals manage appointments, clients, and reminders with ease."
-msgstr "Beauty Sync helps beauty professionals manage appointments, clients, and reminders with ease."
-
-#. js-lingui-explicit-id
-msgid "Welcome to {NAME_APP}"
-msgstr "Welcome to {NAME_APP}"
-
-#. js-lingui-explicit-id
-msgid "Your Professional Beauty Companion"
-msgstr "Your Professional Beauty Companion"
-
-#. js-lingui-explicit-id
-msgid "Streamline your beauty business with our comprehensive mobile solution. Manage appointments, track clients, and boost productivity with ease."
-msgstr "Streamline your beauty business with our comprehensive mobile solution. Manage appointments, track clients, and boost productivity with ease."
-
-#. js-lingui-explicit-id
-msgid "Download on App Store"
-msgstr "Download on App Store"
-
-#. js-lingui-explicit-id
 msgid "Get it on Google Play"
 msgstr "Get it on Google Play"
-
-#. js-lingui-explicit-id
-msgid "4.8★ Rating"
-msgstr "4.8★ Rating"
 
 #. js-lingui-explicit-id
 msgid "Secure & Private"
 msgstr "Secure & Private"
 
 #. js-lingui-explicit-id
-msgid "Fast & Reliable"
-msgstr "Fast & Reliable"
-
-#. js-lingui-explicit-id
-msgid "Everything you need to manage your beauty business efficiently"
-msgstr "Everything you need to manage your beauty business efficiently"
-
-#. js-lingui-explicit-id
-msgid "Ready to Transform Your Business?"
-msgstr "Ready to Transform Your Business?"
-
-#. js-lingui-explicit-id
-msgid "Join thousands of beauty professionals who trust {NAME_APP} to manage their business"
-msgstr "Join thousands of beauty professionals who trust {NAME_APP} to manage their business"
-
-#. js-lingui-explicit-id
 msgid "Last updated:"
 msgstr "Last updated:"
-
-#. js-lingui-explicit-id
-msgid "February 6, 2026"
-msgstr "February 6, 2026"
-
-#. js-lingui-explicit-id
-msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, FOP (\"us\", \"we\", or \"our\"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our mobile application and services (\"Service\")."
-msgstr "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, FOP (\"us\", \"we\", or \"our\"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our mobile application and services (\"Service\")."
 
 #. js-lingui-explicit-id
 msgid "Information We Collect"
 msgstr "Information We Collect"
 
 #. js-lingui-explicit-id
-msgid "Information Collection"
-msgstr "Information Collection"
-
-#. js-lingui-explicit-id
-msgid "We collect information to ensure the effective functionality of the {NAME_APP} app. The data collected may include:"
-msgstr "We collect information to ensure the effective functionality of the {NAME_APP} app. The data collected may include:"
-
-#. js-lingui-explicit-id
-msgid "Contacts: to create client records."
-msgstr "Contacts: to create client records."
-
-#. js-lingui-explicit-id
-msgid "Calendar data: to synchronize appointments and reminders."
-msgstr "Calendar data: to synchronize appointments and reminders."
-
-#. js-lingui-explicit-id
-msgid "Camera and photo library: to upload client or work photos."
-msgstr "Camera and photo library: to upload client or work photos."
-
-#. js-lingui-explicit-id
-msgid "Push notifications: to remind users about upcoming appointments."
-msgstr "Push notifications: to remind users about upcoming appointments."
-
-#. js-lingui-explicit-id
-msgid "Personal user information: such as name, email address, and phone number."
-msgstr "Personal user information: such as name, email address, and phone number."
-
-#. js-lingui-explicit-id
-msgid "Subscription information: for managing your account and processing payments. Prices may vary by region and are subject to local taxes."
-msgstr "Subscription information: for managing your account and processing payments. Prices may vary by region and are subject to local taxes."
-
-#. js-lingui-explicit-id
-msgid "Voice recordings: for speech-to-text functionality to convert voice notes into text for appointment documentation."
-msgstr "Voice recordings: for speech-to-text functionality to convert voice notes into text for appointment documentation."
-
-#. js-lingui-explicit-id
-msgid "SMS data: for sending automated reminders to clients about upcoming appointments."
-msgstr "SMS data: for sending automated reminders to clients about upcoming appointments."
-
-#. js-lingui-explicit-id
-msgid "Usage analytics: to improve app functionality and user experience."
-msgstr "Usage analytics: to improve app functionality and user experience."
-
-#. js-lingui-explicit-id
-msgid "Export/import data: for CSV export and import functionality (available with Pro and Premium subscriptions)."
-msgstr "Export/import data: for CSV export and import functionality (available with Pro and Premium subscriptions)."
-
-#. js-lingui-explicit-id
-msgid "Use of Information"
-msgstr "Use of Information"
-
-#. js-lingui-explicit-id
-msgid "We process your data based on legitimate interests and contractual necessity. The collected data is used to:"
-msgstr "We process your data based on legitimate interests and contractual necessity. The collected data is used to:"
-
-#. js-lingui-explicit-id
-msgid "Create client records and appointments."
-msgstr "Create client records and appointments."
-
-#. js-lingui-explicit-id
-msgid "Send SMS reminders to clients."
-msgstr "Send SMS reminders to clients."
-
-#. js-lingui-explicit-id
-msgid "Convert voice recordings to text for appointment documentation."
-msgstr "Convert voice recordings to text for appointment documentation."
-
-#. js-lingui-explicit-id
-msgid "Synchronize the calendar for appointment reminders."
-msgstr "Synchronize the calendar for appointment reminders."
-
-#. js-lingui-explicit-id
-msgid "Enable app features such as uploading photos and creating notes."
-msgstr "Enable app features such as uploading photos and creating notes."
-
-#. js-lingui-explicit-id
-msgid "Manage subscriptions and process billing."
-msgstr "Manage subscriptions and process billing."
-
-#. js-lingui-explicit-id
-msgid "Provide analytics and insights to improve service functionality."
-msgstr "Provide analytics and insights to improve service functionality."
-
-#. js-lingui-explicit-id
-msgid "Ensure compliance with subscription limits and features."
-msgstr "Ensure compliance with subscription limits and features."
-
-#. js-lingui-explicit-id
-msgid "Process data for export/import functionality (Pro subscription: export only, Premium subscription: export and import)."
-msgstr "Process data for export/import functionality (Pro subscription: export only, Premium subscription: export and import)."
-
-#. js-lingui-explicit-id
-msgid "Access to Permissions"
-msgstr "Access to Permissions"
-
-#. js-lingui-explicit-id
-msgid "Permissions are requested only for functions directly related to the app's operation. The {NAME_APP} app requires access to the following device features:"
-msgstr "Permissions are requested only for functions directly related to the app's operation. The {NAME_APP} app requires access to the following device features:"
-
-#. js-lingui-explicit-id
-msgid "Contacts: to add clients to the app."
-msgstr "Contacts: to add clients to the app."
-
-#. js-lingui-explicit-id
-msgid "Calendar: to sync events."
-msgstr "Calendar: to sync events."
-
-#. js-lingui-explicit-id
-msgid "Camera and photo library: to upload images."
-msgstr "Camera and photo library: to upload images."
-
-#. js-lingui-explicit-id
-msgid "Push notifications: to send reminders."
-msgstr "Push notifications: to send reminders."
-
-#. js-lingui-explicit-id
-msgid "Microphone: for speech-to-text functionality."
-msgstr "Microphone: for speech-to-text functionality."
-
-#. js-lingui-explicit-id
-msgid "SMS access: for sending appointment reminders."
-msgstr "SMS access: for sending appointment reminders."
-
-#. js-lingui-explicit-id
 msgid "Data Security"
 msgstr "Data Security"
-
-#. js-lingui-explicit-id
-msgid "Your data is protected using industry-standard security measures. We implement the following security practices:"
-msgstr "Your data is protected using industry-standard security measures. We implement the following security practices:"
-
-#. js-lingui-explicit-id
-msgid "End-to-end encryption for data transmission."
-msgstr "End-to-end encryption for data transmission."
-
-#. js-lingui-explicit-id
-msgid "Limited access to servers where information is stored."
-msgstr "Limited access to servers where information is stored."
-
-#. js-lingui-explicit-id
-msgid "Regular security updates and monitoring."
-msgstr "Regular security updates and monitoring."
-
-#. js-lingui-explicit-id
-msgid "Secure API authentication for third-party integrations."
-msgstr "Secure API authentication for third-party integrations."
-
-#. js-lingui-explicit-id
-msgid "Compliance with industry security standards."
-msgstr "Compliance with industry security standards."
-
-#. js-lingui-explicit-id
-msgid "Sharing Information with Third Parties"
-msgstr "Sharing Information with Third Parties"
-
-#. js-lingui-explicit-id
-msgid "We may share your data with third parties in the following cases:"
-msgstr "We may share your data with third parties in the following cases:"
-
-#. js-lingui-explicit-id
-msgid "SMS service providers: for sending appointment reminders to clients."
-msgstr "SMS service providers: for sending appointment reminders to clients."
-
-#. js-lingui-explicit-id
-msgid "Payment processors: Apple App Store and Google Play for subscription billing."
-msgstr "Payment processors: Apple App Store and Google Play for subscription billing."
-
-#. js-lingui-explicit-id
-msgid "Analytics services: for service improvement (anonymized data only)."
-msgstr "Analytics services: for service improvement (anonymized data only)."
-
-#. js-lingui-explicit-id
-msgid "Legal requirements: when required by law or to protect our rights."
-msgstr "Legal requirements: when required by law or to protect our rights."
-
-#. js-lingui-explicit-id
-msgid "Cloud storage providers: for secure data backup and synchronization."
-msgstr "Cloud storage providers: for secure data backup and synchronization."
 
 #. js-lingui-explicit-id
 msgid "International Data Transfers"
 msgstr "International Data Transfers"
 
 #. js-lingui-explicit-id
-msgid "Your data may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place to protect your data in accordance with applicable data protection laws."
-msgstr "Your data may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place to protect your data in accordance with applicable data protection laws."
-
-#. js-lingui-explicit-id
 msgid "Data Retention"
 msgstr "Data Retention"
-
-#. js-lingui-explicit-id
-msgid "We retain your data only as long as necessary to provide our services. Data is automatically deleted when you delete your account or revoke permissions. Some data may be retained for legal or security purposes as required by law. We comply with applicable data protection laws including GDPR where applicable."
-msgstr "We retain your data only as long as necessary to provide our services. Data is automatically deleted when you delete your account or revoke permissions. Some data may be retained for legal or security purposes as required by law. We comply with applicable data protection laws including GDPR where applicable."
-
-#. js-lingui-explicit-id
-msgid "Service Limitations and Disclaimers"
-msgstr "Service Limitations and Disclaimers"
-
-#. js-lingui-explicit-id
-msgid "While we strive to provide reliable service, we cannot guarantee uninterrupted access or complete data security. We are not responsible for:"
-msgstr "While we strive to provide reliable service, we cannot guarantee uninterrupted access or complete data security. We are not responsible for:"
-
-#. js-lingui-explicit-id
-msgid "Temporary service interruptions due to maintenance or technical issues."
-msgstr "Temporary service interruptions due to maintenance or technical issues."
-
-#. js-lingui-explicit-id
-msgid "Data loss caused by user actions or device malfunctions."
-msgstr "Data loss caused by user actions or device malfunctions."
-
-#. js-lingui-explicit-id
-msgid "Third-party service failures (SMS providers, payment processors, etc.)."
-msgstr "Third-party service failures (SMS providers, payment processors, etc.)."
-
-#. js-lingui-explicit-id
-msgid "Compliance issues arising from user misuse of the service."
-msgstr "Compliance issues arising from user misuse of the service."
-
-#. js-lingui-explicit-id
-msgid "Financial losses resulting from service interruptions or data issues."
-msgstr "Financial losses resulting from service interruptions or data issues."
 
 #. js-lingui-explicit-id
 msgid "User Rights"
 msgstr "User Rights"
 
 #. js-lingui-explicit-id
-msgid "To exercise your rights, contact us at {CONTACT_EMAIL}. You have the following rights:"
-msgstr "To exercise your rights, contact us at {CONTACT_EMAIL}. You have the following rights:"
-
-#. js-lingui-explicit-id
-msgid "Access your data: You can review the data we store about you."
-msgstr "Access your data: You can review the data we store about you."
-
-#. js-lingui-explicit-id
-msgid "Delete your data: You can request the deletion of your information."
-msgstr "Delete your data: You can request the deletion of your information."
-
-#. js-lingui-explicit-id
-msgid "Revoke permissions: You can modify app permissions via your device settings."
-msgstr "Revoke permissions: You can modify app permissions via your device settings."
-
-#. js-lingui-explicit-id
-msgid "Export your data: You can request a copy of your data in a portable format or use the built-in CSV export feature (available with Pro and Premium subscriptions)."
-msgstr "Export your data: You can request a copy of your data in a portable format or use the built-in CSV export feature (available with Pro and Premium subscriptions)."
-
-#. js-lingui-explicit-id
-msgid "Rectify your data: You can request correction of inaccurate personal data."
-msgstr "Rectify your data: You can request correction of inaccurate personal data."
-
-#. js-lingui-explicit-id
-msgid "Restrict processing: You can request limitation of data processing under certain circumstances."
-msgstr "Restrict processing: You can request limitation of data processing under certain circumstances."
-
-#. js-lingui-explicit-id
-msgid "Changes to the Privacy Policy"
-msgstr "Changes to the Privacy Policy"
-
-#. js-lingui-explicit-id
-msgid ""
-"We may update this Privacy Policy periodically. All updates will be published on this page with the updated date.\n"
-"We recommend checking this section regularly to stay informed of any changes. For significant updates, we will notify you via the app or email."
-msgstr ""
-"We may update this Privacy Policy periodically. All updates will be published on this page with the updated date.\n"
-"We recommend checking this section regularly to stay informed of any changes. For significant updates, we will notify you via the app or email."
-
-#. js-lingui-explicit-id
 msgid "Contact Information"
 msgstr "Contact Information"
 
 #. js-lingui-explicit-id
-msgid "If you have questions about this Privacy Policy, contact us at {CONTACT_EMAIL}."
-msgstr "If you have questions about this Privacy Policy, contact us at {CONTACT_EMAIL}."
-
-#. js-lingui-explicit-id
-msgid "\"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, FOP (\"us\", \"we\", or \"our\"). By accessing or using our mobile application and web services (\"Service\"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service."
-msgstr "\"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, FOP (\"us\", \"we\", or \"our\"). By accessing or using our mobile application and web services (\"Service\"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service."
-
-#. js-lingui-explicit-id
 msgid "1. Purpose of the Application"
 msgstr "1. Purpose of the Application"
-
-#. js-lingui-explicit-id
-msgid "{NAME_APP} is a comprehensive mobile and web application designed to help beauty professionals (stylists, makeup artists, nail technicians, and other beauty specialists) manage their business operations effectively. The application allows users to create detailed client profiles, manage appointments, synchronize schedules with device calendars, send SMS reminders to clients, convert voice notes to text for appointment documentation, store photos from appointments, and receive notifications about upcoming appointments."
-msgstr "{NAME_APP} is a comprehensive mobile and web application designed to help beauty professionals (stylists, makeup artists, nail technicians, and other beauty specialists) manage their business operations effectively. The application allows users to create detailed client profiles, manage appointments, synchronize schedules with device calendars, send SMS reminders to clients, convert voice notes to text for appointment documentation, store photos from appointments, and receive notifications about upcoming appointments."
-
-#. js-lingui-explicit-id
-msgid "2. Permissions and Usage Restrictions"
-msgstr "2. Permissions and Usage Restrictions"
-
-#. js-lingui-explicit-id
-msgid "By using {NAME_APP}, you agree to utilize the app solely for its intended purposes. Any misuse of the app, such as reverse-engineering, unauthorized modifications, or illegal activities, is strictly prohibited. Users are also responsible for maintaining the confidentiality of their account credentials and ensuring that the app is used in compliance with local laws and regulations."
-msgstr "By using {NAME_APP}, you agree to utilize the app solely for its intended purposes. Any misuse of the app, such as reverse-engineering, unauthorized modifications, or illegal activities, is strictly prohibited. Users are also responsible for maintaining the confidentiality of their account credentials and ensuring that the app is used in compliance with local laws and regulations."
-
-#. js-lingui-explicit-id
-msgid "3. Subscriptions and Payments"
-msgstr "3. Subscriptions and Payments"
-
-#. js-lingui-explicit-id
-msgid "{NAME_APP} offers a free tier with basic features, and two premium subscription plans (Pro and Premium) for advanced functionality. All subscriptions are billed monthly. Payments are processed through the Apple App Store or Google Play, according to their respective policies. Apple and Google may adjust subscription prices depending on your region. Subscriptions renew automatically unless canceled at least 24 hours before the end of the billing period. All payments are non-refundable unless required by applicable law."
-msgstr "{NAME_APP} offers a free tier with basic features, and two premium subscription plans (Pro and Premium) for advanced functionality. All subscriptions are billed monthly. Payments are processed through the Apple App Store or Google Play, according to their respective policies. Apple and Google may adjust subscription prices depending on your region. Subscriptions renew automatically unless canceled at least 24 hours before the end of the billing period. All payments are non-refundable unless required by applicable law."
-
-#. js-lingui-explicit-id
-msgid "4. Subscription Information"
-msgstr "4. Subscription Information"
-
-#. js-lingui-explicit-id
-msgid "The following subscription plans are available:"
-msgstr "The following subscription plans are available:"
-
-#. js-lingui-explicit-id
-msgid "Free Plan"
-msgstr "Free Plan"
-
-#. js-lingui-explicit-id
-msgid "Price: Free"
-msgstr "Price: Free"
-
-#. js-lingui-explicit-id
-msgid "Basic calendar sync"
-msgstr "Basic calendar sync"
-
-#. js-lingui-explicit-id
-msgid "Pro Plan"
-msgstr "Pro Plan"
-
-#. js-lingui-explicit-id
-msgid "Price: $4.99 per month"
-msgstr "Price: $4.99 per month"
-
-#. js-lingui-explicit-id
-msgid "Advanced calendar sync"
-msgstr "Advanced calendar sync"
-
-#. js-lingui-explicit-id
-msgid "Premium Plan"
-msgstr "Premium Plan"
-
-#. js-lingui-explicit-id
-msgid "Price: $9.99 per month"
-msgstr "Price: $9.99 per month"
-
-#. js-lingui-explicit-id
-msgid "Full calendar sync and analytics"
-msgstr "Full calendar sync and analytics"
-
-#. js-lingui-explicit-id
-msgid "5. Notifications and Reminders"
-msgstr "5. Notifications and Reminders"
-
-#. js-lingui-explicit-id
-msgid "The application sends push notifications and SMS reminders to inform users about upcoming appointments and related updates. By enabling push notifications and SMS features, users consent to receiving these alerts. It is the user's responsibility to ensure notifications are active on their device and to provide accurate phone numbers for SMS reminders to avoid missing important updates."
-msgstr "The application sends push notifications and SMS reminders to inform users about upcoming appointments and related updates. By enabling push notifications and SMS features, users consent to receiving these alerts. It is the user's responsibility to ensure notifications are active on their device and to provide accurate phone numbers for SMS reminders to avoid missing important updates."
-
-#. js-lingui-explicit-id
-msgid "6. Data Management and Privacy"
-msgstr "6. Data Management and Privacy"
-
-#. js-lingui-explicit-id
-msgid "The application provides tools for managing and storing client data, including voice recordings and SMS data. Users are responsible for entering accurate information, maintaining backups of critical data when necessary, and ensuring they have proper consent from clients for data collection. {NAME_APP} is not liable for any data loss due to user error, device failure, unauthorized access, or third-party service failures. Users must comply with applicable data protection laws and regulations."
-msgstr "The application provides tools for managing and storing client data, including voice recordings and SMS data. Users are responsible for entering accurate information, maintaining backups of critical data when necessary, and ensuring they have proper consent from clients for data collection. {NAME_APP} is not liable for any data loss due to user error, device failure, unauthorized access, or third-party service failures. Users must comply with applicable data protection laws and regulations."
-
-#. js-lingui-explicit-id
-msgid "7. Service Limitations and Disclaimers"
-msgstr "7. Service Limitations and Disclaimers"
-
-#. js-lingui-explicit-id
-msgid "While we strive to provide reliable service, we cannot guarantee uninterrupted access or complete data security. We are not responsible for temporary service interruptions due to maintenance or technical issues, data loss caused by user actions or device malfunctions, third-party service failures (SMS providers, payment processors, etc.), compliance issues arising from user misuse of the service, or financial losses resulting from service interruptions or data issues."
-msgstr "While we strive to provide reliable service, we cannot guarantee uninterrupted access or complete data security. We are not responsible for temporary service interruptions due to maintenance or technical issues, data loss caused by user actions or device malfunctions, third-party service failures (SMS providers, payment processors, etc.), compliance issues arising from user misuse of the service, or financial losses resulting from service interruptions or data issues."
-
-#. js-lingui-explicit-id
-msgid "8. Changes to Terms"
-msgstr "8. Changes to Terms"
-
-#. js-lingui-explicit-id
-msgid "These Terms of Use may be updated periodically. Any changes will be published within the application, and the effective date will be revised accordingly. Continued use of the service after updates signifies acceptance of the new terms."
-msgstr "These Terms of Use may be updated periodically. Any changes will be published within the application, and the effective date will be revised accordingly. Continued use of the service after updates signifies acceptance of the new terms."
-
-#. js-lingui-explicit-id
-msgid "9. Limitation of Liability"
-msgstr "9. Limitation of Liability"
-
-#. js-lingui-explicit-id
-msgid "{NAME_APP} and its developers are not responsible for any damages resulting from the use or inability to use the service. This includes issues caused by errors, interruptions, third-party integrations, or unauthorized access to data. We are not responsible for illegal use of the application by users."
-msgstr "{NAME_APP} and its developers are not responsible for any damages resulting from the use or inability to use the service. This includes issues caused by errors, interruptions, third-party integrations, or unauthorized access to data. We are not responsible for illegal use of the application by users."
-
-#. js-lingui-explicit-id
-msgid "10. Prohibited Activities and Content Monitoring"
-msgstr "10. Prohibited Activities and Content Monitoring"
-
-#. js-lingui-explicit-id
-msgid "We may monitor usage patterns to ensure compliance with these terms. In case of detecting misuse of the service, violations of applicable laws, or activities that compromise the integrity of the platform, we may suspend or terminate user accounts without refund. Users are responsible for ensuring that their use of the service complies with all applicable laws and regulations."
-msgstr "We may monitor usage patterns to ensure compliance with these terms. In case of detecting misuse of the service, violations of applicable laws, or activities that compromise the integrity of the platform, we may suspend or terminate user accounts without refund. Users are responsible for ensuring that their use of the service complies with all applicable laws and regulations."
-
-#. js-lingui-explicit-id
-msgid "11. Support"
-msgstr "11. Support"
-
-#. js-lingui-explicit-id
-msgid "For assistance with technical issues, subscription questions, or other inquiries, users can contact us at {CONTACT_EMAIL}. Our team strives to address support requests promptly, typically within 48 hours."
-msgstr "For assistance with technical issues, subscription questions, or other inquiries, users can contact us at {CONTACT_EMAIL}. Our team strives to address support requests promptly, typically within 48 hours."
-
-#. js-lingui-explicit-id
-msgid "12. Account Deletion"
-msgstr "12. Account Deletion"
-
-#. js-lingui-explicit-id
-msgid "If you wish to delete your account, you can do so through the app's settings or by submitting a request via the developer's feedback form at the following link: https://vb-dev.org.ua/#feedback."
-msgstr "If you wish to delete your account, you can do so through the app's settings or by submitting a request via the developer's feedback form at the following link: https://vb-dev.org.ua/#feedback."
-
-#. js-lingui-explicit-id
-msgid "13. Apple's Standard Terms"
-msgstr "13. Apple's Standard Terms"
-
-#. js-lingui-explicit-id
-msgid "In addition to these Terms of Use, {NAME_APP} operates under the Apple Standard End User License Agreement (EULA), which can be found at the following link:"
-msgstr "In addition to these Terms of Use, {NAME_APP} operates under the Apple Standard End User License Agreement (EULA), which can be found at the following link:"
-
-#. js-lingui-explicit-id
-msgid "By using {NAME_APP}, you confirm that you have read and agreed to these Terms of Use."
-msgstr "By using {NAME_APP}, you confirm that you have read and agreed to these Terms of Use."
