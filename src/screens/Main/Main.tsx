@@ -18,20 +18,20 @@ import {
   Apple,
   Android,
   TrendingUp,
-  Assessment,
-  Timeline,
   ShowChart,
   Notifications,
-  Security,
-  Speed,
   BarChart,
   Analytics,
   AutoGraph,
   Star,
+  Security,
+  Speed,
 } from "@mui/icons-material";
 
 import { useLocalesProvider } from "@/localization/localization.provider";
-import { NAME_APP, CONTACT_EMAIL } from "@/constants";
+import { NAME_APP } from "@/constants";
+
+import styles from "./Main.module.css";
 
 export default function Main() {
   const { i18n } = useLocalesProvider();
@@ -165,17 +165,7 @@ export default function Main() {
 
       <Box sx={{ backgroundColor: "var(--background)", minHeight: "100vh" }}>
         {/* Hero Section */}
-        <Box
-          sx={{
-            background:
-              "linear-gradient(135deg, var(--background) 0%, var(--background-gradient-end) 50%, var(--background) 100%)",
-            minHeight: "100vh",
-            display: "flex",
-            alignItems: "center",
-            position: "relative",
-            overflow: "hidden",
-          }}
-        >
+        <Box className={styles.heroSection}>
           <Container maxWidth="lg" sx={{ position: "relative", zIndex: 1 }}>
             <Grid container spacing={4} alignItems="center">
               <Grid item xs={12} md={6}>
@@ -183,12 +173,7 @@ export default function Main() {
                   <Typography
                     variant={isMobile ? "h3" : "h2"}
                     component="h1"
-                    sx={{
-                      fontWeight: 700,
-                      mb: 2,
-                      fontFamily: '"Tenor Sans", serif',
-                      color: "var(--gold)",
-                    }}
+                    className={styles.heroTitle}
                   >
                     {i18n._(
                       "{NAME_APP}: AI-Powered Market Analysis for Learning",
@@ -200,25 +185,12 @@ export default function Main() {
 
                   <Typography
                     variant={isMobile ? "h6" : "h5"}
-                    sx={{
-                      mb: 3,
-                      fontWeight: 300,
-                      opacity: 0.9,
-                      fontFamily: '"Tenor Sans", serif',
-                    }}
+                    className={styles.heroSubtitle}
                   >
                     {i18n._("Educational Market Analysis App")}
                   </Typography>
 
-                  <Typography
-                    variant="body1"
-                    sx={{
-                      mb: 4,
-                      opacity: 0.9,
-                      lineHeight: 1.6,
-                      fontSize: "1.1rem",
-                    }}
-                  >
+                  <Typography variant="body1" className={styles.heroText}>
                     {i18n._(
                       "Study market analysis and explore market behavior with AI-powered educational tools. Discover real market scenarios, technical analysis concepts, and practical insights for educational purposes only."
                     )}
@@ -284,6 +256,26 @@ export default function Main() {
                     >
                       {i18n._("Privacy Policy")}
                     </Button>
+
+                    <Button
+                      variant="contained"
+                      size="large"
+                      href={appStoreUrl}
+                      className={styles.storeButton}
+                      startIcon={<Apple />}
+                    >
+                      {i18n._("Download on the App Store")}
+                    </Button>
+
+                    <Button
+                      variant="contained"
+                      size="large"
+                      href={googlePlayUrl}
+                      className={styles.storeButton}
+                      startIcon={<Android />}
+                    >
+                      {i18n._("Get it on Google Play")}
+                    </Button>
                   </Stack>
 
                   <Stack direction="row" spacing={1} flexWrap="wrap">
@@ -339,31 +331,12 @@ export default function Main() {
             <Grid container spacing={4}>
               {stats.map((stat, index) => (
                 <Grid item xs={6} md={3} key={index}>
-                  <Card
-                    sx={{
-                      textAlign: "center",
-                      p: 3,
-                      backgroundColor: "var(--background)",
-                      boxShadow: "0 4px 20px rgba(244, 197, 66, 0.1)",
-                      borderRadius: 3,
-                    }}
-                  >
+                  <Card className={styles.statsCard}>
                     <CardContent>
-                      <Typography
-                        variant="h4"
-                        sx={{
-                          fontWeight: 700,
-                          color: "var(--gold)",
-                          fontFamily: '"Tenor Sans", serif',
-                          mb: 1,
-                        }}
-                      >
+                      <Typography variant="h4" className={styles.statsNumber}>
                         {stat.number}
                       </Typography>
-                      <Typography
-                        variant="body2"
-                        sx={{ color: "var(--text-gray)", fontWeight: 500 }}
-                      >
+                      <Typography variant="body2" className={styles.statsLabel}>
                         {stat.label}
                       </Typography>
                     </CardContent>
@@ -402,58 +375,17 @@ export default function Main() {
             <Grid container spacing={4}>
               {features.map((feature, index) => (
                 <Grid item xs={12} md={6} lg={4} key={index}>
-                  <Card
-                    sx={{
-                      height: "100%",
-                      background:
-                        "linear-gradient(135deg, rgba(18, 18, 26, 0.8) 0%, rgba(24, 24, 32, 0.9) 100%)",
-                      border: "1px solid var(--gold-border)",
-                      borderRadius: "20px",
-                      boxShadow: "var(--premium-shadow)",
-                      position: "relative",
-                      overflow: "hidden",
-                      transition: "all 0.3s cubic-bezier(0.4, 0, 0.2, 1)",
-                      cursor: "pointer",
-                      "&::before": {
-                        content: '""',
-                        position: "absolute",
-                        top: 0,
-                        left: 0,
-                        right: 0,
-                        height: "1px",
-                        background:
-                          "linear-gradient(90deg, transparent, rgba(244, 197, 66, 0.3), transparent)",
-                      },
-                      "&:hover": {
-                        transform: "translateY(-6px)",
-                        boxShadow: "var(--gold-shadow)",
-                        border: "1px solid rgba(244, 197, 66, 0.25)",
-                        "& .feature-icon": {
-                          color: "#fff",
-                          filter:
-                            "drop-shadow(0 0 8px rgba(244, 197, 66, 0.4))",
-                        },
-                      },
-                    }}
-                  >
+                  <Card className={styles.featureCard}>
                     <CardContent>
                       <Box sx={{ mb: 2 }} className="feature-icon">
                         {feature.icon}
                       </Box>
-                      <Typography
-                        variant="h6"
-                        sx={{
-                          fontWeight: 600,
-                          color: "var(--gold)",
-                          fontFamily: '"Tenor Sans", serif',
-                          mb: 2,
-                        }}
-                      >
+                      <Typography variant="h6" className={styles.featureTitle}>
                         {feature.title}
                       </Typography>
                       <Typography
                         variant="body2"
-                        sx={{ color: "var(--text-gray)", lineHeight: 1.6 }}
+                        className={styles.featureDescription}
                       >
                         {feature.description}
                       </Typography>
@@ -548,27 +480,13 @@ export default function Main() {
         </Box>
 
         {/* CTA Section */}
-        <Box
-          sx={{
-            py: 8,
-            background:
-              "linear-gradient(135deg, var(--background) 0%, var(--background-gradient-end) 100%)",
-            color: "var(--white)",
-          }}
-        >
+        <Box className={styles.ctaSection}>
           <Container maxWidth="md">
             <Box sx={{ textAlign: "center" }}>
-              <Typography
-                variant="h3"
-                sx={{
-                  fontWeight: 700,
-                  fontFamily: '"Tenor Sans", serif',
-                  mb: 2,
-                }}
-              >
+              <Typography variant="h3" className={styles.ctaTitle}>
                 {i18n._("Start Your Educational Journey")}
               </Typography>
-              <Typography variant="h6" sx={{ mb: 4, opacity: 0.9 }}>
+              <Typography variant="h6" className={styles.ctaText}>
                 {i18n._(
                   "Discover how {NAME_APP} provides AI-powered market analysis tools for educational study and technical learning",
                   { NAME_APP }

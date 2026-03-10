@@ -1,0 +1,172 @@
+/* Hero Section */
+.heroSection {
+  background: linear-gradient(135deg, var(--background) 0%, var(--background-gradient-end) 50%, var(--background) 100%);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.heroTitle {
+  fontWeight: 700;
+  marginBottom: 16px;
+  fontFamily: '"Tenor Sans", serif';
+  color: var(--gold);
+}
+
+.heroSubtitle {
+  fontWeight: 300;
+  marginBottom: 24px;
+  opacity: 0.9;
+  fontFamily: '"Tenor Sans", serif';
+}
+
+.heroText {
+  marginBottom: 32px;
+  opacity: 0.9;
+  lineHeight: 1.6;
+  fontSize: "1.1rem";
+}
+
+/* Stats Section */
+.statsSection {
+  padding: 80px 0;
+}
+
+.statsCard {
+  textAlign: center;
+  padding: 24px;
+  backgroundColor: var(--background-card);
+  borderRadius: 16px;
+  boxShadow: var(--premium-shadow);
+  border: 1px solid var(--gold-border);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.statsCard:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--gold-shadow);
+}
+
+.statsNumber {
+  fontSize: "2.5rem";
+  fontWeight: 700;
+  color: var(--gold);
+  fontFamily: '"Tenor Sans", serif';
+  marginBottom: 8px;
+}
+
+.statsLabel {
+  fontSize: "1rem";
+  color: var(--text-gray);
+  fontWeight: 500;
+}
+
+/* Features Section */
+.featuresSection {
+  padding: 80px 0;
+}
+
+.featureCard {
+  height: 100%;
+  backgroundColor: var(--background-card);
+  borderRadius: 16px;
+  border: 1px solid var(--gold-border);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.featureCard::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, var(--gold) 0%, #e6b538 100%);
+}
+
+.featureCard:hover {
+  transform: translateY(-8px);
+  box-shadow: var(--gold-shadow);
+}
+
+.featureTitle {
+  fontSize: "1.25rem";
+  fontWeight: 600;
+  color: var(--gold);
+  marginBottom: 16px;
+  fontFamily: '"Tenor Sans", serif';
+}
+
+.featureDescription {
+  fontSize: "1rem";
+  color: var(--text-gray);
+  lineHeight: 1.6;
+}
+
+/* Educational Section */
+.educationalSection {
+  padding: 80px 0;
+}
+
+.educationalCard {
+  height: 100%;
+  backgroundColor: var(--background-card);
+  borderRadius: 16px;
+  border: 1px solid var(--gold-border);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.educationalCard:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--gold-shadow);
+}
+
+/* CTA Section */
+.ctaSection {
+  background: linear-gradient(135deg, var(--background) 0%, var(--background-gradient-end) 50%, var(--background) 100%);
+  padding: 100px 0;
+  textAlign: center;
+}
+
+.ctaTitle {
+  fontWeight: 700;
+  fontFamily: '"Tenor Sans", serif';
+  marginBottom: 16px;
+}
+
+.ctaText {
+  marginBottom: 32px;
+  opacity: 0.9;
+}
+
+/* Store Buttons */
+.storeButton {
+  backgroundColor: "rgba(255, 255, 255, 0.9)";
+  color: var(--background);
+  fontWeight: 600;
+  padding: 16px 32px;
+  borderRadius: 12px;
+  textTransform: "none";
+  fontSize: "1rem";
+  fontFamily: '"Inter", sans-serif';
+  transition: "all 0.3s ease";
+  textDecoration: "none";
+  display: "inline-flex";
+  alignItems: "center";
+  gap: 8px;
+}
+
+.storeButton:hover {
+  backgroundColor: var(--gold);
+  color: var(--background);
+  transform: translateY(-2px);
+  textDecoration: "none";
+}
+
+.storeButton svg {
+  fontSize: 24px;
+}
