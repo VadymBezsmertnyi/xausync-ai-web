@@ -15,1303 +15,1303 @@ msgstr ""
 
 #. js-lingui-explicit-id
 msgid "AI-powered educational market analysis and learning insights"
-msgstr ""
+msgstr "Εκπαιδευτική ανάλυση αγοράς με υποστήριξη ΤΝ και γνώσεις εκμάθησης"
 
 #. js-lingui-explicit-id
 msgid "Navigation"
-msgstr ""
+msgstr "Πλοήγηση"
 
 #. js-lingui-explicit-id
 msgid "Disclaimer"
-msgstr ""
+msgstr "Αποποίηση ευθύνης"
 
 #. js-lingui-explicit-id
 msgid "Developer"
-msgstr ""
+msgstr "Προγραμματιστής"
 
 #. js-lingui-explicit-id
 msgid "Developed by Vadym Bezsmertnyi, Sole Proprietor (Ukraine)"
-msgstr ""
+msgstr "Αναπτύχθηκε από τον Vadym Bezsmertnyi, Ατομική Επιχείρηση (Ουκρανία)"
 
 #. js-lingui-explicit-id
 msgid "© {year} {NAME_APP}. All rights reserved."
-msgstr ""
+msgstr "© {year} {NAME_APP}. Με επιφύλαξη παντός δικαιώματος."
 
 #. js-lingui-explicit-id
 msgid "About XauSync AI — AI-Powered Market Analysis Education"
-msgstr ""
+msgstr "Σχετικά με το XauSync AI — Εκπαίδευση Ανάλυσης Αγοράς με Υποστήριξη ΤΝ"
 
 #. js-lingui-explicit-id
 msgid "Discover XauSync AI's intelligent market analysis platform. Learn through AI-driven insights, real-world examples, and comprehensive technical analysis tools designed for educational purposes."
-msgstr ""
+msgstr "Ανακαλύψτε την έξυπνη πλατφόρμα ανάλυσης αγοράς του XauSync AI. Μάθετε μέσω γνώσεων με υποστήριξη ΤΝ, παραδειγμάτων από τον πραγματικό κόσμου και ολοκληρωμένων εργαλείων τεχνικής ανάλυσης σχεδιασμένων για εκπαιδευτικούς σκοπούς."
 
 #. js-lingui-explicit-id
 msgid "About XauSync AI, AI market analysis education, learn market behavior, educational market analysis, XAU/USD analysis, AI learning technology, responsible market education"
-msgstr ""
+msgstr "Σχετικά με το XauSync AI, εκπαίδευση ανάλυσης αγοράς με ΤΝ, μάθετε τη συμπεριφορά της αγοράς, εκπαιδευτική ανάλυση αγοράς, ανάλυση XAU/USD, τεχνολογία εκμάθησης ΤΝ, υπεύθυνη εκπαίδευση αγοράς"
 
 #. js-lingui-explicit-id
 msgid "Discover XauSync AI's intelligent market analysis platform and our commitment to providing AI-driven insights for educational use."
-msgstr ""
+msgstr "Ανακαλύψτε την έξυπνη πλατφόρμα ανάλυσης αγοράς του XauSync AI και τη δέσμευσή μας να παρέχουμε γνώσεις με υποστήριξη ΤΝ για εκπαιδευτική χρήση."
 
 #. js-lingui-explicit-id
 msgid "About XauSync AI - AI-Powered Market Analysis Education Platform"
-msgstr ""
+msgstr "Σχετικά με το XauSync AI - Πλατφόρμα Εκπαίδευσης Ανάλυσης Αγοράς με Υποστήριξη ΤΝ"
 
 #. js-lingui-explicit-id
 msgid "AI-Powered Market Analysis for Learning"
-msgstr ""
+msgstr "Ανάλυση Αγοράς με Υποστήριξη ΤΝ για Εκμάθηση"
 
 #. js-lingui-explicit-id
 msgid "{NAME_APP} is an AI-powered educational platform designed for studying XAU/USD market dynamics. Our application combines advanced artificial intelligence with comprehensive market data to provide analytical insights and real-world examples for understanding technical analysis and market behavior."
-msgstr ""
+msgstr "Το {NAME_APP} είναι μια εκπαιδευτική πλατφόρμα με υποστήριξη ΤΝ σχεδιασμένη για τη μελέτη της δυναμικής της αγοράς XAU/USD. Η εφαρμογή μας συνδυάζει προηγμένη τεχνητή νοημοσύνη με ολοκληρωμένα δεδομένα αγοράς για να παρέχει αναλυτικές γνώσεις και παραδείγματα από τον πραγματικό κόσμο για την κατανόηση της τεχνικής ανάλυσης και της συμπεριφοράς της αγοράς."
 
 #. js-lingui-explicit-id
 msgid "What {NAME_APP} Does"
-msgstr ""
+msgstr "Τι Κάνει το {NAME_APP}"
 
 #. js-lingui-explicit-id
 msgid "AI-Powered Analysis"
-msgstr ""
+msgstr "Ανάλυση με Υποστήριξη ΤΝ"
 
 #. js-lingui-explicit-id
 msgid "Advanced machine learning algorithms analyze XAU/USD market patterns to provide AI-assisted insights and practical examples for understanding market dynamics and technical analysis."
-msgstr ""
+msgstr "Προηγμένοι αλγόριθμοι μηχανικής μάθησης αναλύουν τα μοτίβα της αγοράς XAU/USD για να παρέχουν γνώσεις με υποστήριξη ΤΝ και πρακτικά παραδείγματα για την κατανόηση της δυναμικής της αγοράς και της τεχνικής ανάλυσης."
 
 #. js-lingui-explicit-id
 msgid "Real-Time Market Data"
-msgstr ""
+msgstr "Δεδομένα Αγοράς σε Πραγματικό Χρόνο"
 
 #. js-lingui-explicit-id
 msgid "Access live XAU/USD market data with interactive charts for studying price action, trends, and technical indicators in real-world scenarios."
-msgstr ""
+msgstr "Πρόσβαση σε ζωντανά δεδομένα αγοράς XAU/USD με διαδραστικά γραφήματα για τη μελέτη της δράσης των τιμών, των τάσεων και των τεχνικών δεικτών σε σενάρια πραγματικού κόσμου."
 
 #. js-lingui-explicit-id
 msgid "Technical Indicators"
-msgstr ""
+msgstr "Τεχνικοί Δείκτες"
 
 #. js-lingui-explicit-id
 msgid "Comprehensive suite of technical indicators including RSI, MACD, Bollinger Bands, and custom AI-driven indicators for studying market patterns and price dynamics."
-msgstr ""
+msgstr "Ολοκληρωμένη σουίτα τεχνικών δεικτών συμπεριλαμβανομένων των RSI, MACD, Bollinger Bands και προσαρμοσμένων δεικτών με υποστήριξη ΤΝ για τη μελέτη των μοτίβων της αγοράς και της δυναμικής των τιμών."
 
 #. js-lingui-explicit-id
 msgid "Pattern Recognition"
-msgstr ""
+msgstr "Αναγνώριση Μοτίβων"
 
 #. js-lingui-explicit-id
 msgid "AI-driven pattern recognition identifies chart patterns and trend reversals for understanding market movements and studying technical formations."
-msgstr ""
+msgstr "Αναγνώριση μοτίβων με υποστήριξη ΤΝ αναγνωρίζει μοτίβα γραφημάτων και αντιστροφές τάσεων για την κατανόηση των κινήσεων της αγοράς και τη μελέτη τεχνικών σχηματισμών."
 
 #. js-lingui-explicit-id
 msgid "Educational Alerts"
-msgstr ""
+msgstr "Εκπαιδευτικές Ειδοποιήσεις"
 
 #. js-lingui-explicit-id
 msgid "AI-assisted notifications for market events and practical examples to study real-time conditions and technical formations."
-msgstr ""
+msgstr "Ειδοποιήσεις με υποστήριξη ΤΝ για γεγονότα αγοράς και πρακτικά παραδείγματα για τη μελέτη συνθηκών πραγματικού χρόνου και τεχνικών σχηματισμών."
 
 #. js-lingui-explicit-id
 msgid "Market Analytics"
-msgstr ""
+msgstr "Ανάλυση Αγοράς"
 
 #. js-lingui-explicit-id
 msgid "Market insights with trend analysis, volatility metrics, and comprehensive statistics for understanding market dynamics and price movements."
-msgstr ""
+msgstr "Γνώσεις αγοράς με ανάλυση τάσεων, μετρήσεις μεταβλητότητας και ολοκληρωμένη στατιστική για την κατανόηση της δυναμικής της αγοράς και των κινήσεων των τιμών."
 
 #. js-lingui-explicit-id
 msgid "AI-Powered Insights"
-msgstr ""
+msgstr "Γνώσεις με Υποστήριξη ΤΝ"
 
 #. js-lingui-explicit-id
 msgid "Machine Learning"
-msgstr ""
+msgstr "Μηχανική Μάθηση"
 
 #. js-lingui-explicit-id
 msgid "State-of-the-art ML models trained on historical XAU/USD data to identify patterns and provide analytical insights for study purposes."
-msgstr ""
+msgstr "Μοντέλα μηχανικής μάθησης αιχμής εκπαιδευμένα σε ιστορικά δεδομένα XAU/USD για την αναγνώριση μοτίβων και την παροχή αναλυτικών γνώσεων για σκοπούς μελέτης."
 
 #. js-lingui-explicit-id
 msgid "Real-Time Processing"
-msgstr ""
+msgstr "Επεξεργασία σε Πραγματικό Χρόνο"
 
 #. js-lingui-explicit-id
 msgid "High-performance data processing ensures instant analysis and AI-assisted insights with minimal latency for studying market conditions."
-msgstr ""
+msgstr "Επεξεργασία δεδομένων υψηλής απόδοσης διασφαλίζει άμεση ανάλυση και γνώσεις με υποστήριξη ΤΝ με ελάχιστη καθυστέρηση για τη μελέτη των συνθηκών της αγοράς."
 
 #. js-lingui-explicit-id
 msgid "Market Context"
-msgstr ""
+msgstr "Πλαίσιο Αγοράς"
 
 #. js-lingui-explicit-id
 msgid "Analysis incorporates market context, economic factors, and technical indicators for comprehensive insights and practical examples."
-msgstr ""
+msgstr "Η ανάλυση ενσωματώνει το πλαίσιο της αγοράς, οικονομικούς παράγοντες και τεχνικούς δείκτες για ολοκληρωμένες γνώσεις και πρακτικά παραδείγματα."
 
 #. js-lingui-explicit-id
 msgid "Market Analytics and Indicators"
-msgstr ""
+msgstr "Ανάλυση Αγοράς και Δείκτες"
 
 #. js-lingui-explicit-id
 msgid "Technical Analysis"
-msgstr ""
+msgstr "Τεχνική Ανάλυση"
 
 #. js-lingui-explicit-id
 msgid "Advanced technical analysis tools including trend lines, support/resistance levels, and multiple time-frame analysis for studying market patterns."
-msgstr ""
+msgstr "Προηγμένα εργαλεία τεχνικής ανάλυσης συμπεριλαμβανομένων γραμμών τάσης, επιπέδων υποστήριξης/αντίστασης και ανάλυσης πολλαπλών χρονικών πλαισίων για τη μελέτη των μοτίβων της αγοράς."
 
 #. js-lingui-explicit-id
 msgid "Market Sentiment"
-msgstr ""
+msgstr "Κλίμα Αγοράς"
 
 #. js-lingui-explicit-id
 msgid "Analysis of market sentiment and volatility metrics to provide context for understanding market conditions and studying price behavior patterns."
-msgstr ""
+msgstr "Ανάλυση του κλίματος της αγοράς και μετρήσεων μεταβλητότητας για την παροχή πλαισίου για την κατανόηση των συνθηκών της αγοράς και τη μελέτη των μοτίβων συμπεριφοράς των τιμών."
 
 #. js-lingui-explicit-id
 msgid "Purpose"
-msgstr ""
+msgstr "Σκοπός"
 
 #. js-lingui-explicit-id
 msgid "{NAME_APP} provides analytical insights and educational tools to help users study market dynamics and technical concepts. Our platform uses real market data as context for exploring analysis techniques and practical examples."
-msgstr ""
+msgstr "Το {NAME_APP} παρέχει αναλυτικές γνώσεις και εκπαιδευτικά εργαλεία για να βοηθήσει τους χρήστες να μελετήσουν τη δυναμική της αγοράς και τεχνικές έννοιες. Η πλατφόρμα μας χρησιμοποιεί πραγματικά δεδομένα αγοράς ως πλαίσιο για την εξερεύνηση τεχνικών ανάλυσης και πρακτικών παραδειγμάτων."
 
 #. js-lingui-explicit-id
 msgid "Important: {NAME_APP} provides informational and educational content only. It does not provide financial, investment, or trading advice. Real market examples are for study purposes only. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk and rely on your own judgment."
-msgstr ""
+msgstr "Σημαντικό: Το {NAME_APP} παρέχει μόνο ενημερωτικό και εκπαιδευτικό περιεχόμενο. Δεν παρέχει οικονομικές, επενδυτικές ή συμβουλευτικές συμβουλές συναλλαγών. Παραδείγματα πραγματικής αγοράς είναι μόνο για σκοπούς μελέτης. Όλες οι αναλύσεις μπορεί να είναι ελλιπείς, καθυστερημένες ή ανακριβείς. Χρησιμοποιήστε με δική σας ευθύνη και βασιστείτε στην κρίση σας."
 
 #. js-lingui-explicit-id
 msgid "Responsible Use"
-msgstr ""
+msgstr "Υπεύθυνη Χρήση"
 
 #. js-lingui-explicit-id
 msgid "While our AI provides analytical insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a study tool to explore market scenarios and technical concepts."
-msgstr ""
+msgstr "Ενώ η ΤΝ μας παρέχει αναλυτικές γνώσεις, οι χρήστες πρέπει να βασίζονται στην κρίση τους και την ανεξάρτητη έρευνά τους. Χρησιμοποιήστε το {NAME_APP} ως εργαλείο μελέτης για την εξερεύνηση σεναρίων αγοράς και τεχνικών εννοιών."
 
 #. js-lingui-explicit-id
 msgid "Always conduct your own research, consider seeking advice from qualified financial professionals, and never risk more than you can afford to lose."
-msgstr ""
+msgstr "Πραγματοποιήστε πάντα τη δική σας έρευνα, εξετάστε το ενδεχόμενο να ζητήσετε συμβουλές από εξειδικευμένους οικονομικούς επαγγελματίες και μην ρισκάρετε ποτέ περισσότερο από ό,τι μπορείτε να αντέξετε να χάσετε."
 
 #. js-lingui-explicit-id
 msgid "We're continuously improving {NAME_APP} based on user feedback and market developments. Have questions, suggestions, or need support? We'd love to hear from you!"
-msgstr ""
+msgstr "Βελτιώνουμε συνεχώς το {NAME_APP} με βάση τα σχόλια των χρηστών και τις εξελίξεις της αγοράς. Έχετε ερωτήσεις, προτάσεις ή χρειάζεστε υποστήριξη; Θα θέλαμε να ακούσουμε από εσάς!"
 
 #. js-lingui-explicit-id
 msgid "Thank you for choosing {NAME_APP} for your market analysis studies!"
-msgstr ""
+msgstr "Σας ευχαριστούμε που επιλέξατε το {NAME_APP} για τις σπουδές σας στην ανάλυση αγοράς!"
 
 #. js-lingui-explicit-id
 msgid "Disclaimer — XauSync AI"
-msgstr ""
+msgstr "Αποποίηση Ευθύνης — XauSync AI"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Disclaimer - Important information about risks and the educational nature of our AI-powered market analysis app. All content is for informational purposes only."
-msgstr ""
+msgstr "Αποποίηση Ευθύνης XauSync AI - Σημαντικές πληροφορίες για τους κινδύνους και τον εκπαιδευτικό χαρακτήρα της εφαρμογής μας ανάλυσης αγοράς με υποστήριξη ΤΝ. Όλο το περιεχόμενο είναι μόνο για ενημερωτικούς σκοπούς."
 
 #. js-lingui-explicit-id
 msgid "Disclaimer, XauSync AI, market analysis risks, educational market analysis, financial disclaimer, AI analysis education, learning responsibility"
-msgstr ""
+msgstr "Αποποίηση ευθύνης, XauSync AI, κίνδυνοι ανάλυσης αγοράς, εκπαιδευτική ανάλυση αγοράς, οικονομική αποποίηση ευθύνης, εκπαίδευση ανάλυσης ΤΝ, ευθύνη εκμάθησης"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Disclaimer - Important information about risks and the educational nature of our AI-powered market analysis app."
-msgstr ""
+msgstr "Αποποίηση Ευθύνης XauSync AI - Σημαντικές πληροφορίες για τους κινδύνους και τον εκπαιδευτικό χαρακτήρα της εφαρμογής μας ανάλυσης αγοράς με υποστήριξη ΤΝ."
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Disclaimer"
-msgstr ""
+msgstr "Αποποίηση Ευθύνης XauSync AI"
 
 #. js-lingui-explicit-id
 msgid "March 10, 2026"
-msgstr ""
+msgstr "10 Μαρτίου 2026"
 
 #. js-lingui-explicit-id
 msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). This disclaimer contains important information about the risks associated with using our educational market analysis content and AI-powered features."
-msgstr ""
+msgstr "Οι εφαρμογές για κινητά και ιστό \"{NAME_APP}\" αναπτύσσονται και λειτουργούν από τον Vadym Bezsmertnyi, Ατομική Επιχείρηση (Ουκρανία) (\"εμείς\", \"μας\" ή \"δικό μας\"). Αυτή η αποποίηση ευθύνης περιέχει σημαντικές πληροφορίες σχετικά με τους κινδύνους που σχετίζονται με τη χρήση του εκπαιδευτικού περιεχομένου ανάλυσης αγοράς και των λειτουργιών με υποστήριξη ΤΝ."
 
 #. js-lingui-explicit-id
 msgid "Risk Warning"
-msgstr ""
+msgstr "Προειδοποίηση Κινδύνου"
 
 #. js-lingui-explicit-id
 msgid "Trading Risks"
-msgstr ""
+msgstr "Κίνδυνοι Συναλλαγών"
 
 #. js-lingui-explicit-id
 msgid "Trading financial instruments, including XAU/USD (Gold/US Dollar), involves substantial risk and is not suitable for all investors. You should carefully consider your financial situation, investment objectives, and risk tolerance before engaging in trading activities."
-msgstr ""
+msgstr "Το συναλλαγματικό χρηματοπιστωτικά μέσα, συμπεριλαμβανομένου του XAU/USD (Χρυσός/Δολάριο ΗΠΑ), περιλαμβάνει σημαντικό κίνδυνο και δεν είναι κατάλληλο για όλους τους επενδυτές. Θα πρέπει να εξετάσετε προσεκτικά την οικονομική σας κατάσταση, τους επενδυτικούς σας στόχους και την ανοχή σας στον κίνδυνο πριν εμπλακείτε σε δραστηριότητες συναλλαγών."
 
 #. js-lingui-explicit-id
 msgid "No Investment Advice"
-msgstr ""
+msgstr "Χωρίς Επενδυτικές Συμβουλές"
 
 #. js-lingui-explicit-id
 msgid "The information, analysis, and insights provided by {NAME_APP} are for informational and educational purposes only. They do not constitute investment advice, financial advice, trading recommendations, or a solicitation to buy or sell any financial instrument."
-msgstr ""
+msgstr "Οι πληροφορίες, αναλύσεις και γνώσεις που παρέχει το {NAME_APP} είναι μόνο για ενημερωτικούς και εκπαιδευτικούς σκοπούς. Δεν συνιστούν επενδυτικές συμβουλές, οικονομικές συμβουλές, συναλλαγματικές συστάσεις ή παρότρυνση για αγορά ή πώληση οποιουδήποτε χρηματοπιστωτικού μέσου."
 
 #. js-lingui-explicit-id
 msgid "AI Limitations"
-msgstr ""
+msgstr "Περιορισμοί ΤΝ"
 
 #. js-lingui-explicit-id
 msgid "Our AI-powered analysis is based on historical data and mathematical algorithms. Past performance is not indicative of future results. AI predictions may be inaccurate, and market conditions can change rapidly due to various factors including economic events, political developments, and market sentiment."
-msgstr ""
+msgstr "Η ανάλυσή μας με υποστήριξη ΤΝ βασίζεται σε ιστορικά δεδομένα και μαθηματικούς αλγόριθμους. Η παρελθοντική απόδοση δεν είναι ενδεικτική των μελλοντικών αποτελεσμάτων. Οι προβλέψεις της ΤΝ μπορεί να είναι ανακριβείς, και οι συνθήκες της αγοράς μπορούν να αλλάξουν γρήγορα λόγω διαφόρων παραγόντων συμπεριλαμβανομένων οικονομικών γεγονότων, πολιτικών εξελίξεων και του κλίματος της αγοράς."
 
 #. js-lingui-explicit-id
 msgid "Service Limitations"
-msgstr ""
+msgstr "Περιορισμοί Υπηρεσίας"
 
 #. js-lingui-explicit-id
 msgid "Technical Issues"
-msgstr ""
+msgstr "Τεχνικά Ζητήματα"
 
 #. js-lingui-explicit-id
 msgid "We cannot guarantee uninterrupted service or real-time data accuracy. Technical issues, internet connectivity problems, or system maintenance may temporarily affect service availability."
-msgstr ""
+msgstr "Δεν μπορούμε να εγγυηθούμε την αδιάκοπη υπηρεσία ή την ακρίβεια δεδομένων σε πραγματικό χρόνο. Τεχνικά ζητήματα, προβλήματα συνδεσιμότητας στο διαδίκτυο ή συντήρηση συστήματος μπορεί να επηρεάσουν προσωρινά τη διαθεσιμότητα της υπηρεσίας."
 
 #. js-lingui-explicit-id
 msgid "Data Accuracy"
-msgstr ""
+msgstr "Ακρίβεια Δεδομένων"
 
 #. js-lingui-explicit-id
 msgid "While we strive to provide accurate market data and analysis, we cannot guarantee the completeness, accuracy, or timeliness of all information. Market data may be delayed or contain errors."
-msgstr ""
+msgstr "Ενώ προσπαθούμε να παρέχουμε ακριβή δεδομένα αγοράς και ανάλυση, δεν μπορούμε να εγγυηθούμε την πληρότητα, ακρίβεια ή επικαιρότητα όλων των πληροφοριών. Τα δεδομένα αγοράς μπορεί να είναι καθυστερημένα ή να περιέχουν σφάλματα."
 
 #. js-lingui-explicit-id
 msgid "Third-Party Services"
-msgstr ""
+msgstr "Υπηρεσίες Τρίτων"
 
 #. js-lingui-explicit-id
 msgid "Our service may rely on third-party data providers and APIs. We are not responsible for the quality, accuracy, or availability of third-party services."
-msgstr ""
+msgstr "Η υπηρεσία μας μπορεί να βασίζεται σε παρόχους δεδομένων τρίτων και APIs. Δεν είμαστε υπεύθυνοι για την ποιότητα, ακρίβεια ή διαθεσιμότητα των υπηρεσιών τρίτων."
 
 #. js-lingui-explicit-id
 msgid "Financial Responsibility"
-msgstr ""
+msgstr "Οικονομική Ευθύνη"
 
 #. js-lingui-explicit-id
 msgid "Financial Decisions"
-msgstr ""
+msgstr "Οικονομικές Αποφάσεις"
 
 #. js-lingui-explicit-id
 msgid "All decisions based on our content are your sole responsibility. You should conduct your own research, consider seeking advice from qualified financial advisors, and never trade with money you cannot afford to lose."
-msgstr ""
+msgstr "Όλες οι αποφάσεις που βασίζονται στο περιεχόμενό μας είναι αποκλειστικά δική σας ευθύνη. Θα πρέπει να κάνετε τη δική σας έρευνα, να εξετάσετε το ενδεχόμενο να ζητήσετε συμβουλές από εξειδικευμένους οικονομικούς συμβούλους και να μην συναλλάσσεστε με χρήματα που δεν μπορείτε να αντέξετε να χάσετε."
 
 #. js-lingui-explicit-id
 msgid "Loss Acknowledgment"
-msgstr ""
+msgstr "Αναγνώριση Απώλειας"
 
 #. js-lingui-explicit-id
 msgid "You acknowledge and agree that you are solely responsible for any losses incurred. {NAME_APP} and its developers shall not be liable for any financial losses resulting from your use of our services."
-msgstr ""
+msgstr "Αναγνωρίζετε και συμφωνείτε ότι είστε αποκλειστικά υπεύθυνοι για οποιεσδήποτε ζημίες που προκύπτουν. Το {NAME_APP} και οι προγραμματιστές του δεν θα ευθύνονται για οικονομικές ζημίες που προκύπτουν από τη χρήση των υπηρεσιών μας."
 
 #. js-lingui-explicit-id
 msgid "Limitation of Liability"
-msgstr ""
+msgstr "Περιορισμός Ευθύνης"
 
 #. js-lingui-explicit-id
 msgid "Service Use at Your Own Risk"
-msgstr ""
+msgstr "Χρήση Υπηρεσίας με Δική σας Ευθύνη"
 
 #. js-lingui-explicit-id
 msgid "You use {NAME_APP} at your own risk. We disclaim all warranties, whether express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement."
-msgstr ""
+msgstr "Χρησιμοποιείτε το {NAME_APP} με δική σας ευθύνη. Αρνούμαστε όλες τις εγγυήσεις, είτε ρητές είτε σιωπηρές, συμπεριλαμβανομένων αλλά όχι περιοριζόμενων σε εγγυήσεις εμπορευσιμότητας, καταλληλότητας για συγκεκριμένο σκοπό και μη παραβίασης."
 
 #. js-lingui-explicit-id
 msgid "Damages Exclusion"
-msgstr ""
+msgstr "Αποκλεισμός Ζημιών"
 
 #. js-lingui-explicit-id
 msgid "To the maximum extent permitted by law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, financial losses, or data loss, arising from your use of our services."
-msgstr ""
+msgstr "Στο μέγιστο βαθμό που επιτρέπεται από το νόμο, δεν θα ευθυνόμαστε για οποιεσδήποτε έμμεσες, τυχαίες, ειδικές, επακόλουθες ή τιμωρητικές ζημίες, συμπεριλαμβανομένων αλλά όχι περιοριζόμενων σε απώλειες κερδών, οικονομικές ζημίες ή απώλειες δεδομένων, που προκύπτουν από τη χρήση των υπηρεσιών μας."
 
 #. js-lingui-explicit-id
 msgid "User Responsibilities"
-msgstr ""
+msgstr "Υποχρεώσεις Χρήστη"
 
 #. js-lingui-explicit-id
 msgid "Account Security"
-msgstr ""
+msgstr "Ασφάλεια Λογαριασμού"
 
 #. js-lingui-explicit-id
 msgid "You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account."
-msgstr ""
+msgstr "Είστε υπεύθυνοι για τη διατήρηση της εμπιστευτικότητας των διαπιστευτηρίων του λογαριασμού σας και για όλες τις δραστηριότητες που συμβαίνουν υπό τον λογαριασμό σας."
 
 #. js-lingui-explicit-id
 msgid "Compliance"
-msgstr ""
+msgstr "Συμμόρφωση"
 
 #. js-lingui-explicit-id
 msgid "You must comply with applicable laws and regulations when using our services. This includes meeting any tax or financial requirements in your jurisdiction."
-msgstr ""
+msgstr "Πρέπει να συμμορφώνεστε με τους ισχύοντες νόμους και κανονισμούς κατά τη χρήση των υπηρεσιών μας. Αυτό περιλαμβάνει την κάλυψη οποιωνδήποτε φορολογικών ή οικονομικών απαιτήσεων στη δικαιοδοσία σας."
 
 #. js-lingui-explicit-id
 msgid "Professional Advice"
-msgstr ""
+msgstr "Επαγγελματικές Συμβουλές"
 
 #. js-lingui-explicit-id
 msgid "You should consult with qualified financial, legal, and tax professionals before making any investment decisions."
-msgstr ""
+msgstr "Θα πρέπει να συμβουλευτείτε εξειδικευμένους οικονομικούς, νομικούς και φορολογικούς επαγγελματίες πριν λάβετε οποιεσδήποτε επενδυτικές αποφάσεις."
 
 #. js-lingui-explicit-id
 msgid "Market Volatility"
-msgstr ""
+msgstr "Μεταβλητότητα Αγοράς"
 
 #. js-lingui-explicit-id
 msgid "High Volatility Warning"
-msgstr ""
+msgstr "Προειδοποίηση Υψηλής Μεταβλητότητας"
 
 #. js-lingui-explicit-id
 msgid "The XAU/USD market can be highly volatile, especially during economic announcements, geopolitical events, or periods of market uncertainty. Prices can move rapidly in either direction, potentially resulting in significant gains or losses."
-msgstr ""
+msgstr "Η αγορά XAU/USD μπορεί να είναι εξαιρετικά ασταθής, ειδικά κατά τη διάρκεια οικονομικών ανακοινώσεων, γεωπολιτικών γεγονότων ή περιόδων αβεβαιότητας της αγοράς. Οι τιμές μπορούν να κινηθούν γρήγορα προς οποιαδήποτε κατεύθυνση, δυνητικά οδηγώντας σε σημαντικά κέρδη ή ζημίες."
 
 #. js-lingui-explicit-id
 msgid "Leverage Risks"
-msgstr ""
+msgstr "Κίνδυνοι Μόχλευσης"
 
 #. js-lingui-explicit-id
 msgid "If you use leverage in trading activities, be aware that it amplifies both potential gains and losses. High leverage can lead to rapid depletion of capital."
-msgstr ""
+msgstr "Εάν χρησιμοποιείτε μόχλευση σε δραστηριότητες συναλλαγών, να είστε ενήμεροι ότι ενισχύει τόσο τα δυνητικά κέρδη όσο και τις ζημίες. Η υψηλή μόχλευση μπορεί να οδηγήσει σε γρήγορη εξάντληση κεφαλαίων."
 
 #. js-lingui-explicit-id
 msgid "Changes to Disclaimer"
-msgstr ""
+msgstr "Αλλαγές στην Αποποίηση Ευθύνης"
 
 #. js-lingui-explicit-id
 msgid "We may update this disclaimer periodically. All updates will be published on this page with the revised date. Continued use after changes constitutes acceptance of the updated disclaimer."
-msgstr ""
+msgstr "Μπορούμε να ενημερώνουμε αυτή την αποποίηση ευθύνης περιοδικά. Όλες οι ενημερώσεις θα δημοσιεύονται σε αυτή τη σελίδα με την αναθεωρημένη ημερομηνία. Η συνεχής χρήση μετά τις αλλαγές αποτελεί αποδοχή της ενημερωμένης αποποίησης ευθύνης."
 
 #. js-lingui-explicit-id
 msgid "If you have questions about this disclaimer or our services, please contact us at {CONTACT_EMAIL}."
-msgstr ""
+msgstr "Εάν έχετε ερωτήσεις για αυτή την αποποίηση ευθύνης ή τις υπηρεσίες μας, παρακαλώ επικοινωνήστε μαζί μας στο {CONTACT_EMAIL}."
 
 #. js-lingui-explicit-id
 msgid "Delete Your {NAME_APP} Account"
-msgstr ""
+msgstr "Διαγραφή του Λογαριασμού σας {NAME_APP}"
 
 #. js-lingui-explicit-id
 msgid "Learn how to delete your XauSync AI account. Find step-by-step instructions for account deletion in app settings and understand what happens after deletion."
-msgstr ""
+msgstr "Μάθετε πώς να διαγράψετε τον λογαριασμό σας XauSync AI. Βρείτε οδηγίες βήμα προς βήμα για τη διαγραφή λογαριασμού στις ρυθμίσεις της εφαρμογής και καταλάβετε τι συμβαίνει μετά τη διαγραφή."
 
 #. js-lingui-explicit-id
 msgid "delete account, XauSync AI, account deletion, remove account, data deletion, privacy settings"
-msgstr ""
+msgstr "διαγραφή λογαριασμού, XauSync AI, διαγραφή λογαριασμού, κατάργηση λογαριασμού, διαγραφή δεδομένων, ρυθμίσεις απορρήτου"
 
 #. js-lingui-explicit-id
 msgid "Learn how to delete your XauSync AI account and understand the data deletion process."
-msgstr ""
+msgstr "Μάθετε πώς να διαγράψετε τον λογαριασμό σας XauSync AI και να καταλάβετε τη διαδικασία διαγραφής δεδομένων."
 
 #. js-lingui-explicit-id
 msgid "How to Delete Your Account"
-msgstr ""
+msgstr "Πώς να Διαγράψετε τον Λογαριασμό σας"
 
 #. js-lingui-explicit-id
 msgid "You can delete your {NAME_APP} account directly from the application settings. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
-msgstr ""
+msgstr "Μπορείτε να διαγράψετε τον λογαριασμό σας {NAME_APP} απευθείας από τις ρυθμίσεις της εφαρμογής. Η διαγραφή λογαριασμού είναι μόνιμη και θα αφαιρέσει την πρόσβαση στον λογαριασμό σας και τα σχετικά δεδομένα σύμφωνα με την Πολιτική Απορρήτου μας."
 
 #. js-lingui-explicit-id
 msgid "Where to Find the Delete Option"
-msgstr ""
+msgstr "Πού να Βρείτε την Επιλογή Διαγραφής"
 
 #. js-lingui-explicit-id
 msgid "To delete your account, open the {NAME_APP} mobile application and follow these steps:"
-msgstr ""
+msgstr "Για να διαγράψετε τον λογαριασμό σας, ανοίξτε την εφαρμογή {NAME_APP} για κινητά και ακολουθήστε αυτά τα βήματα:"
 
 #. js-lingui-explicit-id
 msgid "Go to your profile in the app"
-msgstr ""
+msgstr "Πηγαίνετε στο προφίλ σας στην εφαρμογή"
 
 #. js-lingui-explicit-id
 msgid "Navigate to Settings"
-msgstr ""
+msgstr "Πλοηγηθείτε στις Ρυθμίσεις"
 
 #. js-lingui-explicit-id
 msgid "Scroll to the bottom of the settings page"
-msgstr ""
+msgstr "Κυλήστε προς το τέλος της σελίδας ρυθμίσεων"
 
 #. js-lingui-explicit-id
 msgid "Tap the \"Delete Account\" button"
-msgstr ""
+msgstr "Πατήστε το κουμπί \"Διαγραφή Λογαριασμού\""
 
 #. js-lingui-explicit-id
 msgid "Confirm your decision to permanently delete your account"
-msgstr ""
+msgstr "Επιβεβαιώστε την απόφασή σας να διαγράψετε μόνιμα τον λογαριασμό σας"
 
 #. js-lingui-explicit-id
 msgid "What Happens After Deletion"
-msgstr ""
+msgstr "Τι Συμβαίνει Μετά τη Διαγραφή"
 
 #. js-lingui-explicit-id
 msgid "Once you delete your account, the following actions will occur:"
-msgstr ""
+msgstr "Μόλις διαγράψετε τον λογαριασμό σας, θα συμβούν οι ακόλουθες ενέργειες:"
 
 #. js-lingui-explicit-id
 msgid "Immediate loss of access to your {NAME_APP} account"
-msgstr ""
+msgstr "Άμεση απώλεια πρόσβασης στον λογαριασμό σας {NAME_APP}"
 
 #. js-lingui-explicit-id
 msgid "Removal of your authentication data and login credentials"
-msgstr ""
+msgstr "Αφαίρεση των δεδομένων αυθεντικοποίησης και των διαπιστευτηρίων σύνδεσής σας"
 
 #. js-lingui-explicit-id
 msgid "Deletion of your personal information and profile data"
-msgstr ""
+msgstr "Διαγραφή των προσωπικών σας πληροφοριών και των δεδομένων του προφίλ σας"
 
 #. js-lingui-explicit-id
 msgid "Removal of your learning progress and educational activity"
-msgstr ""
+msgstr "Αφαίρεση της προόδου εκμάθησης και της εκπαιδευτικής δραστηριότητάς σας"
 
 #. js-lingui-explicit-id
 msgid "Deletion of your settings and preferences"
-msgstr ""
+msgstr "Διαγραφή των ρυθμίσεων και των προτιμήσεών σας"
 
 #. js-lingui-explicit-id
 msgid "Permanent removal of your in-app energy balance - all energy credits will be deleted and cannot be restored"
-msgstr ""
+msgstr "Μόνιμη αφαίρεση του ισοζυγίου ενέργειας στην εφαρμογή - όλα τα πιστωτικά ενέργειας θα διαγραφούν και δεν μπορούν να αποκατασταθούν"
 
 #. js-lingui-explicit-id
 msgid "Permanent removal of any remaining subscription days or premium access - all active subscriptions linked to your account will be deleted and cannot be restored"
-msgstr ""
+msgstr "Μόνιμη αφαίρεση τυχόν εναπολειφθέντων ημερών συνδρομής ή premium πρόσβασης - όλες οι ενεργές συνδρομές που συνδέονται με τον λογαριασμό σας θα διαγραφούν και δεν μπορούν να αποκατασταθούν"
 
 #. js-lingui-explicit-id
 msgid "Removal of subscription information and payment history within the app"
-msgstr ""
+msgstr "Αφαίρεση πληροφοριών συνδρομής και ιστορικού πληρωμών εντός της εφαρμογής"
 
 #. js-lingui-explicit-id
 msgid "Important Information"
-msgstr ""
+msgstr "Σημαντικές Πληροφορίες"
 
 #. js-lingui-explicit-id
 msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance, subscription days, or any account-related benefits. All energy credits, remaining subscription time, and premium access will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
-msgstr ""
+msgstr "Η διαγραφή λογαριασμού είναι ΑΝΑΠΟΔΟΤΗ. Μόλις διαγραφεί, δεν μπορείτε να ανακτήσετε τα δεδομένα σας, να επαναφέρετε τον λογαριασμό σας ή να ανακτήσετε το ισοζύγιο ενέργειας στην εφαρμογή, τις ημέρες συνδρομής ή οποιοδήποτε όφελος που σχετίζεται με τον λογαριασμό. Όλα τα πιστωτικά ενέργειας, ο εναπολειφθείσας χρόνος συνδρομής και η premium πρόσβαση θα χαθούν μόνιμα. Εάν θέλετε να χρησιμοποιήσετε το {NAME_APP} ξανά στο μέλλον, θα πρέπει να δημιουργήσετε έναν νέο λογαριασμό."
 
 #. js-lingui-explicit-id
 msgid "Need Help?"
-msgstr ""
+msgstr "Χρειάζεστε Βοήθεια;"
 
 #. js-lingui-explicit-id
 msgid "If you have any questions about account deletion or need assistance with the process, please contact our support team:"
-msgstr ""
+msgstr "Εάν έχετε οποιεσδήποτε ερωτήσεις για τη διαγραφή λογαριασμού ή χρειάζεστε βοήθεια με τη διαδικασία, παρακαλώ επικοινωνήστε με την ομάδα υποστήριξής μας:"
 
 #. js-lingui-explicit-id
 msgid "This account deletion process is managed by Vadym Bezsmertnyi, Sole Proprietor (Ukraine), the developer of {NAME_APP}."
-msgstr ""
+msgstr "Αυτή η διαδικασία διαγραφής λογαριασμού διαχειρίζεται από τον Vadym Bezsmertnyi, Ατομική Επιχείρηση (Ουκρανία), τον προγραμματιστή του {NAME_APP}."
 
 #. js-lingui-explicit-id
 msgid "AI-Assisted Analysis"
-msgstr ""
+msgstr "Ανάλυση με Υποστήριξη ΤΝ"
 
 #. js-lingui-explicit-id
 msgid "Advanced artificial intelligence analyzes XAU/USD market patterns to provide educational insights and practical examples for understanding market behavior."
-msgstr ""
+msgstr "Προηγμένη τεχνητή νοημοσύνη αναλύει τα μοτίβα της αγοράς XAU/USD για να παρέχει εκπαιδευτικές γνώσεις και πρακτικά παραδείγματα για την κατανόηση της συμπεριφοράς της αγοράς."
 
 #. js-lingui-explicit-id
 msgid "Interactive Market Charts"
-msgstr ""
+msgstr "Διαδραστικά Γραφήματα Αγοράς"
 
 #. js-lingui-explicit-id
 msgid "Educational charts with real market data for studying price action, trends, and technical analysis concepts."
-msgstr ""
+msgstr "Εκπαιδευτικά γραφήματα με πραγματικά δεδομένα αγοράς για τη μελέτη της δράσης των τιμών, των τάσεων και των εννοιών τεχνικής ανάλυσης."
 
 #. js-lingui-explicit-id
 msgid "Technical Analysis Tools"
-msgstr ""
+msgstr "Εργαλεία Τεχνικής Ανάλυσης"
 
 #. js-lingui-explicit-id
 msgid "Comprehensive set of technical indicators for learning market analysis concepts and studying price patterns."
-msgstr ""
+msgstr "Ολοκληρωμένο σύνολο τεχνικών δεικτών για την εκμάθηση εννοιών ανάλυσης αγοράς και τη μελέτη των μοτίβων των τιμών."
 
 #. js-lingui-explicit-id
 msgid "Educational market insights and trend analysis for understanding market dynamics and technical concepts."
-msgstr ""
+msgstr "Εκπαιδευτικές γνώσεις αγοράς και ανάλυση τάσεων για την κατανόηση της δυναμικής της αγοράς και των τεχνικών εννοιών."
 
 #. js-lingui-explicit-id
 msgid "Pattern Recognition Training"
-msgstr ""
+msgstr "Εκπαίδευση Αναγνώρισης Μοτίβων"
 
 #. js-lingui-explicit-id
 msgid "AI-driven pattern identification for learning to recognize market patterns and studying technical analysis scenarios."
-msgstr ""
+msgstr "Αναγνώριση μοτίβων με υποστήριξη ΤΝ για την εκμάθηση αναγνώρισης μοτίβων αγοράς και τη μελέτη σεναρίων τεχνικής ανάλυσης."
 
 #. js-lingui-explicit-id
 msgid "Assisted Insights"
-msgstr ""
+msgstr "Υποστηριζόμενες Γνώσεις"
 
 #. js-lingui-explicit-id
 msgid "Market Focus"
-msgstr ""
+msgstr "Εστίαση στην Αγορά"
 
 #. js-lingui-explicit-id
 msgid "Real Market Context"
-msgstr ""
+msgstr "Πραγματικό Πλαίσιο Αγοράς"
 
 #. js-lingui-explicit-id
 msgid "Educational Use"
-msgstr ""
+msgstr "Εκπαιδευτική Χρήση"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI — AI-Powered Market Analysis for Learning"
-msgstr ""
+msgstr "XauSync AI — Ανάλυση Αγοράς με Υποστήριξη ΤΝ για Εκμάθηση"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior. Explore real market scenarios, technical analysis concepts, and AI-assisted educational insights."
-msgstr ""
+msgstr "Το XauSync AI παρέχει εκπαιδευτικά εργαλεία με υποστήριξη ΤΝ για την εκμάθηση ανάλυσης αγοράς και τη μελέτη της συμπεριφοράς της αγοράς. Εξερευνήστε σενάρια πραγματικής αγοράς, εννοίες τεχνικής ανάλυσης και εκπαιδευτικές γνώσεις με υποστήριξη ΤΝ."
 
 #. js-lingui-explicit-id
 msgid "XauSync AI, AI market analysis education, learn market behavior, technical analysis study, AI educational tools, market analysis learning, trading concepts education"
-msgstr ""
+msgstr "XauSync AI, εκπαίδευση ανάλυσης αγοράς με ΤΝ, μάθετε τη συμπεριφορά της αγοράς, μελέτη τεχνικής ανάλυσης, εκπαιδευτικά εργαλεία ΤΝ, εκμάθηση ανάλυσης αγοράς, εκπαίδευση εννοιών συναλλαγών"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior with real market scenarios."
-msgstr ""
+msgstr "Το XauSync AI παρέχει εκπαιδευτικά εργαλεία με υποστήριξη ΤΝ για την εκμάθηση ανάλυσης αγοράς και τη μελέτη της συμπεριφοράς της αγοράς με σενάρια πραγματικής αγοράς."
 
 #. js-lingui-explicit-id
 msgid "XauSync AI - AI-Powered Market Analysis for Learning"
-msgstr ""
+msgstr "XauSync AI - Ανάλυση Αγοράς με Υποστήριξη ΤΝ για Εκμάθηση"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior."
-msgstr ""
+msgstr "Το XauSync AI παρέχει εκπαιδευτικά εργαλεία με υποστήριξη ΤΝ για την εκμάθηση ανάλυσης αγοράς και τη μελέτη της συμπεριφοράς της αγοράς."
 
 #. js-lingui-explicit-id
 msgid "{NAME_APP}: AI-Powered Market Analysis for Learning"
-msgstr ""
+msgstr "{NAME_APP}: Ανάλυση Αγοράς με Υποστήριξη ΤΝ για Εκμάθηση"
 
 #. js-lingui-explicit-id
 msgid "Educational Market Analysis App"
-msgstr ""
+msgstr "Εφαρμογή Εκπαιδευτικής Ανάλυσης Αγοράς"
 
 #. js-lingui-explicit-id
 msgid "Study market analysis and explore market behavior with AI-powered educational tools. Discover real market scenarios, technical analysis concepts, and practical insights for educational purposes only."
-msgstr ""
+msgstr "Μελετήστε την ανάλυση αγοράς και εξερευνήστε τη συμπεριφορά της αγοράς με εκπαιδευτικά εργαλεία με υποστήριξη ΤΝ. Ανακαλύψτε σενάρια πραγματικής αγοράς, εννοίες τεχνικής ανάλυσης και πρακτικές γνώσεις μόνο για εκπαιδευτικούς σκοπούς."
 
 #. js-lingui-explicit-id
 msgid "Download on the App Store"
-msgstr ""
+msgstr "Λήψη από το App Store"
 
 #. js-lingui-explicit-id
 msgid "AI-Powered Learning Tools"
-msgstr ""
+msgstr "Εκπαιδευτικά Εργαλεία με Υποστήριξη ΤΝ"
 
 #. js-lingui-explicit-id
 msgid "Educational insights and analysis for learning market behavior and studying technical analysis concepts"
-msgstr ""
+msgstr "Εκπαιδευτικές γνώσεις και ανάλυση για την εκμάθηση της συμπεριφοράς της αγοράς και τη μελέτη των εννοιών τεχνικής ανάλυσης"
 
 #. js-lingui-explicit-id
 msgid "Educational Purpose"
-msgstr ""
+msgstr "Εκπαιδευτικός Σκοπός"
 
 #. js-lingui-explicit-id
 msgid "{NAME_APP} provides educational insights and analytical tools to help users study market behavior and analysis concepts. Our platform uses real market data as educational context for exploring technical analysis and market scenarios."
-msgstr ""
+msgstr "Το {NAME_APP} παρέχει εκπαιδευτικές γνώσεις και αναλυτικά εργαλεία για να βοηθήσει τους χρήστες να μελετήσουν τη συμπεριφορά της αγοράς και τις εννοίες ανάλυσης. Η πλατφόρμα μας χρησιμοποιεί πραγματικά δεδομένα αγοράς ως εκπαιδευτικό πλαίσιο για την εξερεύνηση τεχνικής ανάλυσης και σεναρίων αγοράς."
 
 #. js-lingui-explicit-id
 msgid "Important: {NAME_APP} provides informational and educational content only. It does not provide financial, investment, or trading advice. Real market examples are used for study purposes only. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk."
-msgstr ""
+msgstr "Σημαντικό: Το {NAME_APP} παρέχει μόνο ενημερωτικό και εκπαιδευτικό περιεχόμενο. Δεν παρέχει οικονομικές, επενδυτικές ή συμβουλευτικές συμβουλές συναλλαγών. Παραδείγματα πραγματικής αγοράς χρησιμοποιούνται μόνο για σκοπούς μελέτης. Όλες οι αναλύσεις μπορεί να είναι ελλιπείς, καθυστερημένες ή ανακριβείς. Χρησιμοποιήστε με δική σας ευθύνη."
 
 #. js-lingui-explicit-id
 msgid "Learning Responsibility"
-msgstr ""
+msgstr "Ευθύνη Εκμάθησης"
 
 #. js-lingui-explicit-id
 msgid "While our AI provides educational insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a learning tool to study market scenarios and technical analysis concepts."
-msgstr ""
+msgstr "Ενώ η ΤΝ μας παρέχει εκπαιδευτικές γνώσεις, οι χρήστες πρέπει να βασίζονται στην κρίση τους και την ανεξάρτητη έρευνά τους. Χρησιμοποιήστε το {NAME_APP} ως εργαλείο εκμάθησης για τη μελέτη σεναρίων αγοράς και εννοιών τεχνικής ανάλυσης."
 
 #. js-lingui-explicit-id
 msgid "Start Your Educational Journey"
-msgstr ""
+msgstr "Ξεκινήστε το Εκπαιδευτικό σας Ταξίδι"
 
 #. js-lingui-explicit-id
 msgid "Discover how {NAME_APP} provides AI-powered market analysis tools for educational study and technical learning"
-msgstr ""
+msgstr "Ανακαλύψτε πώς το {NAME_APP} παρέχει εργαλεία ανάλυσης αγοράς με υποστήριξη ΤΝ για εκπαιδευτική μελέτη και τεχνική εκμάθηση"
 
 #. js-lingui-explicit-id
 msgid "Explore {NAME_APP}"
-msgstr ""
+msgstr "Εξερευνήστε το {NAME_APP}"
 
 #. js-lingui-explicit-id
 msgid "View Disclaimer"
-msgstr ""
+msgstr "Προβολή Αποποίησης Ευθύνης"
 
 #. js-lingui-explicit-id
 msgid "Privacy Policy — XauSync AI"
-msgstr ""
+msgstr "Πολιτική Απορρήτου — XauSync AI"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI-powered educational market analysis app. Understand our data practices and your privacy rights."
-msgstr ""
+msgstr "Πολιτική Απορρήτου XauSync AI - Μάθετε πώς συλλέγουμε, χρησιμοποιούμε και προστατεύουμε τις προσωπικές σας πληροφορίες όταν χρησιμοποιείτε την εφαρμογή μας εκπαιδευτικής ανάλυσης αγοράς με υποστήριξη ΤΝ. Καταλάβετε τις πρακτικές δεδομένων μας και τα δικαιώματα απορρήτου σας."
 
 #. js-lingui-explicit-id
 msgid "Privacy Policy, XauSync AI, data protection, personal information, AI market analysis education, privacy rights, data security, GDPR compliance"
-msgstr ""
+msgstr "Πολιτική απορρήτου, XauSync AI, προστασία δεδομένων, προσωπικές πληροφορίες, εκπαίδευση ανάλυσης αγοράς με ΤΝ, δικαιώματα απορρήτου, ασφάλεια δεδομένων, συμμόρφωση GDPR"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI-powered educational market analysis app."
-msgstr ""
+msgstr "Πολιτική Απορρήτου XauSync AI - Μάθετε πώς συλλέγουμε, χρησιμοποιούμε και προστατεύουμε τις προσωπικές σας πληροφορίες όταν χρησιμοποιείτε την εφαρμογή μας εκπαιδευτικής ανάλυσης αγοράς με υποστήριξη ΤΝ."
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Privacy Policy"
-msgstr ""
+msgstr "Πολιτική Απορρήτου XauSync AI"
 
 #. js-lingui-explicit-id
 msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our AI-powered educational market analysis app and services (\"Service\")."
-msgstr ""
+msgstr "Οι εφαρμογές για κινητά και ιστού \"{NAME_APP}\" αναπτύσσονται και λειτουργούν από τον Vadym Bezsmertnyi, Ατομική Επιχείρηση (Ουκρανία) (\"εμείς\", \"εμάς\" ή \"μας\"). Αυτή η Πολιτική Απορρήτου εξηγεί πώς συλλέγουμε, χρησιμοποιούμε και προστατεύουμε τις προσωπικές σας πληροφορίες όταν έχετε πρόσβαση και χρησιμοποιείτε την εφαρμογή και τις υπηρεσίες μας εκπαιδευτικής ανάλυσης αγοράς με υποστήριξη ΤΝ (\"Υπηρεσία\")."
 
 #. js-lingui-explicit-id
 msgid "Authentication Data"
-msgstr ""
+msgstr "Δεδομένα Αυθεντικοποίησης"
 
 #. js-lingui-explicit-id
 msgid "To provide access to {NAME_APP} features, we collect authentication information when you create an account or sign in:"
-msgstr ""
+msgstr "Για να παρέχουμε πρόσβαση στις λειτουργίες του {NAME_APP}, συλλέγουμε πληροφορίες αυθεντικοποίησης όταν δημιουργείτε έναν λογαριασμό ή συνδέεστε:"
 
 #. js-lingui-explicit-id
 msgid "Email address and display name from your account"
-msgstr ""
+msgstr "Διεύθυνση email και εμφανιζόμενο όνομα από τον λογαριασμό σας"
 
 #. js-lingui-explicit-id
 msgid "Firebase UID for user identification"
-msgstr ""
+msgstr "Firebase UID για αναγνώριση χρήστη"
 
 #. js-lingui-explicit-id
 msgid "Authentication provider information (Google, Apple, Email/Password)"
-msgstr ""
+msgstr "Πληροφορίες παρόχου αυθεντικοποίησης (Google, Apple, Email/Password)"
 
 #. js-lingui-explicit-id
 msgid "Profile photo URL (if provided)"
-msgstr ""
+msgstr "URL φωτογραφίας προφίλ (εάν παρέχεται)"
 
 #. js-lingui-explicit-id
 msgid "Onboarding preferences and settings"
-msgstr ""
+msgstr "Προτιμήσεις και ρυθμίσεις ενσωμάτωσης"
 
 #. js-lingui-explicit-id
 msgid "Device and Session Data"
-msgstr ""
+msgstr "Δεδομένα Συσκευής και Συνεδρίας"
 
 #. js-lingui-explicit-id
 msgid "We automatically collect technical information to operate and improve our services:"
-msgstr ""
+msgstr "Συλλέγουμε αυτόματα τεχνικές πληροφορίες για να λειτουργούμε και να βελτιώνουμε τις υπηρεσίες μας:"
 
 #. js-lingui-explicit-id
 msgid "Unique device identifier"
-msgstr ""
+msgstr "Μοναδικός αναγνωριστικός συσκευής"
 
 #. js-lingui-explicit-id
 msgid "IP address and general location information"
-msgstr ""
+msgstr "Διεύθυνση IP και γενικές πληροφορίες τοποθεσίας"
 
 #. js-lingui-explicit-id
 msgid "Browser and application user agent details"
-msgstr ""
+msgstr "Λεπτομέρειες user agent του προγράμματος περιήγησης και της εφαρμογής"
 
 #. js-lingui-explicit-id
 msgid "Push notification token for alerts"
-msgstr ""
+msgstr "Token ειδοποιήσεων push για ειδοποιήσεις"
 
 #. js-lingui-explicit-id
 msgid "Session tokens and authentication refresh tokens"
-msgstr ""
+msgstr "Tokens συνεδρίας και tokens ανανέωσης αυθεντικοποίησης"
 
 #. js-lingui-explicit-id
 msgid "Analytics and Usage Data"
-msgstr ""
+msgstr "Αναλυτικά Δεδομένα και Δεδομένα Χρήσης"
 
 #. js-lingui-explicit-id
 msgid "We use Firebase Analytics to understand how our app is used:"
-msgstr ""
+msgstr "Χρησιμοποιούμε το Firebase Analytics για να καταλάβουμε πώς χρησιμοποιείται η εφαρμογή μας:"
 
 #. js-lingui-explicit-id
 msgid "Feature usage patterns and frequency"
-msgstr ""
+msgstr "Μοτίβα και συχνότητα χρήσης λειτουργιών"
 
 #. js-lingui-explicit-id
 msgid "Screen views and navigation paths"
-msgstr ""
+msgstr "Προβολές οθόνης και διαδρομές πλοήγησης"
 
 #. js-lingui-explicit-id
 msgid "App performance and crash data"
-msgstr ""
+msgstr "Απόδοση εφαρμογής και δεδομένα συντριβών"
 
 #. js-lingui-explicit-id
 msgid "General demographic information (anonymous)"
-msgstr ""
+msgstr "Γενικές δημογραφικές πληροφορίες (ανώνυμες)"
 
 #. js-lingui-explicit-id
 msgid "Learning Data"
-msgstr ""
+msgstr "Δεδομένα Εκμάθησης"
 
 #. js-lingui-explicit-id
 msgid "We store data related to your learning activities and analysis:"
-msgstr ""
+msgstr "Αποθηκεύουμε δεδομένα που σχετίζονται με τις εκπαιδευτικές σας δραστηριότητες και αναλύσεις:"
 
 #. js-lingui-explicit-id
 msgid "Saved analysis examples and learning history"
-msgstr ""
+msgstr "Αποθηκευμένα παραδείγματα ανάλυσης και ιστορικό εκμάθησης"
 
 #. js-lingui-explicit-id
 msgid "Custom indicators and settings preferences"
-msgstr ""
+msgstr "Προσαρμοσμένοι δείκτες και προτιμήσεις ρυθμίσεων"
 
 #. js-lingui-explicit-id
 msgid "Alert configurations and notification preferences"
-msgstr ""
+msgstr "Διαμορφώσεις ειδοποιήσεων και προτιμήσεις ειδοποιήσεων"
 
 #. js-lingui-explicit-id
 msgid "Market watchlists and favorites"
-msgstr ""
+msgstr "Λίστες παρακολούθησης αγοράς και αγαπημένα"
 
 #. js-lingui-explicit-id
 msgid "How We Use Your Information"
-msgstr ""
+msgstr "Πώς Χρησιμοποιούμε τις Πληροφορίες σας"
 
 #. js-lingui-explicit-id
 msgid "Service Provision"
-msgstr ""
+msgstr "Παροχή Υπηρεσίας"
 
 #. js-lingui-explicit-id
 msgid "We use your information to provide and maintain our AI-powered educational market analysis service:"
-msgstr ""
+msgstr "Χρησιμοποιούμε τις πληροφορίες σας για να παρέχουμε και να συντηρούμε την υπηρεσία μας εκπαιδευτικής ανάλυσης αγοράς με υποστήριξη ΤΝ:"
 
 #. js-lingui-explicit-id
 msgid "Authenticate users and provide personalized access"
-msgstr ""
+msgstr "Αυθεντικοποιούμε χρήστες και παρέχουμε εξατομικευμένη πρόσβαση"
 
 #. js-lingui-explicit-id
 msgid "Deliver real-time market analysis and educational insights"
-msgstr ""
+msgstr "Παρέχουμε ανάλυση αγοράς σε πραγματικό χρόνο και εκπαιδευτικές γνώσεις"
 
 #. js-lingui-explicit-id
 msgid "Send push notifications for market alerts"
-msgstr ""
+msgstr "Στέλνουμε ειδοποιήσεις push για ειδοποιήσεις αγοράς"
 
 #. js-lingui-explicit-id
 msgid "Maintain your learning history and preferences"
-msgstr ""
+msgstr "Διατηρούμε το ιστορικό εκμάθησης και τις προτιμήσεις σας"
 
 #. js-lingui-explicit-id
 msgid "Service Improvement"
-msgstr ""
+msgstr "Βελτίωση Υπηρεσίας"
 
 #. js-lingui-explicit-id
 msgid "Analytics data helps us enhance the user experience:"
-msgstr ""
+msgstr "Τα αναλυτικά δεδομένα μας βοηθούν να βελτιώσουμε την εμπειρία χρήστη:"
 
 #. js-lingui-explicit-id
 msgid "Identify and fix technical issues"
-msgstr ""
+msgstr "Αναγνωρίζουμε και διορθώνουμε τεχνικά ζητήματα"
 
 #. js-lingui-explicit-id
 msgid "Optimize app performance and features"
-msgstr ""
+msgstr "Βελτιστοποιούμε την απόδοση και τις λειτουργίες της εφαρμογής"
 
 #. js-lingui-explicit-id
 msgid "Understand user behavior to improve design"
-msgstr ""
+msgstr "Καταλαβαίνουμε τη συμπεριφορά χρήστη για να βελτιώσουμε το σχεδιασμό"
 
 #. js-lingui-explicit-id
 msgid "Develop new features based on usage patterns"
-msgstr ""
+msgstr "Αναπτύσσουμε νέες λειτουργίες με βάση τα μοτίβα χρήσης"
 
 #. js-lingui-explicit-id
 msgid "Service Providers"
-msgstr ""
+msgstr "Πάροχοι Υπηρεσιών"
 
 #. js-lingui-explicit-id
 msgid "We integrate with trusted third-party services to deliver {NAME_APP}:"
-msgstr ""
+msgstr "Ενσωματώνουμε με αξιόπιστες υπηρεσίες τρίτων για να παρέχουμε το {NAME_APP}:"
 
 #. js-lingui-explicit-id
 msgid "Firebase Authentication for secure user login"
-msgstr ""
+msgstr "Firebase Authentication για ασφαλή σύνδεση χρήστη"
 
 #. js-lingui-explicit-id
 msgid "Google Sign-In and Apple Sign-In for social authentication"
-msgstr ""
+msgstr "Google Sign-In και Apple Sign-In για κοινωνική αυθεντικοποίηση"
 
 #. js-lingui-explicit-id
 msgid "Firebase Analytics for usage insights"
-msgstr ""
+msgstr "Firebase Analytics για γνώσεις χρήσης"
 
 #. js-lingui-explicit-id
 msgid "RevenueCat for subscription management and billing"
-msgstr ""
+msgstr "RevenueCat για διαχείριση συνδρομών και χρέωση"
 
 #. js-lingui-explicit-id
 msgid "MetaApi.cloud for real-time market data integration"
-msgstr ""
+msgstr "MetaApi.cloud για ενσωμάτωση δεδομένων αγοράς σε πραγματικό χρόνο"
 
 #. js-lingui-explicit-id
 msgid "Data Sharing"
-msgstr ""
+msgstr "Κοινή Χρήση Δεδομένων"
 
 #. js-lingui-explicit-id
 msgid "We only share data with third parties when necessary:"
-msgstr ""
+msgstr "Μοιραζόμαστε δεδομένα με τρίτους μόνο όταν είναι απαραίτητο:"
 
 #. js-lingui-explicit-id
 msgid "Authentication providers for login verification"
-msgstr ""
+msgstr "Πάροχοι αυθεντικοποίησης για επαλήθευση σύνδεσης"
 
 #. js-lingui-explicit-id
 msgid "App stores for subscription billing processing"
-msgstr ""
+msgstr "App stores για επεξεργασία χρέωσης συνδρομών"
 
 #. js-lingui-explicit-id
 msgid "Market data providers for real-time price information"
-msgstr ""
+msgstr "Πάροχοι δεδομένων αγοράς για πληροφορίες τιμών σε πραγματικό χρόνο"
 
 #. js-lingui-explicit-id
 msgid "Analytics services (anonymous, aggregated data only)"
-msgstr ""
+msgstr "Υπηρεσίες αναλυτικών (μόνο ανώνυμα, συγκεντρωτικά δεδομένα)"
 
 #. js-lingui-explicit-id
 msgid "Security Measures"
-msgstr ""
+msgstr "Μέτρα Ασφαλείας"
 
 #. js-lingui-explicit-id
 msgid "We implement industry-standard security to protect your data:"
-msgstr ""
+msgstr "Εφαρμόζουμε τυπικά μέτρα ασφαλείας κλάδου για την προστασία των δεδομένων σας:"
 
 #. js-lingui-explicit-id
 msgid "Encryption for data transmission"
-msgstr ""
+msgstr "Κρυπτογράφηση για μετάδοση δεδομένων"
 
 #. js-lingui-explicit-id
 msgid "Secure Firebase backend with access controls"
-msgstr ""
+msgstr "Ασφαλές backend Firebase με ελέγχους πρόσβασης"
 
 #. js-lingui-explicit-id
 msgid "Regular security reviews and updates"
-msgstr ""
+msgstr "Τακτικές αναθεωρήσεις και ενημερώσεις ασφαλείας"
 
 #. js-lingui-explicit-id
 msgid "Limited access to user data by authorized personnel only"
-msgstr ""
+msgstr "Περιορισμένη πρόσβαση στα δεδομένα των χρηστών μόνο από εξουσιοδοτημένο προσωπικό"
 
 #. js-lingui-explicit-id
 msgid "We retain data for a limited period where necessary for legal, security, billing, or operational purposes:"
-msgstr ""
+msgstr "Διατηρούμε δεδομένα για περιορισμένο περίοδο όπου είναι απαραίτητο για νομικούς, ασφαλειακούς, τιμολογιακούς ή λειτουργικούς σκοπούς:"
 
 #. js-lingui-explicit-id
 msgid "Account data: retained while your account is active"
-msgstr ""
+msgstr "Δεδομένα λογαριασμού: διατηρούνται όσο ο λογαριασμός σας είναι ενεργός"
 
 #. js-lingui-explicit-id
 msgid "Learning history: retained for a reasonable period after account deletion"
-msgstr ""
+msgstr "Ιστορικό εκμάθησης: διατηρείται για εύλογη περίοδο μετά τη διαγραφή λογαριασμού"
 
 #. js-lingui-explicit-id
 msgid "Analytics data: retained in anonymous, aggregated form"
-msgstr ""
+msgstr "Αναλυτικά δεδομένα: διατηρούνται σε ανώνυμη, συγκεντρωμένη μορφή"
 
 #. js-lingui-explicit-id
 msgid "Authentication tokens: automatically refreshed and expired"
-msgstr ""
+msgstr "Tokens αυθεντικοποίησης: ανανεώνονται και λήγουν αυτόματα"
 
 #. js-lingui-explicit-id
 msgid "Your Rights and Choices"
-msgstr ""
+msgstr "Τα Δικαιώματα και οι Επιλογές σας"
 
 #. js-lingui-explicit-id
 msgid "You have the following rights regarding your personal data:"
-msgstr ""
+msgstr "Έχετε τα ακόλουθα δικαιώματα σχετικά με τα προσωπικά σας δεδομένα:"
 
 #. js-lingui-explicit-id
 msgid "Access: Request a copy of your personal data"
-msgstr ""
+msgstr "Πρόσβαση: Αίτημα αντιγράφου των προσωπικών σας δεδομένων"
 
 #. js-lingui-explicit-id
 msgid "Correction: Update inaccurate or incomplete information"
-msgstr ""
+msgstr "Διόρθωση: Ενημέρωση ανακριβών ή ελλιπών πληροφοριών"
 
 #. js-lingui-explicit-id
 msgid "Deletion: Request removal of your account and data"
-msgstr ""
+msgstr "Διαγραφή: Αίτημα αφαίρεσης του λογαριασμού και των δεδομένων σας"
 
 #. js-lingui-explicit-id
 msgid "Portability: Request your data in a readable format"
-msgstr ""
+msgstr "Μεταφορεσιμότητα: Αίτημα των δεδομένων σας σε ευανάγνωστη μορφή"
 
 #. js-lingui-explicit-id
 msgid "Opt-out: Disable analytics tracking in app settings"
-msgstr ""
+msgstr "Opt-out: Απενεργοποίηση παρακολούθησης αναλυτικών στις ρυθμίσεις της εφαρμογής"
 
 #. js-lingui-explicit-id
 msgid "Managing Your Data"
-msgstr ""
+msgstr "Διαχείριση των Δεδομένων σας"
 
 #. js-lingui-explicit-id
 msgid "You can manage your data through the app:"
-msgstr ""
+msgstr "Μπορείτε να διαχειριστείτε τα δεδομένα σας μέσω της εφαρμογής:"
 
 #. js-lingui-explicit-id
 msgid "Account settings to update profile information"
-msgstr ""
+msgstr "Ρυθμίσεις λογαριασμού για ενημέρωση πληροφοριών προφίλ"
 
 #. js-lingui-explicit-id
 msgid "Privacy settings to control data sharing preferences"
-msgstr ""
+msgstr "Ρυθμίσεις απορρήτου για έλεγχο προτιμήσεων κοινής χρήσης δεδομένων"
 
 #. js-lingui-explicit-id
 msgid "Delete account option to remove all personal data"
-msgstr ""
+msgstr "Επιλογή διαγραφής λογαριασμού για αφαίρεση όλων των προσωπικών δεδομένων"
 
 #. js-lingui-explicit-id
 msgid "Contact us to request data access or correction"
-msgstr ""
+msgstr "Επικοινωνήστε μαζί μας για αίτημα πρόσβασης ή διόρθωσης δεδομένων"
 
 #. js-lingui-explicit-id
 msgid "Push Notifications"
-msgstr ""
+msgstr "Ειδοποιήσεις Push"
 
 #. js-lingui-explicit-id
 msgid "Notification Types"
-msgstr ""
+msgstr "Τύποι Ειδοποιήσεων"
 
 #. js-lingui-explicit-id
 msgid "With your permission, we send push notifications for:"
-msgstr ""
+msgstr "Με την άδειά σας, στέλνουμε ειδοποιήσεις push για:"
 
 #. js-lingui-explicit-id
 msgid "Learning alerts and market examples"
-msgstr ""
+msgstr "Ειδοποιήσεις εκμάθησης και παραδείγματα αγοράς"
 
 #. js-lingui-explicit-id
 msgid "Price movement notifications"
-msgstr ""
+msgstr "Ειδοποιήσεις κινήσεων τιμών"
 
 #. js-lingui-explicit-id
 msgid "AI analysis updates and insights"
-msgstr ""
+msgstr "Ενημερώσεις και γνώσεις ανάλυσης ΤΝ"
 
 #. js-lingui-explicit-id
 msgid "Important service announcements"
-msgstr ""
+msgstr "Σημαντικές ανακοινώσεις υπηρεσίας"
 
 #. js-lingui-explicit-id
 msgid "Notification Control"
-msgstr ""
+msgstr "Έλεγχος Ειδοποιήσεων"
 
 #. js-lingui-explicit-id
 msgid "You have full control over notifications:"
-msgstr ""
+msgstr "Έχετε πλήρη έλεγχο των ειδοποιήσεων:"
 
 #. js-lingui-explicit-id
 msgid "Enable/disable notifications in app settings"
-msgstr ""
+msgstr "Ενεργοποίηση/απενεργοποίηση ειδοποιήσεων στις ρυθμίσεις της εφαρμογής"
 
 #. js-lingui-explicit-id
 msgid "Choose which alert types you receive"
-msgstr ""
+msgstr "Επιλέξτε ποιους τύπους ειδοποιήσεων λαμβάνετε"
 
 #. js-lingui-explicit-id
 msgid "Manage notification frequency and timing"
-msgstr ""
+msgstr "Διαχείριση συχνότητας και χρονισμού ειδοποιήσεων"
 
 #. js-lingui-explicit-id
 msgid "Revoke notification permission at any time"
-msgstr ""
+msgstr "Ανάκληση άδειας ειδοποιήσεων ανά πάσα στιγμή"
 
 #. js-lingui-explicit-id
 msgid "Subscriptions and Payments"
-msgstr ""
+msgstr "Συνδρομές και Πληρωμές"
 
 #. js-lingui-explicit-id
 msgid "Billing Information"
-msgstr ""
+msgstr "Πληροφορίες Χρέωσης"
 
 #. js-lingui-explicit-id
 msgid "We use RevenueCat and app stores for subscription management:"
-msgstr ""
+msgstr "Χρησιμοποιούμε το RevenueCat και τα app stores για διαχείριση συνδρομών:"
 
 #. js-lingui-explicit-id
 msgid "Payment processing through App Store and Google Play"
-msgstr ""
+msgstr "Επεξεργασία πληρωμών μέσω App Store και Google Play"
 
 #. js-lingui-explicit-id
 msgid "Subscription status and renewal management"
-msgstr ""
+msgstr "Διαχείριση κατάστασης και ανανέωσης συνδρομής"
 
 #. js-lingui-explicit-id
 msgid "Receipt validation and fraud prevention"
-msgstr ""
+msgstr "Επικύρωση αποδείξεων και πρόληψη απάτης"
 
 #. js-lingui-explicit-id
 msgid "No credit card information stored on our servers"
-msgstr ""
+msgstr "Χωρίς αποθήκευση πληροφοριών πιστωτικής κάρτας στους servers μας"
 
 #. js-lingui-explicit-id
 msgid "Subscription Data"
-msgstr ""
+msgstr "Δεδομένα Συνδρομής"
 
 #. js-lingui-explicit-id
 msgid "We store minimal subscription-related information:"
-msgstr ""
+msgstr "Αποθηκεύουμε ελάχιστες συνδρομητικές πληροφορίες:"
 
 #. js-lingui-explicit-id
 msgid "Subscription status and plan type"
-msgstr ""
+msgstr "Κατάσταση συνδρομής και τύπος σχεδίου"
 
 #. js-lingui-explicit-id
 msgid "Purchase dates and renewal information"
-msgstr ""
+msgstr "Ημερομηνίες αγοράς και πληροφορίες ανανέωσης"
 
 #. js-lingui-explicit-id
 msgid "Feature access levels and permissions"
-msgstr ""
+msgstr "Επίπεδα πρόσβασης λειτουργιών και άδειες"
 
 #. js-lingui-explicit-id
 msgid "Support and billing communication history"
-msgstr ""
+msgstr "Ιστορικό επικοινωνιών υποστήριξης και χρεώσεων"
 
 #. js-lingui-explicit-id
 msgid "Children's Privacy"
-msgstr ""
+msgstr "Απόρρητο Παιδιών"
 
 #. js-lingui-explicit-id
 msgid "Age Restrictions"
-msgstr ""
+msgstr "Περιορισμοί Ηλικίας"
 
 #. js-lingui-explicit-id
 msgid "Our service is not intended for individuals under 18:"
-msgstr ""
+msgstr "Η υπηρεσία μας δεν προορίζεται για άτομα κάτω των 18:"
 
 #. js-lingui-explicit-id
 msgid "We do not knowingly collect data from children"
-msgstr ""
+msgstr "Δεν συλλέγουμε εν γνώσει μας δεδομένα από παιδιά"
 
 #. js-lingui-explicit-id
 msgid "The service is designed for adult users"
-msgstr ""
+msgstr "Η υπηρεσία είναι σχεδιασμένη για ενήλικες χρήστες"
 
 #. js-lingui-explicit-id
 msgid "Parental controls are not implemented"
-msgstr ""
+msgstr "Γονεϊκοί έλεγχοι δεν έχουν εφαρμοστεί"
 
 #. js-lingui-explicit-id
 msgid "If we discover underage users, we delete their data"
-msgstr ""
+msgstr "Εάν ανακαλύψουμε ανήλικους χρήστες, διαγράφουμε τα δεδομένα τους"
 
 #. js-lingui-explicit-id
 msgid "Global Service"
-msgstr ""
+msgstr "Παγκόσμια Υπηρεσία"
 
 #. js-lingui-explicit-id
 msgid "As a global application, data may be processed internationally:"
-msgstr ""
+msgstr "Ως παγκόσμια εφαρμογή, τα δεδομένα μπορεί να επεξεργαστούν διεθνώς:"
 
 #. js-lingui-explicit-id
 msgid "Firebase servers may be located outside your country"
-msgstr ""
+msgstr "Οι servers Firebase μπορεί να βρίσκονται εκτός της χώρας σας"
 
 #. js-lingui-explicit-id
 msgid "Data transfers include appropriate safeguards"
-msgstr ""
+msgstr "Οι μεταφορές δεδομένων περιλαμβάνουν κατάλληλα μέτρα προστασίας"
 
 #. js-lingui-explicit-id
 msgid "We comply with applicable data protection laws"
-msgstr ""
+msgstr "Συμορφωνόμαστε με τους ισχύοντες νόμους προστασίας δεδομένων"
 
 #. js-lingui-explicit-id
 msgid "Security measures protect international transfers"
-msgstr ""
+msgstr "Τα μέτρα ασφαλείας προστατεύουν τις διεθνείς μεταφορές"
 
 #. js-lingui-explicit-id
 msgid "Changes to This Privacy Policy"
-msgstr ""
+msgstr "Αλλαγές σε Αυτή την Πολιτική Απορρήτου"
 
 #. js-lingui-explicit-id
 msgid "We may update this Privacy Policy periodically. Changes will be posted on this page with a revised date. For significant changes, we will notify users through the app or email. Continued use of the service after changes constitutes acceptance of the updated policy."
-msgstr ""
+msgstr "Μπορούμε να ενημερώνουμε αυτή την Πολιτική Απορρήτου περιοδικά. Οι αλλαγές θα δημοσιεύονται σε αυτή τη σελίδα με την αναθεωρημένη ημερομηνία. Για σημαντικές αλλαγές, θα ειδοποιήσουμε τους χρήστες μέσω της εφαρμογής ή email. Η συνεχής χρήση της υπηρεσίας μετά τις αλλαγές αποτελεί αποδοχή της ενημερωμένης πολιτικής."
 
 #. js-lingui-explicit-id
 msgid "If you have questions about this Privacy Policy or need to exercise your rights, please contact us at {CONTACT_EMAIL}."
-msgstr ""
+msgstr "Εάν έχετε ερωτήσεις για αυτή την Πολιτική Απορρήτου ή χρειάζεται να ασκήσετε τα δικαιώματά σας, παρακαλώ επικοινωνήστε μαζί μας στο {CONTACT_EMAIL}."
 
 #. js-lingui-explicit-id
 msgid "Terms of Use — XauSync AI"
-msgstr ""
+msgstr "Όροι Χρήσης — XauSync AI"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities, educational purpose, and service guidelines."
-msgstr ""
+msgstr "Όροι Χρήσης XauSync AI - Διαβάστε τους όρους μας για τη χρήση της εφαρμογής εκπαιδευτικής ανάλυσης αγοράς με υποστήριξη ΤΝ, συμπεριλαμβανομένων των ευθυνών χρήστη, εκπαιδευτικού σκοπού και οδηγιών υπηρεσίας."
 
 #. js-lingui-explicit-id
 msgid "Terms of Use, XauSync AI, legal terms, user agreement, market analysis terms, educational market analysis, service terms"
-msgstr ""
+msgstr "Όροι χρήσης, XauSync AI, νομικοί όροι, συμφωνία χρήστη, όροι ανάλυσης αγοράς, εκπαιδευτική ανάλυση αγοράς, όροι υπηρεσίας"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities and service guidelines."
-msgstr ""
+msgstr "Όροι Χρήσης XauSync AI - Διαβάστε τους όρους μας για τη χρήση της εφαρμογής εκπαιδευτικής ανάλυσης αγοράς με υποστήριξη ΤΝ, συμπεριλαμβανομένων των ευθυνών χρήστη και οδηγιών υπηρεσίας."
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Terms of Use"
-msgstr ""
+msgstr "Όροι Χρήσης XauSync AI"
 
 #. js-lingui-explicit-id
 msgid "\"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). By accessing or using our AI-powered educational market analysis app and web services (\"Service\"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service."
-msgstr ""
+msgstr "Οι εφαρμογές για κινητά και ιστού \"{NAME_APP}\" αναπτύσσονται και λειτουργούν από τον Vadym Bezsmertnyi, Ατομική Επιχείρηση (Ουκρανία) (\"εμείς\", \"εμάς\" ή \"μας\"). Με την πρόσβαση ή τη χρήση της εφαρμογής και των διαδικτυακών υπηρεσιών μας εκπαιδευτικής ανάλυσης αγοράς με υποστήριξη ΤΝ (\"Υπηρεσία\"), εσείς (ο Χρήστης) συμφωνείτε να συμμορφώνεστε και να δεσμεύεστε από αυτούς τους Όρους Χρήσης. Παρακαλώ διαβάστε αυτούς τους όρους προσεκτικά πριν χρησιμοποιήσετε την υπηρεσία."
 
 #. js-lingui-explicit-id
 msgid "{NAME_APP} is an AI-powered mobile and web application designed to provide educational market analysis, learning insights, and information for studying XAU/USD (Gold/US Dollar) market behavior. The application offers real-time market data, AI-generated educational insights, technical indicators, pattern recognition, and analytical tools to help users understand market analysis concepts. The service is intended for informational and educational purposes only."
-msgstr ""
+msgstr "Το {NAME_APP} είναι μια εφαρμογή για κινητά και web με υποστήριξη ΤΝ σχεδιασμένη για να παρέχει εκπαιδευτική ανάλυση αγοράς, γνώσεις εκμάθησης και πληροφορίες για τη μελέτη της συμπεριφοράς της αγοράς XAU/USD (Χρυσός/Δολάριο ΗΠΑ). Η εφαρμογή προσφέρει δεδομένα αγοράς σε πραγματικό χρόνο, εκπαιδευτικές γνώσεις που δημιουργούνται από ΤΝ, τεχνικούς δείκτες, αναγνώριση μοτίβων και αναλυτικά εργαλεία για να βοηθήσει τους χρήστες να κατανοήσουν τις εννοίες ανάλυσης αγοράς. Η υπηρεσία προορίζεται μόνο για ενημερωτικούς και εκπαιδευτικούς σκοπούς."
 
 #. js-lingui-explicit-id
 msgid "2. Educational and Informational Use"
-msgstr ""
+msgstr "2. Εκπαιδευτική και Ενημερωτική Χρήση"
 
 #. js-lingui-explicit-id
 msgid "{NAME_APP} provides market analysis and educational insights for learning purposes only. The application does not provide financial advice, investment recommendations, or guarantee profits, outcomes, or results. Users are responsible for their own decisions and should conduct their own research before making any financial decisions."
-msgstr ""
+msgstr "Το {NAME_APP} παρέχει ανάλυση αγοράς και εκπαιδευτικές γνώσεις μόνο για σκοπούς εκμάθησης. Η εφαρμογή δεν παρέχει οικονομικές συμβουλές, επενδυτικές συστάσεις ή εγγυάται κέρδη, αποτελέσματα ή αποτελέσματα. Οι χρήστες είναι υπεύθυνοι για τις δικές τους αποφάσεις και θα πρέπει να κάνουν τη δική τους έρευνα πριν λάβουν οποιεσδήποτε οικονομικές αποφάσεις."
 
 #. js-lingui-explicit-id
 msgid "3. No Financial Advice"
-msgstr ""
+msgstr "3. Χωρίς Οικονομικές Συμβουλές"
 
 #. js-lingui-explicit-id
 msgid "The content, educational insights, and analysis provided by {NAME_APP} do not constitute financial advice, investment advice, or trading recommendations. All information is for educational purposes only. Users should consult with qualified financial advisors before making any investment decisions."
-msgstr ""
+msgstr "Το περιεχόμενο, οι εκπαιδευτικές γνώσεις και η ανάλυση που παρέχει το {NAME_APP} δεν συνιστούν οικονομικές συμβουλές, επενδυτικές συμβουλές ή συναλλαγματικές συστάσεις. Όλες οι πληροφορίες είναι μόνο για εκπαιδευτικούς σκοπούς. Οι χρήστες θα πρέπει να συμβουλεύονται εξειδικευμένους οικονομικούς συμβούλους πριν λάβουν οποιεσδήποτε επενδυτικές αποφάσεις."
 
 #. js-lingui-explicit-id
 msgid "4. Trading Risks"
-msgstr ""
+msgstr "4. Κίνδυνοι Συναλλαγών"
 
 #. js-lingui-explicit-id
 msgid "Trading financial instruments, including XAU/USD, involves substantial risk and may not be suitable for all investors. Past performance does not guarantee future results. {NAME_APP} does not guarantee profits, outcomes, or results. Users should never trade with money they cannot afford to lose."
-msgstr ""
+msgstr "Το συναλλαγματικό χρηματοπιστωτικά μέσα, συμπεριλαμβανομένου του XAU/USD, περιλαμβάνει σημαντικό κίνδυνο και μπορεί να μην είναι κατάλληλο για όλους τους επενδυτές. Η παρελθοντική απόδοση δεν εγγυάται τα μελλοντικά αποτελέσματα. Το {NAME_APP} δεν εγγυάται κέρδη, αποτελέσματα ή αποτελέσματα. Οι χρήστες δεν θα πρέπει ποτέ να συναλλάσσονται με χρήματα που δεν μπορούν να αντέξουν να χάσουν."
 
 #. js-lingui-explicit-id
 msgid "5. AI Analysis Limitations"
-msgstr ""
+msgstr "5. Περιορισμοί Ανάλυσης ΤΝ"
 
 #. js-lingui-explicit-id
 msgid "The AI-powered analysis and educational insights provided by {NAME_APP} are based on historical data and algorithms. Market conditions can change rapidly, and AI predictions may be incomplete, delayed, or inaccurate. Users should use AI insights as one tool among many in their learning process."
-msgstr ""
+msgstr "Η ανάλυση με υποστήριξη ΤΝ και οι εκπαιδευτικές γνώσεις που παρέχει το {NAME_APP} βασίζονται σε ιστορικά δεδομένα και αλγόριθμους. Οι συνθήκες της αγοράς μπορούν να αλλάξουν γρήγορα, και οι προβλέψεις της ΤΝ μπορεί να είναι ελλιπείς, καθυστερημένες ή ανακριβείς. Οι χρήστες θα πρέπει να χρησιμοποιούν τις γνώσεις της ΤΝ ως ένα εργαλείο μεταξύ πολλών στη διαδικασία εκμάθησής τους."
 
 #. js-lingui-explicit-id
 msgid "6. Account Registration and Security"
-msgstr ""
+msgstr "6. Εγγραφή Λογαριασμού και Ασφάλεια"
 
 #. js-lingui-explicit-id
 msgid "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use."
-msgstr ""
+msgstr "Για την πρόσβαση στις λειτουργίες του {NAME_APP}, οι χρήστες μπορούν να δημιουργήσουν έναν λογαριασμό χρησιμοποιώντας email/password, Google Sign-In ή Apple Sign-In. Οι χρήστες είναι υπεύθυνοι για τη διατήρηση της εμπιστευτικότητας των διαπιστευτηρίων του λογαριασμού τους και για όλες τις δραστηριότητες που συμβαίνουν υπό τον λογαριασμό τους. Οι χρήστες θα πρέπει να παρέχουν ακριβείς πληροφορίες κατά την εγγραφή και να μας ειδοποιήσουν αμέσως για οποιαδήποτε μη εξουσιοδοτημένη χρήση."
 
 #. js-lingui-explicit-id
 msgid "7. Subscriptions and Payments"
-msgstr ""
+msgstr "7. Συνδρομές και Πληρωμές"
 
 #. js-lingui-explicit-id
 msgid "{NAME_APP} offers premium features through subscription plans. Subscriptions are managed through the App Store, Google Play Store, and RevenueCat. Payment processing is handled by the respective app stores. Subscription fees are non-refundable except as required by law or app store policies. Users may manage their subscriptions through their app store account settings."
-msgstr ""
+msgstr "Το {NAME_APP} προσφέρει premium λειτουργίες μέσω σχεδίων συνδρομής. Οι συνδρομές διαχειρίζονται μέσω του App Store, Google Play Store και RevenueCat. Η επεξεργασία πληρωμών διαχειρίζεται από τα αντίστοιχα app stores. Τα τέλη συνδρομής δεν επιστρέφονται εκτός εάν απαιτείται από το νόμο ή τις πολιτικές των app stores. Οι χρήστες μπορούν να διαχειριστούν τις συνδρομές τους μέσω των ρυθμίσεων του λογαριασμού τους στο app store."
 
 #. js-lingui-explicit-id
 msgid "8. Acceptable Use"
-msgstr ""
+msgstr "8. Αποδεκτή Χρήση"
 
 #. js-lingui-explicit-id
 msgid "Users agree to use {NAME_APP} in accordance with these terms and applicable laws. Prohibited activities include:"
-msgstr ""
+msgstr "Οι χρήστες συμφωνούν να χρησιμοποιούν το {NAME_APP} σύμφωνα με αυτούς τους όρους και τους ισχύοντες νόμους. Απαγορευμένες δραστηριότητες περιλαμβάνουν:"
 
 #. js-lingui-explicit-id
 msgid "Reverse-engineering or attempting to extract our source code"
-msgstr ""
+msgstr "Reverse-engineering ή προσπάθεια εξαγωγής του πηγαίου μας κώδικα"
 
 #. js-lingui-explicit-id
 msgid "Using automated bots or scripts to access the service"
-msgstr ""
+msgstr "Χρήση αυτοματοποιημένων bots ή scripts για πρόσβαση στην υπηρεσία"
 
 #. js-lingui-explicit-id
 msgid "Sharing account credentials with third parties"
-msgstr ""
+msgstr "Κοινή χρήση διαπιστευτηρίων λογαριασμού με τρίτους"
 
 #. js-lingui-explicit-id
 msgid "Using the service for unlawful activities or market manipulation"
-msgstr ""
+msgstr "Χρήση της υπηρεσίας για παράνομες δραστηριότητες ή χειραγώγηση αγοράς"
 
 #. js-lingui-explicit-id
 msgid "Distributing proprietary information without authorization"
-msgstr ""
+msgstr "Διανομή ιδιοκτησιακών πληροφοριών χωρίς εξουσιοδότηση"
 
 #. js-lingui-explicit-id
 msgid "Interfering with the service's operation or security"
-msgstr ""
+msgstr "Παρακώλυση της λειτουργίας ή της ασφάλειας της υπηρεσίας"
 
 #. js-lingui-explicit-id
 msgid "9. Intellectual Property"
-msgstr ""
+msgstr "9. Πνευματική Ιδιοκτησία"
 
 #. js-lingui-explicit-id
 msgid "All content, features, and functionality of {NAME_APP} are owned by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) and protected by copyright, trademark, and other intellectual property laws. Users may not copy, modify, distribute, or create derivative works without our explicit written permission."
-msgstr ""
+msgstr "Όλο το περιεχόμενο, οι λειτουργίες και η λειτουργικότητα του {NAME_APP} ανήκουν στον Vadym Bezsmertnyi, Ατομική Επιχείρηση (Ουκρανία) και προστατεύονται από πνευματική ιδιοκτησία, εμπορικό σήμα και άλλους νόμους πνευματικής ιδιοκτησίας. Οι χρήστες δεν μπορούν να αντιγράψουν, να τροποποιήσουν, να διανέμουν ή να δημιουργήσουν παράγωγα έργα χωρίς την ρητή γραπτή μας άδεια."
 
 #. js-lingui-explicit-id
 msgid "10. Market Data and Third-Party Content"
-msgstr ""
+msgstr "10. Δεδομένα Αγοράς και Περιεχόμενο Τρίτων"
 
 #. js-lingui-explicit-id
 msgid "Market data provided through {NAME_APP} is sourced from third-party providers and may be delayed or contain errors. We do not guarantee the accuracy, completeness, or timeliness of market data. Users should verify critical market information from multiple sources before making decisions."
-msgstr ""
+msgstr "Τα δεδομένα αγοράς που παρέχονται μέσω του {NAME_APP} προέρχονται από παρόχους τρίτων και μπορεί να είναι καθυστερημένα ή να περιέχουν σφάλματα. Δεν εγγυόμαστε την ακρίβεια, πληρότητα ή επικαιρότητα των δεδομένων αγοράς. Οι χρήστες θα πρέπει να επαληθεύουν κρίσιμες πληροφορίες αγοράς από πολλαπλές πηγές πριν λάβουν αποφάσεις."
 
 #. js-lingui-explicit-id
 msgid "11. Service Availability"
-msgstr ""
+msgstr "11. Διαθεσιμότητα Υπηρεσίας"
 
 #. js-lingui-explicit-id
 msgid "We strive to provide reliable service but cannot guarantee uninterrupted access. {NAME_APP} may be temporarily unavailable for maintenance, technical issues, or other reasons beyond our control. We are not liable for losses resulting from service interruptions."
-msgstr ""
+msgstr "Προσπαθούμε να παρέχουμε αξιόπιστη υπηρεσία αλλά δεν μπορούμε να εγγυηθούμε την αδιάκοπη πρόσβαση. Το {NAME_APP} μπορεί να είναι προσωρινά μη διαθέσιμο για συντήρηση, τεχνικά ζητήματα ή άλλους λόγους πέρα από τον έλεγχό μας. Δεν ευθυνόμαστε για ζημίες που προκύπτουν από διακοπές υπηρεσίας."
 
 #. js-lingui-explicit-id
 msgid "12. Limitation of Liability"
-msgstr ""
+msgstr "12. Περιορισμός Ευθύνης"
 
 #. js-lingui-explicit-id
 msgid "To the maximum extent permitted by law, {NAME_APP} and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to financial losses, lost profits, data loss, or other damages, arising from your use of our services or inability to use our services."
-msgstr ""
+msgstr "Στο μέγιστο βαθμό που επιτρέπεται από το νόμο, το {NAME_APP} και οι προγραμματιστές του δεν θα ευθύνονται για οποιεσδήποτε έμμεσες, τυχαίες, ειδικές, επακόλουθες ή τιμωρητικές ζημίες, συμπεριλαμβανομένων αλλά όχι περιοριζόμενων σε οικονομικές ζημίες, χαμένα κέρδη, απώλειες δεδομένων ή άλλες ζημίες, που προκύπτουν από τη χρήση των υπηρεσιών μας ή την αδυναμία χρήσης των υπηρεσιών μας."
 
 #. js-lingui-explicit-id
 msgid "13. Indemnification"
-msgstr ""
+msgstr "13. Αποζημίωση"
 
 #. js-lingui-explicit-id
 msgid "Users agree to indemnify and hold harmless {NAME_APP} and its developers from any claims, damages, or expenses arising from their use of the service, violation of these terms, or infringement of third-party rights."
-msgstr ""
+msgstr "Οι χρήστες συμφωνούν να αποζημιώνουν και να κρατούν ανώδυνα το {NAME_APP} και τους προγραμματιστές του από οποιεσδήποτε αξιώσεις, ζημίες ή έξοδα που προκύπτουν από τη χρήση της υπηρεσίας, παραβίαση αυτών των όρων ή παραβίαση δικαιωμάτων τρίτων."
 
 #. js-lingui-explicit-id
 msgid "14. Account Suspension and Termination"
-msgstr ""
+msgstr "14. Αναστολή και Τερματισμός Λογαριασμού"
 
 #. js-lingui-explicit-id
 msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users may delete their accounts at any time through the app settings."
-msgstr ""
+msgstr "Διατηρούμε το δικαίωμα να αναστείλουμε ή να τερματίσουμε λογαριασμούς χρηστών για παραβιάσεις αυτών των όρων, απάτη ή οποιονδήποτε λόγο απαραίτητο για την προστασία της υπηρεσίας μας ή άλλων χρηστών. Οι λογαριασμοί που τερματίστηκαν χάνουν την πρόσβαση σε όλες τις λειτουργίες και τα δεδομένα. Οι χρήστες μπορούν να διαγράψουν τους λογαριασμούς τους ανά πάσα στιγμή μέσω των ρυθμίσεων της εφαρμογής."
 
 #. js-lingui-explicit-id
 msgid "15. Privacy and Data Protection"
-msgstr ""
+msgstr "15. Απόρρητο και Προστασία Δεδομένων"
 
 #. js-lingui-explicit-id
 msgid "Your privacy is important to us. Our collection, use, and protection of your personal information is described in our Privacy Policy, which is incorporated into these terms by reference. By using {NAME_APP}, you consent to our data practices as described in the Privacy Policy."
-msgstr ""
+msgstr "Το απόρρητό σας είναι σημαντικό για εμάς. Η συλλογή, χρήση και προστασία των προσωπικών σας πληροφοριών περιγράφεται στην Πολιτική Απορρήτου μας, η οποία ενσωματώνεται σε αυτούς τους όρους με αναφορά. Με τη χρήση του {NAME_APP}, συναινείτε στις πρακτικές δεδομένων μας όπως περιγράφονται στην Πολιτική Απορρήτου."
 
 #. js-lingui-explicit-id
 msgid "16. Dispute Resolution"
-msgstr ""
+msgstr "16. Επίλυση Διαφορών"
 
 #. js-lingui-explicit-id
 msgid "Any disputes arising from these terms or your use of {NAME_APP} shall be governed by applicable laws. We encourage users to contact us directly at {CONTACT_EMAIL} to resolve any issues informally before pursuing formal dispute resolution."
-msgstr ""
+msgstr "Οποιεσδήποτε διαφορές που προκύπτουν από αυτούς τους όρους ή τη χρήση του {NAME_APP} διέπονται από τους ισχύοντες νόμους. Ενθαρρύνουμε τους χρήστες να επικοινωνούν μαζί μας απευθείας στο {CONTACT_EMAIL} για να επιλύσουν οποιαδήποτε ζητήματα ανεπίσημα πριν από την αναζήτηση επίσημης επίλυσης διαφορών."
 
 #. js-lingui-explicit-id
 msgid "17. Changes to Terms"
-msgstr ""
+msgstr "17. Αλλαγές στους Όρους"
 
 #. js-lingui-explicit-id
 msgid "We may update these Terms of Use periodically. Changes will be posted on this page with a revised date. For significant changes, we will notify users through the app or email. Continued use of the service after changes constitutes acceptance of the updated terms."
-msgstr ""
+msgstr "Μπορούμε να ενημερώνουμε αυτούς τους Όρους Χρήσης περιοδικά. Οι αλλαγές θα δημοσιεύονται σε αυτή τη σελίδα με την αναθεωρημένη ημερομηνία. Για σημαντικές αλλαγές, θα ειδοποιήσουμε τους χρήστες μέσω της εφαρμογής ή email. Η συνεχής χρήση της υπηρεσίας μετά τις αλλαγές αποτελεί αποδοχή των ενημερωμένων όρων."
 
 #. js-lingui-explicit-id
 msgid "18. Contact Information"
-msgstr ""
+msgstr "18. Πληροφορίες Επικοινωνίας"
 
 #. js-lingui-explicit-id
 msgid "If you have questions about these Terms of Use, please contact us at {CONTACT_EMAIL}."
-msgstr ""
+msgstr "Εάν έχετε ερωτήσεις για αυτούς τους Όρους Χρήσης, παρακαλώ επικοινωνήστε μαζί μας στο {CONTACT_EMAIL}."
 
 #. js-lingui-explicit-id
 msgid "Home"
