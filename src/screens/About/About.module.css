@@ -2,32 +2,16 @@
   padding: 40px 20px;
   max-width: 1200px;
   margin: 0 auto;
-  background-color: #ffffff;
+  background-color: var(--background);
   min-height: 100vh;
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+  font-family:
+    "Inter",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
     sans-serif;
   position: relative;
   overflow: visible;
-}
-
-.container::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 300px;
-  height: 569px;
-  background-image: url("/background-flowers.png");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: top right;
-  z-index: 0;
-  opacity: 0.8;
-}
-
-.container > * {
-  position: relative;
-  z-index: 1;
 }
 
 .header {
@@ -38,7 +22,7 @@
 .mainTitle {
   font-size: 3.5rem;
   font-weight: 700;
-  color: #582c83;
+  color: var(--gold);
   margin-bottom: 16px;
   font-family: "Tenor Sans", serif;
   letter-spacing: -0.22px;
@@ -46,38 +30,26 @@
 
 .subtitle {
   font-size: 1.5rem;
-  color: #9f88b5;
+  color: var(--text-gray);
   font-weight: 400;
   font-family: "Tenor Sans", serif;
 }
 
 .introCard {
   margin-bottom: 40px;
-  box-shadow: 0 3px 3px rgba(32, 19, 11, 0.1);
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
   border-radius: 16px;
-  background: #f6f2fa;
-  border: 1.5px solid #ded1e9;
+  background: var(--dark);
+  border: 1.5px solid var(--gold-border);
 }
 
 .introText {
   font-size: 1.2rem;
   line-height: 1.6;
-  color: #582c83;
+  color: var(--white);
   text-align: center;
   font-family: "Tenor Sans", serif;
   margin-bottom: 16px;
-}
-
-.versionText {
-  font-size: 1rem;
-  line-height: 1.5;
-  color: #8f9bb3;
-  text-align: center;
-  font-family: "Inter", sans-serif;
-  background: rgba(88, 44, 131, 0.1);
-  padding: 12px 16px;
-  border-radius: 8px;
-  border-left: 4px solid #582c83;
 }
 
 .featuresSection {
@@ -88,7 +60,7 @@
 .sectionTitle {
   font-size: 2.5rem;
   font-weight: 600;
-  color: #582c83;
+  color: var(--gold);
   text-align: center;
   margin-bottom: 32px;
   font-family: "Tenor Sans", serif;
@@ -96,164 +68,108 @@
 
 .featureCard {
   height: 100%;
-  box-shadow: 0 3px 3px rgba(32, 19, 11, 0.1);
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
   border-radius: 12px;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  border: 1.5px solid #e6dfec;
-  background: #ffffff;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+  border: 1.5px solid var(--gold-border);
+  background: var(--background);
 }
 
 .featureCard:hover {
   transform: translateY(-4px);
-  box-shadow: 0 4px 20px rgba(88, 44, 131, 0.3);
-  border-color: #b29cc7;
+  box-shadow: 0 4px 20px rgba(244, 197, 66, 0.3);
+  border-color: var(--gold);
 }
 
 .featureTitle {
   font-weight: 700;
-  color: #582c83;
+  color: var(--gold);
   margin-bottom: 12px;
   font-size: 1.3rem;
   font-family: "Tenor Sans", serif;
 }
 
 .featureDescription {
-  color: #8f9bb3;
+  color: var(--text-gray);
   line-height: 1.6;
   font-size: 1rem;
   font-family: "Inter", sans-serif;
 }
 
-.subscriptionSection {
+.technologySection {
   margin-bottom: 40px;
   padding-top: 20px;
   overflow: visible;
 }
 
-.subscriptionCard {
-  background: #ffffff;
-  color: #582c83;
+.techCard {
+  background: var(--background);
   border-radius: 16px;
-  box-shadow: 0 3px 3px rgba(32, 19, 11, 0.1);
-  border: 1.5px solid #e6dfec;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+  border: 1.5px solid var(--input-border);
   height: 100%;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
 }
 
-.subscriptionCard:hover {
+.techCard:hover {
   transform: translateY(-4px);
-  box-shadow: 0 8px 24px rgba(88, 44, 131, 0.2);
+  box-shadow: 0 8px 24px rgba(244, 197, 66, 0.2);
+  border-color: var(--gold-border);
 }
 
-.proCard {
-  border-color: #9975bc;
-  box-shadow: 0 4px 20px rgba(153, 117, 188, 0.2);
-  transform: scale(1.02);
+.techTitle {
+  color: var(--gold);
+  font-weight: 700;
+  margin-bottom: 12px;
+  font-size: 1.2rem;
+  font-family: "Tenor Sans", serif;
+  text-align: center;
 }
 
-.proCard:hover {
-  transform: scale(1.05) translateY(-4px);
-  box-shadow: 0 8px 32px rgba(153, 117, 188, 0.3);
+.techDescription {
+  color: var(--text-gray);
+  line-height: 1.6;
+  font-size: 0.95rem;
+  font-family: "Inter", sans-serif;
+  text-align: center;
 }
 
-.premiumCard {
-  border-color: #582c83;
-  box-shadow: 0 4px 20px rgba(88, 44, 131, 0.3);
-  position: relative;
-  transform: scale(1.05);
+.purposeSection {
+  margin-bottom: 40px;
   overflow: visible;
 }
 
-.premiumCard:hover {
-  transform: scale(1.08) translateY(-4px);
-  box-shadow: 0 12px 40px rgba(88, 44, 131, 0.4);
+.purposeCard {
+  background: var(--dark);
+  border-radius: 16px;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+  border: 1.5px solid var(--gold-border);
 }
 
-.premiumCard::before {
-  content: "Most Popular";
-  position: absolute;
-  top: -15px;
-  left: 50%;
-  transform: translateX(-50%);
-  background: #582c83;
-  color: white;
-  padding: 6px 18px;
-  border-radius: 12px;
-  font-size: 11px;
-  font-weight: 600;
-  font-family: "Tenor Sans", serif;
-  white-space: nowrap;
-  z-index: 10;
-  box-shadow: 0 2px 8px rgba(88, 44, 131, 0.3);
-}
-
-.subscriptionCardContent {
-  padding: 24px !important;
-  text-align: center;
-}
-
-.subscriptionTitle {
-  color: #582c83;
-  font-weight: 700;
-  margin-bottom: 8px;
-  text-align: center;
-  font-family: "Tenor Sans", serif;
-  font-size: 1.5rem;
-}
-
-.subscriptionPrice {
-  color: #582c83;
-  font-weight: 700;
-  margin-bottom: 20px;
-  font-family: "Tenor Sans", serif;
-  font-size: 1.4rem;
-  text-align: center;
-}
-
-.subscriptionFeatures {
-  text-align: left;
-}
-
-.featureItem {
-  color: #8f9bb3;
-  margin-bottom: 8px;
-  font-family: "Inter", sans-serif;
-  line-height: 1.4;
-}
-
-.subscriptionInfoCard {
-  margin-top: 24px;
-  background: #f6f2fa;
-  border: 1.5px solid #ded1e9;
-  border-radius: 12px;
-  box-shadow: 0 3px 3px rgba(32, 19, 11, 0.1);
-}
-
-.subscriptionInfoText {
-  color: #582c83;
+.purposeText {
+  color: var(--white);
   text-align: center;
   line-height: 1.6;
   font-size: 1rem;
   font-family: "Inter", sans-serif;
-  margin-bottom: 12px;
+  margin-bottom: 16px;
 }
 
-.pricingNote {
-  color: #8f9bb3;
+.purposeNote {
+  color: var(--text-gray);
   text-align: center;
-  font-size: 0.85rem;
-  font-family: "Inter", sans-serif;
-  font-style: italic;
-  margin-bottom: 8px;
-}
-
-.disclaimerNote {
-  color: #8f9bb3;
-  text-align: center;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   font-family: "Inter", sans-serif;
   font-style: italic;
   line-height: 1.4;
+  background: var(--tag-gold-muted);
+  padding: 12px 16px;
+  border-radius: 8px;
+  border-left: 4px solid var(--gold);
 }
 
 .contactSection {
@@ -261,14 +177,14 @@
 }
 
 .contactCard {
-  background: #f6f2fa;
+  background: var(--dark);
   border-radius: 12px;
-  box-shadow: 0 3px 3px rgba(32, 19, 11, 0.1);
-  border: 1.5px solid #ded1e9;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+  border: 1.5px solid var(--gold-border);
 }
 
 .contactText {
-  color: #582c83;
+  color: var(--white);
   line-height: 1.6;
   margin-bottom: 16px;
   text-align: center;
@@ -276,7 +192,7 @@
 }
 
 .emailText {
-  color: #582c83;
+  color: var(--gold);
   font-weight: 600;
   text-align: center;
   font-size: 1.1rem;
@@ -290,7 +206,7 @@
 }
 
 .thankYouText {
-  color: #582c83;
+  color: var(--gold);
   font-weight: 500;
   font-size: 1.3rem;
   font-family: "Tenor Sans", serif;
@@ -299,12 +215,6 @@
 @media (max-width: 768px) {
   .container {
     padding: 20px 16px;
-  }
-
-  .container::before {
-    width: 200px;
-    height: 380px;
-    opacity: 0.6;
   }
 
   .mainTitle {
@@ -325,12 +235,6 @@
 }
 
 @media (max-width: 480px) {
-  .container::before {
-    width: 150px;
-    height: 285px;
-    opacity: 0.4;
-  }
-
   .mainTitle {
     font-size: 2rem;
   }

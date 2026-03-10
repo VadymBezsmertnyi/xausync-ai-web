@@ -1,50 +1,7 @@
 export const PATHS = {
   main: "/",
+  about: "/about",
   privacyPolicy: "/privacy-policy",
   termOfUse: "/term-of-use",
   disclaimer: "/disclaimer",
 } as const;
-
-export const PATHS_API = {
-  // user
-  loginFacebook: "/user/login/facebook",
-  loginGoogle: "/user/login/google",
-  loginApple: "/user/login/apple",
-  me: "/user/login/me",
-  token: "/user/login/token",
-  editUser: "/user/login/editUser",
-  delete: "/user/login/delete",
-  // location
-  locationUsers: "/location-users/",
-  locationUsersSosAdd: "/location-users/sos/add/",
-  locationUsersSosDelete: "/location-users/sos/delete/",
-  // business
-  businessMarket: "/business/market/",
-  businessMarketCreate: "/business/market/create/",
-  businessMarketUpdate: "/business/market/update/",
-  businessMarketDelete: "/business/market/delete/",
-  // places
-  placesCountries: "/places/countries/",
-  placesCountriesSearch: "/places/countries/search/",
-  placesRegions: "/places/regions/",
-  placesRegionsSearch: "/places/regions/search/",
-  placesCities: "/places/cities/",
-  placesCitiesSearch: "/places/cities/search/",
-  placesCityId: "/places/cities/getPlaceId/",
-  //workshops
-  workshopsGet: "/workshops/",
-  workshopsGetUserId: "/workshops/user/",
-  workshopsAdd: "/workshops/add/",
-  workshopsChange: "/workshops/change/",
-  workshopsDelete: "/workshops/delete/",
-  workshopsCommentsAdd: "/workshops/comments/add/",
-  workshopsCommentsChange: "/workshops/comments/change/",
-  // market
-  marketsProductsGet: "/markets/products/",
-  marketsProductsGetUserId: "/markets/products/user/",
-  marketsProductsAdd: "/markets/products/add/",
-  marketsProductsChange: "/markets/products/change/",
-  marketsProductsDelete: "/markets/products/delete/",
-  marketsProductsMinMaxPricesGet: "/markets/products/minMaxPrices/",
-  marketsProductsDownloadExcel: "/markets/products/downloadExcel/",
-};

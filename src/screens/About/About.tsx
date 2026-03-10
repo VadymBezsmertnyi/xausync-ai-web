@@ -27,7 +27,7 @@ const About: FunctionComponent = () => {
           {i18n._("About {NAME_APP}", { NAME_APP })}
         </Typography>
         <Typography variant="h5" className={styles.subtitle}>
-          {i18n._("Your professional beauty companion")}
+          {i18n._("AI-Powered Trading Analysis Platform")}
         </Typography>
       </Box>
 
@@ -35,7 +35,7 @@ const About: FunctionComponent = () => {
         <CardContent>
           <Typography variant="h6" className={styles.introText}>
             {i18n._(
-              `Welcome to {NAME_APP} – your comprehensive mobile solution for beauty professionals! Our app is designed to streamline your business operations, manage client relationships, and boost your productivity.`,
+              `Welcome to {NAME_APP} – your advanced AI-powered platform for XAU/USD trading analysis! Our application combines cutting-edge artificial intelligence with comprehensive market data to provide intelligent trading insights and real-time analysis.`,
               { NAME_APP }
             )}
           </Typography>
@@ -44,7 +44,7 @@ const About: FunctionComponent = () => {
 
       <Box className={styles.featuresSection}>
         <Typography variant="h4" className={styles.sectionTitle}>
-          {i18n._("Key Features")}
+          {i18n._("Core Features")}
         </Typography>
 
         <Grid container spacing={3}>
@@ -52,14 +52,14 @@ const About: FunctionComponent = () => {
             <Card className={styles.featureCard}>
               <CardContent>
                 <Typography variant="h6" className={styles.featureTitle}>
-                  {i18n._("Client Management")}
+                  {i18n._("AI-Powered Analysis")}
                 </Typography>
                 <Typography
                   variant="body1"
                   className={styles.featureDescription}
                 >
                   {i18n._(
-                    "Create detailed client profiles, track service history, and maintain comprehensive notes for each appointment."
+                    "Advanced machine learning algorithms analyze XAU/USD market patterns, identify trading opportunities, and generate real-time signals with high accuracy."
                   )}
                 </Typography>
               </CardContent>
@@ -70,14 +70,14 @@ const About: FunctionComponent = () => {
             <Card className={styles.featureCard}>
               <CardContent>
                 <Typography variant="h6" className={styles.featureTitle}>
-                  {i18n._("Smart Calendar")}
+                  {i18n._("Real-Time Market Data")}
                 </Typography>
                 <Typography
                   variant="body1"
                   className={styles.featureDescription}
                 >
                   {i18n._(
-                    "Seamless integration with your device calendar. Automatic sync ensures you never miss an appointment."
+                    "Access live XAU/USD market data with TradingView-style interactive charts, comprehensive technical indicators, and instant price updates."
                   )}
                 </Typography>
               </CardContent>
@@ -88,14 +88,14 @@ const About: FunctionComponent = () => {
             <Card className={styles.featureCard}>
               <CardContent>
                 <Typography variant="h6" className={styles.featureTitle}>
-                  {i18n._("SMS Notifications")}
+                  {i18n._("Technical Indicators")}
                 </Typography>
                 <Typography
                   variant="body1"
                   className={styles.featureDescription}
                 >
                   {i18n._(
-                    "Send automated SMS reminders to your clients about upcoming appointments and important updates."
+                    "Comprehensive suite of technical indicators including RSI, MACD, Bollinger Bands, and custom AI-driven indicators for thorough market analysis."
                   )}
                 </Typography>
               </CardContent>
@@ -106,14 +106,14 @@ const About: FunctionComponent = () => {
             <Card className={styles.featureCard}>
               <CardContent>
                 <Typography variant="h6" className={styles.featureTitle}>
-                  {i18n._("Speech-to-Text")}
+                  {i18n._("Pattern Recognition")}
                 </Typography>
                 <Typography
                   variant="body1"
                   className={styles.featureDescription}
                 >
                   {i18n._(
-                    "Convert your voice notes into text for quick and easy appointment documentation and client notes."
+                    "AI-driven pattern recognition identifies chart patterns, trend reversals, and profitable trading opportunities automatically."
                   )}
                 </Typography>
               </CardContent>
@@ -124,14 +124,14 @@ const About: FunctionComponent = () => {
             <Card className={styles.featureCard}>
               <CardContent>
                 <Typography variant="h6" className={styles.featureTitle}>
-                  {i18n._("Photo Gallery")}
+                  {i18n._("Smart Alerts")}
                 </Typography>
                 <Typography
                   variant="body1"
                   className={styles.featureDescription}
                 >
                   {i18n._(
-                    "Store and organize photos from each appointment to track client progress and showcase your work."
+                    "Receive instant notifications for trading opportunities, market movements, and important price levels directly on your device."
                   )}
                 </Typography>
               </CardContent>
@@ -142,14 +142,14 @@ const About: FunctionComponent = () => {
             <Card className={styles.featureCard}>
               <CardContent>
                 <Typography variant="h6" className={styles.featureTitle}>
-                  {i18n._("Multi-Platform Sync")}
+                  {i18n._("Market Analytics")}
                 </Typography>
                 <Typography
                   variant="body1"
                   className={styles.featureDescription}
                 >
                   {i18n._(
-                    "Access your data seamlessly across mobile app and web platform with real-time synchronization."
+                    "Deep market insights with trend analysis, volatility metrics, and comprehensive market statistics to inform your trading decisions."
                   )}
                 </Typography>
               </CardContent>
@@ -158,136 +158,74 @@ const About: FunctionComponent = () => {
         </Grid>
       </Box>
 
-      <Box className={styles.subscriptionSection}>
+      <Box className={styles.technologySection}>
         <Typography variant="h4" className={styles.sectionTitle}>
-          {i18n._("Subscription Plans")}
+          {i18n._("Technology & Innovation")}
         </Typography>
 
         <Grid container spacing={3}>
-          {/* Free Plan */}
           <Grid item xs={12} md={4}>
-            <Card className={styles.subscriptionCard}>
-              <CardContent className={styles.subscriptionCardContent}>
-                <Typography variant="h5" className={styles.subscriptionTitle}>
-                  {i18n._("Free")}
+            <Card className={styles.techCard}>
+              <CardContent>
+                <Typography variant="h6" className={styles.techTitle}>
+                  {i18n._("Machine Learning")}
                 </Typography>
-                <Typography variant="h6" className={styles.subscriptionPrice}>
-                  {i18n._("$0/month")}
+                <Typography variant="body2" className={styles.techDescription}>
+                  {i18n._(
+                    "State-of-the-art ML models trained on historical XAU/USD data to identify patterns and predict market movements."
+                  )}
                 </Typography>
-                <Box className={styles.subscriptionFeatures}>
-                  <Typography variant="body2" className={styles.featureItem}>
-                    • {i18n._("Up to 20 clients")}
-                  </Typography>
-                  <Typography variant="body2" className={styles.featureItem}>
-                    • {i18n._("3 appointments per client")}
-                  </Typography>
-                  <Typography variant="body2" className={styles.featureItem}>
-                    • {i18n._("1 photo per appointment")}
-                  </Typography>
-                  <Typography variant="body2" className={styles.featureItem}>
-                    • {i18n._("1 SMS per month")}
-                  </Typography>
-                  <Typography variant="body2" className={styles.featureItem}>
-                    • {i18n._("3 minutes speech-to-text per month")}
-                  </Typography>
-                </Box>
               </CardContent>
             </Card>
           </Grid>
 
-          {/* Pro Plan */}
           <Grid item xs={12} md={4}>
-            <Card className={`${styles.subscriptionCard} ${styles.proCard}`}>
-              <CardContent className={styles.subscriptionCardContent}>
-                <Typography variant="h5" className={styles.subscriptionTitle}>
-                  {i18n._("Pro")}
+            <Card className={styles.techCard}>
+              <CardContent>
+                <Typography variant="h6" className={styles.techTitle}>
+                  {i18n._("Real-Time Processing")}
                 </Typography>
-                <Typography variant="h6" className={styles.subscriptionPrice}>
-                  {i18n._("$4.99/month")}
+                <Typography variant="body2" className={styles.techDescription}>
+                  {i18n._(
+                    "High-performance data processing ensures instant analysis and signal generation with minimal latency."
+                  )}
                 </Typography>
-                <Box className={styles.subscriptionFeatures}>
-                  <Typography variant="body2" className={styles.featureItem}>
-                    • {i18n._("Up to 100 clients")}
-                  </Typography>
-                  <Typography variant="body2" className={styles.featureItem}>
-                    • {i18n._("10 appointments per client")}
-                  </Typography>
-                  <Typography variant="body2" className={styles.featureItem}>
-                    • {i18n._("3 photos per appointment")}
-                  </Typography>
-                  <Typography variant="body2" className={styles.featureItem}>
-                    • {i18n._("20 SMS per month")}
-                  </Typography>
-                  <Typography variant="body2" className={styles.featureItem}>
-                    • {i18n._("60 minutes speech-to-text per month")}
-                  </Typography>
-                  <Typography variant="body2" className={styles.featureItem}>
-                    • {i18n._("Export clients (CSV)")}
-                  </Typography>
-                </Box>
               </CardContent>
             </Card>
           </Grid>
 
-          {/* Premium Plan */}
           <Grid item xs={12} md={4}>
-            <Card
-              className={`${styles.subscriptionCard} ${styles.premiumCard}`}
-            >
-              <CardContent className={styles.subscriptionCardContent}>
-                <Typography variant="h5" className={styles.subscriptionTitle}>
-                  {i18n._("Premium")}
+            <Card className={styles.techCard}>
+              <CardContent>
+                <Typography variant="h6" className={styles.techTitle}>
+                  {i18n._("Educational Focus")}
                 </Typography>
-                <Typography variant="h6" className={styles.subscriptionPrice}>
-                  {i18n._("$9.99/month")}
+                <Typography variant="body2" className={styles.techDescription}>
+                  {i18n._(
+                    "Designed to help traders understand market dynamics and improve their trading strategies through AI insights."
+                  )}
                 </Typography>
-                <Box className={styles.subscriptionFeatures}>
-                  <Typography variant="body2" className={styles.featureItem}>
-                    • {i18n._("Unlimited clients")}
-                  </Typography>
-                  <Typography variant="body2" className={styles.featureItem}>
-                    • {i18n._("Unlimited appointments per client")}
-                  </Typography>
-                  <Typography variant="body2" className={styles.featureItem}>
-                    • {i18n._("20 photos per appointment")}
-                  </Typography>
-                  <Typography variant="body2" className={styles.featureItem}>
-                    • {i18n._("50 SMS per month")}
-                  </Typography>
-                  <Typography variant="body2" className={styles.featureItem}>
-                    • {i18n._("300 minutes speech-to-text per month")}
-                  </Typography>
-                  <Typography variant="body2" className={styles.featureItem}>
-                    • {i18n._("Export/import clients (CSV)")}
-                  </Typography>
-                  <Typography variant="body2" className={styles.featureItem}>
-                    • {i18n._("Google Calendar integration")}
-                  </Typography>
-                  <Typography variant="body2" className={styles.featureItem}>
-                    • {i18n._("Priority support")}
-                  </Typography>
-                </Box>
               </CardContent>
             </Card>
           </Grid>
         </Grid>
+      </Box>
 
-        <Card className={styles.subscriptionInfoCard}>
+      <Box className={styles.purposeSection}>
+        <Typography variant="h4" className={styles.sectionTitle}>
+          {i18n._("Our Purpose")}
+        </Typography>
+        <Card className={styles.purposeCard}>
           <CardContent>
-            <Typography variant="body1" className={styles.subscriptionInfoText}>
+            <Typography variant="body1" className={styles.purposeText}>
               {i18n._(
-                "Start with our free plan to explore {NAME_APP} features. Upgrade anytime to unlock more capacity and advanced functionality.",
+                `{NAME_APP} is designed to empower traders with intelligent tools and insights. While our AI provides advanced analysis, we emphasize that trading involves risks and decisions should be made carefully. Our platform serves as an educational and analytical tool to supplement your trading knowledge.`,
                 { NAME_APP }
               )}
             </Typography>
-            <Typography variant="body2" className={styles.pricingNote}>
+            <Typography variant="body2" className={styles.purposeNote}>
               {i18n._(
-                "* Prices may vary by region and are subject to local taxes."
-              )}
-            </Typography>
-            <Typography variant="body2" className={styles.disclaimerNote}>
-              {i18n._(
-                "** Subscription features, limits, and pricing are subject to change. We reserve the right to modify plans and functionality to improve our service."
+                "Remember: All trading involves risk. Never trade more than you can afford to lose, and consider seeking advice from qualified financial professionals."
               )}
             </Typography>
           </CardContent>
@@ -302,7 +240,7 @@ const About: FunctionComponent = () => {
           <CardContent>
             <Typography variant="body1" className={styles.contactText}>
               {i18n._(
-                "We're constantly improving {NAME_APP} based on your feedback. Have suggestions or questions? We'd love to hear from you!",
+                "We're continuously improving {NAME_APP} based on user feedback and market developments. Have questions, suggestions, or need support? We'd love to hear from you!",
                 { NAME_APP }
               )}
             </Typography>
@@ -315,7 +253,10 @@ const About: FunctionComponent = () => {
 
       <Box className={styles.footer}>
         <Typography variant="h6" className={styles.thankYouText}>
-          {i18n._("Thank you for choosing {NAME_APP}!", { NAME_APP })}
+          {i18n._(
+            "Thank you for choosing {NAME_APP} for your trading analysis!",
+            { NAME_APP }
+          )}
         </Typography>
       </Box>
     </Container>
