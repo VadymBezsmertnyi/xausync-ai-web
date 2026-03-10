@@ -36,7 +36,7 @@ const Disclaimer: FunctionComponent = () => {
         <meta
           name="description"
           content={i18n._(
-            "XauSync AI Disclaimer - Important information about market analysis risks and the educational nature of our AI-powered market analysis app. All content is for informational purposes only."
+            "XauSync AI Disclaimer - Important information about risks and the educational nature of our AI-powered market analysis app. All content is for informational purposes only."
           )}
         />
         <meta
@@ -49,7 +49,7 @@ const Disclaimer: FunctionComponent = () => {
         <meta
           property="og:description"
           content={i18n._(
-            "XauSync AI Disclaimer - Important information about market analysis risks and the educational nature of our AI-powered market analysis app."
+            "XauSync AI Disclaimer - Important information about risks and the educational nature of our AI-powered market analysis app."
           )}
         />
         <meta property="og:image" content="/og-image.png" />
@@ -69,7 +69,7 @@ const Disclaimer: FunctionComponent = () => {
         <meta
           name="twitter:description"
           content={i18n._(
-            "XauSync AI Disclaimer - Important information about market analysis risks and the educational nature of our AI-powered market analysis app."
+            "XauSync AI Disclaimer - Important information about risks and the educational nature of our AI-powered market analysis app."
           )}
         />
         <meta name="twitter:image" content="/twitter-image.png" />
@@ -92,7 +92,7 @@ const Disclaimer: FunctionComponent = () => {
           </p>
           <p className={styles.text}>
             {i18n._(
-              `The "{NAME_APP}" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) ("us", "we", or "our"). This disclaimer contains important information about the risks associated with using our market analysis and AI-powered services.`,
+              `The "{NAME_APP}" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) ("us", "we", or "our"). This disclaimer contains important information about the risks associated with using our educational market analysis content and AI-powered features.`,
               { NAME_APP }
             )}
           </p>
@@ -183,7 +183,7 @@ const Disclaimer: FunctionComponent = () => {
           {line(
             i18n._("Compliance"),
             i18n._(
-              "You must comply with all applicable laws and regulations when using our services. This includes tax obligations and financial regulations in your jurisdiction."
+              "You must comply with applicable laws and regulations when using our services. This includes meeting any tax or financial requirements in your jurisdiction."
             )
           )}
           {line(
@@ -204,7 +204,7 @@ const Disclaimer: FunctionComponent = () => {
           {line(
             i18n._("Leverage Risks"),
             i18n._(
-              "If you use leverage in your trading, be aware that it amplifies both potential gains and losses. High leverage can lead to rapid depletion of your capital."
+              "If you use leverage in trading activities, be aware that it amplifies both potential gains and losses. High leverage can lead to rapid depletion of capital."
             )
           )}
         </div>

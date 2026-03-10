@@ -94,7 +94,7 @@ const About: FunctionComponent = () => {
             {i18n._("About {NAME_APP}", { NAME_APP })}
           </Typography>
           <Typography variant="h5" className={styles.subtitle}>
-            {i18n._("Intelligent Market Analysis Platform")}
+            {i18n._("AI-Powered Market Analysis for Learning")}
           </Typography>
         </Box>
 
@@ -102,7 +102,7 @@ const About: FunctionComponent = () => {
           <CardContent>
             <Typography variant="h6" className={styles.introText}>
               {i18n._(
-                `{NAME_APP} is an intelligent AI-powered platform designed for studying XAU/USD market dynamics. Our application combines advanced artificial intelligence with comprehensive market data to provide practical insights and real-world examples for understanding technical analysis and market behavior.`,
+                `{NAME_APP} is an AI-powered educational platform designed for studying XAU/USD market dynamics. Our application combines advanced artificial intelligence with comprehensive market data to provide analytical insights and real-world examples for understanding technical analysis and market behavior.`,
                 { NAME_APP }
               )}
             </Typography>
@@ -126,7 +126,7 @@ const About: FunctionComponent = () => {
                     className={styles.featureDescription}
                   >
                     {i18n._(
-                      "Advanced machine learning algorithms analyze XAU/USD market patterns to provide intelligent insights and practical examples for understanding market dynamics and technical analysis."
+                      "Advanced machine learning algorithms analyze XAU/USD market patterns to provide AI-assisted insights and practical examples for understanding market dynamics and technical analysis."
                     )}
                   </Typography>
                 </CardContent>
@@ -191,14 +191,14 @@ const About: FunctionComponent = () => {
               <Card className={styles.featureCard}>
                 <CardContent>
                   <Typography variant="h6" className={styles.featureTitle}>
-                    {i18n._("Smart Alerts")}
+                    {i18n._("Educational Alerts")}
                   </Typography>
                   <Typography
                     variant="body1"
                     className={styles.featureDescription}
                   >
                     {i18n._(
-                      "Intelligent notifications for market events and practical examples to study real-time conditions and technical formations."
+                      "AI-assisted notifications for market events and practical examples to study real-time conditions and technical formations."
                     )}
                   </Typography>
                 </CardContent>
@@ -242,7 +242,7 @@ const About: FunctionComponent = () => {
                     className={styles.techDescription}
                   >
                     {i18n._(
-                      "State-of-the-art ML models trained on historical XAU/USD data to identify patterns and provide intelligent market insights for study purposes."
+                      "State-of-the-art ML models trained on historical XAU/USD data to identify patterns and provide analytical insights for study purposes."
                     )}
                   </Typography>
                 </CardContent>
@@ -260,7 +260,7 @@ const About: FunctionComponent = () => {
                     className={styles.techDescription}
                   >
                     {i18n._(
-                      "High-performance data processing ensures instant analysis and intelligent insights with minimal latency for studying market conditions."
+                      "High-performance data processing ensures instant analysis and AI-assisted insights with minimal latency for studying market conditions."
                     )}
                   </Typography>
                 </CardContent>
@@ -339,13 +339,13 @@ const About: FunctionComponent = () => {
             <CardContent>
               <Typography variant="body1" className={styles.purposeText}>
                 {i18n._(
-                  "{NAME_APP} provides intelligent insights and analytical tools to help users study market dynamics and technical concepts. Our platform uses real market data as context for exploring analysis techniques and practical examples.",
+                  "{NAME_APP} provides analytical insights and educational tools to help users study market dynamics and technical concepts. Our platform uses real market data as context for exploring analysis techniques and practical examples.",
                   { NAME_APP }
                 )}
               </Typography>
               <Typography variant="body2" className={styles.purposeNote}>
                 {i18n._(
-                  "Important: {NAME_APP} provides informational content only. Real market examples are for study purposes. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk and rely on your own judgment.",
+                  "Important: {NAME_APP} provides informational and educational content only. It does not provide financial, investment, or trading advice. Real market examples are for study purposes only. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk and rely on your own judgment.",
                   { NAME_APP }
                 )}
               </Typography>
@@ -361,7 +361,7 @@ const About: FunctionComponent = () => {
             <CardContent>
               <Typography variant="body1" className={styles.purposeText}>
                 {i18n._(
-                  "While our AI provides intelligent insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a study tool to explore market scenarios and technical concepts.",
+                  "While our AI provides analytical insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a study tool to explore market scenarios and technical concepts.",
                   { NAME_APP }
                 )}
               </Typography>
