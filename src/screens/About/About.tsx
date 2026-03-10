@@ -30,7 +30,13 @@ const About: FunctionComponent = () => {
         <meta
           name="description"
           content={i18n._(
-            "Learn about XauSync AI's AI-powered trading analysis platform, our technology, and commitment to educational trading insights."
+            "Learn about XauSync AI's AI-powered trading analysis platform, our technology, and commitment to educational trading insights. Discover our approach to responsible AI trading analysis."
+          )}
+        />
+        <meta
+          name="keywords"
+          content={i18n._(
+            "About XauSync AI, AI trading platform, trading analysis, educational trading, XAU/USD analysis, AI technology, responsible trading"
           )}
         />
         <meta
@@ -43,12 +49,40 @@ const About: FunctionComponent = () => {
             "Learn about XauSync AI's AI-powered trading analysis platform, our technology, and commitment to educational trading insights."
           )}
         />
-        <meta property="og:image" content="/icon.png" />
+        <meta property="og:image" content="/og-image.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta
+          property="og:image:alt"
+          content={i18n._("About XauSync AI - AI Trading Analysis Platform")}
+        />
         <meta property="og:type" content="website" />
+        <meta property="og:site_name" content={NAME_APP} />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+          name="twitter:title"
+          content={i18n._("About XauSync AI — AI Trading Analysis Platform")}
+        />
+        <meta
+          name="twitter:description"
+          content={i18n._(
+            "Learn about XauSync AI's AI-powered trading analysis platform and our commitment to educational trading insights."
+          )}
+        />
+        <meta name="twitter:image" content="/twitter-image.png" />
+        <meta
+          name="twitter:image:alt"
+          content={i18n._("About XauSync AI - AI Trading Analysis Platform")}
+        />
+        <link rel="canonical" href="https://xausync.ai/about" />
+        <meta
+          name="author"
+          content="Vadym Bezsmertnyi, Sole Proprietor (Ukraine)"
+        />
       </Head>
       <Container maxWidth="lg" className={styles.container}>
         <Box className={styles.header}>
-          <Typography variant="h2" className={styles.mainTitle}>
+          <Typography variant="h2" component="h1" className={styles.mainTitle}>
             {i18n._("About {NAME_APP}", { NAME_APP })}
           </Typography>
           <Typography variant="h5" className={styles.subtitle}>

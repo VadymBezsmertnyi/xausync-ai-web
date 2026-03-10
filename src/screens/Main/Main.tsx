@@ -38,51 +38,50 @@ export default function Main() {
   const theme = useTheme();
   const isMobile = useMediaQuery(theme.breakpoints.down("md"));
 
-  const appStoreUrl = "https://apps.apple.com/us/app/beauty-sync/id6737201591";
-  const googlePlayUrl =
-    "https://play.google.com/store/apps/details?id=com.beautysync.app&hl=uk";
+  const appStoreUrl = "#"; // Placeholder for future App Store link
+  const googlePlayUrl = "#"; // Placeholder for future Google Play link
 
   const features = [
     {
       icon: <TrendingUp sx={{ fontSize: 40, color: "var(--gold)" }} />,
       title: i18n._("AI-Powered Analysis"),
       description: i18n._(
-        "Advanced artificial intelligence analyzes XAU/USD market patterns and provides real-time trading signals."
+        "Advanced artificial intelligence analyzes XAU/USD market patterns and provides educational trading insights for informed decision-making."
       ),
     },
     {
       icon: <ShowChart sx={{ fontSize: 40, color: "var(--gold)" }} />,
       title: i18n._("Real-Time Charts"),
       description: i18n._(
-        "Interactive charts with TradingView-style interface for comprehensive market analysis."
+        "Interactive charts with TradingView-style interface for comprehensive market analysis and trend monitoring."
       ),
     },
     {
       icon: <Notifications sx={{ fontSize: 40, color: "var(--gold)" }} />,
       title: i18n._("Smart Alerts"),
       description: i18n._(
-        "Instant notifications for trading opportunities and market movements."
+        "Instant notifications for significant market movements and important price levels to stay informed."
       ),
     },
     {
       icon: <BarChart sx={{ fontSize: 40, color: "var(--gold)" }} />,
       title: i18n._("Technical Indicators"),
       description: i18n._(
-        "Comprehensive set of technical indicators including RSI, MACD, and Bollinger Bands."
+        "Comprehensive set of technical indicators including RSI, MACD, and Bollinger Bands for market analysis."
       ),
     },
     {
       icon: <Analytics sx={{ fontSize: 40, color: "var(--gold)" }} />,
       title: i18n._("Market Analytics"),
       description: i18n._(
-        "Deep market insights and trend analysis to inform your trading decisions."
+        "Deep market insights and trend analysis to provide context for trading decisions."
       ),
     },
     {
       icon: <AutoGraph sx={{ fontSize: 40, color: "var(--gold)" }} />,
       title: i18n._("Pattern Recognition"),
       description: i18n._(
-        "AI-driven pattern recognition identifies profitable trading opportunities."
+        "AI-driven pattern recognition identifies potential market movements and trading opportunities."
       ),
     },
   ];
@@ -101,7 +100,13 @@ export default function Main() {
         <meta
           name="description"
           content={i18n._(
-            "XauSync AI provides AI-powered trading insights, market analysis, and educational trading tools for XAU/USD trading."
+            "XauSync AI provides AI-powered trading insights, market analysis, and educational trading tools for XAU/USD trading. Learn about our advanced AI analysis and educational approach."
+          )}
+        />
+        <meta
+          name="keywords"
+          content={i18n._(
+            "XauSync AI, AI trading, XAU/USD analysis, trading insights, market analysis, educational trading, AI-powered analysis, gold trading, technical indicators"
           )}
         />
         <meta
@@ -111,12 +116,19 @@ export default function Main() {
         <meta
           property="og:description"
           content={i18n._(
-            "XauSync AI provides AI-powered trading insights, market analysis, and educational trading tools for XAU/USD trading."
+            "XauSync AI provides AI-powered trading insights, market analysis, and educational trading tools for XAU/USD trading. Learn about our advanced AI analysis and educational approach."
           )}
         />
-        <meta property="og:image" content="/icon.png" />
+        <meta property="og:image" content="/og-image.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta
+          property="og:image:alt"
+          content={i18n._("XauSync AI - AI Trading Insights Platform")}
+        />
         <meta property="og:url" content="https://xausync.ai" />
         <meta property="og:type" content="website" />
+        <meta property="og:site_name" content={NAME_APP} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
@@ -128,7 +140,17 @@ export default function Main() {
             "XauSync AI provides AI-powered trading insights, market analysis, and educational trading tools for XAU/USD trading."
           )}
         />
-        <meta name="twitter:image" content="/icon.png" />
+        <meta name="twitter:image" content="/twitter-image.png" />
+        <meta
+          name="twitter:image:alt"
+          content={i18n._("XauSync AI - AI Trading Insights Platform")}
+        />
+        <meta name="twitter:site" content="@xausync_ai" />
+        <link rel="canonical" href="https://xausync.ai" />
+        <meta
+          name="author"
+          content="Vadym Bezsmertnyi, Sole Proprietor (Ukraine)"
+        />
       </Head>
 
       <Box sx={{ backgroundColor: "var(--background)", minHeight: "100vh" }}>
@@ -158,7 +180,7 @@ export default function Main() {
                       color: "var(--gold)",
                     }}
                   >
-                    {i18n._("Welcome to {NAME_APP}", { NAME_APP })}
+                    {i18n._("{NAME_APP}: AI Trading Insights", { NAME_APP })}
                   </Typography>
 
                   <Typography
@@ -170,7 +192,7 @@ export default function Main() {
                       fontFamily: '"Tenor Sans", serif',
                     }}
                   >
-                    {i18n._("Your AI Trading Companion")}
+                    {i18n._("Educational Trading Analysis Platform")}
                   </Typography>
 
                   <Typography
@@ -183,7 +205,7 @@ export default function Main() {
                     }}
                   >
                     {i18n._(
-                      "Enhance your XAU/USD trading with our AI-powered analysis. Get real-time signals, advanced charts, and intelligent market insights."
+                      "Access AI-powered market analysis and educational insights for XAU/USD trading. Get comprehensive market context and analytical tools to support your trading decisions."
                     )}
                   </Typography>
 
@@ -195,10 +217,7 @@ export default function Main() {
                     <Button
                       variant="contained"
                       size="large"
-                      startIcon={<Apple />}
-                      href={appStoreUrl}
-                      target="_blank"
-                      rel="noopener noreferrer"
+                      href="/about"
                       sx={{
                         backgroundColor: "var(--gold)",
                         color: "var(--background)",
@@ -215,33 +234,32 @@ export default function Main() {
                         transition: "all 0.3s ease",
                       }}
                     >
-                      {i18n._("Download on App Store")}
+                      {i18n._("Learn More")}
                     </Button>
 
                     <Button
-                      variant="contained"
+                      variant="outlined"
                       size="large"
-                      startIcon={<Android />}
-                      href={googlePlayUrl}
-                      target="_blank"
-                      rel="noopener noreferrer"
+                      href="/privacy-policy"
                       sx={{
-                        backgroundColor: "var(--gold)",
-                        color: "var(--background)",
+                        backgroundColor: "transparent",
+                        color: "var(--gold)",
                         px: 4,
                         py: 2,
                         borderRadius: 3,
                         fontWeight: 600,
                         textTransform: "none",
                         fontSize: "1.1rem",
+                        border: "2px solid var(--gold)",
                         "&:hover": {
-                          backgroundColor: "var(--gold-opacity-40)",
+                          backgroundColor: "var(--gold)",
+                          color: "var(--background)",
                           transform: "translateY(-2px)",
                         },
                         transition: "all 0.3s ease",
                       }}
                     >
-                      {i18n._("Get it on Google Play")}
+                      {i18n._("Privacy Policy")}
                     </Button>
                   </Stack>
 
@@ -346,13 +364,15 @@ export default function Main() {
                   mb: 2,
                 }}
               >
-                {i18n._("Key Features")}
+                {i18n._("AI-Powered Trading Tools")}
               </Typography>
               <Typography
                 variant="h6"
                 sx={{ color: "var(--text-gray)", maxWidth: 600, mx: "auto" }}
               >
-                {i18n._("Everything you need for successful XAU/USD trading")}
+                {i18n._(
+                  "Educational insights and analysis for informed XAU/USD trading"
+                )}
               </Typography>
             </Box>
 
@@ -401,6 +421,88 @@ export default function Main() {
           </Container>
         </Box>
 
+        {/* Educational Purpose Section */}
+        <Box sx={{ py: 8, backgroundColor: "var(--dark)" }}>
+          <Container maxWidth="lg">
+            <Grid container spacing={4} alignItems="center">
+              <Grid item xs={12} md={6}>
+                <Box>
+                  <Typography
+                    variant="h3"
+                    sx={{
+                      fontWeight: 700,
+                      color: "var(--gold)",
+                      fontFamily: '"Tenor Sans", serif',
+                      mb: 3,
+                    }}
+                  >
+                    {i18n._("Educational Purpose")}
+                  </Typography>
+                  <Typography
+                    variant="body1"
+                    sx={{ color: "var(--text-gray)", lineHeight: 1.7, mb: 3 }}
+                  >
+                    {i18n._(
+                      "{NAME_APP} provides educational insights and analytical tools to help traders understand market dynamics. Our platform serves as an educational resource to supplement your trading knowledge and decision-making process.",
+                      { NAME_APP }
+                    )}
+                  </Typography>
+                  <Typography
+                    variant="body2"
+                    sx={{
+                      color: "var(--text-gray)",
+                      fontStyle: "italic",
+                      lineHeight: 1.6,
+                      backgroundColor: "var(--tag-gold-muted)",
+                      padding: "16px 20px",
+                      borderRadius: "8px",
+                      borderLeft: "4px solid var(--gold)",
+                    }}
+                  >
+                    {i18n._(
+                      "Important: {NAME_APP} provides informational and educational content only. All trading decisions remain your sole responsibility. Trading involves substantial risk.",
+                      { NAME_APP }
+                    )}
+                  </Typography>
+                </Box>
+              </Grid>
+              <Grid item xs={12} md={6}>
+                <Card
+                  sx={{
+                    p: 3,
+                    backgroundColor: "var(--background)",
+                    boxShadow: "0 4px 20px rgba(244, 197, 66, 0.1)",
+                    borderRadius: 3,
+                  }}
+                >
+                  <CardContent>
+                    <Typography
+                      variant="h6"
+                      sx={{
+                        fontWeight: 600,
+                        color: "var(--gold)",
+                        fontFamily: '"Tenor Sans", serif',
+                        mb: 2,
+                      }}
+                    >
+                      {i18n._("Responsible Use")}
+                    </Typography>
+                    <Typography
+                      variant="body2"
+                      sx={{ color: "var(--text-gray)", lineHeight: 1.6 }}
+                    >
+                      {i18n._(
+                        "While our AI provides advanced analysis, we emphasize that trading involves risks and decisions should be made carefully. Use {NAME_APP} as one tool among many in your trading research and analysis process.",
+                        { NAME_APP }
+                      )}
+                    </Typography>
+                  </CardContent>
+                </Card>
+              </Grid>
+            </Grid>
+          </Container>
+        </Box>
+
         {/* CTA Section */}
         <Box
           sx={{
@@ -420,11 +522,11 @@ export default function Main() {
                   mb: 2,
                 }}
               >
-                {i18n._("Ready to Enhance Your Trading?")}
+                {i18n._("Start Your Educational Trading Journey")}
               </Typography>
               <Typography variant="h6" sx={{ mb: 4, opacity: 0.9 }}>
                 {i18n._(
-                  "Join thousands of traders who trust {NAME_APP} for their XAU/USD analysis",
+                  "Join traders who use {NAME_APP} for educational market insights and analysis",
                   { NAME_APP }
                 )}
               </Typography>
@@ -436,38 +538,9 @@ export default function Main() {
                 <Button
                   variant="contained"
                   size="large"
-                  startIcon={<Apple />}
-                  href={appStoreUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href="/about"
                   sx={{
                     backgroundColor: "rgba(255, 255, 255, 0.9)",
-                    color: "#582c83",
-                    px: 4,
-                    py: 2,
-                    borderRadius: 3,
-                    fontWeight: 600,
-                    textTransform: "none",
-                    fontSize: "1.1rem",
-                    "&:hover": {
-                      backgroundColor: "rgba(255, 255, 255, 1)",
-                      transform: "translateY(-2px)",
-                    },
-                    transition: "all 0.3s ease",
-                  }}
-                >
-                  {i18n._("Download on App Store")}
-                </Button>
-
-                <Button
-                  variant="contained"
-                  size="large"
-                  startIcon={<Android />}
-                  href={googlePlayUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  sx={{
-                    backgroundColor: "var(--gold)",
                     color: "var(--background)",
                     px: 4,
                     py: 2,
@@ -476,13 +549,39 @@ export default function Main() {
                     textTransform: "none",
                     fontSize: "1.1rem",
                     "&:hover": {
-                      backgroundColor: "var(--gold-opacity-40)",
+                      backgroundColor: "var(--gold)",
+                      color: "var(--background)",
                       transform: "translateY(-2px)",
                     },
                     transition: "all 0.3s ease",
                   }}
                 >
-                  {i18n._("Get it on Google Play")}
+                  {i18n._("Learn About {NAME_APP}", { NAME_APP })}
+                </Button>
+
+                <Button
+                  variant="outlined"
+                  size="large"
+                  href="/disclaimer"
+                  sx={{
+                    backgroundColor: "transparent",
+                    color: "var(--white)",
+                    px: 4,
+                    py: 2,
+                    borderRadius: 3,
+                    fontWeight: 600,
+                    textTransform: "none",
+                    fontSize: "1.1rem",
+                    border: "2px solid var(--white)",
+                    "&:hover": {
+                      backgroundColor: "var(--white)",
+                      color: "var(--background)",
+                      transform: "translateY(-2px)",
+                    },
+                    transition: "all 0.3s ease",
+                  }}
+                >
+                  {i18n._("View Disclaimer")}
                 </Button>
               </Stack>
             </Box>

@@ -36,7 +36,13 @@ const Disclaimer: FunctionComponent = () => {
         <meta
           name="description"
           content={i18n._(
-            "XauSync AI Disclaimer - Important information about trading risks and the educational nature of our AI-powered trading analysis platform."
+            "XauSync AI Disclaimer - Important information about trading risks and the educational nature of our AI-powered trading analysis platform. Understand that all content is for informational purposes only."
+          )}
+        />
+        <meta
+          name="keywords"
+          content={i18n._(
+            "Disclaimer, XauSync AI, trading risks, educational trading, financial disclaimer, AI analysis, trading responsibility"
           )}
         />
         <meta property="og:title" content={i18n._("Disclaimer — XauSync AI")} />
@@ -46,7 +52,36 @@ const Disclaimer: FunctionComponent = () => {
             "XauSync AI Disclaimer - Important information about trading risks and the educational nature of our AI-powered trading analysis platform."
           )}
         />
+        <meta property="og:image" content="/og-image.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta
+          property="og:image:alt"
+          content={i18n._("XauSync AI Disclaimer")}
+        />
         <meta property="og:type" content="website" />
+        <meta property="og:site_name" content={NAME_APP} />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+          name="twitter:title"
+          content={i18n._("Disclaimer — XauSync AI")}
+        />
+        <meta
+          name="twitter:description"
+          content={i18n._(
+            "XauSync AI Disclaimer - Important information about trading risks and the educational nature of our AI-powered trading analysis platform."
+          )}
+        />
+        <meta name="twitter:image" content="/twitter-image.png" />
+        <meta
+          name="twitter:image:alt"
+          content={i18n._("XauSync AI Disclaimer")}
+        />
+        <link rel="canonical" href="https://xausync.ai/disclaimer" />
+        <meta
+          name="author"
+          content="Vadym Bezsmertnyi, Sole Proprietor (Ukraine)"
+        />
       </Head>
       <div className={styles.container}>
         <h1 className={styles.mainTitle}>{i18n._("Disclaimer")}</h1>

@@ -54,7 +54,13 @@ const TermsOfUse: FunctionComponent = () => {
         <meta
           name="description"
           content={i18n._(
-            "XauSync AI Terms of Use - Read our terms for using the AI-powered trading analysis platform, including user responsibilities and service guidelines."
+            "XauSync AI Terms of Use - Read our terms for using the AI-powered trading analysis platform, including user responsibilities, educational purpose, and service guidelines."
+          )}
+        />
+        <meta
+          name="keywords"
+          content={i18n._(
+            "Terms of Use, XauSync AI, legal terms, user agreement, trading analysis terms, educational trading, service terms"
           )}
         />
         <meta
@@ -67,7 +73,36 @@ const TermsOfUse: FunctionComponent = () => {
             "XauSync AI Terms of Use - Read our terms for using the AI-powered trading analysis platform, including user responsibilities and service guidelines."
           )}
         />
+        <meta property="og:image" content="/og-image.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta
+          property="og:image:alt"
+          content={i18n._("XauSync AI Terms of Use")}
+        />
         <meta property="og:type" content="website" />
+        <meta property="og:site_name" content={NAME_APP} />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+          name="twitter:title"
+          content={i18n._("Terms of Use — XauSync AI")}
+        />
+        <meta
+          name="twitter:description"
+          content={i18n._(
+            "XauSync AI Terms of Use - Read our terms for using the AI-powered trading analysis platform, including user responsibilities and service guidelines."
+          )}
+        />
+        <meta name="twitter:image" content="/twitter-image.png" />
+        <meta
+          name="twitter:image:alt"
+          content={i18n._("XauSync AI Terms of Use")}
+        />
+        <link rel="canonical" href="https://xausync.ai/term-of-use" />
+        <meta
+          name="author"
+          content="Vadym Bezsmertnyi, Sole Proprietor (Ukraine)"
+        />
       </Head>
       <div className={styles.container}>
         <h1 className={styles.mainTitle}>{i18n._("Terms of Use")}</h1>

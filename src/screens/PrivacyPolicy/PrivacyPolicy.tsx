@@ -36,7 +36,13 @@ export const PrivacyPolicy: FunctionComponent = () => {
         <meta
           name="description"
           content={i18n._(
-            "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI trading analysis platform."
+            "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI trading analysis platform. Understand our data practices and your privacy rights."
+          )}
+        />
+        <meta
+          name="keywords"
+          content={i18n._(
+            "Privacy Policy, XauSync AI, data protection, personal information, AI trading, privacy rights, data security, GDPR compliance"
           )}
         />
         <meta
@@ -49,7 +55,36 @@ export const PrivacyPolicy: FunctionComponent = () => {
             "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI trading analysis platform."
           )}
         />
+        <meta property="og:image" content="/og-image.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta
+          property="og:image:alt"
+          content={i18n._("XauSync AI Privacy Policy")}
+        />
         <meta property="og:type" content="website" />
+        <meta property="og:site_name" content={NAME_APP} />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+          name="twitter:title"
+          content={i18n._("Privacy Policy — XauSync AI")}
+        />
+        <meta
+          name="twitter:description"
+          content={i18n._(
+            "XauSync AI Privacy Policy - Learn how we collect, use, and protect your personal information when using our AI trading analysis platform."
+          )}
+        />
+        <meta name="twitter:image" content="/twitter-image.png" />
+        <meta
+          name="twitter:image:alt"
+          content={i18n._("XauSync AI Privacy Policy")}
+        />
+        <link rel="canonical" href="https://xausync.ai/privacy-policy" />
+        <meta
+          name="author"
+          content="Vadym Bezsmertnyi, Sole Proprietor (Ukraine)"
+        />
       </Head>
       <div className={styles.container}>
         <h1 className={styles.mainTitle}>{i18n._("Privacy Policy")}</h1>
