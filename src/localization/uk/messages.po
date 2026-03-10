@@ -1,0 +1,964 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+msgid "Home"
+msgstr "Головна"
+
+#. js-lingui-explicit-id
+msgid "About"
+msgstr "Про нас"
+
+#. js-lingui-explicit-id
+msgid "Terms of Use"
+msgstr "Умови використання"
+
+#. js-lingui-explicit-id
+msgid "Privacy Policy"
+msgstr "Політика конфіденційності"
+
+#. js-lingui-explicit-id
+msgid "Logo"
+msgstr "Логотип"
+
+#. js-lingui-explicit-id
+msgid "Menu"
+msgstr "Меню"
+
+#. js-lingui-explicit-id
+msgid "Select language"
+msgstr "Виберіть мову"
+
+#. js-lingui-explicit-id
+msgid "Name of the {otherName}"
+msgstr "Ім'я {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The text must contain a minimum of {min} and a maximum of {max} characters."
+msgstr "Текст повинен містити мінімум {min} та максимум {max} символів."
+
+#. js-lingui-explicit-id
+msgid "The place of the {otherName}"
+msgstr "Місце {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The location of the {otherName} must be selected."
+msgstr "Місце розташування {otherName} повинно бути вибрано."
+
+#. js-lingui-explicit-id
+msgid "Date of the {otherName}"
+msgstr "Дата {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The end date must be greater than the start date."
+msgstr "Дата закінчення повинна бути більшою за початкову дату."
+
+#. js-lingui-explicit-id
+msgid "Tell us about the {otherName}"
+msgstr "Розкажіть про {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Description of the {otherName}"
+msgstr "Опис {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Phone number the {otherName}"
+msgstr "Номер телефону {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter phone number"
+msgstr "Будь ласка, введіть номер телефону"
+
+#. js-lingui-explicit-id
+msgid "Types of {otherName} jobs"
+msgstr "Типи робіт {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please select at least one type"
+msgstr "Будь ласка, виберіть принаймні один тип"
+
+#. js-lingui-explicit-id
+msgid "Price {otherName}"
+msgstr "Ціна {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter price for {otherName}"
+msgstr "Будь ласка, введіть ціну для {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Category {otherName}"
+msgstr "Категорія {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter category for {otherName}"
+msgstr "Будь ласка, введіть категорію для {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Brand {otherName}"
+msgstr "Бренд {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter brand for {otherName}"
+msgstr "Будь ласка, введіть бренд для {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Mileage {otherName}"
+msgstr "Пробіг {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter mileage for {otherName}"
+msgstr "Будь ласка, введіть пробіг для {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Year release {otherName}"
+msgstr "Рік випуску {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
+msgstr "Будь ласка, введіть рік мінімум {min} та максимум {max} для {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type fuel {otherName}"
+msgstr "Тип палива {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type fuel for {otherName}"
+msgstr "Будь ласка, введіть тип палива для {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type transmission {otherName}"
+msgstr "Тип трансмісії {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type transmission for {otherName}"
+msgstr "Будь ласка, введіть тип трансмісії для {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type parts {otherName}"
+msgstr "Тип деталей {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type parts for {otherName}"
+msgstr "Будь ласка, введіть тип деталей для {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Incorrectly entered data"
+msgstr "Некоректно введені дані"
+
+#. js-lingui-explicit-id
+msgid "Images {otherName}"
+msgstr "Зображення {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please add images for {otherName}"
+msgstr "Будь ласка, додайте зображення для {otherName}"
+
+#. js-lingui-explicit-id
+msgid "About {NAME_APP}"
+msgstr "Про {NAME_APP}"
+
+#. js-lingui-explicit-id
+msgid "Your professional beauty companion"
+msgstr "Ваш професійний супутник у сфері краси"
+
+#. js-lingui-explicit-id
+msgid "Welcome to {NAME_APP} – your comprehensive mobile solution for beauty professionals! Our app is designed to streamline your business operations, manage client relationships, and boost your productivity."
+msgstr "Ласкаво просимо до {NAME_APP} – вашого комплексного мобільного рішення для професіоналів краси! Наш додаток створений для оптимізації ваших бізнес-операцій, управління відносинами з клієнтами та підвищення вашої продуктивності."
+
+#. js-lingui-explicit-id
+msgid "Key Features"
+msgstr "Основні функції"
+
+#. js-lingui-explicit-id
+msgid "Client Management"
+msgstr "Управління клієнтами"
+
+#. js-lingui-explicit-id
+msgid "Create detailed client profiles, track service history, and maintain comprehensive notes for each appointment."
+msgstr "Створюйте детальні профілі клієнтів, відстежуйте історію послуг та ведіть комплексні нотатки для кожного запису."
+
+#. js-lingui-explicit-id
+msgid "Smart Calendar"
+msgstr "Розумний календар"
+
+#. js-lingui-explicit-id
+msgid "Seamless integration with your device calendar. Automatic sync ensures you never miss an appointment."
+msgstr "Безшовна інтеграція з календарем вашого пристрою. Автоматична синхронізація гарантує, що ви ніколи не пропустите запис."
+
+#. js-lingui-explicit-id
+msgid "SMS Notifications"
+msgstr "SMS-сповіщення"
+
+#. js-lingui-explicit-id
+msgid "Send automated SMS reminders to your clients about upcoming appointments and important updates."
+msgstr "Надсилайте автоматичні SMS-нагадування вашим клієнтам про майбутні записи та важливі оновлення."
+
+#. js-lingui-explicit-id
+msgid "Speech-to-Text"
+msgstr "Перетворення мови в текст"
+
+#. js-lingui-explicit-id
+msgid "Convert your voice notes into text for quick and easy appointment documentation and client notes."
+msgstr "Перетворюйте голосові нотатки в текст для швидкої та зручної документації записів і нотаток клієнтів."
+
+#. js-lingui-explicit-id
+msgid "Photo Gallery"
+msgstr "Фотогалерея"
+
+#. js-lingui-explicit-id
+msgid "Store and organize photos from each appointment to track client progress and showcase your work."
+msgstr "Зберігайте та організовуйте фотографії з кожного запису, щоб відстежувати прогрес клієнтів і демонструвати свою роботу."
+
+#. js-lingui-explicit-id
+msgid "Multi-Platform Sync"
+msgstr "Синхронізація між платформами"
+
+#. js-lingui-explicit-id
+msgid "Access your data seamlessly across mobile app and web platform with real-time synchronization."
+msgstr "Отримуйте доступ до своїх даних у мобільному додатку та на веб-платформі з синхронізацією в реальному часі."
+
+#. js-lingui-explicit-id
+msgid "Subscription Plans"
+msgstr "Тарифні плани"
+
+#. js-lingui-explicit-id
+msgid "Free"
+msgstr "Безкоштовно"
+
+#. js-lingui-explicit-id
+msgid "$0/month"
+msgstr "0$/місяць"
+
+#. js-lingui-explicit-id
+msgid "Up to 20 clients"
+msgstr "До 20 клієнтів"
+
+#. js-lingui-explicit-id
+msgid "3 appointments per client"
+msgstr "3 записи на клієнта"
+
+#. js-lingui-explicit-id
+msgid "1 photo per appointment"
+msgstr "1 фото на запис"
+
+#. js-lingui-explicit-id
+msgid "1 SMS per month"
+msgstr "1 SMS на місяць"
+
+#. js-lingui-explicit-id
+msgid "3 minutes speech-to-text per month"
+msgstr "3 хвилини перетворення мови в текст на місяць"
+
+#. js-lingui-explicit-id
+msgid "Pro"
+msgstr "Pro"
+
+#. js-lingui-explicit-id
+msgid "$4.99/month"
+msgstr "4,99$/місяць"
+
+#. js-lingui-explicit-id
+msgid "Up to 100 clients"
+msgstr "До 100 клієнтів"
+
+#. js-lingui-explicit-id
+msgid "10 appointments per client"
+msgstr "10 записів на клієнта"
+
+#. js-lingui-explicit-id
+msgid "3 photos per appointment"
+msgstr "3 фото на запис"
+
+#. js-lingui-explicit-id
+msgid "20 SMS per month"
+msgstr "20 SMS на місяць"
+
+#. js-lingui-explicit-id
+msgid "60 minutes speech-to-text per month"
+msgstr "60 хвилин перетворення мови в текст на місяць"
+
+#. js-lingui-explicit-id
+msgid "Export clients (CSV)"
+msgstr "Експорт клієнтів (CSV)"
+
+#. js-lingui-explicit-id
+msgid "Premium"
+msgstr "Преміум"
+
+#. js-lingui-explicit-id
+msgid "$9.99/month"
+msgstr "9,99$/місяць"
+
+#. js-lingui-explicit-id
+msgid "Unlimited clients"
+msgstr "Необмежена кількість клієнтів"
+
+#. js-lingui-explicit-id
+msgid "Unlimited appointments per client"
+msgstr "Необмежена кількість записів на клієнта"
+
+#. js-lingui-explicit-id
+msgid "20 photos per appointment"
+msgstr "20 фото на запис"
+
+#. js-lingui-explicit-id
+msgid "50 SMS per month"
+msgstr "50 SMS на місяць"
+
+#. js-lingui-explicit-id
+msgid "300 minutes speech-to-text per month"
+msgstr "300 хвилин перетворення мови в текст на місяць"
+
+#. js-lingui-explicit-id
+msgid "Export/import clients (CSV)"
+msgstr "Експорт/імпорт клієнтів (CSV)"
+
+#. js-lingui-explicit-id
+msgid "Google Calendar integration"
+msgstr "Інтеграція з Google Календарем"
+
+#. js-lingui-explicit-id
+msgid "Priority support"
+msgstr "Пріоритетна підтримка"
+
+#. js-lingui-explicit-id
+msgid "Start with our free plan to explore {NAME_APP} features. Upgrade anytime to unlock more capacity and advanced functionality."
+msgstr "Почніть з нашого безкоштовного тарифу, щоб ознайомитися з можливостями {NAME_APP}. Оновіть тариф у будь-який час, щоб отримати більше можливостей та розширену функціональність."
+
+#. js-lingui-explicit-id
+msgid "* Prices may vary by region and are subject to local taxes."
+msgstr "* Ціни можуть відрізнятися залежно від регіону та підлягають місцевим податкам."
+
+#. js-lingui-explicit-id
+msgid "** Subscription features, limits, and pricing are subject to change. We reserve the right to modify plans and functionality to improve our service."
+msgstr "** Функції підписки, обмеження та ціни можуть змінюватися. Ми залишаємо за собою право змінювати плани та функціональність для покращення нашого сервісу."
+
+#. js-lingui-explicit-id
+msgid "Get in Touch"
+msgstr "Зв'яжіться з нами"
+
+#. js-lingui-explicit-id
+msgid "We're constantly improving {NAME_APP} based on your feedback. Have suggestions or questions? We'd love to hear from you!"
+msgstr "Ми постійно вдосконалюємо {NAME_APP} на основі ваших відгуків. Є пропозиції чи питання? Ми будемо раді почути вас!"
+
+#. js-lingui-explicit-id
+msgid "Contact us: {CONTACT_EMAIL}"
+msgstr "Зв'яжіться з нами: {CONTACT_EMAIL}"
+
+#. js-lingui-explicit-id
+msgid "Thank you for choosing {NAME_APP}!"
+msgstr "Дякуємо, що обрали {NAME_APP}!"
+
+#. js-lingui-explicit-id
+msgid "Account Deletion"
+msgstr "Видалення облікового запису"
+
+#. js-lingui-explicit-id
+msgid "How to delete your account?"
+msgstr "Як видалити свій обліковий запис?"
+
+#. js-lingui-explicit-id
+msgid "To delete your account from {NAME_APP}, open the mobile application, go to your profile, then navigate to settings. At the bottom of the settings page, you will find the \"Delete account\" button. After clicking it, your account and all associated data will be permanently deleted."
+msgstr "Щоб видалити свій обліковий запис з {NAME_APP}, відкрийте мобільний додаток, перейдіть до свого профілю, а потім у налаштування. Внизу сторінки налаштувань ви знайдете кнопку \"Видалити обліковий запис\". Після натискання на неї ваш обліковий запис та всі пов'язані дані будуть назавжди видалені."
+
+#. js-lingui-explicit-id
+msgid "Automatic account deletion"
+msgstr "Автоматичне видалення облікового запису"
+
+#. js-lingui-explicit-id
+msgid "Accounts that have been inactive for more than one year will be automatically deleted along with all associated data. This helps us maintain data security and comply with privacy regulations."
+msgstr "Облікові записи, які були неактивними більше одного року, будуть автоматично видалені разом з усіма пов'язаними даними. Це допомагає нам підтримувати безпеку даних і дотримуватися правил конфіденційності."
+
+#. js-lingui-explicit-id
+msgid "What data will be deleted?"
+msgstr "Які дані будуть видалені?"
+
+#. js-lingui-explicit-id
+msgid "When you delete your account, all your personal data and information associated with your account will be permanently removed:"
+msgstr "Коли ви видаляєте свій обліковий запис, всі ваші особисті дані та інформація, пов'язані з вашим обліковим записом, будуть назавжди видалені:"
+
+#. js-lingui-explicit-id
+msgid "Authentication data (Google, Facebook, Apple login information)"
+msgstr "Дані автентифікації (інформація для входу через Google, Facebook, Apple)"
+
+#. js-lingui-explicit-id
+msgid "Personal information (name, email, phone number)"
+msgstr "Особиста інформація (ім'я, електронна пошта, номер телефону)"
+
+#. js-lingui-explicit-id
+msgid "All client data and profiles"
+msgstr "Всі дані та профілі клієнтів"
+
+#. js-lingui-explicit-id
+msgid "All appointments and scheduling information"
+msgstr "Всі записи та інформація про розклад"
+
+#. js-lingui-explicit-id
+msgid "All photos and images"
+msgstr "Всі фотографії та зображення"
+
+#. js-lingui-explicit-id
+msgid "SMS notifications history"
+msgstr "Історія SMS-сповіщень"
+
+#. js-lingui-explicit-id
+msgid "Speech-to-text recordings and transcripts"
+msgstr "Записи та транскрипти перетворення мови в текст"
+
+#. js-lingui-explicit-id
+msgid "All settings and preferences"
+msgstr "Всі налаштування та переваги"
+
+#. js-lingui-explicit-id
+msgid "Subscription information and payment history"
+msgstr "Інформація про підписку та історія платежів"
+
+#. js-lingui-explicit-id
+msgid "Important notes"
+msgstr "Важливі нотатки"
+
+#. js-lingui-explicit-id
+msgid "Account deletion is irreversible. Once deleted, you cannot recover your data or restore your account. If you want to use {NAME_APP} again in the future, you will need to create a new account."
+msgstr "Видалення облікового запису є незворотним. Після видалення ви не зможете відновити свої дані або відновити свій обліковий запис. Якщо ви захочете знову використовувати {NAME_APP} у майбутньому, вам доведеться створити новий обліковий запис."
+
+#. js-lingui-explicit-id
+msgid "If you have any questions about account deletion or need assistance, please contact us at our support email."
+msgstr "Якщо у вас є питання щодо видалення облікового запису або вам потрібна допомога, будь ласка, зв'яжіться з нами за нашою службою підтримки електронною поштою."
+
+#. js-lingui-explicit-id
+msgid "Create detailed client profiles, track service history, and maintain comprehensive notes."
+msgstr "Створюйте детальні профілі клієнтів, відстежуйте історію послуг та ведіть комплексні нотатки."
+
+#. js-lingui-explicit-id
+msgid "Send automated SMS reminders to your clients about upcoming appointments."
+msgstr "Надсилайте автоматичні SMS-нагадування вашим клієнтам про майбутні записи."
+
+#. js-lingui-explicit-id
+msgid "Store and organize photos from each appointment to track client progress."
+msgstr "Зберігайте та організовуйте фотографії з кожного запису, щоб відстежувати прогрес клієнтів."
+
+#. js-lingui-explicit-id
+msgid "Convert your voice notes into text for quick and easy documentation."
+msgstr "Перетворюйте голосові нотатки в текст для швидкої та зручної документації."
+
+#. js-lingui-explicit-id
+msgid "Access your data seamlessly across mobile app and web platform."
+msgstr "Отримуйте доступ до своїх даних у мобільному додатку та на веб-платформі."
+
+#. js-lingui-explicit-id
+msgid "Active Users"
+msgstr "Активні користувачі"
+
+#. js-lingui-explicit-id
+msgid "Appointments Managed"
+msgstr "Кількість керованих записів"
+
+#. js-lingui-explicit-id
+msgid "Uptime"
+msgstr "Час безвідмовної роботи"
+
+#. js-lingui-explicit-id
+msgid "App Rating"
+msgstr "Рейтинг додатку"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} – Smart Scheduling App for Beauty Experts"
+msgstr "{NAME_APP} – розумний додаток для запису для експертів краси"
+
+#. js-lingui-explicit-id
+msgid "Beauty Sync helps beauty professionals manage appointments, clients, and reminders with ease."
+msgstr "Beauty Sync допомагає професіоналам краси легко керувати записами, клієнтами та нагадуваннями."
+
+#. js-lingui-explicit-id
+msgid "Welcome to {NAME_APP}"
+msgstr "Ласкаво просимо до {NAME_APP}"
+
+#. js-lingui-explicit-id
+msgid "Your Professional Beauty Companion"
+msgstr "Ваш професійний супутник у сфері краси"
+
+#. js-lingui-explicit-id
+msgid "Streamline your beauty business with our comprehensive mobile solution. Manage appointments, track clients, and boost productivity with ease."
+msgstr "Оптимізуйте свій бізнес краси за допомогою нашого комплексного мобільного рішення. Керуйте записами, відстежуйте клієнтів і підвищуйте продуктивність легко."
+
+#. js-lingui-explicit-id
+msgid "Download on App Store"
+msgstr "Завантажити в App Store"
+
+#. js-lingui-explicit-id
+msgid "Get it on Google Play"
+msgstr "Отримати в Google Play"
+
+#. js-lingui-explicit-id
+msgid "4.8★ Rating"
+msgstr "Рейтинг 4.8★"
+
+#. js-lingui-explicit-id
+msgid "Secure & Private"
+msgstr "Безпечно та конфіденційно"
+
+#. js-lingui-explicit-id
+msgid "Fast & Reliable"
+msgstr "Швидко та надійно"
+
+#. js-lingui-explicit-id
+msgid "Everything you need to manage your beauty business efficiently"
+msgstr "Все, що потрібно для ефективного управління вашим бізнесом краси"
+
+#. js-lingui-explicit-id
+msgid "Ready to Transform Your Business?"
+msgstr "Готові змінити свій бізнес?"
+
+#. js-lingui-explicit-id
+msgid "Join thousands of beauty professionals who trust {NAME_APP} to manage their business"
+msgstr "Приєднуйтесь до тисяч професіоналів краси, які довіряють {NAME_APP} керування своїм бізнесом"
+
+#. js-lingui-explicit-id
+msgid "Last updated:"
+msgstr "Останнє оновлення:"
+
+#. js-lingui-explicit-id
+msgid "February 6, 2026"
+msgstr "6 лютого 2026"
+
+#. js-lingui-explicit-id
+msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, FOP (\"us\", \"we\", or \"our\"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our mobile application and services (\"Service\")."
+msgstr "Мобільні та веб-додатки \"{NAME_APP}\" розроблені та експлуатуються Вадимом Безсмертним, ФОП (\"ми\", \"нас\" або \"наші\"). Ця Політика конфіденційності пояснює, як ми збираємо, використовуємо та захищаємо ваші особисті дані при доступі та використанні нашого мобільного додатку та послуг (\"Сервіс\")."
+
+#. js-lingui-explicit-id
+msgid "Information We Collect"
+msgstr "Інформація, яку ми збираємо"
+
+#. js-lingui-explicit-id
+msgid "Information Collection"
+msgstr "Збір інформації"
+
+#. js-lingui-explicit-id
+msgid "We collect information to ensure the effective functionality of the {NAME_APP} app. The data collected may include:"
+msgstr "Ми збираємо інформацію для забезпечення ефективної функціональності додатку {NAME_APP}. Зібрані дані можуть включати:"
+
+#. js-lingui-explicit-id
+msgid "Contacts: to create client records."
+msgstr "Контакти: для створення записів клієнтів."
+
+#. js-lingui-explicit-id
+msgid "Calendar data: to synchronize appointments and reminders."
+msgstr "Дані календаря: для синхронізації записів та нагадувань."
+
+#. js-lingui-explicit-id
+msgid "Camera and photo library: to upload client or work photos."
+msgstr "Камера та фотобібліотека: для завантаження фотографій клієнтів або робіт."
+
+#. js-lingui-explicit-id
+msgid "Push notifications: to remind users about upcoming appointments."
+msgstr "Повідомлення про натискання: для нагадування користувачам про майбутні записи."
+
+#. js-lingui-explicit-id
+msgid "Personal user information: such as name, email address, and phone number."
+msgstr "Особиста інформація користувача: така як ім'я, адреса електронної пошти та номер телефону."
+
+#. js-lingui-explicit-id
+msgid "Subscription information: for managing your account and processing payments. Prices may vary by region and are subject to local taxes."
+msgstr "Інформація про підписку: для управління вашим обліковим записом та обробки платежів. Ціни можуть варіюватися в залежності від регіону та підлягають місцевим податкам."
+
+#. js-lingui-explicit-id
+msgid "Voice recordings: for speech-to-text functionality to convert voice notes into text for appointment documentation."
+msgstr "Голосові записи: для функції перетворення мови на текст, щоб конвертувати голосові нотатки в текст для документації призначень."
+
+#. js-lingui-explicit-id
+msgid "SMS data: for sending automated reminders to clients about upcoming appointments."
+msgstr "SMS-дані: для надсилання автоматичних нагадувань клієнтам про майбутні записи."
+
+#. js-lingui-explicit-id
+msgid "Usage analytics: to improve app functionality and user experience."
+msgstr "Аналітика використання: для покращення функціональності додатку та досвіду користувача."
+
+#. js-lingui-explicit-id
+msgid "Export/import data: for CSV export and import functionality (available with Pro and Premium subscriptions)."
+msgstr "Експорт/імпорт даних: для функції експорту та імпорту CSV (доступно з підписками Pro та Premium)."
+
+#. js-lingui-explicit-id
+msgid "Use of Information"
+msgstr "Використання інформації"
+
+#. js-lingui-explicit-id
+msgid "We process your data based on legitimate interests and contractual necessity. The collected data is used to:"
+msgstr "Ми обробляємо ваші дані на основі законних інтересів і договірної необхідності. Зібрані дані використовуються для:"
+
+#. js-lingui-explicit-id
+msgid "Create client records and appointments."
+msgstr "Створення записів клієнтів та записів."
+
+#. js-lingui-explicit-id
+msgid "Send SMS reminders to clients."
+msgstr "Надсилати SMS-нагадування клієнтам."
+
+#. js-lingui-explicit-id
+msgid "Convert voice recordings to text for appointment documentation."
+msgstr "Конвертувати голосові записи в текст для документації призначень."
+
+#. js-lingui-explicit-id
+msgid "Synchronize the calendar for appointment reminders."
+msgstr "Синхронізація календаря для нагадувань про записи."
+
+#. js-lingui-explicit-id
+msgid "Enable app features such as uploading photos and creating notes."
+msgstr "Увімкнення функцій додатка, таких як завантаження фотографій та створення нотаток."
+
+#. js-lingui-explicit-id
+msgid "Manage subscriptions and process billing."
+msgstr "Управління підписками та обробка рахунків."
+
+#. js-lingui-explicit-id
+msgid "Provide analytics and insights to improve service functionality."
+msgstr "Надання аналітики та інсайтів для покращення функціональності сервісу."
+
+#. js-lingui-explicit-id
+msgid "Ensure compliance with subscription limits and features."
+msgstr "Забезпечення відповідності обмеженням та функціям підписки."
+
+#. js-lingui-explicit-id
+msgid "Process data for export/import functionality (Pro subscription: export only, Premium subscription: export and import)."
+msgstr "Обробка даних для функції експорту/імпорту (підписка Pro: тільки експорт, підписка Premium: експорт та імпорт)."
+
+#. js-lingui-explicit-id
+msgid "Access to Permissions"
+msgstr "Доступ до дозволів"
+
+#. js-lingui-explicit-id
+msgid "Permissions are requested only for functions directly related to the app's operation. The {NAME_APP} app requires access to the following device features:"
+msgstr "Дозволи запитуються лише для функцій, безпосередньо пов'язаних з роботою додатку. Додаток {NAME_APP} потребує доступу до наступних функцій пристрою:"
+
+#. js-lingui-explicit-id
+msgid "Contacts: to add clients to the app."
+msgstr "Контакти: для додавання клієнтів до додатка."
+
+#. js-lingui-explicit-id
+msgid "Calendar: to sync events."
+msgstr "Календар: для синхронізації подій."
+
+#. js-lingui-explicit-id
+msgid "Camera and photo library: to upload images."
+msgstr "Камера та фотобібліотека: для завантаження зображень."
+
+#. js-lingui-explicit-id
+msgid "Push notifications: to send reminders."
+msgstr "Повідомлення про натискання: для надсилання нагадувань."
+
+#. js-lingui-explicit-id
+msgid "Microphone: for speech-to-text functionality."
+msgstr "Мікрофон: для функції перетворення мови на текст."
+
+#. js-lingui-explicit-id
+msgid "SMS access: for sending appointment reminders."
+msgstr "Доступ до SMS: для надсилання нагадувань про записи."
+
+#. js-lingui-explicit-id
+msgid "Data Security"
+msgstr "Безпека даних"
+
+#. js-lingui-explicit-id
+msgid "Your data is protected using industry-standard security measures. We implement the following security practices:"
+msgstr "Ваші дані захищені за допомогою галузевих стандартів безпеки. Ми впроваджуємо такі практики безпеки:"
+
+#. js-lingui-explicit-id
+msgid "End-to-end encryption for data transmission."
+msgstr "Кінцева шифрація для передачі даних."
+
+#. js-lingui-explicit-id
+msgid "Limited access to servers where information is stored."
+msgstr "Обмежений доступ до серверів, де зберігається інформація."
+
+#. js-lingui-explicit-id
+msgid "Regular security updates and monitoring."
+msgstr "Регулярні оновлення безпеки та моніторинг."
+
+#. js-lingui-explicit-id
+msgid "Secure API authentication for third-party integrations."
+msgstr "Безпечна автентифікація API для інтеграцій зі сторонніми сервісами."
+
+#. js-lingui-explicit-id
+msgid "Compliance with industry security standards."
+msgstr "Відповідність галузевим стандартам безпеки."
+
+#. js-lingui-explicit-id
+msgid "Sharing Information with Third Parties"
+msgstr "Розподіл інформації з третіми сторонами"
+
+#. js-lingui-explicit-id
+msgid "We may share your data with third parties in the following cases:"
+msgstr "Ми можемо передавати ваші дані третім сторонам у таких випадках:"
+
+#. js-lingui-explicit-id
+msgid "SMS service providers: for sending appointment reminders to clients."
+msgstr "Постачальники SMS-послуг: для надсилання нагадувань про записи клієнтам."
+
+#. js-lingui-explicit-id
+msgid "Payment processors: Apple App Store and Google Play for subscription billing."
+msgstr "Платіжні системи: Apple App Store та Google Play для виставлення рахунків за підписку."
+
+#. js-lingui-explicit-id
+msgid "Analytics services: for service improvement (anonymized data only)."
+msgstr "Аналітичні сервіси: для покращення сервісу (лише анонімізовані дані)."
+
+#. js-lingui-explicit-id
+msgid "Legal requirements: when required by law or to protect our rights."
+msgstr "Вимоги законодавства: коли цього вимагає закон або для захисту наших прав."
+
+#. js-lingui-explicit-id
+msgid "Cloud storage providers: for secure data backup and synchronization."
+msgstr "Постачальники хмарного зберігання: для безпечного резервного копіювання та синхронізації даних."
+
+#. js-lingui-explicit-id
+msgid "International Data Transfers"
+msgstr "Міжнародна передача даних"
+
+#. js-lingui-explicit-id
+msgid "Your data may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place to protect your data in accordance with applicable data protection laws."
+msgstr "Ваші дані можуть передаватися та оброблятися в інших країнах. Ми забезпечуємо належні заходи для захисту ваших даних відповідно до чинного законодавства про захист даних."
+
+#. js-lingui-explicit-id
+msgid "Data Retention"
+msgstr "Зберігання даних"
+
+#. js-lingui-explicit-id
+msgid "We retain your data only as long as necessary to provide our services. Data is automatically deleted when you delete your account or revoke permissions. Some data may be retained for legal or security purposes as required by law. We comply with applicable data protection laws including GDPR where applicable."
+msgstr "Ми зберігаємо ваші дані лише стільки, скільки необхідно для надання наших послуг. Дані автоматично видаляються, коли ви видаляєте обліковий запис або відкликаєте дозволи. Деякі дані можуть зберігатися для юридичних чи безпекових цілей, якщо цього вимагає закон. Ми дотримуємося чинного законодавства про захист даних, включаючи GDPR, якщо застосовується."
+
+#. js-lingui-explicit-id
+msgid "Service Limitations and Disclaimers"
+msgstr "Обмеження сервісу та відмова від відповідальності"
+
+#. js-lingui-explicit-id
+msgid "While we strive to provide reliable service, we cannot guarantee uninterrupted access or complete data security. We are not responsible for:"
+msgstr "Ми прагнемо забезпечити надійний сервіс, але не можемо гарантувати безперервний доступ або повну безпеку даних. Ми не несемо відповідальності за:"
+
+#. js-lingui-explicit-id
+msgid "Temporary service interruptions due to maintenance or technical issues."
+msgstr "Тимчасові перебої у роботі сервісу через технічне обслуговування або технічні проблеми."
+
+#. js-lingui-explicit-id
+msgid "Data loss caused by user actions or device malfunctions."
+msgstr "Втрату даних, спричинену діями користувача або несправністю пристрою."
+
+#. js-lingui-explicit-id
+msgid "Third-party service failures (SMS providers, payment processors, etc.)."
+msgstr "Збої у роботі сторонніх сервісів (SMS-провайдери, платіжні системи тощо)."
+
+#. js-lingui-explicit-id
+msgid "Compliance issues arising from user misuse of the service."
+msgstr "Проблеми з дотриманням вимог, що виникають через неправильне використання сервісу користувачем."
+
+#. js-lingui-explicit-id
+msgid "Financial losses resulting from service interruptions or data issues."
+msgstr "Фінансові втрати, що виникають через перебої у роботі сервісу або проблеми з даними."
+
+#. js-lingui-explicit-id
+msgid "User Rights"
+msgstr "Права користувача"
+
+#. js-lingui-explicit-id
+msgid "To exercise your rights, contact us at {CONTACT_EMAIL}. You have the following rights:"
+msgstr "Для використання ваших прав зв'яжіться з нами за адресою {CONTACT_EMAIL}. У вас є наступні права:"
+
+#. js-lingui-explicit-id
+msgid "Access your data: You can review the data we store about you."
+msgstr "Доступ до ваших даних: ви можете переглянути дані, які ми зберігаємо про вас."
+
+#. js-lingui-explicit-id
+msgid "Delete your data: You can request the deletion of your information."
+msgstr "Видалення ваших даних: ви можете запросити видалення вашої інформації."
+
+#. js-lingui-explicit-id
+msgid "Revoke permissions: You can modify app permissions via your device settings."
+msgstr "Відкликання дозволів: ви можете змінити дозволи додатка через налаштування пристрою."
+
+#. js-lingui-explicit-id
+msgid "Export your data: You can request a copy of your data in a portable format or use the built-in CSV export feature (available with Pro and Premium subscriptions)."
+msgstr "Експортуйте свої дані: ви можете запросити копію своїх даних у портативному форматі або скористатися вбудованою функцією експорту CSV (доступно з підписками Pro та Premium)."
+
+#. js-lingui-explicit-id
+msgid "Rectify your data: You can request correction of inaccurate personal data."
+msgstr "Виправити ваші дані: ви можете запросити виправлення неточних персональних даних."
+
+#. js-lingui-explicit-id
+msgid "Restrict processing: You can request limitation of data processing under certain circumstances."
+msgstr "Обмежити обробку: ви можете запросити обмеження обробки даних за певних обставин."
+
+#. js-lingui-explicit-id
+msgid "Changes to the Privacy Policy"
+msgstr "Зміни в Політиці конфіденційності"
+
+#. js-lingui-explicit-id
+msgid ""
+"We may update this Privacy Policy periodically. All updates will be published on this page with the updated date.\n"
+"We recommend checking this section regularly to stay informed of any changes. For significant updates, we will notify you via the app or email."
+msgstr ""
+"Ми можемо періодично оновлювати цю Політику конфіденційності. Усі оновлення будуть опубліковані на цій сторінці з оновленою датою.\n"
+"Ми рекомендуємо перевіряти цей розділ регулярно, щоб бути в курсі будь-яких змін. Для значних оновлень ми повідомимо вас через додаток або електронною поштою."
+
+#. js-lingui-explicit-id
+msgid "Contact Information"
+msgstr "Контактна інформація"
+
+#. js-lingui-explicit-id
+msgid "If you have questions about this Privacy Policy, contact us at {CONTACT_EMAIL}."
+msgstr "Якщо у вас є питання щодо цієї Політики конфіденційності, зв'яжіться з нами за адресою {CONTACT_EMAIL}."
+
+#. js-lingui-explicit-id
+msgid "\"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, FOP (\"us\", \"we\", or \"our\"). By accessing or using our mobile application and web services (\"Service\"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service."
+msgstr "Мобільні та веб-додатки \"{NAME_APP}\" розроблені та експлуатуються Вадимом Безсмертним, ФОП (\"ми\", \"нас\" або \"наші\"). Отримуючи доступ або використовуючи наш мобільний додаток і веб-сервіси (\"Сервіс\"), ви (Користувач) погоджуєтеся дотримуватися цих Умов використання. Будь ласка, уважно ознайомтеся з цими умовами перед використанням сервісу."
+
+#. js-lingui-explicit-id
+msgid "1. Purpose of the Application"
+msgstr "1. Мета додатку"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} is a comprehensive mobile and web application designed to help beauty professionals (stylists, makeup artists, nail technicians, and other beauty specialists) manage their business operations effectively. The application allows users to create detailed client profiles, manage appointments, synchronize schedules with device calendars, send SMS reminders to clients, convert voice notes to text for appointment documentation, store photos from appointments, and receive notifications about upcoming appointments."
+msgstr "{NAME_APP} – це комплексний мобільний та веб-додаток, розроблений для допомоги професіоналам краси (стилістам, візажистам, манікюрникам та іншим специалистам красоты) эффективно управлять своими бизнес-операциями. Приложение позволяет пользователям создавать подробные профили клиентов, управлять записями, синхронизировать расписания с календарями устройств, отправлять SMS-напоминания клиентам, конвертировать голосовые заметки в текст для документации записей, хранить фотографии из записей и получать уведомления о предстоящих записях."
+
+#. js-lingui-explicit-id
+msgid "2. Permissions and Usage Restrictions"
+msgstr "2. Дозволи та обмеження використання"
+
+#. js-lingui-explicit-id
+msgid "By using {NAME_APP}, you agree to utilize the app solely for its intended purposes. Any misuse of the app, such as reverse-engineering, unauthorized modifications, or illegal activities, is strictly prohibited. Users are also responsible for maintaining the confidentiality of their account credentials and ensuring that the app is used in compliance with local laws and regulations."
+msgstr "Використовуючи {NAME_APP}, ви погоджуєтеся використовувати додаток виключно для його призначених цілей. Будь-яке недопущене використання додатка, таке як реверс-інженерія, несанкціоновані модифікації або незаконні дії, строго заборонено. Користувачі також відповідають за збереження конфіденційності своїх облікових даних та забезпечення використання додатка відповідно до місцевих законів та правил."
+
+#. js-lingui-explicit-id
+msgid "3. Subscriptions and Payments"
+msgstr "3. Підписки та платежі"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} offers a free tier with basic features, and two premium subscription plans (Pro and Premium) for advanced functionality. All subscriptions are billed monthly. Payments are processed through the Apple App Store or Google Play, according to their respective policies. Apple and Google may adjust subscription prices depending on your region. Subscriptions renew automatically unless canceled at least 24 hours before the end of the billing period. All payments are non-refundable unless required by applicable law."
+msgstr "{NAME_APP} пропонує безкоштовний тариф із базовими функціями та два преміум-плани підписки (Pro і Premium) для розширених можливостей. Усі підписки оплачуються щомісяця. Платежі обробляються через Apple App Store або Google Play згідно з їхніми політиками. Apple і Google можуть змінювати ціни на підписку залежно від вашого регіону. Підписки автоматично поновлюються, якщо їх не скасувати щонайменше за 24 години до закінчення розрахункового періоду. Усі платежі не повертаються, якщо інше не передбачено чинним законодавством."
+
+#. js-lingui-explicit-id
+msgid "4. Subscription Information"
+msgstr "4. Інформація про підписку"
+
+#. js-lingui-explicit-id
+msgid "The following subscription plans are available:"
+msgstr "Доступні такі тарифні плани:"
+
+#. js-lingui-explicit-id
+msgid "Free Plan"
+msgstr "Безкоштовний тариф"
+
+#. js-lingui-explicit-id
+msgid "Price: Free"
+msgstr "Ціна: Безкоштовно"
+
+#. js-lingui-explicit-id
+msgid "Basic calendar sync"
+msgstr "Базова синхронізація календаря"
+
+#. js-lingui-explicit-id
+msgid "Pro Plan"
+msgstr "Тариф Pro"
+
+#. js-lingui-explicit-id
+msgid "Price: $4.99 per month"
+msgstr "Ціна: 4,99$ на місяць"
+
+#. js-lingui-explicit-id
+msgid "Advanced calendar sync"
+msgstr "Розширена синхронізація календаря"
+
+#. js-lingui-explicit-id
+msgid "Premium Plan"
+msgstr "Тариф Premium"
+
+#. js-lingui-explicit-id
+msgid "Price: $9.99 per month"
+msgstr "Ціна: 9,99$ на місяць"
+
+#. js-lingui-explicit-id
+msgid "Full calendar sync and analytics"
+msgstr "Повна синхронізація календаря та аналітика"
+
+#. js-lingui-explicit-id
+msgid "5. Notifications and Reminders"
+msgstr "5. Сповіщення та нагадування"
+
+#. js-lingui-explicit-id
+msgid "The application sends push notifications and SMS reminders to inform users about upcoming appointments and related updates. By enabling push notifications and SMS features, users consent to receiving these alerts. It is the user's responsibility to ensure notifications are active on their device and to provide accurate phone numbers for SMS reminders to avoid missing important updates."
+msgstr "Приложение отправляет push-уведомления и SMS-напоминания, чтобы информировать пользователей о предстоящих записях и связанных обновлениях. Включая функции push-уведомлений и SMS, пользователи соглашаются на получение этих оповещений. Ответственность пользователя заключается в том, чтобы убедиться, что уведомления активированы на их устройстве, и предоставить точные номера телефонов для SMS-напоминаний, чтобы не пропустить важные обновления."
+
+#. js-lingui-explicit-id
+msgid "6. Data Management and Privacy"
+msgstr "6. Управління даними та конфіденційність"
+
+#. js-lingui-explicit-id
+msgid "The application provides tools for managing and storing client data, including voice recordings and SMS data. Users are responsible for entering accurate information, maintaining backups of critical data when necessary, and ensuring they have proper consent from clients for data collection. {NAME_APP} is not liable for any data loss due to user error, device failure, unauthorized access, or third-party service failures. Users must comply with applicable data protection laws and regulations."
+msgstr "Приложение предоставляет инструменты для управления и хранения данных клиентов, включая голосовые записи и SMS-данные. Пользователи несут ответственность за ввод точной информации, поддержание резервных копий критических данных при необходимости и обеспечение наличия надлежащего согласия от клиентов на сбор данных. {NAME_APP} не несет ответственности за любую потерю данных из-за ошибки пользователя, сбоя устройства, несанкционированного доступа или сбоев сторонних сервисов. Пользователи должны соблюдать применимые законы и правила защиты данных."
+
+#. js-lingui-explicit-id
+msgid "7. Service Limitations and Disclaimers"
+msgstr "7. Обмеження сервісу та відмова від відповідальності"
+
+#. js-lingui-explicit-id
+msgid "While we strive to provide reliable service, we cannot guarantee uninterrupted access or complete data security. We are not responsible for temporary service interruptions due to maintenance or technical issues, data loss caused by user actions or device malfunctions, third-party service failures (SMS providers, payment processors, etc.), compliance issues arising from user misuse of the service, or financial losses resulting from service interruptions or data issues."
+msgstr "Ми прагнемо забезпечити надійний сервіс, але не можемо гарантувати безперервний доступ або повну безпеку даних. Ми не несемо відповідальності за тимчасові перебої у роботі сервісу через технічне обслуговування або технічні проблеми, втрату даних, спричинену діями користувача або несправністю пристрою, збої у роботі сторонніх сервісів (SMS-провайдери, платіжні системи тощо), проблеми з дотриманням вимог, що виникають через неправильне використання сервісу користувачем, або фінансові втрати, що виникають через перебої у роботі сервісу або проблеми з даними."
+
+#. js-lingui-explicit-id
+msgid "8. Changes to Terms"
+msgstr "8. Зміни до умов"
+
+#. js-lingui-explicit-id
+msgid "These Terms of Use may be updated periodically. Any changes will be published within the application, and the effective date will be revised accordingly. Continued use of the service after updates signifies acceptance of the new terms."
+msgstr "Ці Умови використання можуть періодично оновлюватися. Усі зміни будуть опубліковані в додатку, а дата набуття чинності буде змінена відповідно. Подальше використання сервісу після оновлення означає прийняття нових умов."
+
+#. js-lingui-explicit-id
+msgid "9. Limitation of Liability"
+msgstr "9. Обмеження відповідальності"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} and its developers are not responsible for any damages resulting from the use or inability to use the service. This includes issues caused by errors, interruptions, third-party integrations, or unauthorized access to data. We are not responsible for illegal use of the application by users."
+msgstr "{NAME_APP} та його розробники не несуть відповідальності за будь-які збитки, що виникли внаслідок використання або неможливості використання сервісу. Це включає проблеми, спричинені помилками, перебоями, інтеграціями зі сторонніми сервісами або несанкціонованим доступом до даних. Ми не несемо відповідальності за незаконне використання додатку користувачами."
+
+#. js-lingui-explicit-id
+msgid "10. Prohibited Activities and Content Monitoring"
+msgstr "10. Заборонені дії та моніторинг контенту"
+
+#. js-lingui-explicit-id
+msgid "We may monitor usage patterns to ensure compliance with these terms. In case of detecting misuse of the service, violations of applicable laws, or activities that compromise the integrity of the platform, we may suspend or terminate user accounts without refund. Users are responsible for ensuring that their use of the service complies with all applicable laws and regulations."
+msgstr "Ми можемо відстежувати шаблони використання для забезпечення дотримання цих умов. У разі виявлення зловживання сервісом, порушення чинного законодавства або дій, що підривають цілісність платформи, ми можемо призупинити або видалити обліковий запис користувача без повернення коштів. Користувачі несуть відповідальність за те, щоб їхнє використання сервісу відповідало всім чинним законам і правилам."
+
+#. js-lingui-explicit-id
+msgid "11. Support"
+msgstr "11. Підтримка"
+
+#. js-lingui-explicit-id
+msgid "For assistance with technical issues, subscription questions, or other inquiries, users can contact us at {CONTACT_EMAIL}. Our team strives to address support requests promptly, typically within 48 hours."
+msgstr "Для отримання допомоги з технічними питаннями, питаннями щодо підписки або іншими запитаннями користувачі можуть зв'язатися з нами за адресою {CONTACT_EMAIL}. Наша команда прагне відповідати на запити підтримки оперативно, зазвичай протягом 48 годин."
+
+#. js-lingui-explicit-id
+msgid "12. Account Deletion"
+msgstr "12. Видалення облікового запису"
+
+#. js-lingui-explicit-id
+msgid "If you wish to delete your account, you can do so through the app's settings or by submitting a request via the developer's feedback form at the following link: https://vb-dev.org.ua/#feedback."
+msgstr "Якщо ви бажаєте видалити свій обліковий запис, ви можете зробити це через налаштування додатку або надіславши запит через форму зворотного зв'язку розробника за наступним посиланням: https://vb-dev.org.ua/#feedback."
+
+#. js-lingui-explicit-id
+msgid "13. Apple's Standard Terms"
+msgstr "13. Стандартні умови Apple"
+
+#. js-lingui-explicit-id
+msgid "In addition to these Terms of Use, {NAME_APP} operates under the Apple Standard End User License Agreement (EULA), which can be found at the following link:"
+msgstr "На додаток до цих Умов використання, {NAME_APP} працює відповідно до Стандартної угоди про ліцензію кінцевого користувача Apple (EULA), яка доступна за наступним посиланням:"
+
+#. js-lingui-explicit-id
+msgid "By using {NAME_APP}, you confirm that you have read and agreed to these Terms of Use."
+msgstr "Використовуючи {NAME_APP}, ви підтверджуєте, що прочитали та погодилися з цими Умовами використання."

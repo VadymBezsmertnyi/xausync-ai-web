@@ -1,0 +1,223 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 20px;
+  background-color: #ffffff;
+  box-shadow: 0 3px 3px rgba(32, 19, 11, 0.1);
+  border-bottom: 1.5px solid #e6dfec;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+}
+
+.containerLeft {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.containerLogo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+}
+
+.containerLogo:hover {
+  opacity: 0.8;
+}
+
+.titleLogo {
+  font-size: 20px;
+  font-family: "Tenor Sans", serif;
+  color: #582c83;
+  font-weight: 700;
+  letter-spacing: -0.22px;
+}
+
+.desktopMenu {
+  display: flex;
+  gap: 32px;
+  align-items: center;
+}
+
+.listMenu {
+  display: flex;
+  gap: 32px;
+  align-items: center;
+}
+
+.mobileMenuButton {
+  display: none;
+  color: #582c83;
+}
+
+.menuElement {
+  padding: 8px 16px;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  background-color: transparent;
+  font-family: "Tenor Sans", serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: #8f9bb3;
+  text-decoration: none;
+  border: 1.5px solid transparent;
+}
+
+.menuElement:hover {
+  color: #582c83;
+  background-color: #f6f2fa;
+  border-color: #ded1e9;
+  transform: translateY(-1px);
+}
+
+.menuElement:active {
+  transform: translateY(0);
+}
+
+.menuElementActive {
+  color: #582c83 !important;
+  background-color: #f6f2fa !important;
+  border-color: #ded1e9 !important;
+  font-weight: 600 !important;
+}
+
+/* Mobile Drawer Styles */
+.mobileDrawer .MuiDrawer-paper {
+  background-color: #ffffff;
+  border-left: 1.5px solid #e6dfec;
+}
+
+.drawerPaper {
+  background-color: #ffffff !important;
+  border-left: 1.5px solid #e6dfec !important;
+}
+
+.drawerHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 20px;
+  border-bottom: 1.5px solid #e6dfec;
+  background-color: #f6f2fa;
+}
+
+.drawerTitle {
+  font-family: "Tenor Sans", serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: #582c83;
+}
+
+.drawerList {
+  padding: 20px 0;
+}
+
+.drawerItem {
+  padding: 0;
+  margin-bottom: 8px;
+}
+
+.drawerLink {
+  display: block;
+  width: 100%;
+  padding: 12px 20px;
+  font-family: "Tenor Sans", serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: #8f9bb3;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  border-radius: 8px;
+  margin: 0 16px;
+}
+
+.drawerLink:hover {
+  color: #582c83;
+  background-color: #f6f2fa;
+}
+
+.drawerLinkActive {
+  color: #582c83 !important;
+  background-color: #f6f2fa !important;
+  font-weight: 600 !important;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 12px 16px;
+    position: relative;
+  }
+
+  .desktopMenu {
+    display: none;
+  }
+
+  .mobileMenuButton {
+    display: block;
+    position: absolute;
+    right: 80px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10;
+  }
+
+  .listMenu {
+    display: none;
+  }
+
+  .titleLogo {
+    font-size: 18px;
+  }
+
+  .containerLogo {
+    gap: 8px;
+  }
+
+  .containerLeft {
+    position: absolute;
+    right: 16px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 10px 12px;
+  }
+
+  .mobileMenuButton {
+    right: 70px;
+  }
+
+  .containerLeft {
+    right: 12px;
+  }
+
+  .titleLogo {
+    font-size: 16px;
+  }
+
+  .containerLogo img {
+    width: 40px;
+    height: 40px;
+  }
+
+  .drawerHeader {
+    padding: 12px 16px;
+  }
+
+  .drawerTitle {
+    font-size: 16px;
+  }
+
+  .drawerLink {
+    padding: 10px 16px;
+    font-size: 14px;
+    margin: 0 12px;
+  }
+}

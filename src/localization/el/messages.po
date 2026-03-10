@@ -1,0 +1,966 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-02-08 08:08+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: el\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+msgid "Home"
+msgstr "Αρχική"
+
+#. js-lingui-explicit-id
+msgid "About"
+msgstr "Σχετικά"
+
+#. js-lingui-explicit-id
+msgid "Terms of Use"
+msgstr "Όροι Χρήσης"
+
+#. js-lingui-explicit-id
+msgid "Privacy Policy"
+msgstr "Πολιτική Απορρήτου"
+
+#. js-lingui-explicit-id
+msgid "Logo"
+msgstr "Λογότυπο"
+
+#. js-lingui-explicit-id
+msgid "Menu"
+msgstr "Μενού"
+
+#. js-lingui-explicit-id
+msgid "Select language"
+msgstr "Επιλογή γλώσσας"
+
+#. js-lingui-explicit-id
+msgid "Name of the {otherName}"
+msgstr "Όνομα του {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The text must contain a minimum of {min} and a maximum of {max} characters."
+msgstr "Το κείμενο πρέπει να περιέχει ελάχιστο {min} και μέγιστο {max} χαρακτήρες."
+
+#. js-lingui-explicit-id
+msgid "The place of the {otherName}"
+msgstr "Ο τόπος του {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The location of the {otherName} must be selected."
+msgstr "Η τοποθεσία του {otherName} πρέπει να επιλεγεί."
+
+#. js-lingui-explicit-id
+msgid "Date of the {otherName}"
+msgstr "Ημερομηνία του {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The end date must be greater than the start date."
+msgstr "Η ημερομηνία λήξης πρέπει να είναι μεγαλύτερη από την ημερομηνία έναρξης."
+
+#. js-lingui-explicit-id
+msgid "Tell us about the {otherName}"
+msgstr "Πείτε μας για το {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Description of the {otherName}"
+msgstr "Περιγραφή του {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Phone number the {otherName}"
+msgstr "Αριθμός τηλεφώνου του {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter phone number"
+msgstr "Παρακαλώ εισάγετε αριθμό τηλεφώνου"
+
+#. js-lingui-explicit-id
+msgid "Types of {otherName} jobs"
+msgstr "Τύποι εργασιών {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please select at least one type"
+msgstr "Παρακαλώ επιλέξτε τουλάχιστον έναν τύπο"
+
+#. js-lingui-explicit-id
+msgid "Price {otherName}"
+msgstr "Τιμή {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter price for {otherName}"
+msgstr "Παρακαλώ εισάγετε τιμή για {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Category {otherName}"
+msgstr "Κατηγορία {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter category for {otherName}"
+msgstr "Παρακαλώ εισάγετε κατηγορία για {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Brand {otherName}"
+msgstr "Μάρκα {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter brand for {otherName}"
+msgstr "Παρακαλώ εισάγετε μάρκα για {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Mileage {otherName}"
+msgstr "Χιλιόμετρα {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter mileage for {otherName}"
+msgstr "Παρακαλώ εισάγετε χιλιόμετρα για {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Year release {otherName}"
+msgstr "Έτος κυκλοφορίας {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
+msgstr "Παρακαλώ εισάγετε έτος ελάχιστο {min} και μέγιστο {max} για {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type fuel {otherName}"
+msgstr "Τύπος καυσίμου {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type fuel for {otherName}"
+msgstr "Παρακαλώ εισάγετε τύπο καυσίμου για {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type transmission {otherName}"
+msgstr "Τύπος μεταδοσής {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type transmission for {otherName}"
+msgstr "Παρακαλώ εισάγετε τύπο μεταδοσής για {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type parts {otherName}"
+msgstr "Τύπος ανταλλακτικών {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type parts for {otherName}"
+msgstr "Παρακαλώ εισάγετε τύπο ανταλλακτικών για {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Incorrectly entered data"
+msgstr "Εσφαλμένα εισαγμένα δεδομένα"
+
+#. js-lingui-explicit-id
+msgid "Images {otherName}"
+msgstr "Εικόνες {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please add images for {otherName}"
+msgstr "Παρακαλώ προσθέστε εικόνες για {otherName}"
+
+#. js-lingui-explicit-id
+msgid "About {NAME_APP}"
+msgstr "Σχετικά με το {NAME_APP}"
+
+#. js-lingui-explicit-id
+msgid "Your professional beauty companion"
+msgstr "Ο επαγγελματικός σας σύντροφος ομορφιάς"
+
+#. js-lingui-explicit-id
+msgid "Welcome to {NAME_APP} – your comprehensive mobile solution for beauty professionals! Our app is designed to streamline your business operations, manage client relationships, and boost your productivity."
+msgstr "Καλώς ήρθατε στο {NAME_APP} – η ολοκληρωμένη σας κινητή λύση για επαγγελματίες ομορφιάς! Η εφαρμογή μας είναι σχεδιασμένη για να απλοποιήσει τις επιχειρησιακές σας λειτουργίες, να διαχειριστεί τις σχέσεις με τους πελάτες και να αυξήσει την παραγωγικότητά σας."
+
+#. js-lingui-explicit-id
+msgid "Key Features"
+msgstr "Βασικά Χαρακτηριστικά"
+
+#. js-lingui-explicit-id
+msgid "Client Management"
+msgstr "Διαχείριση Πελατών"
+
+#. js-lingui-explicit-id
+msgid "Create detailed client profiles, track service history, and maintain comprehensive notes for each appointment."
+msgstr "Δημιουργήστε λεπτομερή προφίλ πελατών, παρακολουθήστε το ιστορικό υπηρεσιών και διατηρήστε ολοκληρωμένες σημειώσεις για κάθε ραντεβού."
+
+#. js-lingui-explicit-id
+msgid "Smart Calendar"
+msgstr "Έξυπνο Ημερολόγιο"
+
+#. js-lingui-explicit-id
+msgid "Seamless integration with your device calendar. Automatic sync ensures you never miss an appointment."
+msgstr "Αδιάλειπτη ενσωμάτωση με το ημερολόγιο της συσκευής σας. Αυτόματος συγχρονισμός διασφαλίζει ότι δεν χάνετε ποτέ ραντεβού."
+
+#. js-lingui-explicit-id
+msgid "SMS Notifications"
+msgstr "Ειδοποιήσεις SMS"
+
+#. js-lingui-explicit-id
+msgid "Send automated SMS reminders to your clients about upcoming appointments and important updates."
+msgstr "Στείλτε αυτοματοποιημένες ειδοποιήσεις SMS στους πελάτες σας για επερχόμενα ραντεβού και σημαντικές ενημερώσεις."
+
+#. js-lingui-explicit-id
+msgid "Speech-to-Text"
+msgstr "Ομιλία σε Κείμενο"
+
+#. js-lingui-explicit-id
+msgid "Convert your voice notes into text for quick and easy appointment documentation and client notes."
+msgstr "Μετατρέψτε τις φωνητικές σημειώσεις σας σε κείμενο για γρήγορη και εύκολη τεκμηρίωση ραντεβού και σημειώσεις πελατών."
+
+#. js-lingui-explicit-id
+msgid "Photo Gallery"
+msgstr "Φωτοθήκη"
+
+#. js-lingui-explicit-id
+msgid "Store and organize photos from each appointment to track client progress and showcase your work."
+msgstr "Αποθηκεύστε και οργανώστε φωτογραφίες από κάθε ραντεβού για να παρακολουθείτε την πρόοδο των πελατών και να επιδεικνύετε τη δουλειά σας."
+
+#. js-lingui-explicit-id
+msgid "Multi-Platform Sync"
+msgstr "Συγχρονισμός Πολλαπλών Πλατφορμών"
+
+#. js-lingui-explicit-id
+msgid "Access your data seamlessly across mobile app and web platform with real-time synchronization."
+msgstr "Πρόσβαση στα δεδομένα σας αδιάλειπτα μεταξύ κινητής εφαρμογής και πλατφόρμας web με πραγματικό χρόνο συγχρονισμού."
+
+#. js-lingui-explicit-id
+msgid "Subscription Plans"
+msgstr "Πλάνα Συνδρομής"
+
+#. js-lingui-explicit-id
+msgid "Free"
+msgstr "Δωρεάν"
+
+#. js-lingui-explicit-id
+msgid "$0/month"
+msgstr "0$/μήνα"
+
+#. js-lingui-explicit-id
+msgid "Up to 20 clients"
+msgstr "Έως 20 πελάτες"
+
+#. js-lingui-explicit-id
+msgid "3 appointments per client"
+msgstr "3 ραντεβού ανά πελάτη"
+
+#. js-lingui-explicit-id
+msgid "1 photo per appointment"
+msgstr "1 φωτογραφία ανά ραντεβού"
+
+#. js-lingui-explicit-id
+msgid "1 SMS per month"
+msgstr "1 SMS ανά μήνα"
+
+#. js-lingui-explicit-id
+msgid "3 minutes speech-to-text per month"
+msgstr "3 λεπτά ομιλία-σε-κείμενο ανά μήνα"
+
+#. js-lingui-explicit-id
+msgid "Pro"
+msgstr "Pro"
+
+#. js-lingui-explicit-id
+msgid "$4.99/month"
+msgstr "$4.99/μήνα"
+
+#. js-lingui-explicit-id
+msgid "Up to 100 clients"
+msgstr "Έως 100 πελάτες"
+
+#. js-lingui-explicit-id
+msgid "10 appointments per client"
+msgstr "10 ραντεβού ανά πελάτη"
+
+#. js-lingui-explicit-id
+msgid "3 photos per appointment"
+msgstr "3 φωτογραφίες ανά ραντεβού"
+
+#. js-lingui-explicit-id
+msgid "20 SMS per month"
+msgstr "20 SMS ανά μήνα"
+
+#. js-lingui-explicit-id
+msgid "60 minutes speech-to-text per month"
+msgstr "60 λεπτά ομιλία-σε-κείμενο ανά μήνα"
+
+#. js-lingui-explicit-id
+msgid "Export clients (CSV)"
+msgstr "Εξαγωγή πελατών (CSV)"
+
+#. js-lingui-explicit-id
+msgid "Premium"
+msgstr "Premium"
+
+#. js-lingui-explicit-id
+msgid "$9.99/month"
+msgstr "$9.99/μήνα"
+
+#. js-lingui-explicit-id
+msgid "Unlimited clients"
+msgstr "Απεριόριστοι πελάτες"
+
+#. js-lingui-explicit-id
+msgid "Unlimited appointments per client"
+msgstr "Απεριόριστα ραντεβού ανά πελάτη"
+
+#. js-lingui-explicit-id
+msgid "20 photos per appointment"
+msgstr "20 φωτογραφίες ανά ραντεβού"
+
+#. js-lingui-explicit-id
+msgid "50 SMS per month"
+msgstr "50 SMS ανά μήνα"
+
+#. js-lingui-explicit-id
+msgid "300 minutes speech-to-text per month"
+msgstr "300 λεπτά ομιλία-σε-κείμενο ανά μήνα"
+
+#. js-lingui-explicit-id
+msgid "Export/import clients (CSV)"
+msgstr "Εξαγωγή/εισαγωγή πελατών (CSV)"
+
+#. js-lingui-explicit-id
+msgid "Google Calendar integration"
+msgstr "Ενσωμάτωση Google Calendar"
+
+#. js-lingui-explicit-id
+msgid "Priority support"
+msgstr "Προτεραιότητα υποστήριξης"
+
+#. js-lingui-explicit-id
+msgid "Start with our free plan to explore {NAME_APP} features. Upgrade anytime to unlock more capacity and advanced functionality."
+msgstr "Ξεκινήστε με το δωρεάν μας πλάνο για να εξερευνήσετε τα χαρακτηριστικά του {NAME_APP}. Αναβαθμίστε ανά πάσα στιγμή για να ξεκλειδώσετε περισσότερη χωρητικότητα και προηγμένη λειτουργικότητα."
+
+#. js-lingui-explicit-id
+msgid "* Prices may vary by region and are subject to local taxes."
+msgstr "* Οι τιμές ενδέχεται να διαφέρουν ανά περιοχή και υπόκεινται σε τοπικούς φόρους."
+
+#. js-lingui-explicit-id
+msgid "** Subscription features, limits, and pricing are subject to change. We reserve the right to modify plans and functionality to improve our service."
+msgstr "** Τα χαρακτηριστικά συνδρομής, οι περιορισμοί και οι τιμές υπόκεινται σε αλλαγές. Διατηρούμε το δικαίωμα να τροποποιήσουμε τα πλάνα και τη λειτουργικότητα για να βελτιώσουμε την υπηρεσία μας."
+
+#. js-lingui-explicit-id
+msgid "Get in Touch"
+msgstr "Επικοινωνήστε Μαζί μας"
+
+#. js-lingui-explicit-id
+msgid "We're constantly improving {NAME_APP} based on your feedback. Have suggestions or questions? We'd love to hear from you!"
+msgstr "Βελτιώνουμε συνεχώς το {NAME_APP} με βάση τα σχόλιά σας. Έχετε προτάσεις ή ερωτήσεις; Θα θέλαμε να ακούσουμε από εσάς!"
+
+#. js-lingui-explicit-id
+msgid "Contact us: {CONTACT_EMAIL}"
+msgstr "Επικοινωνήστε μαζί μας: {CONTACT_EMAIL}"
+
+#. js-lingui-explicit-id
+msgid "Thank you for choosing {NAME_APP}!"
+msgstr "Ευχαριστούμε που επιλέξατε το {NAME_APP}!"
+
+#. js-lingui-explicit-id
+msgid "Account Deletion"
+msgstr "Διαγραφή Λογαριασμού"
+
+#. js-lingui-explicit-id
+msgid "How to delete your account?"
+msgstr "Πώς να διαγράψετε τον λογαριασμό σας;"
+
+#. js-lingui-explicit-id
+msgid "To delete your account from {NAME_APP}, open the mobile application, go to your profile, then navigate to settings. At the bottom of the settings page, you will find the \"Delete account\" button. After clicking it, your account and all associated data will be permanently deleted."
+msgstr "Για να διαγράψετε τον λογαριασμό σας από το {NAME_APP}, ανοίξτε την κινητή εφαρμογή, πηγαίνετε στο προφίλ σας, μετά πλοηγηθείτε στις ρυθμίσεις. Στο κάτω μέρος της σελίδας ρυθμίσεων, θα βρείτε το κουμπί \"Διαγραφή λογαριασμού\". Αφού το πατήσετε, ο λογαριασμός σας και όλα τα σχετικά δεδομένα θα διαγραφούν οριστικά."
+
+#. js-lingui-explicit-id
+msgid "Automatic account deletion"
+msgstr "Αυτόματη διαγραφή λογαριασμού"
+
+#. js-lingui-explicit-id
+msgid "Accounts that have been inactive for more than one year will be automatically deleted along with all associated data. This helps us maintain data security and comply with privacy regulations."
+msgstr "Οι λογαριασμοί που είναι ανενεργοί για περισσότερο από ένα έτος θα διαγραφούν αυτόματα μαζί με όλα τα σχετικά δεδομένα. Αυτό μας βοηθά να διατηρήσουμε την ασφάλεια δεδομένων και να συμμορφωνόμαστε με τους κανονισμούς απορρήτου."
+
+#. js-lingui-explicit-id
+msgid "What data will be deleted?"
+msgstr "Τα δεδομένα που θα διαγραφούν;"
+
+#. js-lingui-explicit-id
+msgid "When you delete your account, all your personal data and information associated with your account will be permanently removed:"
+msgstr "Όταν διαγράφετε τον λογαριασμό σας, όλα τα προσωπικά σας δεδομένα και οι πληροφορίες που σχετίζονται με τον λογαριασμό σας θα αφαιρεθούν οριστικά:"
+
+#. js-lingui-explicit-id
+msgid "Authentication data (Google, Facebook, Apple login information)"
+msgstr "Δεδομένα αυθεντικοποίησης (πληροφορίες σύνδεσης Google, Facebook, Apple)"
+
+#. js-lingui-explicit-id
+msgid "Personal information (name, email, phone number)"
+msgstr "Προσωπικές πληροφορίες (όνομα, email, αριθμός τηλεφώνου)"
+
+#. js-lingui-explicit-id
+msgid "All client data and profiles"
+msgstr "Όλα τα δεδομένα και προφίλ πελατών"
+
+#. js-lingui-explicit-id
+msgid "All appointments and scheduling information"
+msgstr "Όλα τα ραντεβού και οι πληροφορίες προγραμματισμού"
+
+#. js-lingui-explicit-id
+msgid "All photos and images"
+msgstr "Όλες οι φωτογραφίες και εικόνες"
+
+#. js-lingui-explicit-id
+msgid "SMS notifications history"
+msgstr "Ιστορικό ειδοποιήσεων SMS"
+
+#. js-lingui-explicit-id
+msgid "Speech-to-text recordings and transcripts"
+msgstr "Ηχογραφήσεις ομιλίας-σε-κείμενο και μεταγραφές"
+
+#. js-lingui-explicit-id
+msgid "All settings and preferences"
+msgstr "Όλες οι ρυθμίσεις και προτιμήσεις"
+
+#. js-lingui-explicit-id
+msgid "Subscription information and payment history"
+msgstr "Πληροφορίες συνδρομής και ιστορικό πληρωμών"
+
+#. js-lingui-explicit-id
+msgid "Important notes"
+msgstr "Σημαντικές σημειώσεις"
+
+#. js-lingui-explicit-id
+msgid "Account deletion is irreversible. Once deleted, you cannot recover your data or restore your account. If you want to use {NAME_APP} again in the future, you will need to create a new account."
+msgstr "Η διαγραφή λογαριασμού είναι μη αναστρέψιμη. Μόλις διαγραφεί, δεν μπορείτε να ανακτήσετε τα δεδομένα σας ή να επαναφέρετε τον λογαριασμό σας. Αν θέλετε να χρησιμοποιήσετε ξανά το {NAME_APP} στο μέλλον, θα πρέπει να δημιουργήσετε νέο λογαριασμό."
+
+#. js-lingui-explicit-id
+msgid "If you have any questions about account deletion or need assistance, please contact us at our support email."
+msgstr "Αν έχετε ερωτήσεις σχετικά με τη διαγραφή λογαριασμού ή χρειάζεστε βοήθεια, παρακαλώ επικοινωνήστε μαζί μας στο email υποστήριξης."
+
+#. js-lingui-explicit-id
+msgid "Create detailed client profiles, track service history, and maintain comprehensive notes."
+msgstr "Δημιουργήστε λεπτομερή προφίλ πελατών, παρακολουθήστε το ιστορικό υπηρεσιών και διατηρήστε ολοκληρωμένες σημειώσεις."
+
+#. js-lingui-explicit-id
+msgid "Send automated SMS reminders to your clients about upcoming appointments."
+msgstr "Στείλτε αυτοματοποιημένες ειδοποιήσεις SMS στους πελάτες σας για επερχόμενα ραντεβού."
+
+#. js-lingui-explicit-id
+msgid "Store and organize photos from each appointment to track client progress."
+msgstr "Αποθηκεύστε και οργανώστε φωτογραφίες από κάθε ραντεβού για να παρακολουθείτε την πρόοδο των πελατών."
+
+#. js-lingui-explicit-id
+msgid "Convert your voice notes into text for quick and easy documentation."
+msgstr "Μετατρέψτε τις φωνητικές σημειώσεις σας σε κείμενο για γρήγορη και εύκολη τεκμηρίωση."
+
+#. js-lingui-explicit-id
+msgid "Access your data seamlessly across mobile app and web platform."
+msgstr "Πρόσβαση στα δεδομένα σας αδιάλειπτα μεταξύ κινητής εφαρμογής και πλατφόρμας web."
+
+#. js-lingui-explicit-id
+msgid "Active Users"
+msgstr "Ενεργοί Χρήστες"
+
+#. js-lingui-explicit-id
+msgid "Appointments Managed"
+msgstr "Διαχειριζόμενα Ραντεβού"
+
+#. js-lingui-explicit-id
+msgid "Uptime"
+msgstr "Χρόνος Λειτουργίας"
+
+#. js-lingui-explicit-id
+msgid "App Rating"
+msgstr "Βαθμολογία Εφαρμογής"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} – Smart Scheduling App for Beauty Experts"
+msgstr "{NAME_APP} – Εφαρμογή Έξυπνου Προγραμματισμού για Ειδικούς Ομορφιάς"
+
+#. js-lingui-explicit-id
+msgid "Beauty Sync helps beauty professionals manage appointments, clients, and reminders with ease."
+msgstr "Το Beauty Sync βοηθά τους επαγγελματίες ομορφιάς να διαχειρίζονται ραντεβού, πελάτες και υπενθυμίσεις με ευκολία."
+
+#. js-lingui-explicit-id
+msgid "Welcome to {NAME_APP}"
+msgstr "Καλώς ήρθατε στο {NAME_APP}"
+
+#. js-lingui-explicit-id
+msgid "Your Professional Beauty Companion"
+msgstr "Ο Επαγγελματικός σας Σύντροφος Ομορφιάς"
+
+#. js-lingui-explicit-id
+msgid "Streamline your beauty business with our comprehensive mobile solution. Manage appointments, track clients, and boost productivity with ease."
+msgstr "Απλοποιήστε την επιχείρηση ομορφιάς σας με την ολοκληρωμένη μας κινητή λύση. Διαχειριστείτε ραντεβού, παρακολουθήστε πελάτες και αυξήστε την παραγωγικότητα με ευκολία."
+
+#. js-lingui-explicit-id
+msgid "Download on App Store"
+msgstr "Λήψη στο App Store"
+
+#. js-lingui-explicit-id
+msgid "Get it on Google Play"
+msgstr "Λήψη από το Google Play"
+
+#. js-lingui-explicit-id
+msgid "4.8★ Rating"
+msgstr "Βαθμολογία 4.8★"
+
+#. js-lingui-explicit-id
+msgid "Secure & Private"
+msgstr "Ασφαλές & Ιδιωτικό"
+
+#. js-lingui-explicit-id
+msgid "Fast & Reliable"
+msgstr "Γρήγορο & Αξιόπιστο"
+
+#. js-lingui-explicit-id
+msgid "Everything you need to manage your beauty business efficiently"
+msgstr "Ό,τι χρειάζεστε για να διαχειριστείτε αποτελεσματικά την επιχείρηση ομορφιάς σας"
+
+#. js-lingui-explicit-id
+msgid "Ready to Transform Your Business?"
+msgstr "Έτοιμοι να Μεταμορφώσετε την Επιχείρησή σας;"
+
+#. js-lingui-explicit-id
+msgid "Join thousands of beauty professionals who trust {NAME_APP} to manage their business"
+msgstr "Εγγραφείτε χιλιάδες επαγγελματίες ομορφιάς που εμπιστεύονται το {NAME_APP} για να διαχειριστούν την επιχείρησή τους"
+
+#. js-lingui-explicit-id
+msgid "Last updated:"
+msgstr "Τελευταία ενημέρωση:"
+
+#. js-lingui-explicit-id
+msgid "February 6, 2026"
+msgstr "6 Φεβρουαρίου 2026"
+
+#. js-lingui-explicit-id
+msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, FOP (\"us\", \"we\", or \"our\"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our mobile application and services (\"Service\")."
+msgstr "Οι κινητές και web εφαρμογές \"{NAME_APP}\" αναπτύσσονται και λειτουργούν από την Vadym Bezsmertnyi, FOP (\"εμείς\", \"εμάς\", ή \"μας\"). Η παρούσα πολιτική προστασίας δεδομένων εξηγεί πώς συλλέγουμε, χρησιμοποιούμε και προστατεύουμε τις προσωπικές σας πληροφορίες ότανเขτάσετε και χρησιμοποιήσετε την κινητή μας εφαρμογή και τις υπηρεσίες (\"Υπηρεσία\")."
+
+#. js-lingui-explicit-id
+msgid "Information We Collect"
+msgstr "Πληροφορίες που Συλλέγουμε"
+
+#. js-lingui-explicit-id
+msgid "Information Collection"
+msgstr "Συλλογή Πληροφοριών"
+
+#. js-lingui-explicit-id
+msgid "We collect information to ensure the effective functionality of the {NAME_APP} app. The data collected may include:"
+msgstr "Συλλέγουμε πληροφορίες για να διασφαλίσουμε την αποτελεσματική λειτουργία της εφαρμογής {NAME_APP}. Τα δεδομένα που συλλέγονται μπορεί να περιλαμβάνουν:"
+
+#. js-lingui-explicit-id
+msgid "Contacts: to create client records."
+msgstr "Επαφές: για τη δημιουργία αρχείων πελατών."
+
+#. js-lingui-explicit-id
+msgid "Calendar data: to synchronize appointments and reminders."
+msgstr "Δεδομένα ημερολογίου: για τον συγχρονισμό ραντεβού και υπενθυμίσεων."
+
+#. js-lingui-explicit-id
+msgid "Camera and photo library: to upload client or work photos."
+msgstr "Κάμερα και βιβλιοθήκη φωτογραφιών: για τη μεταφόρτωση φωτογραφιών πελατών ή εργασίας."
+
+#. js-lingui-explicit-id
+msgid "Push notifications: to remind users about upcoming appointments."
+msgstr "Ειδοποιήσεις push: για να υπενθυμίζουν στους χρήστες επερχόμενα ραντεβού."
+
+#. js-lingui-explicit-id
+msgid "Personal user information: such as name, email address, and phone number."
+msgstr "Προσωπικές πληροφορίες χρήστη: όπως όνομα, διεύθυνση email και αριθμό τηλεφώνου."
+
+#. js-lingui-explicit-id
+msgid "Subscription information: for managing your account and processing payments. Prices may vary by region and are subject to local taxes."
+msgstr "Πληροφορίες συνδρομής: για τη διαχείριση του λογαριασμού σας και την επεξεργασία πληρωμών. Οι τιμές μπορεί να διαφέρουν ανά περιοχή και υπόκεινται σε τοπικούς φόρους."
+
+#. js-lingui-explicit-id
+msgid "Voice recordings: for speech-to-text functionality to convert voice notes into text for appointment documentation."
+msgstr "Ηχογραφήσεις φωνής: για τη λειτουργία ομιλία-σε-κείμενο, που μετατρέπει τις φωνητικές σημειώσεις σε κείμενο για την τεκμηρίωση των ραντεβού."
+
+#. js-lingui-explicit-id
+msgid "SMS data: for sending automated reminders to clients about upcoming appointments."
+msgstr "Δεδομένα SMS: για την αποστολή αυτοματοποιημένων υπενθυμίσεων στους πελάτες σχετικά με επερχόμενα ραντεβού."
+
+#. js-lingui-explicit-id
+msgid "Usage analytics: to improve app functionality and user experience."
+msgstr "Αναλυτική χρήσης: για τη βελτίωση της λειτουργικότητας της εφαρμογής και της εμπειρίας χρήστη."
+
+#. js-lingui-explicit-id
+msgid "Export/import data: for CSV export and import functionality (available with Pro and Premium subscriptions)."
+msgstr "Δεδομένα εξαγωγής/εισαγωγής: για τη λειτουργικότητα εξαγωγής και εισαγωγής CSV (διαθέσιμη με συνδρομές Pro και Premium)."
+
+#. js-lingui-explicit-id
+msgid "Use of Information"
+msgstr "Χρήση Πληροφοριών"
+
+#. js-lingui-explicit-id
+msgid "We process your data based on legitimate interests and contractual necessity. The collected data is used to:"
+msgstr "Επεξεργαζόμαστε τα δεδομένα σας βάσει νόμιμων συμφερόντων και συμβατικής αναγκαιότητας. Τα συλλεγέντα δεδομένα χρησιμοποιούνται για:"
+
+#. js-lingui-explicit-id
+msgid "Create client records and appointments."
+msgstr "Δημιουργία αρχείων πελατών και ραντεβού."
+
+#. js-lingui-explicit-id
+msgid "Send SMS reminders to clients."
+msgstr "Αποστολή υπενθυμίσεων SMS στους πελάτες."
+
+#. js-lingui-explicit-id
+msgid "Convert voice recordings to text for appointment documentation."
+msgstr "Μετατροπή ηχογραφήσεων φωνής σε κείμενο για την τεκμηρίωση των ραντεβού."
+
+#. js-lingui-explicit-id
+msgid "Synchronize the calendar for appointment reminders."
+msgstr "Συγχρονίστε το ημερολόγιο για τις υπενθυμίσεις των ραντεβούλων."
+
+#. js-lingui-explicit-id
+msgid "Enable app features such as uploading photos and creating notes."
+msgstr "Ενεργοποιήστε τις λειτουργίες της εφαρμογής, όπως η μεταφόρτωση φωτογραφιών και τη δημιουργία σημειώσεων."
+
+#. js-lingui-explicit-id
+msgid "Manage subscriptions and process billing."
+msgstr "Διαχείριση συνδρομήσεων και επεξεργασία χρεώσεων."
+
+#. js-lingui-explicit-id
+msgid "Provide analytics and insights to improve service functionality."
+msgstr "Παρέχετε αναλύσεις και πληροφορίες για τη βελτίωση της λειτουργικότητας της υπηρεσίας."
+
+#. js-lingui-explicit-id
+msgid "Ensure compliance with subscription limits and features."
+msgstr "Διασφάλιση συμμόρφωσης με τα όρια και τις λειτουργίες του συνδρομητικού."
+
+#. js-lingui-explicit-id
+msgid "Process data for export/import functionality (Pro subscription: export only, Premium subscription: export and import)."
+msgstr "Επεξεργασία δεδομένων για τη λειτουργικότητα εξαγωγής/εισαγωγής (συνδρομή Pro: μόνο εξαγωγή, συνδρομή Premium: εξαγωγή και εισαγωγή)."
+
+#. js-lingui-explicit-id
+msgid "Access to Permissions"
+msgstr "Πρόσβαση στα Δικαιώματα"
+
+#. js-lingui-explicit-id
+msgid "Permissions are requested only for functions directly related to the app's operation. The {NAME_APP} app requires access to the following device features:"
+msgstr "Τα δικαιώματα ζητούνται μόνο για λειτουργίες που σχετίζονται άμεσα με τη λειτουργία της εφαρμογής. Η εφαρμογή {NAME_APP} απαιτεί πρόσβαση στις παρακάτω λειτουργίες της συσκευής:"
+
+#. js-lingui-explicit-id
+msgid "Contacts: to add clients to the app."
+msgstr "Επαφές: για την προσθήκη πελατών στην εφαρμογή."
+
+#. js-lingui-explicit-id
+msgid "Calendar: to sync events."
+msgstr "Ημερολόγιο: για συγχρονισμό γεγονότων."
+
+#. js-lingui-explicit-id
+msgid "Camera and photo library: to upload images."
+msgstr "Κάμερα και φωτοθήκη: για μεταφόρτωση εικόνων."
+
+#. js-lingui-explicit-id
+msgid "Push notifications: to send reminders."
+msgstr "Push ειδοποιήσεις: για αποστολή υπενθυμίσεων."
+
+#. js-lingui-explicit-id
+msgid "Microphone: for speech-to-text functionality."
+msgstr "Μικρόφωνο: για τη λειτουργία ομιλία-σε-κείμενο."
+
+#. js-lingui-explicit-id
+msgid "SMS access: for sending appointment reminders."
+msgstr "Πρόσβαση SMS: για την αποστολή υπενθυμίσεων ραντεβού."
+
+#. js-lingui-explicit-id
+msgid "Data Security"
+msgstr "Ασφάλεια Δεδομένων"
+
+#. js-lingui-explicit-id
+msgid "Your data is protected using industry-standard security measures. We implement the following security practices:"
+msgstr "Τα δεδομένα σας προστατεύονται με τη χρήση μέτρων ασφαλείας κλάδους στην βιομηχανία. Εφαρμόζουμε τις ακόλουθες πρακτικές ασφαλείας:"
+
+#. js-lingui-explicit-id
+msgid "End-to-end encryption for data transmission."
+msgstr "Ακρυπτογράφηση από άκρο σε άκρο για τη μετάδοση δεδομένων."
+
+#. js-lingui-explicit-id
+msgid "Limited access to servers where information is stored."
+msgstr "Περιορισμένη πρόσβαση στους διακομιστές όπου αποθηκεύονται οι πληροφορίες."
+
+#. js-lingui-explicit-id
+msgid "Regular security updates and monitoring."
+msgstr "Τακρινείς ενημερώσεις ασφαλείας και παρακολούθηση."
+
+#. js-lingui-explicit-id
+msgid "Secure API authentication for third-party integrations."
+msgstr "Ασφαλής πιστοποίηση API για ενσωμάτωση με τρίτους."
+
+#. js-lingui-explicit-id
+msgid "Compliance with industry security standards."
+msgstr "Συμμόρφωση με τα πρότυπα ασφαλείας της βιομηχανίας."
+
+#. js-lingui-explicit-id
+msgid "Sharing Information with Third Parties"
+msgstr "Κοινήποίηση Πληροφοριών με Τρίτους"
+
+#. js-lingui-explicit-id
+msgid "We may share your data with third parties in the following cases:"
+msgstr "Μπορούμε να μοιράσουμε τα δεδομένα σας με τρίτους στις παρακάτω περιπτώσεις:"
+
+#. js-lingui-explicit-id
+msgid "SMS service providers: for sending appointment reminders to clients."
+msgstr "Πάροχοι υπηρεσιών SMS: για την αποστολή υπενθυμίσεων ραντεβού στους πελάτες."
+
+#. js-lingui-explicit-id
+msgid "Payment processors: Apple App Store and Google Play for subscription billing."
+msgstr "Επεξεργαστές πληρωμών: Apple App Store και Google Play για τη χρέωση συνδρομητήσεων."
+
+#. js-lingui-explicit-id
+msgid "Analytics services: for service improvement (anonymized data only)."
+msgstr "Υπηρεσίες ανάλυσης για τη βελτίωση της λειτουργικότητας της υπηρεσίας (μόνο ανωνυμοποιημένα δεδομένα)."
+
+#. js-lingui-explicit-id
+msgid "Legal requirements: when required by law or to protect our rights."
+msgstr "Νομικές απαιτήσεις: όταν απαιτείται από το νόμο ή για την προστασία των δικαιωμάτων μας."
+
+#. js-lingui-explicit-id
+msgid "Cloud storage providers: for secure data backup and synchronization."
+msgstr "Πάροχοι αποθήκευσης στο cloud: για ασφαλή αντίγραφο και συγχρονισμό δεδομένων."
+
+#. js-lingui-explicit-id
+msgid "International Data Transfers"
+msgstr "Διεθνείς Μεταφορές Δεδομένων"
+
+#. js-lingui-explicit-id
+msgid "Your data may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place to protect your data in accordance with applicable data protection laws."
+msgstr "Τα δεδομένα σας μπορούν να μεταφερθούν και να επεξεργαστούν σε χώρες εκτός από τη δική σας. Εξασφαλιζουμε ότι υπάρχουν οι κατάλληλες προστατευτικές προφυλάξεις για την προστασία των δεδομένων σας σύμφωνα με τους ισχύοντες νόμους προστασίας δεδομένων."
+
+#. js-lingui-explicit-id
+msgid "Data Retention"
+msgstr "Διατήρηση Δεδομένων"
+
+#. js-lingui-explicit-id
+msgid "We retain your data only as long as necessary to provide our services. Data is automatically deleted when you delete your account or revoke permissions. Some data may be retained for legal or security purposes as required by law. We comply with applicable data protection laws including GDPR where applicable."
+msgstr "Διατηρούμε τα δεδομένα σας μόνο όσο είναι απαραίτητο για την παροχή των υπηρεσιών μας. Τα δεδομένα διαγράφονται αυτόματα όταν διαγράφετε τον λογαριασμό σας ή ανακαλείτε τις άδειες. Ορισμένα δεδομένα μπορούν να διατηρηθούν για νομικούς ή λόγους ασφαλείας σύμφωνα με το νόμο. Σεβασόμαστε τους ισχύοντες νόμους προστασίας δεδομένων, συμπεριλαμβανομένου και του GDPR, όπου εφαρμόζεται."
+
+#. js-lingui-explicit-id
+msgid "Service Limitations and Disclaimers"
+msgstr "Περιορισμοί της Υπηρεσίας και Αποποιήσεις Ευθύνης"
+
+#. js-lingui-explicit-id
+msgid "While we strive to provide reliable service, we cannot guarantee uninterrupted access or complete data security. We are not responsible for:"
+msgstr "Παρό το ότι προσπαθούμε να παρέχουμε μια αξιόπιστη υπηρεσία, δεν μπορούμε να εγγυημονουμε αδιάλειπτη πρόσβαση ή πλήρη ασφάλεια των δεδομένων. Δεν φέρουμε ευθύνη για:"
+
+#. js-lingui-explicit-id
+msgid "Temporary service interruptions due to maintenance or technical issues."
+msgstr "Προσωρινές διακοπές της υπηρεσίας λόγω συντήρησης ή τεχνικών προβλημάτων."
+
+#. js-lingui-explicit-id
+msgid "Data loss caused by user actions or device malfunctions."
+msgstr "Απώλεια δεδομένων που προκαλείται από ενέργειες του χρήστη ή από βλάβη της συσκευής."
+
+#. js-lingui-explicit-id
+msgid "Third-party service failures (SMS providers, payment processors, etc.)."
+msgstr "Αποτυχίες υπηρεσιών τρίτων (πάροχοι SMS, επεξεργαστές πληρωμών, κ.λπ.)."
+
+#. js-lingui-explicit-id
+msgid "Compliance issues arising from user misuse of the service."
+msgstr "Προβλήματα συμμόρφωσης που προκύπτουν από την ακατάλληλη χρήση της υπηρεσίας από τον χρήστη."
+
+#. js-lingui-explicit-id
+msgid "Financial losses resulting from service interruptions or data issues."
+msgstr "Οικονομικές απώλειες που προκύπτουν από διακοπές της υπηρεσίας ή προβλήματα με τα δεδομένα."
+
+#. js-lingui-explicit-id
+msgid "User Rights"
+msgstr "Δικαιώματα Χρήστη"
+
+#. js-lingui-explicit-id
+msgid "To exercise your rights, contact us at {CONTACT_EMAIL}. You have the following rights:"
+msgstr "Για να ασκήσετε τα δικαιώματά σας, επικοινωνήστε μαζί μας στο {CONTACT_EMAIL}. Έχετε τα παρακάτω δικαιώματα:"
+
+#. js-lingui-explicit-id
+msgid "Access your data: You can review the data we store about you."
+msgstr "Πρόσβαση στα δεδομένα σας: Μπορείτε να εξετάσετε τα δεδομένα που αποθηκεύουμε για εσάς."
+
+#. js-lingui-explicit-id
+msgid "Delete your data: You can request the deletion of your information."
+msgstr "Διαγραφή των δεδομένων σας: Μπορείτε να ζητήσετε τη διαγραφή των πληροφοριών σας."
+
+#. js-lingui-explicit-id
+msgid "Revoke permissions: You can modify app permissions via your device settings."
+msgstr "Ανάκληση αδειών: Μπορείτε να τροποποιήσετε τις άδειες της εφαρμογής μέσω των ρυθμίσεων της συσκευής σας."
+
+#. js-lingui-explicit-id
+msgid "Export your data: You can request a copy of your data in a portable format or use the built-in CSV export feature (available with Pro and Premium subscriptions)."
+msgstr "Εξαγωγή των δεδομένων σας: Μπορείτε να ζητήσετε ένα αντίγραφο των δεδομένων σας σε φορητή μορφή ή να χρησιμοποιήσετε τη ενσωματωμένη λειτουργία εξαγωγής CSV (διαθέσιμη με συνδρομήσεις Pro και Premium)."
+
+#. js-lingui-explicit-id
+msgid "Rectify your data: You can request correction of inaccurate personal data."
+msgstr "Διόρθωση των δεδομένων σας: Μπορείτε να ζητήσετε τη διόρθωση των ανακριτών προσωπικών δεδομένων."
+
+#. js-lingui-explicit-id
+msgid "Restrict processing: You can request limitation of data processing under certain circumstances."
+msgstr "Περιορισμός της επεξεργασίας δεδομένων: Μπορείτε να ζητήσετε τον περιορισμό της επεξεργασίας δεδομένων υπό συγκεκριμένες συνθήκες."
+
+#. js-lingui-explicit-id
+msgid "Changes to the Privacy Policy"
+msgstr "Αλλαγές στην Πολιτική Απορρήτου"
+
+#. js-lingui-explicit-id
+msgid ""
+"We may update this Privacy Policy periodically. All updates will be published on this page with the updated date.\n"
+"We recommend checking this section regularly to stay informed of any changes. For significant updates, we will notify you via the app or email."
+msgstr ""
+"Μπορούμε να ενημερώνουμε περιοδικά αυτή την Πολιτική Απορρήτου. Όλες οι ενημερώσεις θα δημοσιευθούν σε αυτή τη σελίδα με την ενημερωμένη ημερομηνία.\n"
+"Συνιστούμε να ελέγχετε τακτικά αυτή την ενότητα για να ενημερωθείτε για οποιεσδήποτε αλλαγές. Για σημαντικές ενημερώσεις, θα σας ειδοποιήσουμε μέσω της εφαρμογής ή μέσω email."
+
+#. js-lingui-explicit-id
+msgid "Contact Information"
+msgstr "Πληροφορίες Επικοινωνίας"
+
+#. js-lingui-explicit-id
+msgid "If you have questions about this Privacy Policy, contact us at {CONTACT_EMAIL}."
+msgstr "Αν έχετε ερωτήσεις σχετικά με αυτή την Πολιτική Απορρήτου, επικοινωνήστε μαζί μας στο {CONTACT_EMAIL}."
+
+#. js-lingui-explicit-id
+msgid "\"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, FOP (\"us\", \"we\", or \"our\"). By accessing or using our mobile application and web services (\"Service\"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service."
+msgstr "Οι κινητές και web εφαρμογές \"{NAME_APP}\" αναπτύσσονται και λειτουργούν από την Vadym Bezsmertnyi, FOP (\"εμείς\", \"εμάς\", ή \"μας\"). Με την πρόσβαση ή τη χρήση της κινητής μας εφαρμογής και των διαδικτυακών υπηρεσιών (\"Υπηρεσία\"), εσείς (ο Χρήστης) συμφωνείτε να συμμορφωθείτε με αυτούς τους Όρους Χρήσης. Παρακαλούμε διαβάστε αυτούς τους όρους προσεκτικά πριν χρησιμοποιήσετε την υπηρεσία."
+
+#. js-lingui-explicit-id
+msgid "1. Purpose of the Application"
+msgstr "1. Σκοπός της Εφαρμογής"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} is a comprehensive mobile and web application designed to help beauty professionals (stylists, makeup artists, nail technicians, and other beauty specialists) manage their business operations effectively. The application allows users to create detailed client profiles, manage appointments, synchronize schedules with device calendars, send SMS reminders to clients, convert voice notes to text for appointment documentation, store photos from appointments, and receive notifications about upcoming appointments."
+msgstr "{NAME_APP} είναι μια ολοκληρωμένη εφαρμογή για κινητά και web που έχει σχεδιαστεί για να βοηθά τους επαγγελματίες ομορφιάς (κομμωτές, μακιγιέρ, τεχνικούς νυχιών και άλλους ειδικούς ομορφιάς) να διαχειρίζονται αποτελεσματικά τις επιχειρηματικές τους λειτουργίες. Η εφαρμογή επιτρέπει στους χρήστες να δημιουργούν λεπτομερή προφίλ πελατών, να διαχειρίζονται ραντεβού, να συγχρονίζουν τα προγράμματά τους με τα ημερολόγια των συσκευών, να στέλνουν υπενθυμίσεις SMS στους πελάτες, να μετατρέπουν τις φωνητικές σημειώσεις σε κείμενο για την τεκμηρίωση των ραντεβού, να αποθηκεύουν φωτογραφίες από τα ραντεβού και να λαμβάνουν ειδοποιήσεις για επερχόμενα ραντεβού."
+
+#. js-lingui-explicit-id
+msgid "2. Permissions and Usage Restrictions"
+msgstr "2. Δικαιώματα και Περιορισμοί Χρήσης"
+
+#. js-lingui-explicit-id
+msgid "By using {NAME_APP}, you agree to utilize the app solely for its intended purposes. Any misuse of the app, such as reverse-engineering, unauthorized modifications, or illegal activities, is strictly prohibited. Users are also responsible for maintaining the confidentiality of their account credentials and ensuring that the app is used in compliance with local laws and regulations."
+msgstr "Χρησιμοποιώντας το {NAME_APP}, συμφωνείτε να χρησιμοποιείτε την εφαρμογή αποκλειστικά για τους προορισμένους σκοπούς της. Οποιαδήποτε κακή χρήση της εφαρμογής, όπως reverse-engineering, μη εξουσιοδοτημένες τροποποιήσεις ή παράνομες δραστηριότητες, είναι αυστηρά απαγορευμένη. Οι χρήστες είναι επίσης υπεύθυνοι για τη διατήρηση της εμπιστευτικότητας των διαπιστευτηρίων του λογαριασμού τους και για τη διασφάλιση ότι η εφαρμογή χρησιμοποιείται σύμφωνα με τους τοπικούς νόμους και κανονισμούς."
+
+#. js-lingui-explicit-id
+msgid "3. Subscriptions and Payments"
+msgstr "3. Συνδρομές και Πληρωμές"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} offers a free tier with basic features, and two premium subscription plans (Pro and Premium) for advanced functionality. All subscriptions are billed monthly. Payments are processed through the Apple App Store or Google Play, according to their respective policies. Apple and Google may adjust subscription prices depending on your region. Subscriptions renew automatically unless canceled at least 24 hours before the end of the billing period. All payments are non-refundable unless required by applicable law."
+msgstr "Το {NAME_APP} προσφέρει ένα δωρεάν επίπεδο με βασικά χαρακτηριστικά και δύο premium πλάνα συνδρομής (Pro και Premium) για προηγμένη λειτουργικότητα. Όλες οι συνδρομές χρεώνονται μηνιαίως. Οι πληρωμές επεξεργάζονται μέσω του Apple App Store ή Google Play, σύμφωνα με τις αντίστοιες πολιτικές τους. Η Apple και το Google ενδέχεται να προσαρμόσουν τις τιμές συνδρομής ανάλογα με την περιοχή σας. Οι συνδρομές ανανεώνονται αυτόματα εκτός αν ακυρωθούν τουλάχιστον 24 ώρες πριν από το τέλος της περιόδου χρέωσης. Όλες οι πληρωμές είναι μη επιστρέψιμες εκτός αν απαιτείται από τον ισχύοντα νόμο."
+
+#. js-lingui-explicit-id
+msgid "4. Subscription Information"
+msgstr "4. Πληροφορίες Συνδρομής"
+
+#. js-lingui-explicit-id
+msgid "The following subscription plans are available:"
+msgstr "Τα ακόλουθα πλάνα συνδρομής είναι διαθέσιμα:"
+
+#. js-lingui-explicit-id
+msgid "Free Plan"
+msgstr "Δωρεάν Πλάνο"
+
+#. js-lingui-explicit-id
+msgid "Price: Free"
+msgstr "Τιμή: Δωρεάν"
+
+#. js-lingui-explicit-id
+msgid "Basic calendar sync"
+msgstr "Βασικός συγχρονισμός ημερολογίου"
+
+#. js-lingui-explicit-id
+msgid "Pro Plan"
+msgstr "Πλάνο Pro"
+
+#. js-lingui-explicit-id
+msgid "Price: $4.99 per month"
+msgstr "Τιμή: $4.99 ανά μήνα"
+
+#. js-lingui-explicit-id
+msgid "Advanced calendar sync"
+msgstr "Προηγμένος συγχρονισμός ημερολογίου"
+
+#. js-lingui-explicit-id
+msgid "Premium Plan"
+msgstr "Πλάνο Premium"
+
+#. js-lingui-explicit-id
+msgid "Price: $9.99 per month"
+msgstr "Τιμή: $9.99 ανά μήνα"
+
+#. js-lingui-explicit-id
+msgid "Full calendar sync and analytics"
+msgstr "Πλήρης συγχρονισμός ημερολογίου και αναλυτικά"
+
+#. js-lingui-explicit-id
+msgid "5. Notifications and Reminders"
+msgstr "5. Ειδοποιήσεις και Υπενθυμίσεις"
+
+#. js-lingui-explicit-id
+msgid "The application sends push notifications and SMS reminders to inform users about upcoming appointments and related updates. By enabling push notifications and SMS features, users consent to receiving these alerts. It is the user's responsibility to ensure notifications are active on their device and to provide accurate phone numbers for SMS reminders to avoid missing important updates."
+msgstr "Η εφαρμογή στέλνει ειδοποιήσεις push και υπενθυμίσεις SMS για να ενημερώνει τους χρήστες σχετικά με επερχόμενα ραντεβού και σχετικές ενημερώσεις. Με την ενεργοποίηση των λειτουργιών ειδοποιήσεων push και SMS, οι χρήστες συμφωνούν να λαμβάνουν αυτές τις ειδοποιήσεις. Είναι ευθύνη του χρήστη να διασφαλίσει ότι οι ειδοποιήσεις είναι ενεργές στη συσκευή του και να παρέχει ακριβείς αριθμούς τηλεφώνου για τις υπενθυμίσεις SMS, ώστε να μην χάσει σημαντικές ενημερώσεις."
+
+#. js-lingui-explicit-id
+msgid "6. Data Management and Privacy"
+msgstr "6. Διαχείριση Δεδομένων και Απόρρητο"
+
+#. js-lingui-explicit-id
+msgid "The application provides tools for managing and storing client data, including voice recordings and SMS data. Users are responsible for entering accurate information, maintaining backups of critical data when necessary, and ensuring they have proper consent from clients for data collection. {NAME_APP} is not liable for any data loss due to user error, device failure, unauthorized access, or third-party service failures. Users must comply with applicable data protection laws and regulations."
+msgstr "Η εφαρμογή παρέχει εργαλεία για τη διαχείριση και αποθήκευση δεδομένων πελατών, συμπεριλαμβανομένων των ηχογραφήσεων φωνής και των δεδομένων SMS. Οι χρήστες είναι υπεύθυνοι για την εισαγωγή ακριβών πληροφοριών, τη διατήρηση αντιγράφων ασφαλείας κρίσιμων δεδομένων όταν είναι απαραίτητο και τη διασφάλιση ότι έχουν τη σωστή συγκατάθεση από τους πελάτες για τη συλλογή δεδομένων. Το {NAME_APP} δεν ευθύνεται για οποιαδήποτε απώλεια δεδομένων λόγω σφάλματος χρήστη, βλάβης συσκευής, μη εξουσιοδοτημένης πρόσβασης ή αποτυχίας υπηρεσιών τρίτων. Οι χρήστες πρέπει να συμμορφώνονται με τους ισχύοντες νόμους και κανονισμούς προστασίας δεδομένων."
+
+#. js-lingui-explicit-id
+msgid "7. Service Limitations and Disclaimers"
+msgstr "7. Περιορισμοί Υπηρεσίας και Αποποιήσεις Ευθύνης"
+
+#. js-lingui-explicit-id
+msgid "While we strive to provide reliable service, we cannot guarantee uninterrupted access or complete data security. We are not responsible for temporary service interruptions due to maintenance or technical issues, data loss caused by user actions or device malfunctions, third-party service failures (SMS providers, payment processors, etc.), compliance issues arising from user misuse of the service, or financial losses resulting from service interruptions or data issues."
+msgstr "Παρόλο που προσπαθούμε να παρέχουμε αξιόπιστη υπηρεσία, δεν μπορούμε να εγγυηθούμε αδιάλειπτη πρόσβαση ή πλήρη ασφάλεια δεδομένων. Δεν είμαστε υπεύθυνοι για προσωρινές διακοπές υπηρεσίας λόγω συντήρησης ή τεχνικών ζητημάτων, απώλεια δεδομένων που προκαλείται από ενέργειες χρηστών ή βλάβες συσκευών, αποτυχίες υπηρεσιών τρίτων (πάροχοι SMS, επεξεργαστές πληρωμών κ.λπ.), ζητήματα συμμόρφωσης που προκύπτουν από κακή χρήση της υπηρεσίας από τον χρήστη, ή οικονομικές απώλειες που προκύπτουν από διακοπές υπηρεσίας ή ζητήματα δεδομένων."
+
+#. js-lingui-explicit-id
+msgid "8. Changes to Terms"
+msgstr "8. Αλλαγές στους Όρους"
+
+#. js-lingui-explicit-id
+msgid "These Terms of Use may be updated periodically. Any changes will be published within the application, and the effective date will be revised accordingly. Continued use of the service after updates signifies acceptance of the new terms."
+msgstr "Αυτοί οι Όροι Χρήσης ενδέχεται να ενημερώνονται περιοδικά. Οποιεσδήποτε αλλαγές θα δημοσιεύονται εντός της εφαρμογής και η ημερομηνία έναρξης θα αναθεωρείται ανάλογα. Η συνέχιση της χρήσης της υπηρεσίας μετά τις ενημερώσεις σημαίνει αποδοχή των νέων όρων."
+
+#. js-lingui-explicit-id
+msgid "9. Limitation of Liability"
+msgstr "9. Περιορισμός Ευθύνης"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} and its developers are not responsible for any damages resulting from the use or inability to use the service. This includes issues caused by errors, interruptions, third-party integrations, or unauthorized access to data. We are not responsible for illegal use of the application by users."
+msgstr "Το {NAME_APP} και οι προγραμματιστές του δεν ευθύνονται για οποιαδήποτε ζημία που προκύπτει από τη χρήση ή την αδυναμία χρήσης της υπηρεσίας. Αυτό περιλαμβάνει ζητήματα που προκαλούνται από σφάλματα, διακοπές, ενσωματώσεις τρίτων ή μη εξουσιοδοτημένη πρόσβαση σε δεδομένα. Δεν είμαστε υπεύθυνοι για παράνομη χρήση της εφαρμογής από τους χρήστες."
+
+#. js-lingui-explicit-id
+msgid "10. Prohibited Activities and Content Monitoring"
+msgstr "10. Απαγορευμένες Δραστηριότητες και Παρακολούθηση Περιεχομένου"
+
+#. js-lingui-explicit-id
+msgid "We may monitor usage patterns to ensure compliance with these terms. In case of detecting misuse of the service, violations of applicable laws, or activities that compromise the integrity of the platform, we may suspend or terminate user accounts without refund. Users are responsible for ensuring that their use of the service complies with all applicable laws and regulations."
+msgstr "Ενδέχεται να παρακολουθούμε τα μοτίβα χρήσης για να διασφαλίσουμε τη συμμόρφωση με αυτούς τους όρους. Σε περίπτωση ανίχνευσης κακής χρήσης της υπηρεσίας, παραβιάσεων ισχυόντων νόμων, ή δραστηριοτήτων που θέτουν σε κίνδυνο την ακεραιότητα της πλατφόρμας, ενδέχεται να αναστείλουμε ή να τερματίσουμε λογαριασμούς χρηστών χωρίς επιστροφή χρημάτων. Οι χρήστες είναι υπεύθυνοι για τη διασφάλιση ότι η χρήση της υπηρεσίας τους συμμορφώνεται με όλους τους ισχύοντες νόμους και κανονισμούς."
+
+#. js-lingui-explicit-id
+msgid "11. Support"
+msgstr "11. Υποστήριξη"
+
+#. js-lingui-explicit-id
+msgid "For assistance with technical issues, subscription questions, or other inquiries, users can contact us at {CONTACT_EMAIL}. Our team strives to address support requests promptly, typically within 48 hours."
+msgstr "Για βοήθεια με τεχνικά ζητήματα, ερωτήματα συνδρομής ή άλλες ερωτήσεις, οι χρήστες μπορούν να επικοινωνήσουν μαζί μας στο {CONTACT_EMAIL}. Η ομάδα μας προσπαθεί να αντιμετωπίσει αιτήματα υποστήριξης άμεσα, συνήθως εντός 48 ωρών."
+
+#. js-lingui-explicit-id
+msgid "12. Account Deletion"
+msgstr "12. Διαγραφή Λογαριασμού"
+
+#. js-lingui-explicit-id
+msgid "If you wish to delete your account, you can do so through the app's settings or by submitting a request via the developer's feedback form at the following link: https://vb-dev.org.ua/#feedback."
+msgstr "Αν επιθυμείτε να διαγράψετε τον λογαριασμό σας, μπορείτε να το κάνετε μέσω των ρυθμίσεων της εφαρμογής ή υποβάλλοντας αίτημα μέσω της φόρμας σχολίων του προγραμματιστή στον παρακάτω σύνδεσμο: https://vb-dev.org.ua/#feedback."
+
+#. js-lingui-explicit-id
+msgid "13. Apple's Standard Terms"
+msgstr "13. Τυποικοί Όροι της Apple"
+
+#. js-lingui-explicit-id
+msgid "In addition to these Terms of Use, {NAME_APP} operates under the Apple Standard End User License Agreement (EULA), which can be found at the following link:"
+msgstr "Εκτός από αυτούς τους Όρους Χρήσης, το {NAME_APP} λειτουργεί υπό την Τυπική Άδεια Χρήσης Τελικού Χρήστη της Apple (EULA), η οποία μπορεί να βρεθεί στον παρακάτω σύνδεσμο:"
+
+#. js-lingui-explicit-id
+msgid "By using {NAME_APP}, you confirm that you have read and agreed to these Terms of Use."
+msgstr "Χρησιμοποιώντας το {NAME_APP}, επιβεβαιώνετε ότι διαβάσατε και συμφωνείτε με αυτούς τους Όρους Χρήσης."

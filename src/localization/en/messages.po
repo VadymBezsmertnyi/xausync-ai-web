@@ -1,0 +1,966 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-02-28 15:36+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+msgid "Home"
+msgstr "Home"
+
+#. js-lingui-explicit-id
+msgid "About"
+msgstr "About"
+
+#. js-lingui-explicit-id
+msgid "Terms of Use"
+msgstr "Terms of Use"
+
+#. js-lingui-explicit-id
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#. js-lingui-explicit-id
+msgid "Logo"
+msgstr "Logo"
+
+#. js-lingui-explicit-id
+msgid "Menu"
+msgstr "Menu"
+
+#. js-lingui-explicit-id
+msgid "Select language"
+msgstr "Select language"
+
+#. js-lingui-explicit-id
+msgid "Name of the {otherName}"
+msgstr "Name of the {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The text must contain a minimum of {min} and a maximum of {max} characters."
+msgstr "The text must contain a minimum of {min} and a maximum of {max} characters."
+
+#. js-lingui-explicit-id
+msgid "The place of the {otherName}"
+msgstr "The place of the {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The location of the {otherName} must be selected."
+msgstr "The location of the {otherName} must be selected."
+
+#. js-lingui-explicit-id
+msgid "Date of the {otherName}"
+msgstr "Date of the {otherName}"
+
+#. js-lingui-explicit-id
+msgid "The end date must be greater than the start date."
+msgstr "The end date must be greater than the start date."
+
+#. js-lingui-explicit-id
+msgid "Tell us about the {otherName}"
+msgstr "Tell us about the {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Description of the {otherName}"
+msgstr "Description of the {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Phone number the {otherName}"
+msgstr "Phone number the {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter phone number"
+msgstr "Please enter phone number"
+
+#. js-lingui-explicit-id
+msgid "Types of {otherName} jobs"
+msgstr "Types of {otherName} jobs"
+
+#. js-lingui-explicit-id
+msgid "Please select at least one type"
+msgstr "Please select at least one type"
+
+#. js-lingui-explicit-id
+msgid "Price {otherName}"
+msgstr "Price {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter price for {otherName}"
+msgstr "Please enter price for {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Category {otherName}"
+msgstr "Category {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter category for {otherName}"
+msgstr "Please enter category for {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Brand {otherName}"
+msgstr "Brand {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter brand for {otherName}"
+msgstr "Please enter brand for {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Mileage {otherName}"
+msgstr "Mileage {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter mileage for {otherName}"
+msgstr "Please enter mileage for {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Year release {otherName}"
+msgstr "Year release {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
+msgstr "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type fuel {otherName}"
+msgstr "Type fuel {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type fuel for {otherName}"
+msgstr "Please enter type fuel for {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type transmission {otherName}"
+msgstr "Type transmission {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type transmission for {otherName}"
+msgstr "Please enter type transmission for {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Type parts {otherName}"
+msgstr "Type parts {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please enter type parts for {otherName}"
+msgstr "Please enter type parts for {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Incorrectly entered data"
+msgstr "Incorrectly entered data"
+
+#. js-lingui-explicit-id
+msgid "Images {otherName}"
+msgstr "Images {otherName}"
+
+#. js-lingui-explicit-id
+msgid "Please add images for {otherName}"
+msgstr "Please add images for {otherName}"
+
+#. js-lingui-explicit-id
+msgid "About {NAME_APP}"
+msgstr "About {NAME_APP}"
+
+#. js-lingui-explicit-id
+msgid "Your professional beauty companion"
+msgstr "Your professional beauty companion"
+
+#. js-lingui-explicit-id
+msgid "Welcome to {NAME_APP} – your comprehensive mobile solution for beauty professionals! Our app is designed to streamline your business operations, manage client relationships, and boost your productivity."
+msgstr "Welcome to {NAME_APP} – your comprehensive mobile solution for beauty professionals! Our app is designed to streamline your business operations, manage client relationships, and boost your productivity."
+
+#. js-lingui-explicit-id
+msgid "Key Features"
+msgstr "Key Features"
+
+#. js-lingui-explicit-id
+msgid "Client Management"
+msgstr "Client Management"
+
+#. js-lingui-explicit-id
+msgid "Create detailed client profiles, track service history, and maintain comprehensive notes for each appointment."
+msgstr "Create detailed client profiles, track service history, and maintain comprehensive notes for each appointment."
+
+#. js-lingui-explicit-id
+msgid "Smart Calendar"
+msgstr "Smart Calendar"
+
+#. js-lingui-explicit-id
+msgid "Seamless integration with your device calendar. Automatic sync ensures you never miss an appointment."
+msgstr "Seamless integration with your device calendar. Automatic sync ensures you never miss an appointment."
+
+#. js-lingui-explicit-id
+msgid "SMS Notifications"
+msgstr "SMS Notifications"
+
+#. js-lingui-explicit-id
+msgid "Send automated SMS reminders to your clients about upcoming appointments and important updates."
+msgstr "Send automated SMS reminders to your clients about upcoming appointments and important updates."
+
+#. js-lingui-explicit-id
+msgid "Speech-to-Text"
+msgstr "Speech-to-Text"
+
+#. js-lingui-explicit-id
+msgid "Convert your voice notes into text for quick and easy appointment documentation and client notes."
+msgstr "Convert your voice notes into text for quick and easy appointment documentation and client notes."
+
+#. js-lingui-explicit-id
+msgid "Photo Gallery"
+msgstr "Photo Gallery"
+
+#. js-lingui-explicit-id
+msgid "Store and organize photos from each appointment to track client progress and showcase your work."
+msgstr "Store and organize photos from each appointment to track client progress and showcase your work."
+
+#. js-lingui-explicit-id
+msgid "Multi-Platform Sync"
+msgstr "Multi-Platform Sync"
+
+#. js-lingui-explicit-id
+msgid "Access your data seamlessly across mobile app and web platform with real-time synchronization."
+msgstr "Access your data seamlessly across mobile app and web platform with real-time synchronization."
+
+#. js-lingui-explicit-id
+msgid "Subscription Plans"
+msgstr "Subscription Plans"
+
+#. js-lingui-explicit-id
+msgid "Free"
+msgstr "Free"
+
+#. js-lingui-explicit-id
+msgid "$0/month"
+msgstr "$0/month"
+
+#. js-lingui-explicit-id
+msgid "Up to 20 clients"
+msgstr "Up to 20 clients"
+
+#. js-lingui-explicit-id
+msgid "3 appointments per client"
+msgstr "3 appointments per client"
+
+#. js-lingui-explicit-id
+msgid "1 photo per appointment"
+msgstr "1 photo per appointment"
+
+#. js-lingui-explicit-id
+msgid "1 SMS per month"
+msgstr "1 SMS per month"
+
+#. js-lingui-explicit-id
+msgid "3 minutes speech-to-text per month"
+msgstr "3 minutes speech-to-text per month"
+
+#. js-lingui-explicit-id
+msgid "Pro"
+msgstr "Pro"
+
+#. js-lingui-explicit-id
+msgid "$4.99/month"
+msgstr "$4.99/month"
+
+#. js-lingui-explicit-id
+msgid "Up to 100 clients"
+msgstr "Up to 100 clients"
+
+#. js-lingui-explicit-id
+msgid "10 appointments per client"
+msgstr "10 appointments per client"
+
+#. js-lingui-explicit-id
+msgid "3 photos per appointment"
+msgstr "3 photos per appointment"
+
+#. js-lingui-explicit-id
+msgid "20 SMS per month"
+msgstr "20 SMS per month"
+
+#. js-lingui-explicit-id
+msgid "60 minutes speech-to-text per month"
+msgstr "60 minutes speech-to-text per month"
+
+#. js-lingui-explicit-id
+msgid "Export clients (CSV)"
+msgstr "Export clients (CSV)"
+
+#. js-lingui-explicit-id
+msgid "Premium"
+msgstr "Premium"
+
+#. js-lingui-explicit-id
+msgid "$9.99/month"
+msgstr "$9.99/month"
+
+#. js-lingui-explicit-id
+msgid "Unlimited clients"
+msgstr "Unlimited clients"
+
+#. js-lingui-explicit-id
+msgid "Unlimited appointments per client"
+msgstr "Unlimited appointments per client"
+
+#. js-lingui-explicit-id
+msgid "20 photos per appointment"
+msgstr "20 photos per appointment"
+
+#. js-lingui-explicit-id
+msgid "50 SMS per month"
+msgstr "50 SMS per month"
+
+#. js-lingui-explicit-id
+msgid "300 minutes speech-to-text per month"
+msgstr "300 minutes speech-to-text per month"
+
+#. js-lingui-explicit-id
+msgid "Export/import clients (CSV)"
+msgstr "Export/import clients (CSV)"
+
+#. js-lingui-explicit-id
+msgid "Google Calendar integration"
+msgstr "Google Calendar integration"
+
+#. js-lingui-explicit-id
+msgid "Priority support"
+msgstr "Priority support"
+
+#. js-lingui-explicit-id
+msgid "Start with our free plan to explore {NAME_APP} features. Upgrade anytime to unlock more capacity and advanced functionality."
+msgstr "Start with our free plan to explore {NAME_APP} features. Upgrade anytime to unlock more capacity and advanced functionality."
+
+#. js-lingui-explicit-id
+msgid "* Prices may vary by region and are subject to local taxes."
+msgstr "* Prices may vary by region and are subject to local taxes."
+
+#. js-lingui-explicit-id
+msgid "** Subscription features, limits, and pricing are subject to change. We reserve the right to modify plans and functionality to improve our service."
+msgstr "** Subscription features, limits, and pricing are subject to change. We reserve the right to modify plans and functionality to improve our service."
+
+#. js-lingui-explicit-id
+msgid "Get in Touch"
+msgstr "Get in Touch"
+
+#. js-lingui-explicit-id
+msgid "We're constantly improving {NAME_APP} based on your feedback. Have suggestions or questions? We'd love to hear from you!"
+msgstr "We're constantly improving {NAME_APP} based on your feedback. Have suggestions or questions? We'd love to hear from you!"
+
+#. js-lingui-explicit-id
+msgid "Contact us: {CONTACT_EMAIL}"
+msgstr "Contact us: {CONTACT_EMAIL}"
+
+#. js-lingui-explicit-id
+msgid "Thank you for choosing {NAME_APP}!"
+msgstr "Thank you for choosing {NAME_APP}!"
+
+#. js-lingui-explicit-id
+msgid "Account Deletion"
+msgstr "Account Deletion"
+
+#. js-lingui-explicit-id
+msgid "How to delete your account?"
+msgstr "How to delete your account?"
+
+#. js-lingui-explicit-id
+msgid "To delete your account from {NAME_APP}, open the mobile application, go to your profile, then navigate to settings. At the bottom of the settings page, you will find the \"Delete account\" button. After clicking it, your account and all associated data will be permanently deleted."
+msgstr "To delete your account from {NAME_APP}, open the mobile application, go to your profile, then navigate to settings. At the bottom of the settings page, you will find the \"Delete account\" button. After clicking it, your account and all associated data will be permanently deleted."
+
+#. js-lingui-explicit-id
+msgid "Automatic account deletion"
+msgstr "Automatic account deletion"
+
+#. js-lingui-explicit-id
+msgid "Accounts that have been inactive for more than one year will be automatically deleted along with all associated data. This helps us maintain data security and comply with privacy regulations."
+msgstr "Accounts that have been inactive for more than one year will be automatically deleted along with all associated data. This helps us maintain data security and comply with privacy regulations."
+
+#. js-lingui-explicit-id
+msgid "What data will be deleted?"
+msgstr "What data will be deleted?"
+
+#. js-lingui-explicit-id
+msgid "When you delete your account, all your personal data and information associated with your account will be permanently removed:"
+msgstr "When you delete your account, all your personal data and information associated with your account will be permanently removed:"
+
+#. js-lingui-explicit-id
+msgid "Authentication data (Google, Facebook, Apple login information)"
+msgstr "Authentication data (Google, Facebook, Apple login information)"
+
+#. js-lingui-explicit-id
+msgid "Personal information (name, email, phone number)"
+msgstr "Personal information (name, email, phone number)"
+
+#. js-lingui-explicit-id
+msgid "All client data and profiles"
+msgstr "All client data and profiles"
+
+#. js-lingui-explicit-id
+msgid "All appointments and scheduling information"
+msgstr "All appointments and scheduling information"
+
+#. js-lingui-explicit-id
+msgid "All photos and images"
+msgstr "All photos and images"
+
+#. js-lingui-explicit-id
+msgid "SMS notifications history"
+msgstr "SMS notifications history"
+
+#. js-lingui-explicit-id
+msgid "Speech-to-text recordings and transcripts"
+msgstr "Speech-to-text recordings and transcripts"
+
+#. js-lingui-explicit-id
+msgid "All settings and preferences"
+msgstr "All settings and preferences"
+
+#. js-lingui-explicit-id
+msgid "Subscription information and payment history"
+msgstr "Subscription information and payment history"
+
+#. js-lingui-explicit-id
+msgid "Important notes"
+msgstr "Important notes"
+
+#. js-lingui-explicit-id
+msgid "Account deletion is irreversible. Once deleted, you cannot recover your data or restore your account. If you want to use {NAME_APP} again in the future, you will need to create a new account."
+msgstr "Account deletion is irreversible. Once deleted, you cannot recover your data or restore your account. If you want to use {NAME_APP} again in the future, you will need to create a new account."
+
+#. js-lingui-explicit-id
+msgid "If you have any questions about account deletion or need assistance, please contact us at our support email."
+msgstr "If you have any questions about account deletion or need assistance, please contact us at our support email."
+
+#. js-lingui-explicit-id
+msgid "Create detailed client profiles, track service history, and maintain comprehensive notes."
+msgstr "Create detailed client profiles, track service history, and maintain comprehensive notes."
+
+#. js-lingui-explicit-id
+msgid "Send automated SMS reminders to your clients about upcoming appointments."
+msgstr "Send automated SMS reminders to your clients about upcoming appointments."
+
+#. js-lingui-explicit-id
+msgid "Store and organize photos from each appointment to track client progress."
+msgstr "Store and organize photos from each appointment to track client progress."
+
+#. js-lingui-explicit-id
+msgid "Convert your voice notes into text for quick and easy documentation."
+msgstr "Convert your voice notes into text for quick and easy documentation."
+
+#. js-lingui-explicit-id
+msgid "Access your data seamlessly across mobile app and web platform."
+msgstr "Access your data seamlessly across mobile app and web platform."
+
+#. js-lingui-explicit-id
+msgid "Active Users"
+msgstr "Active Users"
+
+#. js-lingui-explicit-id
+msgid "Appointments Managed"
+msgstr "Appointments Managed"
+
+#. js-lingui-explicit-id
+msgid "Uptime"
+msgstr "Uptime"
+
+#. js-lingui-explicit-id
+msgid "App Rating"
+msgstr "App Rating"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} – Smart Scheduling App for Beauty Experts"
+msgstr "{NAME_APP} – Smart Scheduling App for Beauty Experts"
+
+#. js-lingui-explicit-id
+msgid "Beauty Sync helps beauty professionals manage appointments, clients, and reminders with ease."
+msgstr "Beauty Sync helps beauty professionals manage appointments, clients, and reminders with ease."
+
+#. js-lingui-explicit-id
+msgid "Welcome to {NAME_APP}"
+msgstr "Welcome to {NAME_APP}"
+
+#. js-lingui-explicit-id
+msgid "Your Professional Beauty Companion"
+msgstr "Your Professional Beauty Companion"
+
+#. js-lingui-explicit-id
+msgid "Streamline your beauty business with our comprehensive mobile solution. Manage appointments, track clients, and boost productivity with ease."
+msgstr "Streamline your beauty business with our comprehensive mobile solution. Manage appointments, track clients, and boost productivity with ease."
+
+#. js-lingui-explicit-id
+msgid "Download on App Store"
+msgstr "Download on App Store"
+
+#. js-lingui-explicit-id
+msgid "Get it on Google Play"
+msgstr "Get it on Google Play"
+
+#. js-lingui-explicit-id
+msgid "4.8★ Rating"
+msgstr "4.8★ Rating"
+
+#. js-lingui-explicit-id
+msgid "Secure & Private"
+msgstr "Secure & Private"
+
+#. js-lingui-explicit-id
+msgid "Fast & Reliable"
+msgstr "Fast & Reliable"
+
+#. js-lingui-explicit-id
+msgid "Everything you need to manage your beauty business efficiently"
+msgstr "Everything you need to manage your beauty business efficiently"
+
+#. js-lingui-explicit-id
+msgid "Ready to Transform Your Business?"
+msgstr "Ready to Transform Your Business?"
+
+#. js-lingui-explicit-id
+msgid "Join thousands of beauty professionals who trust {NAME_APP} to manage their business"
+msgstr "Join thousands of beauty professionals who trust {NAME_APP} to manage their business"
+
+#. js-lingui-explicit-id
+msgid "Last updated:"
+msgstr "Last updated:"
+
+#. js-lingui-explicit-id
+msgid "February 6, 2026"
+msgstr "February 6, 2026"
+
+#. js-lingui-explicit-id
+msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, FOP (\"us\", \"we\", or \"our\"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our mobile application and services (\"Service\")."
+msgstr "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, FOP (\"us\", \"we\", or \"our\"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our mobile application and services (\"Service\")."
+
+#. js-lingui-explicit-id
+msgid "Information We Collect"
+msgstr "Information We Collect"
+
+#. js-lingui-explicit-id
+msgid "Information Collection"
+msgstr "Information Collection"
+
+#. js-lingui-explicit-id
+msgid "We collect information to ensure the effective functionality of the {NAME_APP} app. The data collected may include:"
+msgstr "We collect information to ensure the effective functionality of the {NAME_APP} app. The data collected may include:"
+
+#. js-lingui-explicit-id
+msgid "Contacts: to create client records."
+msgstr "Contacts: to create client records."
+
+#. js-lingui-explicit-id
+msgid "Calendar data: to synchronize appointments and reminders."
+msgstr "Calendar data: to synchronize appointments and reminders."
+
+#. js-lingui-explicit-id
+msgid "Camera and photo library: to upload client or work photos."
+msgstr "Camera and photo library: to upload client or work photos."
+
+#. js-lingui-explicit-id
+msgid "Push notifications: to remind users about upcoming appointments."
+msgstr "Push notifications: to remind users about upcoming appointments."
+
+#. js-lingui-explicit-id
+msgid "Personal user information: such as name, email address, and phone number."
+msgstr "Personal user information: such as name, email address, and phone number."
+
+#. js-lingui-explicit-id
+msgid "Subscription information: for managing your account and processing payments. Prices may vary by region and are subject to local taxes."
+msgstr "Subscription information: for managing your account and processing payments. Prices may vary by region and are subject to local taxes."
+
+#. js-lingui-explicit-id
+msgid "Voice recordings: for speech-to-text functionality to convert voice notes into text for appointment documentation."
+msgstr "Voice recordings: for speech-to-text functionality to convert voice notes into text for appointment documentation."
+
+#. js-lingui-explicit-id
+msgid "SMS data: for sending automated reminders to clients about upcoming appointments."
+msgstr "SMS data: for sending automated reminders to clients about upcoming appointments."
+
+#. js-lingui-explicit-id
+msgid "Usage analytics: to improve app functionality and user experience."
+msgstr "Usage analytics: to improve app functionality and user experience."
+
+#. js-lingui-explicit-id
+msgid "Export/import data: for CSV export and import functionality (available with Pro and Premium subscriptions)."
+msgstr "Export/import data: for CSV export and import functionality (available with Pro and Premium subscriptions)."
+
+#. js-lingui-explicit-id
+msgid "Use of Information"
+msgstr "Use of Information"
+
+#. js-lingui-explicit-id
+msgid "We process your data based on legitimate interests and contractual necessity. The collected data is used to:"
+msgstr "We process your data based on legitimate interests and contractual necessity. The collected data is used to:"
+
+#. js-lingui-explicit-id
+msgid "Create client records and appointments."
+msgstr "Create client records and appointments."
+
+#. js-lingui-explicit-id
+msgid "Send SMS reminders to clients."
+msgstr "Send SMS reminders to clients."
+
+#. js-lingui-explicit-id
+msgid "Convert voice recordings to text for appointment documentation."
+msgstr "Convert voice recordings to text for appointment documentation."
+
+#. js-lingui-explicit-id
+msgid "Synchronize the calendar for appointment reminders."
+msgstr "Synchronize the calendar for appointment reminders."
+
+#. js-lingui-explicit-id
+msgid "Enable app features such as uploading photos and creating notes."
+msgstr "Enable app features such as uploading photos and creating notes."
+
+#. js-lingui-explicit-id
+msgid "Manage subscriptions and process billing."
+msgstr "Manage subscriptions and process billing."
+
+#. js-lingui-explicit-id
+msgid "Provide analytics and insights to improve service functionality."
+msgstr "Provide analytics and insights to improve service functionality."
+
+#. js-lingui-explicit-id
+msgid "Ensure compliance with subscription limits and features."
+msgstr "Ensure compliance with subscription limits and features."
+
+#. js-lingui-explicit-id
+msgid "Process data for export/import functionality (Pro subscription: export only, Premium subscription: export and import)."
+msgstr "Process data for export/import functionality (Pro subscription: export only, Premium subscription: export and import)."
+
+#. js-lingui-explicit-id
+msgid "Access to Permissions"
+msgstr "Access to Permissions"
+
+#. js-lingui-explicit-id
+msgid "Permissions are requested only for functions directly related to the app's operation. The {NAME_APP} app requires access to the following device features:"
+msgstr "Permissions are requested only for functions directly related to the app's operation. The {NAME_APP} app requires access to the following device features:"
+
+#. js-lingui-explicit-id
+msgid "Contacts: to add clients to the app."
+msgstr "Contacts: to add clients to the app."
+
+#. js-lingui-explicit-id
+msgid "Calendar: to sync events."
+msgstr "Calendar: to sync events."
+
+#. js-lingui-explicit-id
+msgid "Camera and photo library: to upload images."
+msgstr "Camera and photo library: to upload images."
+
+#. js-lingui-explicit-id
+msgid "Push notifications: to send reminders."
+msgstr "Push notifications: to send reminders."
+
+#. js-lingui-explicit-id
+msgid "Microphone: for speech-to-text functionality."
+msgstr "Microphone: for speech-to-text functionality."
+
+#. js-lingui-explicit-id
+msgid "SMS access: for sending appointment reminders."
+msgstr "SMS access: for sending appointment reminders."
+
+#. js-lingui-explicit-id
+msgid "Data Security"
+msgstr "Data Security"
+
+#. js-lingui-explicit-id
+msgid "Your data is protected using industry-standard security measures. We implement the following security practices:"
+msgstr "Your data is protected using industry-standard security measures. We implement the following security practices:"
+
+#. js-lingui-explicit-id
+msgid "End-to-end encryption for data transmission."
+msgstr "End-to-end encryption for data transmission."
+
+#. js-lingui-explicit-id
+msgid "Limited access to servers where information is stored."
+msgstr "Limited access to servers where information is stored."
+
+#. js-lingui-explicit-id
+msgid "Regular security updates and monitoring."
+msgstr "Regular security updates and monitoring."
+
+#. js-lingui-explicit-id
+msgid "Secure API authentication for third-party integrations."
+msgstr "Secure API authentication for third-party integrations."
+
+#. js-lingui-explicit-id
+msgid "Compliance with industry security standards."
+msgstr "Compliance with industry security standards."
+
+#. js-lingui-explicit-id
+msgid "Sharing Information with Third Parties"
+msgstr "Sharing Information with Third Parties"
+
+#. js-lingui-explicit-id
+msgid "We may share your data with third parties in the following cases:"
+msgstr "We may share your data with third parties in the following cases:"
+
+#. js-lingui-explicit-id
+msgid "SMS service providers: for sending appointment reminders to clients."
+msgstr "SMS service providers: for sending appointment reminders to clients."
+
+#. js-lingui-explicit-id
+msgid "Payment processors: Apple App Store and Google Play for subscription billing."
+msgstr "Payment processors: Apple App Store and Google Play for subscription billing."
+
+#. js-lingui-explicit-id
+msgid "Analytics services: for service improvement (anonymized data only)."
+msgstr "Analytics services: for service improvement (anonymized data only)."
+
+#. js-lingui-explicit-id
+msgid "Legal requirements: when required by law or to protect our rights."
+msgstr "Legal requirements: when required by law or to protect our rights."
+
+#. js-lingui-explicit-id
+msgid "Cloud storage providers: for secure data backup and synchronization."
+msgstr "Cloud storage providers: for secure data backup and synchronization."
+
+#. js-lingui-explicit-id
+msgid "International Data Transfers"
+msgstr "International Data Transfers"
+
+#. js-lingui-explicit-id
+msgid "Your data may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place to protect your data in accordance with applicable data protection laws."
+msgstr "Your data may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place to protect your data in accordance with applicable data protection laws."
+
+#. js-lingui-explicit-id
+msgid "Data Retention"
+msgstr "Data Retention"
+
+#. js-lingui-explicit-id
+msgid "We retain your data only as long as necessary to provide our services. Data is automatically deleted when you delete your account or revoke permissions. Some data may be retained for legal or security purposes as required by law. We comply with applicable data protection laws including GDPR where applicable."
+msgstr "We retain your data only as long as necessary to provide our services. Data is automatically deleted when you delete your account or revoke permissions. Some data may be retained for legal or security purposes as required by law. We comply with applicable data protection laws including GDPR where applicable."
+
+#. js-lingui-explicit-id
+msgid "Service Limitations and Disclaimers"
+msgstr "Service Limitations and Disclaimers"
+
+#. js-lingui-explicit-id
+msgid "While we strive to provide reliable service, we cannot guarantee uninterrupted access or complete data security. We are not responsible for:"
+msgstr "While we strive to provide reliable service, we cannot guarantee uninterrupted access or complete data security. We are not responsible for:"
+
+#. js-lingui-explicit-id
+msgid "Temporary service interruptions due to maintenance or technical issues."
+msgstr "Temporary service interruptions due to maintenance or technical issues."
+
+#. js-lingui-explicit-id
+msgid "Data loss caused by user actions or device malfunctions."
+msgstr "Data loss caused by user actions or device malfunctions."
+
+#. js-lingui-explicit-id
+msgid "Third-party service failures (SMS providers, payment processors, etc.)."
+msgstr "Third-party service failures (SMS providers, payment processors, etc.)."
+
+#. js-lingui-explicit-id
+msgid "Compliance issues arising from user misuse of the service."
+msgstr "Compliance issues arising from user misuse of the service."
+
+#. js-lingui-explicit-id
+msgid "Financial losses resulting from service interruptions or data issues."
+msgstr "Financial losses resulting from service interruptions or data issues."
+
+#. js-lingui-explicit-id
+msgid "User Rights"
+msgstr "User Rights"
+
+#. js-lingui-explicit-id
+msgid "To exercise your rights, contact us at {CONTACT_EMAIL}. You have the following rights:"
+msgstr "To exercise your rights, contact us at {CONTACT_EMAIL}. You have the following rights:"
+
+#. js-lingui-explicit-id
+msgid "Access your data: You can review the data we store about you."
+msgstr "Access your data: You can review the data we store about you."
+
+#. js-lingui-explicit-id
+msgid "Delete your data: You can request the deletion of your information."
+msgstr "Delete your data: You can request the deletion of your information."
+
+#. js-lingui-explicit-id
+msgid "Revoke permissions: You can modify app permissions via your device settings."
+msgstr "Revoke permissions: You can modify app permissions via your device settings."
+
+#. js-lingui-explicit-id
+msgid "Export your data: You can request a copy of your data in a portable format or use the built-in CSV export feature (available with Pro and Premium subscriptions)."
+msgstr "Export your data: You can request a copy of your data in a portable format or use the built-in CSV export feature (available with Pro and Premium subscriptions)."
+
+#. js-lingui-explicit-id
+msgid "Rectify your data: You can request correction of inaccurate personal data."
+msgstr "Rectify your data: You can request correction of inaccurate personal data."
+
+#. js-lingui-explicit-id
+msgid "Restrict processing: You can request limitation of data processing under certain circumstances."
+msgstr "Restrict processing: You can request limitation of data processing under certain circumstances."
+
+#. js-lingui-explicit-id
+msgid "Changes to the Privacy Policy"
+msgstr "Changes to the Privacy Policy"
+
+#. js-lingui-explicit-id
+msgid ""
+"We may update this Privacy Policy periodically. All updates will be published on this page with the updated date.\n"
+"We recommend checking this section regularly to stay informed of any changes. For significant updates, we will notify you via the app or email."
+msgstr ""
+"We may update this Privacy Policy periodically. All updates will be published on this page with the updated date.\n"
+"We recommend checking this section regularly to stay informed of any changes. For significant updates, we will notify you via the app or email."
+
+#. js-lingui-explicit-id
+msgid "Contact Information"
+msgstr "Contact Information"
+
+#. js-lingui-explicit-id
+msgid "If you have questions about this Privacy Policy, contact us at {CONTACT_EMAIL}."
+msgstr "If you have questions about this Privacy Policy, contact us at {CONTACT_EMAIL}."
+
+#. js-lingui-explicit-id
+msgid "\"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, FOP (\"us\", \"we\", or \"our\"). By accessing or using our mobile application and web services (\"Service\"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service."
+msgstr "\"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, FOP (\"us\", \"we\", or \"our\"). By accessing or using our mobile application and web services (\"Service\"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service."
+
+#. js-lingui-explicit-id
+msgid "1. Purpose of the Application"
+msgstr "1. Purpose of the Application"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} is a comprehensive mobile and web application designed to help beauty professionals (stylists, makeup artists, nail technicians, and other beauty specialists) manage their business operations effectively. The application allows users to create detailed client profiles, manage appointments, synchronize schedules with device calendars, send SMS reminders to clients, convert voice notes to text for appointment documentation, store photos from appointments, and receive notifications about upcoming appointments."
+msgstr "{NAME_APP} is a comprehensive mobile and web application designed to help beauty professionals (stylists, makeup artists, nail technicians, and other beauty specialists) manage their business operations effectively. The application allows users to create detailed client profiles, manage appointments, synchronize schedules with device calendars, send SMS reminders to clients, convert voice notes to text for appointment documentation, store photos from appointments, and receive notifications about upcoming appointments."
+
+#. js-lingui-explicit-id
+msgid "2. Permissions and Usage Restrictions"
+msgstr "2. Permissions and Usage Restrictions"
+
+#. js-lingui-explicit-id
+msgid "By using {NAME_APP}, you agree to utilize the app solely for its intended purposes. Any misuse of the app, such as reverse-engineering, unauthorized modifications, or illegal activities, is strictly prohibited. Users are also responsible for maintaining the confidentiality of their account credentials and ensuring that the app is used in compliance with local laws and regulations."
+msgstr "By using {NAME_APP}, you agree to utilize the app solely for its intended purposes. Any misuse of the app, such as reverse-engineering, unauthorized modifications, or illegal activities, is strictly prohibited. Users are also responsible for maintaining the confidentiality of their account credentials and ensuring that the app is used in compliance with local laws and regulations."
+
+#. js-lingui-explicit-id
+msgid "3. Subscriptions and Payments"
+msgstr "3. Subscriptions and Payments"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} offers a free tier with basic features, and two premium subscription plans (Pro and Premium) for advanced functionality. All subscriptions are billed monthly. Payments are processed through the Apple App Store or Google Play, according to their respective policies. Apple and Google may adjust subscription prices depending on your region. Subscriptions renew automatically unless canceled at least 24 hours before the end of the billing period. All payments are non-refundable unless required by applicable law."
+msgstr "{NAME_APP} offers a free tier with basic features, and two premium subscription plans (Pro and Premium) for advanced functionality. All subscriptions are billed monthly. Payments are processed through the Apple App Store or Google Play, according to their respective policies. Apple and Google may adjust subscription prices depending on your region. Subscriptions renew automatically unless canceled at least 24 hours before the end of the billing period. All payments are non-refundable unless required by applicable law."
+
+#. js-lingui-explicit-id
+msgid "4. Subscription Information"
+msgstr "4. Subscription Information"
+
+#. js-lingui-explicit-id
+msgid "The following subscription plans are available:"
+msgstr "The following subscription plans are available:"
+
+#. js-lingui-explicit-id
+msgid "Free Plan"
+msgstr "Free Plan"
+
+#. js-lingui-explicit-id
+msgid "Price: Free"
+msgstr "Price: Free"
+
+#. js-lingui-explicit-id
+msgid "Basic calendar sync"
+msgstr "Basic calendar sync"
+
+#. js-lingui-explicit-id
+msgid "Pro Plan"
+msgstr "Pro Plan"
+
+#. js-lingui-explicit-id
+msgid "Price: $4.99 per month"
+msgstr "Price: $4.99 per month"
+
+#. js-lingui-explicit-id
+msgid "Advanced calendar sync"
+msgstr "Advanced calendar sync"
+
+#. js-lingui-explicit-id
+msgid "Premium Plan"
+msgstr "Premium Plan"
+
+#. js-lingui-explicit-id
+msgid "Price: $9.99 per month"
+msgstr "Price: $9.99 per month"
+
+#. js-lingui-explicit-id
+msgid "Full calendar sync and analytics"
+msgstr "Full calendar sync and analytics"
+
+#. js-lingui-explicit-id
+msgid "5. Notifications and Reminders"
+msgstr "5. Notifications and Reminders"
+
+#. js-lingui-explicit-id
+msgid "The application sends push notifications and SMS reminders to inform users about upcoming appointments and related updates. By enabling push notifications and SMS features, users consent to receiving these alerts. It is the user's responsibility to ensure notifications are active on their device and to provide accurate phone numbers for SMS reminders to avoid missing important updates."
+msgstr "The application sends push notifications and SMS reminders to inform users about upcoming appointments and related updates. By enabling push notifications and SMS features, users consent to receiving these alerts. It is the user's responsibility to ensure notifications are active on their device and to provide accurate phone numbers for SMS reminders to avoid missing important updates."
+
+#. js-lingui-explicit-id
+msgid "6. Data Management and Privacy"
+msgstr "6. Data Management and Privacy"
+
+#. js-lingui-explicit-id
+msgid "The application provides tools for managing and storing client data, including voice recordings and SMS data. Users are responsible for entering accurate information, maintaining backups of critical data when necessary, and ensuring they have proper consent from clients for data collection. {NAME_APP} is not liable for any data loss due to user error, device failure, unauthorized access, or third-party service failures. Users must comply with applicable data protection laws and regulations."
+msgstr "The application provides tools for managing and storing client data, including voice recordings and SMS data. Users are responsible for entering accurate information, maintaining backups of critical data when necessary, and ensuring they have proper consent from clients for data collection. {NAME_APP} is not liable for any data loss due to user error, device failure, unauthorized access, or third-party service failures. Users must comply with applicable data protection laws and regulations."
+
+#. js-lingui-explicit-id
+msgid "7. Service Limitations and Disclaimers"
+msgstr "7. Service Limitations and Disclaimers"
+
+#. js-lingui-explicit-id
+msgid "While we strive to provide reliable service, we cannot guarantee uninterrupted access or complete data security. We are not responsible for temporary service interruptions due to maintenance or technical issues, data loss caused by user actions or device malfunctions, third-party service failures (SMS providers, payment processors, etc.), compliance issues arising from user misuse of the service, or financial losses resulting from service interruptions or data issues."
+msgstr "While we strive to provide reliable service, we cannot guarantee uninterrupted access or complete data security. We are not responsible for temporary service interruptions due to maintenance or technical issues, data loss caused by user actions or device malfunctions, third-party service failures (SMS providers, payment processors, etc.), compliance issues arising from user misuse of the service, or financial losses resulting from service interruptions or data issues."
+
+#. js-lingui-explicit-id
+msgid "8. Changes to Terms"
+msgstr "8. Changes to Terms"
+
+#. js-lingui-explicit-id
+msgid "These Terms of Use may be updated periodically. Any changes will be published within the application, and the effective date will be revised accordingly. Continued use of the service after updates signifies acceptance of the new terms."
+msgstr "These Terms of Use may be updated periodically. Any changes will be published within the application, and the effective date will be revised accordingly. Continued use of the service after updates signifies acceptance of the new terms."
+
+#. js-lingui-explicit-id
+msgid "9. Limitation of Liability"
+msgstr "9. Limitation of Liability"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} and its developers are not responsible for any damages resulting from the use or inability to use the service. This includes issues caused by errors, interruptions, third-party integrations, or unauthorized access to data. We are not responsible for illegal use of the application by users."
+msgstr "{NAME_APP} and its developers are not responsible for any damages resulting from the use or inability to use the service. This includes issues caused by errors, interruptions, third-party integrations, or unauthorized access to data. We are not responsible for illegal use of the application by users."
+
+#. js-lingui-explicit-id
+msgid "10. Prohibited Activities and Content Monitoring"
+msgstr "10. Prohibited Activities and Content Monitoring"
+
+#. js-lingui-explicit-id
+msgid "We may monitor usage patterns to ensure compliance with these terms. In case of detecting misuse of the service, violations of applicable laws, or activities that compromise the integrity of the platform, we may suspend or terminate user accounts without refund. Users are responsible for ensuring that their use of the service complies with all applicable laws and regulations."
+msgstr "We may monitor usage patterns to ensure compliance with these terms. In case of detecting misuse of the service, violations of applicable laws, or activities that compromise the integrity of the platform, we may suspend or terminate user accounts without refund. Users are responsible for ensuring that their use of the service complies with all applicable laws and regulations."
+
+#. js-lingui-explicit-id
+msgid "11. Support"
+msgstr "11. Support"
+
+#. js-lingui-explicit-id
+msgid "For assistance with technical issues, subscription questions, or other inquiries, users can contact us at {CONTACT_EMAIL}. Our team strives to address support requests promptly, typically within 48 hours."
+msgstr "For assistance with technical issues, subscription questions, or other inquiries, users can contact us at {CONTACT_EMAIL}. Our team strives to address support requests promptly, typically within 48 hours."
+
+#. js-lingui-explicit-id
+msgid "12. Account Deletion"
+msgstr "12. Account Deletion"
+
+#. js-lingui-explicit-id
+msgid "If you wish to delete your account, you can do so through the app's settings or by submitting a request via the developer's feedback form at the following link: https://vb-dev.org.ua/#feedback."
+msgstr "If you wish to delete your account, you can do so through the app's settings or by submitting a request via the developer's feedback form at the following link: https://vb-dev.org.ua/#feedback."
+
+#. js-lingui-explicit-id
+msgid "13. Apple's Standard Terms"
+msgstr "13. Apple's Standard Terms"
+
+#. js-lingui-explicit-id
+msgid "In addition to these Terms of Use, {NAME_APP} operates under the Apple Standard End User License Agreement (EULA), which can be found at the following link:"
+msgstr "In addition to these Terms of Use, {NAME_APP} operates under the Apple Standard End User License Agreement (EULA), which can be found at the following link:"
+
+#. js-lingui-explicit-id
+msgid "By using {NAME_APP}, you confirm that you have read and agreed to these Terms of Use."
+msgstr "By using {NAME_APP}, you confirm that you have read and agreed to these Terms of Use."

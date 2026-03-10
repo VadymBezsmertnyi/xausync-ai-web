@@ -1,0 +1,966 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-02-08 08:08+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: hu\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+msgid "Home"
+msgstr "Kezdőlap"
+
+#. js-lingui-explicit-id
+msgid "About"
+msgstr "Névjegyről"
+
+#. js-lingui-explicit-id
+msgid "Terms of Use"
+msgstr "Felhasználási feltételek"
+
+#. js-lingui-explicit-id
+msgid "Privacy Policy"
+msgstr "Adatvédelmi szabályzat"
+
+#. js-lingui-explicit-id
+msgid "Logo"
+msgstr "Logó"
+
+#. js-lingui-explicit-id
+msgid "Menu"
+msgstr "Menü"
+
+#. js-lingui-explicit-id
+msgid "Select language"
+msgstr "Válasszon nyelvet"
+
+#. js-lingui-explicit-id
+msgid "Name of the {otherName}"
+msgstr "{otherName} neve"
+
+#. js-lingui-explicit-id
+msgid "The text must contain a minimum of {min} and a maximum of {max} characters."
+msgstr "A szövegnek tartalmaznia legalább {min} és legfeljebb {max} karakter."
+
+#. js-lingui-explicit-id
+msgid "The place of the {otherName}"
+msgstr "{otherName} helye"
+
+#. js-lingui-explicit-id
+msgid "The location of the {otherName} must be selected."
+msgstr "{otherName} helyét ki kell választani."
+
+#. js-lingui-explicit-id
+msgid "Date of the {otherName}"
+msgstr "{otherName} dátuma"
+
+#. js-lingui-explicit-id
+msgid "The end date must be greater than the start date."
+msgstr "A befejező dátumnak nagyobbnak kell, mint a kezdő dátum."
+
+#. js-lingui-explicit-id
+msgid "Tell us about the {otherName}"
+msgstr "Mondja el {otherName}ről"
+
+#. js-lingui-explicit-id
+msgid "Description of the {otherName}"
+msgstr "{otherName} leírása"
+
+#. js-lingui-explicit-id
+msgid "Phone number the {otherName}"
+msgstr "{otherName} telefonszáma"
+
+#. js-lingui-explicit-id
+msgid "Please enter phone number"
+msgstr "Kérjük, adja meg a telefonszámot"
+
+#. js-lingui-explicit-id
+msgid "Types of {otherName} jobs"
+msgstr "{otherName} munkatípusai"
+
+#. js-lingui-explicit-id
+msgid "Please select at least one type"
+msgstr "Kérjük, válasszon ki legalább egy típust"
+
+#. js-lingui-explicit-id
+msgid "Price {otherName}"
+msgstr "{otherName} ára"
+
+#. js-lingui-explicit-id
+msgid "Please enter price for {otherName}"
+msgstr "Kérjük, adja meg az árat {otherName} számára"
+
+#. js-lingui-explicit-id
+msgid "Category {otherName}"
+msgstr "{otherName} kategória"
+
+#. js-lingui-explicit-id
+msgid "Please enter category for {otherName}"
+msgstr "Kérjük, adja meg a kategóriát {otherName} számára"
+
+#. js-lingui-explicit-id
+msgid "Brand {otherName}"
+msgstr "{otherName} márka"
+
+#. js-lingui-explicit-id
+msgid "Please enter brand for {otherName}"
+msgstr "Kérjük, adja meg a márkát {otherName} számára"
+
+#. js-lingui-explicit-id
+msgid "Mileage {otherName}"
+msgstr "{otherName} futástelés"
+
+#. js-lingui-explicit-id
+msgid "Please enter mileage for {otherName}"
+msgstr "Kérjük, adja meg a futástelést {otherName} számára"
+
+#. js-lingui-explicit-id
+msgid "Year release {otherName}"
+msgstr "{otherName} gyártási éve"
+
+#. js-lingui-explicit-id
+msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
+msgstr "Kérjük, adja meg az évet legalább {min} és legfeljebb {max} értéket {otherName} számára"
+
+#. js-lingui-explicit-id
+msgid "Type fuel {otherName}"
+msgstr "{otherName} üzemanyag típusa"
+
+#. js-lingui-explicit-id
+msgid "Please enter type fuel for {otherName}"
+msgstr "Kérjük, adja meg az üzemanyag típust {otherName} számára"
+
+#. js-lingui-explicit-id
+msgid "Type transmission {otherName}"
+msgstr "{otherName} sebességváltó típusa"
+
+#. js-lingui-explicit-id
+msgid "Please enter type transmission for {otherName}"
+msgstr "Kérjük, adja meg a sebességváltó típust {otherName} számára"
+
+#. js-lingui-explicit-id
+msgid "Type parts {otherName}"
+msgstr "{otherName} alkatrészek típusa"
+
+#. js-lingui-explicit-id
+msgid "Please enter type parts for {otherName}"
+msgstr "Kérjük, adja meg az alkatrészek típust {otherName} számára"
+
+#. js-lingui-explicit-id
+msgid "Incorrectly entered data"
+msgstr "Helytelenül megadott adatok"
+
+#. js-lingui-explicit-id
+msgid "Images {otherName}"
+msgstr "{otherName} képek"
+
+#. js-lingui-explicit-id
+msgid "Please add images for {otherName}"
+msgstr "Kérjük, adjon hozzá képeket {otherName} számára"
+
+#. js-lingui-explicit-id
+msgid "About {NAME_APP}"
+msgstr "Névjegyről a {NAME_APP}"
+
+#. js-lingui-explicit-id
+msgid "Your professional beauty companion"
+msgstr "Az Ön professzionális szépségű társa"
+
+#. js-lingui-explicit-id
+msgid "Welcome to {NAME_APP} – your comprehensive mobile solution for beauty professionals! Our app is designed to streamline your business operations, manage client relationships, and boost your productivity."
+msgstr "Üdvözöljük a {NAME_APP} alkalmazásban – az Ön átfogó mobil megoldás a szépségügyi szakembereknek! Alkalmazásunk úgy lett tervezve, hogy hatékonyabbá tegye üzleti műveleteit, ügyfélkapcsolatokat kezeljen, és növelje a produktivitását."
+
+#. js-lingui-explicit-id
+msgid "Key Features"
+msgstr "Főbb funkciók"
+
+#. js-lingui-explicit-id
+msgid "Client Management"
+msgstr "Ügyfélkezelés"
+
+#. js-lingui-explicit-id
+msgid "Create detailed client profiles, track service history, and maintain comprehensive notes for each appointment."
+msgstr "Részletes ügyfélprofilok létrehozása, szolgáltatási előzmények követése és átfogó jegyzetek vezetése minden egyezkhez.Részletes ügyfélprofilok létrehozása, szolgáltatási előzmények követése és átfogó jegyzetek vezetése minden egyezkhez."
+
+#. js-lingui-explicit-id
+msgid "Smart Calendar"
+msgstr "Intelligens naptár"
+
+#. js-lingui-explicit-id
+msgid "Seamless integration with your device calendar. Automatic sync ensures you never miss an appointment."
+msgstr "Zökkenő integráció az Ön eszköz naptárával. Az automatikus szinkronizáció biztosítja, hogy soha nem marad le egyezk."
+
+#. js-lingui-explicit-id
+msgid "SMS Notifications"
+msgstr "SMS értesítések"
+
+#. js-lingui-explicit-id
+msgid "Send automated SMS reminders to your clients about upcoming appointments and important updates."
+msgstr "Automatikus SMS emlékeztetők küldése ügyfeleineknek a közelgő egyezkkről és fontos frissítésekről."
+
+#. js-lingui-explicit-id
+msgid "Speech-to-Text"
+msgstr "Beszéd-szöveg"
+
+#. js-lingui-explicit-id
+msgid "Convert your voice notes into text for quick and easy appointment documentation and client notes."
+msgstr "Hangjegyzetek szöveggé alakítása gyors és egyszerű egyezk dokumentáláshoz és ügyfelejegyzetekhez."
+
+#. js-lingui-explicit-id
+msgid "Photo Gallery"
+msgstr "Fotógaléria"
+
+#. js-lingui-explicit-id
+msgid "Store and organize photos from each appointment to track client progress and showcase your work."
+msgstr "Fotók tárolása és rendszerezése minden egyezkről az ügyfél haladásának követéséhez és a munkája bemutatásához."
+
+#. js-lingui-explicit-id
+msgid "Multi-Platform Sync"
+msgstr "Többplatform szinkronizáció"
+
+#. js-lingui-explicit-id
+msgid "Access your data seamlessly across mobile app and web platform with real-time synchronization."
+msgstr "Zökkenő hozzáférés az adataihoz a mobil alkalmazás és webplatform között valós idejű szinkronizációval."
+
+#. js-lingui-explicit-id
+msgid "Subscription Plans"
+msgstr "Előfizetési tervek"
+
+#. js-lingui-explicit-id
+msgid "Free"
+msgstr "Ingyenes"
+
+#. js-lingui-explicit-id
+msgid "$0/month"
+msgstr "$0/hónap"
+
+#. js-lingui-explicit-id
+msgid "Up to 20 clients"
+msgstr "Legfeljebb 20 ügyfél"
+
+#. js-lingui-explicit-id
+msgid "3 appointments per client"
+msgstr "3 egyezk ügyfélenként"
+
+#. js-lingui-explicit-id
+msgid "1 photo per appointment"
+msgstr "1 fotó egyezkhez"
+
+#. js-lingui-explicit-id
+msgid "1 SMS per month"
+msgstr "1 SMS havonta"
+
+#. js-lingui-explicit-id
+msgid "3 minutes speech-to-text per month"
+msgstr "3 perc beszéd-szöveg havonta"
+
+#. js-lingui-explicit-id
+msgid "Pro"
+msgstr "Pro"
+
+#. js-lingui-explicit-id
+msgid "$4.99/month"
+msgstr "$4.99/hónap"
+
+#. js-lingui-explicit-id
+msgid "Up to 100 clients"
+msgstr "Legfeljebb 100 ügyfél"
+
+#. js-lingui-explicit-id
+msgid "10 appointments per client"
+msgstr "10 egyezk ügyfélenként"
+
+#. js-lingui-explicit-id
+msgid "3 photos per appointment"
+msgstr "3 fotó egyezkhez"
+
+#. js-lingui-explicit-id
+msgid "20 SMS per month"
+msgstr "20 SMS havonta"
+
+#. js-lingui-explicit-id
+msgid "60 minutes speech-to-text per month"
+msgstr "60 perc beszéd-szöveg havonta"
+
+#. js-lingui-explicit-id
+msgid "Export clients (CSV)"
+msgstr "Ügyfelek exportálása (CSV)"
+
+#. js-lingui-explicit-id
+msgid "Premium"
+msgstr "Premium"
+
+#. js-lingui-explicit-id
+msgid "$9.99/month"
+msgstr "$9.99/hónap"
+
+#. js-lingui-explicit-id
+msgid "Unlimited clients"
+msgstr "Korlátlanlan ügyfelek"
+
+#. js-lingui-explicit-id
+msgid "Unlimited appointments per client"
+msgstr "Korlátlanlan egyezk ügyfélenként"
+
+#. js-lingui-explicit-id
+msgid "20 photos per appointment"
+msgstr "20 fotó egyezkhez"
+
+#. js-lingui-explicit-id
+msgid "50 SMS per month"
+msgstr "50 SMS havonta"
+
+#. js-lingui-explicit-id
+msgid "300 minutes speech-to-text per month"
+msgstr "300 perc beszéd-szöveg havonta"
+
+#. js-lingui-explicit-id
+msgid "Export/import clients (CSV)"
+msgstr "Ügyfelek exportálása/importálása (CSV)"
+
+#. js-lingui-explicit-id
+msgid "Google Calendar integration"
+msgstr "Google Naptár integráció"
+
+#. js-lingui-explicit-id
+msgid "Priority support"
+msgstr "Prioritás támogatás"
+
+#. js-lingui-explicit-id
+msgid "Start with our free plan to explore {NAME_APP} features. Upgrade anytime to unlock more capacity and advanced functionality."
+msgstr "Kezdje a ingyenes csomagunkkal a {NAME_APP} funkciók felfedezéséhez. Bármikor frissíthet, hogy több kapacitást és fejlett funkciókat oldjon fel."
+
+#. js-lingui-explicit-id
+msgid "* Prices may vary by region and are subject to local taxes."
+msgstr "* Az árak régiónként változhatnak és helyi adóknak vannak alávetve."
+
+#. js-lingui-explicit-id
+msgid "** Subscription features, limits, and pricing are subject to change. We reserve the right to modify plans and functionality to improve our service."
+msgstr "** Az előfizetési funkciók, korlátok és árak változhatnak. Fenntartjuk magunknak a jogot a tervek és a funkcionalitás módosítására a szolgáltatásunk javításához."
+
+#. js-lingui-explicit-id
+msgid "Get in Touch"
+msgstr "Vegye fel velünk"
+
+#. js-lingui-explicit-id
+msgid "We're constantly improving {NAME_APP} based on your feedback. Have suggestions or questions? We'd love to hear from you!"
+msgstr "Folyamatosan javítjuk a {NAME_APP} alkalmazást az Ön visszajelzása alapján. Van javaslata vagy kérdése? Szeretnén hallanánk Öntől!"
+
+#. js-lingui-explicit-id
+msgid "Contact us: {CONTACT_EMAIL}"
+msgstr "Vegye fel velünk: {CONTACT_EMAIL}"
+
+#. js-lingui-explicit-id
+msgid "Thank you for choosing {NAME_APP}!"
+msgstr "Köszönjük, hogy kiválasztotta a {NAME_APP} alkalmazást!"
+
+#. js-lingui-explicit-id
+msgid "Account Deletion"
+msgstr "Fiók törlése"
+
+#. js-lingui-explicit-id
+msgid "How to delete your account?"
+msgstr "Hogyan törölheti a fiókját?"
+
+#. js-lingui-explicit-id
+msgid "To delete your account from {NAME_APP}, open the mobile application, go to your profile, then navigate to settings. At the bottom of the settings page, you will find the \"Delete account\" button. After clicking it, your account and all associated data will be permanently deleted."
+msgstr "Ha törölni szeretné a fiókját a {NAME_APP} alkalmazásból, nyissa meg a mobil alkalmazást, lépjen be a profiljába, majd navigáljon a beállításokhoz. A beállítások oldalának alján találja a \"Fiók törlése\" gombot. A kattintás után a fiókja és az összes kapcsolódó adat véglegesen törlődik."
+
+#. js-lingui-explicit-id
+msgid "Automatic account deletion"
+msgstr "Automatikus fióktörlés"
+
+#. js-lingui-explicit-id
+msgid "Accounts that have been inactive for more than one year will be automatically deleted along with all associated data. This helps us maintain data security and comply with privacy regulations."
+msgstr "Azok a fiókok, amelyek több mint egy évig inaktívak voltak, automatikusan törlésre kerülnek az összes kapcsolódó adatokkal együtt. Ez segít fenntartani az adatbiztonságot és megfelelni az adatvédelmi előírásokat."
+
+#. js-lingui-explicit-id
+msgid "What data will be deleted?"
+msgstr "Milyen adatok törlésre kerülnek?"
+
+#. js-lingui-explicit-id
+msgid "When you delete your account, all your personal data and information associated with your account will be permanently removed:"
+msgstr "Ha törli a fiókját, az Ön összes személyes adataja és a fiókjához kapcsolódó információk véglegesen eltávolításra kerülnek:"
+
+#. js-lingui-explicit-id
+msgid "Authentication data (Google, Facebook, Apple login information)"
+msgstr "Hitelesítési adatok (Google, Facebook, Apple bejelentkezési információk)"
+
+#. js-lingui-explicit-id
+msgid "Personal information (name, email, phone number)"
+msgstr "Személyes információk (név, email, telefonszám)"
+
+#. js-lingui-explicit-id
+msgid "All client data and profiles"
+msgstr "Összes ügyféladat és profilok"
+
+#. js-lingui-explicit-id
+msgid "All appointments and scheduling information"
+msgstr "Összes egyezk és ütemezési információk"
+
+#. js-lingui-explicit-id
+msgid "All photos and images"
+msgstr "Összes fotók és képek"
+
+#. js-lingui-explicit-id
+msgid "SMS notifications history"
+msgstr "SMS értesítési előzmény"
+
+#. js-lingui-explicit-id
+msgid "Speech-to-text recordings and transcripts"
+msgstr "Beszéd-szöveg felvételek és átiratok"
+
+#. js-lingui-explicit-id
+msgid "All settings and preferences"
+msgstr "Összes beállítások és preferenciák"
+
+#. js-lingui-explicit-id
+msgid "Subscription information and payment history"
+msgstr "Előfizetési információk és fizetési előzmény"
+
+#. js-lingui-explicit-id
+msgid "Important notes"
+msgstr "Fontos megjegyzések"
+
+#. js-lingui-explicit-id
+msgid "Account deletion is irreversible. Once deleted, you cannot recover your data or restore your account. If you want to use {NAME_APP} again in the future, you will need to create a new account."
+msgstr "A fióktörlés visszafordítható. Ha törölve van, nem állíthatja helyreállítani az adatait vagy visszaállítani a fiókját. Ha újra szeretné használni a {NAME_APP} alkalmazást a jövőben, új fiókot kell létrehoznia."
+
+#. js-lingui-explicit-id
+msgid "If you have any questions about account deletion or need assistance, please contact us at our support email."
+msgstr "Ha bármily kérdése van a fióktörléssel kapcsolatban, vagy segítségre van szüksége, kérjük, vegye fel velünk a támogató email címünkön."
+
+#. js-lingui-explicit-id
+msgid "Create detailed client profiles, track service history, and maintain comprehensive notes."
+msgstr "Részletes ügyfélprofilok létrehozása, a szolgáltatási előzmények nyomon követése és átfogó jegyzetek vezetése."
+
+#. js-lingui-explicit-id
+msgid "Send automated SMS reminders to your clients about upcoming appointments."
+msgstr "Automatikus SMS emlékeztetők küldése ügyfeleinek a közelgő egyezkkről."
+
+#. js-lingui-explicit-id
+msgid "Store and organize photos from each appointment to track client progress."
+msgstr "Fotók tárolása és rendszerezése minden egyezkről az ügyfél haladásának követéséhez."
+
+#. js-lingui-explicit-id
+msgid "Convert your voice notes into text for quick and easy documentation."
+msgstr "Hangjegyzetek szöveggé alakítása gyors és egyszerű dokumentáláshoz."
+
+#. js-lingui-explicit-id
+msgid "Access your data seamlessly across mobile app and web platform."
+msgstr "Zökkenő hozzáférés az adataihoz a mobil alkalmazás és webplatform között valós idejű szinkronizációval."
+
+#. js-lingui-explicit-id
+msgid "Active Users"
+msgstr "Aktív felhasználók"
+
+#. js-lingui-explicit-id
+msgid "Appointments Managed"
+msgstr "Kezelt egyezkek"
+
+#. js-lingui-explicit-id
+msgid "Uptime"
+msgstr "Üzemidő"
+
+#. js-lingui-explicit-id
+msgid "App Rating"
+msgstr "Alkalmazás értékelése"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} – Smart Scheduling App for Beauty Experts"
+msgstr "{NAME_APP} – Intelligens Időpontozó Alkalmazás Szépségügyi Szakembereknek"
+
+#. js-lingui-explicit-id
+msgid "Beauty Sync helps beauty professionals manage appointments, clients, and reminders with ease."
+msgstr "A Beauty Sync segít a szépségügyi szakembereknek az egyezkek, ügyfelek és emlékeztetők könnyed kezelésében."
+
+#. js-lingui-explicit-id
+msgid "Welcome to {NAME_APP}"
+msgstr "Üdvözöljük a {NAME_APP} alkalmazásban"
+
+#. js-lingui-explicit-id
+msgid "Your Professional Beauty Companion"
+msgstr "Az Ön professzionális szépségű társa"
+
+#. js-lingui-explicit-id
+msgid "Streamline your beauty business with our comprehensive mobile solution. Manage appointments, track clients, and boost productivity with ease."
+msgstr "Hatékonyabbá tegye szépségügyi üzletét a mi átfogó mobil megoldásunkkal. Kezelje az egyezkeket, követheti az ügyfeleket és növelje a produktivitást könnyedéggel."
+
+#. js-lingui-explicit-id
+msgid "Download on App Store"
+msgstr "Letöltés az App Store-ból"
+
+#. js-lingui-explicit-id
+msgid "Get it on Google Play"
+msgstr "Szerezze meg a Google Play-en"
+
+#. js-lingui-explicit-id
+msgid "4.8★ Rating"
+msgstr "4.8★ értékelés"
+
+#. js-lingui-explicit-id
+msgid "Secure & Private"
+msgstr "Biztonságos és privát"
+
+#. js-lingui-explicit-id
+msgid "Fast & Reliable"
+msgstr "Gyors és megbízható"
+
+#. js-lingui-explicit-id
+msgid "Everything you need to manage your beauty business efficiently"
+msgstr "Minden, amire szüksége van a szépségügyi üzlete hatékony kezeléséhez."
+
+#. js-lingui-explicit-id
+msgid "Ready to Transform Your Business?"
+msgstr "Készen áll az üzlet átalakítására?"
+
+#. js-lingui-explicit-id
+msgid "Join thousands of beauty professionals who trust {NAME_APP} to manage their business"
+msgstr "Csatlakozzon ezer szépségügyi szakemberhez, akik bíznakak a {NAME_APP} alkalmazásban az üzletük kezelésében."
+
+#. js-lingui-explicit-id
+msgid "Last updated:"
+msgstr "Utoljára frissítve:"
+
+#. js-lingui-explicit-id
+msgid "February 6, 2026"
+msgstr "2026. február 6."
+
+#. js-lingui-explicit-id
+msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, FOP (\"us\", \"we\", or \"our\"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our mobile application and services (\"Service\")."
+msgstr "A \"{NAME_APP}\" mobil és webalkalmazásokat Vadym Bezsmertnyi, FOP (\"mi\", \"mi\" vagy \"a mi\") fejleszti és működteti. Ez az Adatvédelmi Szabályzat elmagyarázza, hogyan gyűjtjük, használjuk és védjük az Ön személyes adatait, amikor hozzáfér és használja a mobil alkalmazásunkat és szolgáltatásainkat (\"Szolgáltatás\")."
+
+#. js-lingui-explicit-id
+msgid "Information We Collect"
+msgstr "Információk, amiket gyűjtünk"
+
+#. js-lingui-explicit-id
+msgid "Information Collection"
+msgstr "Információgyűjtés"
+
+#. js-lingui-explicit-id
+msgid "We collect information to ensure the effective functionality of the {NAME_APP} app. The data collected may include:"
+msgstr "Információkat gyűjtünk, hogy biztosítsuk a {NAME_APP} alkalmazás hatékony működését. A gyűjtött adatok a következőket tartalmazhatják:"
+
+#. js-lingui-explicit-id
+msgid "Contacts: to create client records."
+msgstr "Névjegyek: ügyfélrek létrehozásához."
+
+#. js-lingui-explicit-id
+msgid "Calendar data: to synchronize appointments and reminders."
+msgstr "Naptár adatok: egyezkek és emlékeztetők szinkronizálásához."
+
+#. js-lingui-explicit-id
+msgid "Camera and photo library: to upload client or work photos."
+msgstr "Kamera és fotógaléria: ügyfél- vagy munkafotók feltöltéséhez."
+
+#. js-lingui-explicit-id
+msgid "Push notifications: to remind users about upcoming appointments."
+msgstr "Push értesítések: emlékeztetés a felhasználóknak a közelgő egyezkekről."
+
+#. js-lingui-explicit-id
+msgid "Personal user information: such as name, email address, and phone number."
+msgstr "Személyes felhasználói információk: mint név, email cím és telefonszám."
+
+#. js-lingui-explicit-id
+msgid "Subscription information: for managing your account and processing payments. Prices may vary by region and are subject to local taxes."
+msgstr "Előfizetési információk: a fiók kezeléséhez és a fizetések feldolgozásához. Az árak régiónként változhatnak és helyi adóknak vannak alávetve."
+
+#. js-lingui-explicit-id
+msgid "Voice recordings: for speech-to-text functionality to convert voice notes into text for appointment documentation."
+msgstr "Hangfelvételek: beszéd-szöveg funkcióhoz, hogy a hangjegyzeteket szöveggé alakítsa az egyezk dokumentálásához."
+
+#. js-lingui-explicit-id
+msgid "SMS data: for sending automated reminders to clients about upcoming appointments."
+msgstr "SMS adatok: automatikus emlékeztetők küldéséhez ügyfeleinek a közelgő egyezkkről."
+
+#. js-lingui-explicit-id
+msgid "Usage analytics: to improve app functionality and user experience."
+msgstr "Használati analitika: az alkalmazás funkcionalitásának és a felhasználói élmény javításához."
+
+#. js-lingui-explicit-id
+msgid "Export/import data: for CSV export and import functionality (available with Pro and Premium subscriptions)."
+msgstr "Export/import adatok: CSV export és import funkcióhoz (Pro és Premium előfizetéssel elérhető)."
+
+#. js-lingui-explicit-id
+msgid "Use of Information"
+msgstr "Információk felhasználása"
+
+#. js-lingui-explicit-id
+msgid "We process your data based on legitimate interests and contractual necessity. The collected data is used to:"
+msgstr "Az Ön adatait jogos érdekek és szerződéses szükségesség alapján dolgozzuk fel. A gyűjtött adatok a következőkre használjuk:"
+
+#. js-lingui-explicit-id
+msgid "Create client records and appointments."
+msgstr "Ügyfélrek létrehozása és egyezkek."
+
+#. js-lingui-explicit-id
+msgid "Send SMS reminders to clients."
+msgstr "SMS emlékeztetők küldése ügyfeleinek."
+
+#. js-lingui-explicit-id
+msgid "Convert voice recordings to text for appointment documentation."
+msgstr "Hangfelvételek szöveggé alakítása az egyezk dokumentálásához."
+
+#. js-lingui-explicit-id
+msgid "Synchronize the calendar for appointment reminders."
+msgstr "Naptárendő a naptár emlékeztetőkhez."
+
+#. js-lingui-explicit-id
+msgid "Enable app features such as uploading photos and creating notes."
+msgstr "Alkalmazás funkciók engedélyezése, mint fotók feltöltése és jegyzetek létrehozása."
+
+#. js-lingui-explicit-id
+msgid "Manage subscriptions and process billing."
+msgstr "Előfizetések kezelése és a számlázás feldolgozása."
+
+#. js-lingui-explicit-id
+msgid "Provide analytics and insights to improve service functionality."
+msgstr "Analitika és betekintések biztosítása a szolgáltatás funkcionalitásának javításához."
+
+#. js-lingui-explicit-id
+msgid "Ensure compliance with subscription limits and features."
+msgstr "Biztosítja a megfelelés az előfizetési korlátokkal és funkciókkal."
+
+#. js-lingui-explicit-id
+msgid "Process data for export/import functionality (Pro subscription: export only, Premium subscription: export and import)."
+msgstr "Adatok feldolgozása export/import funkcióhoz (Pro előfizetés: csak export, Premium előfizetés: export és import)."
+
+#. js-lingui-explicit-id
+msgid "Access to Permissions"
+msgstr "Hozzáférés az Engedélyekhez"
+
+#. js-lingui-explicit-id
+msgid "Permissions are requested only for functions directly related to the app's operation. The {NAME_APP} app requires access to the following device features:"
+msgstr "Az engedélyek csak az alkalmazás működésével közvetlenül kapcsolódó funkciókhoz szükségesek. A {NAME_APP} alkalmazásnak hozzáférése szükséges a következő eszköz funkciókhoz:"
+
+#. js-lingui-explicit-id
+msgid "Contacts: to add clients to the app."
+msgstr "Névjegyek: ügyfelek hozzáadásához az alkalmazásba."
+
+#. js-lingui-explicit-id
+msgid "Calendar: to sync events."
+msgstr "Naptár: események szinkronizálásához."
+
+#. js-lingui-explicit-id
+msgid "Camera and photo library: to upload images."
+msgstr "Kamera és fotógaléria: képek feltöltéséhez."
+
+#. js-lingui-explicit-id
+msgid "Push notifications: to send reminders."
+msgstr "Push értesítések: emlékeztetés küldése."
+
+#. js-lingui-explicit-id
+msgid "Microphone: for speech-to-text functionality."
+msgstr "Microphone: beszéd-szöveg funkcióhoz."
+
+#. js-lingui-explicit-id
+msgid "SMS access: for sending appointment reminders."
+msgstr "SMS hozzáférés: egyezk emlékeztetők küldéséhez."
+
+#. js-lingui-explicit-id
+msgid "Data Security"
+msgstr "Adatbiztonság"
+
+#. js-lingui-explicit-id
+msgid "Your data is protected using industry-standard security measures. We implement the following security practices:"
+msgstr "Az Ön adatait iparági szabványos biztonsági intézkedésekkel védjük. A következő biztonsági gyakorlatokat alkalmazzuk:"
+
+#. js-lingui-explicit-id
+msgid "End-to-end encryption for data transmission."
+msgstr "Végpontól végig titkosítás az adatátvitelhez."
+
+#. js-lingui-explicit-id
+msgid "Limited access to servers where information is stored."
+msgstr "Korlátozott hozzáférés a szerverekhez, ahol az információkat tárolják."
+
+#. js-lingui-explicit-id
+msgid "Regular security updates and monitoring."
+msgstr "Rendszeres biztonsági frissítések és monitorozás."
+
+#. js-lingui-explicit-id
+msgid "Secure API authentication for third-party integrations."
+msgstr "Biztonságos API hitelesítés harmadik fél integrációkhoz."
+
+#. js-lingui-explicit-id
+msgid "Compliance with industry security standards."
+msgstr "Megfelelés az iparági biztonsági szabványokkal."
+
+#. js-lingui-explicit-id
+msgid "Sharing Information with Third Parties"
+msgstr "Információk megosztása harmadik felekkel"
+
+#. js-lingui-explicit-id
+msgid "We may share your data with third parties in the following cases:"
+msgstr "Az Ön adatait megoszthatjuk harmadik felekkel a következő esetekben:"
+
+#. js-lingui-explicit-id
+msgid "SMS service providers: for sending appointment reminders to clients."
+msgstr "SMS szolgáltató: egyezk emlékeztetők küldéséhez ügyfeleinek."
+
+#. js-lingui-explicit-id
+msgid "Payment processors: Apple App Store and Google Play for subscription billing."
+msgstr "Fizetési feldolgozók: Apple App Store és Google Play az előfizetési számlázáshoz."
+
+#. js-lingui-explicit-id
+msgid "Analytics services: for service improvement (anonymized data only)."
+msgstr "Analitikai szolgáltatások: a szolgáltatás javításához (csak anonimizált adatok)."
+
+#. js-lingui-explicit-id
+msgid "Legal requirements: when required by law or to protect our rights."
+msgstr "Jogi követelmények: amikor a törvény vagy a jogaink védelméhez szükséges."
+
+#. js-lingui-explicit-id
+msgid "Cloud storage providers: for secure data backup and synchronization."
+msgstr "Felhő tárhely szolgáltatók: biztonságos adatmentés és szinkronizációhoz."
+
+#. js-lingui-explicit-id
+msgid "International Data Transfers"
+msgstr "Nemzetközi adatátvitel"
+
+#. js-lingui-explicit-id
+msgid "Your data may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place to protect your data in accordance with applicable data protection laws."
+msgstr "Az Ön adatait átvihelyhetnek és feldolgozásra más országokban, mint a saját. Biztosítjuk, hogy megfelelő védelmi intézkedések vannak helyben az Ön adatainak védelmére az alkalmazandó adatvédelmi törvények szerint."
+
+#. js-lingui-explicit-id
+msgid "Data Retention"
+msgstr "Adatmegőrzés"
+
+#. js-lingui-explicit-id
+msgid "We retain your data only as long as necessary to provide our services. Data is automatically deleted when you delete your account or revoke permissions. Some data may be retained for legal or security purposes as required by law. We comply with applicable data protection laws including GDPR where applicable."
+msgstr "Az Ön adatait csak addig addig őrizzük meg, amíg szükséges a szolgáltatásaink nyújtásához. Az adatok automatikusan törlésre kerülnek, amikor törli a fiókját vagy visszavonja az engedélyeket. Néhány adat jogi vagy biztonsági célból megőrződhet a törvény által előírt esetben. Megfelelünk az alkalmazandó adatvédelmi törvényekkel, beleértve a GDPR-t, ahol alkalmazandó."
+
+#. js-lingui-explicit-id
+msgid "Service Limitations and Disclaimers"
+msgstr "Szolgáltatási korlátások és felelősségi nyilatkozat"
+
+#. js-lingui-explicit-id
+msgid "While we strive to provide reliable service, we cannot guarantee uninterrupted access or complete data security. We are not responsible for:"
+msgstr "Bár igyekszünk megbízható szolgáltatást nyújtani, nem tudjuk garantálni a megszakított hozzáférést vagy a teljes adatbiztonságot. Nem vagyunk felelősek a következőkért:"
+
+#. js-lingui-explicit-id
+msgid "Temporary service interruptions due to maintenance or technical issues."
+msgstr "Ideiglenes szolgáltatás-megszakítások karbantartási vagy technikai problémák miatt."
+
+#. js-lingui-explicit-id
+msgid "Data loss caused by user actions or device malfunctions."
+msgstr "Adatvesztés, amelyet a felhasználói műveletek vagy eszköz hibái okozta."
+
+#. js-lingui-explicit-id
+msgid "Third-party service failures (SMS providers, payment processors, etc.)."
+msgstr "Harmadik fél szolgáltatások hibái (SMS szolgáltatók, fizetési feldolgozók stb.)."
+
+#. js-lingui-explicit-id
+msgid "Compliance issues arising from user misuse of the service."
+msgstr "Megfelelési problémek a szolgáltatás felhasználásából eredő felhasználók."
+
+#. js-lingui-explicit-id
+msgid "Financial losses resulting from service interruptions or data issues."
+msgstr "Pénzügyi veszteségek, amelyek szolgáltatás-megszakításokból vagy adatproblémákból erednek."
+
+#. js-lingui-explicit-id
+msgid "User Rights"
+msgstr "Felhasználói jogok"
+
+#. js-lingui-explicit-id
+msgid "To exercise your rights, contact us at {CONTACT_EMAIL}. You have the following rights:"
+msgstr "A jogai gyakorlásáshoz vegye fel velünk a {CONTACT_EMAIL}. Az Önnek a következő jogai vannak:"
+
+#. js-lingui-explicit-id
+msgid "Access your data: You can review the data we store about you."
+msgstr "Hozzáférés az Ön adataihoz: átnézheti az általunk tárolt adatokat."
+
+#. js-lingui-explicit-id
+msgid "Delete your data: You can request the deletion of your information."
+msgstr "Az Ön adatainak törlését kérheti."
+
+#. js-lingui-explicit-id
+msgid "Revoke permissions: You can modify app permissions via your device settings."
+msgstr "Engedélyek visszavonása: módosíthatja az alkalmazás engedélyeit az Ön eszköz beállításaiban."
+
+#. js-lingui-explicit-id
+msgid "Export your data: You can request a copy of your data in a portable format or use the built-in CSV export feature (available with Pro and Premium subscriptions)."
+msgstr "Az Ön adatainak exportálhatja egy hordozható formátumban, vagy használhatja a beépített CSV export funkciót (Pro és Premium előfizetéssel elérhető)."
+
+#. js-lingui-explicit-id
+msgid "Rectify your data: You can request correction of inaccurate personal data."
+msgstr "Az Ön adatainak javítása: Kérheti a pontatlan személyes adatok javítását."
+
+#. js-lingui-explicit-id
+msgid "Restrict processing: You can request limitation of data processing under certain circumstances."
+msgstr "Feldolgozás korlátozása: Kérheti az adatfeldolgozás korlátozását bizonyos körülmények között."
+
+#. js-lingui-explicit-id
+msgid "Changes to the Privacy Policy"
+msgstr "Változások az Adatvédelmi Szabályzatban"
+
+#. js-lingui-explicit-id
+msgid ""
+"We may update this Privacy Policy periodically. All updates will be published on this page with the updated date.\n"
+"We recommend checking this section regularly to stay informed of any changes. For significant updates, we will notify you via the app or email."
+msgstr ""
+"Időnként frissíthetjük ezt az Adatvédelmi Szabályzatot. Minden frissítés ezen az oldalon lesz közzétéve a frissített dátummal.\n"
+"Javasoljuk, hogy rendszeresen ellenőrizze ezt a szakaszt, hogy tájékozott maradjon a változásokról. Jelentős frissítések esetén értesítjük Önt az alkalmazáson keresztül vagy emailben."
+
+#. js-lingui-explicit-id
+msgid "Contact Information"
+msgstr "Kapcsolati információk"
+
+#. js-lingui-explicit-id
+msgid "If you have questions about this Privacy Policy, contact us at {CONTACT_EMAIL}."
+msgstr "Ha bármily kérdése van ezzel az Adatvédelmi Szabályzattal, vegye fel velünk a {CONTACT_EMAIL}."
+
+#. js-lingui-explicit-id
+msgid "\"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, FOP (\"us\", \"we\", or \"our\"). By accessing or using our mobile application and web services (\"Service\"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service."
+msgstr "A \"{NAME_APP}\" mobil és webalkalmazásokat Vadym Bezsmertnyi, FOP (\"mi\", \"mi\" vagy \"a mi\") fejleszti és működteti. A mobilalkalmazásunk és webszolgáltatásaink (\"Szolgáltatás\") elérésével vagy használatával Ön (a Felhasználó) elfogadja, hogy betartja és kötelező erejűnek tekinti ezeket a Felhasználási Feltételeket. Kérjük, olvassa el figyelmesen ezeket a feltételeket a szolgáltatás használata előtt."
+
+#. js-lingui-explicit-id
+msgid "1. Purpose of the Application"
+msgstr "1. Az Alkalmazás Célja"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} is a comprehensive mobile and web application designed to help beauty professionals (stylists, makeup artists, nail technicians, and other beauty specialists) manage their business operations effectively. The application allows users to create detailed client profiles, manage appointments, synchronize schedules with device calendars, send SMS reminders to clients, convert voice notes to text for appointment documentation, store photos from appointments, and receive notifications about upcoming appointments."
+msgstr "{NAME_APP} egy átfogó mobil és webalkalmazás, amelyet szépségipari szakemberek (fodrászok, sminkesek, körmösök és más szépségipari szakértők) számára terveztek, hogy hatékonyan kezelhessék üzleti műveleteiket. Az alkalmazás lehetővé teszi a felhasználók számára, hogy részletes ügyfélprofilokat hozzanak létre, kezeljék az egyezkeket, szinkronizálják a menetrendeket az eszköz naptárával, SMS emlékeztetőket küldjenek az ügyfeleknek, hangjegyzeteket szöveggé alakítsanak az egyezk dokumentálásához, fotókat tároljanak az egyezkekről és értesítéseket kapjanak a közelgő egyezkekről."
+
+#. js-lingui-explicit-id
+msgid "2. Permissions and Usage Restrictions"
+msgstr "2. Engedélyek és Használati Korlátozások"
+
+#. js-lingui-explicit-id
+msgid "By using {NAME_APP}, you agree to utilize the app solely for its intended purposes. Any misuse of the app, such as reverse-engineering, unauthorized modifications, or illegal activities, is strictly prohibited. Users are also responsible for maintaining the confidentiality of their account credentials and ensuring that the app is used in compliance with local laws and regulations."
+msgstr "A {NAME_APP} használatával Ön elfogadja, hogy az alkalmazást kizárólag a tervezett céljaira használja. Az alkalmazás bármilyen visszaélése, például visszafejtés, jogosulatlan módosítások vagy illegális tevékenységek szigorúan tilosak. A felhasználók felelősek a fiókhitelesítő adatok bizalmas kezelésének megőrzéséért és azért is, hogy az alkalmazás használata megfeleljen a helyi törvények és előírásoknak."
+
+#. js-lingui-explicit-id
+msgid "3. Subscriptions and Payments"
+msgstr "3. Előfizetések és Fizetések"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} offers a free tier with basic features, and two premium subscription plans (Pro and Premium) for advanced functionality. All subscriptions are billed monthly. Payments are processed through the Apple App Store or Google Play, according to their respective policies. Apple and Google may adjust subscription prices depending on your region. Subscriptions renew automatically unless canceled at least 24 hours before the end of the billing period. All payments are non-refundable unless required by applicable law."
+msgstr "A {NAME_APP} ingyenes szintet kínál alapvető funkciókkal, és két prémium előfizetési csomagot (Pro és Premium) a fejlett funkcionalitáshoz. Minden előfizetés havonta számlázásra kerül. A fizetések az Apple App Store vagy Google Play keresztül történnek, azok megfelelő szabályzatai szerint. Az Apple és Google módosíthatja az előfizetési árakat a régiójától függően. Az előfizetések automatikusan megújulnak, kivéve, ha legalább 24 órával a számlázási időszak vége előtt lemondják. Minden fizetés nem visszatéríthető, kivéve, ha az alkalmazandó törvény ezt előírja."
+
+#. js-lingui-explicit-id
+msgid "4. Subscription Information"
+msgstr "4. Előfizetési Információk"
+
+#. js-lingui-explicit-id
+msgid "The following subscription plans are available:"
+msgstr "A következő előfizetési csomagok állnak rendelkezésre:"
+
+#. js-lingui-explicit-id
+msgid "Free Plan"
+msgstr "Ingyenes Csomag"
+
+#. js-lingui-explicit-id
+msgid "Price: Free"
+msgstr "Ár: Ingyenes"
+
+#. js-lingui-explicit-id
+msgid "Basic calendar sync"
+msgstr "Alapvető naptár szinkronizáció"
+
+#. js-lingui-explicit-id
+msgid "Pro Plan"
+msgstr "Pro Csomag"
+
+#. js-lingui-explicit-id
+msgid "Price: $4.99 per month"
+msgstr "Ár: $4.99 havonta"
+
+#. js-lingui-explicit-id
+msgid "Advanced calendar sync"
+msgstr "Fejlett naptár szinkronizáció"
+
+#. js-lingui-explicit-id
+msgid "Premium Plan"
+msgstr "Prémium Csomag"
+
+#. js-lingui-explicit-id
+msgid "Price: $9.99 per month"
+msgstr "Ár: $9.99 havonta"
+
+#. js-lingui-explicit-id
+msgid "Full calendar sync and analytics"
+msgstr "Teljes naptár szinkronizáció és analitika"
+
+#. js-lingui-explicit-id
+msgid "5. Notifications and Reminders"
+msgstr "5. Értesítések és Emlékeztetők"
+
+#. js-lingui-explicit-id
+msgid "The application sends push notifications and SMS reminders to inform users about upcoming appointments and related updates. By enabling push notifications and SMS features, users consent to receiving these alerts. It is the user's responsibility to ensure notifications are active on their device and to provide accurate phone numbers for SMS reminders to avoid missing important updates."
+msgstr "Az alkalmazás push értesítéseket és SMS emlékeztetőket küld, hogy tájékoztassa a felhasználókat a közelgő egyezkekről és kapcsolódó frissítésekről. A push értesítések és SMS funkciók engedélyezésével a felhasználók beleegyeznek ezeknek az értesítéseknek a fogadásába. A felhasználó felelőssége biztosítani, hogy az értesítések aktívak legyenek az eszközén, és pontos telefonszámokat adjon meg az SMS emlékeztetők számára, hogy elkerülje a fontos frissítések kihagyását."
+
+#. js-lingui-explicit-id
+msgid "6. Data Management and Privacy"
+msgstr "6. Adatkezelés és Adatvédelem"
+
+#. js-lingui-explicit-id
+msgid "The application provides tools for managing and storing client data, including voice recordings and SMS data. Users are responsible for entering accurate information, maintaining backups of critical data when necessary, and ensuring they have proper consent from clients for data collection. {NAME_APP} is not liable for any data loss due to user error, device failure, unauthorized access, or third-party service failures. Users must comply with applicable data protection laws and regulations."
+msgstr "Az alkalmazás eszközöket biztosít az ügyféladatok kezelésére és tárolására, beleértve a hangfelvételeket és SMS adatokat. A felhasználók felelősek a pontos információk megadásáért, a kritikus adatok szükség szerinti biztonsági mentéséért, és annak biztosításáért, hogy megfelelő beleegyezést szerezzenek az ügyfelektől az adatgyűjtéshez. A {NAME_APP} nem vállal felelősséget semmilyen adatvesztésért, amely felhasználói hibából, eszköz meghibásodásából, jogosulatlan hozzáférésből vagy harmadik fél szolgáltatásainak meghibásodásából ered. A felhasználóknak be kell tartaniuk az alkalmazandó adatvédelmi törvényeket és előírásokat."
+
+#. js-lingui-explicit-id
+msgid "7. Service Limitations and Disclaimers"
+msgstr "7. Szolgáltatási Korlátozások és Felelősségkorlátozások"
+
+#. js-lingui-explicit-id
+msgid "While we strive to provide reliable service, we cannot guarantee uninterrupted access or complete data security. We are not responsible for temporary service interruptions due to maintenance or technical issues, data loss caused by user actions or device malfunctions, third-party service failures (SMS providers, payment processors, etc.), compliance issues arising from user misuse of the service, or financial losses resulting from service interruptions or data issues."
+msgstr "Bár arra törekszünk, hogy megbízható szolgáltatást nyújtsunk, nem tudjuk garantálni a megszakítás nélküli hozzáférést vagy a teljes adatbiztonságot. Nem vagyunk felelősek a karbantartás vagy technikai problémák miatti ideiglenes szolgáltatáskimaradásért, a felhasználói műveletek vagy eszközhibák okozta adatvesztésért, a harmadik feles szolgáltatások (SMS szolgáltatók, fizetésfeldolgozók stb.) hibáiért, a szolgáltatás felhasználói visszaéléseiből fakadó megfelelőségi problémákért, vagy a szolgáltatáskimaradásból vagy adatproblémákból származó pénzveszteségért."
+
+#. js-lingui-explicit-id
+msgid "8. Changes to Terms"
+msgstr "8. Feltételek Módosítása"
+
+#. js-lingui-explicit-id
+msgid "These Terms of Use may be updated periodically. Any changes will be published within the application, and the effective date will be revised accordingly. Continued use of the service after updates signifies acceptance of the new terms."
+msgstr "Ezeket a Felhasználási Feltételeket időnként frissíthetjük. Bármilyen változás közzététele kerül az alkalmazáson belül, és a hatálybalépési dátum ennek megfelelően módosul. A szolgáltatás frissítések utáni további használata az új feltételek elfogadását jelenti."
+
+#. js-lingui-explicit-id
+msgid "9. Limitation of Liability"
+msgstr "9. Felelősség Korlátozása"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} and its developers are not responsible for any damages resulting from the use or inability to use the service. This includes issues caused by errors, interruptions, third-party integrations, or unauthorized access to data. We are not responsible for illegal use of the application by users."
+msgstr "A {NAME_APP} és fejlesztői nem felelősek a szolgáltatás használata vagy használhatatlansága következtében bekövetkező károkért. Ez magában foglalja a hibák, megszakítások, harmadik fél integrációk vagy jogosulatlan hozzáférés az adatokhoz okozta problémákat. Nem vagyunk felelősek az alkalmazás felhasználók általi illegális használatáért."
+
+#. js-lingui-explicit-id
+msgid "10. Prohibited Activities and Content Monitoring"
+msgstr "10. Tiltott Tevékenységek és Tartalomfigyelés"
+
+#. js-lingui-explicit-id
+msgid "We may monitor usage patterns to ensure compliance with these terms. In case of detecting misuse of the service, violations of applicable laws, or activities that compromise the integrity of the platform, we may suspend or terminate user accounts without refund. Users are responsible for ensuring that their use of the service complies with all applicable laws and regulations."
+msgstr "Figyelemmelhetjük a használati mintákat ezen feltételek betartásának biztosítása érdekében. A szolgáltatás visszaélése, az alkalmazandó törvények megsértése vagy a platform integritását veszélyeztető tevékenységek észlelése esetén felfüggeszthetjük vagy megszüntethetjük a felhasználói fiókokat visszatérítés nélkül. A felhasználók felelősek azért, hogy biztosítsák a szolgáltatás használatának megfelelését minden alkalmazandó törvénnyel és előírással."
+
+#. js-lingui-explicit-id
+msgid "11. Support"
+msgstr "11. Támogatás"
+
+#. js-lingui-explicit-id
+msgid "For assistance with technical issues, subscription questions, or other inquiries, users can contact us at {CONTACT_EMAIL}. Our team strives to address support requests promptly, typically within 48 hours."
+msgstr "Technikai problémák, előfizetési kérdések vagy egyéb érdeklődések esetén a felhasználók felvehetik velünk a kapcsolatot a {CONTACT_EMAIL} címen. Csapatunk arra törekszik, hogy a támogatási kéréseket haladéktalanul, jellemzően 48 órán belül megválaszolja."
+
+#. js-lingui-explicit-id
+msgid "12. Account Deletion"
+msgstr "12. Fiók Törlése"
+
+#. js-lingui-explicit-id
+msgid "If you wish to delete your account, you can do so through the app's settings or by submitting a request via the developer's feedback form at the following link: https://vb-dev.org.ua/#feedback."
+msgstr "Ha törölni szeretné fiókját, ezt megteheti az alkalmazás beállításaiban, vagy kérést nyújthat be a fejlesztő visszajelzési űrlapján keresztül a következő linken: https://vb-dev.org.ua/#feedback."
+
+#. js-lingui-explicit-id
+msgid "13. Apple's Standard Terms"
+msgstr "13. Apple Szabványos Feltételei"
+
+#. js-lingui-explicit-id
+msgid "In addition to these Terms of Use, {NAME_APP} operates under the Apple Standard End User License Agreement (EULA), which can be found at the following link:"
+msgstr "Ezeknek a Felhasználási Feltételeknek a megfelelően a {NAME_APP} az Apple Szabványos Végfelhasználói Licencszerződés (EULA) szerint működik, amely a következő linken található:"
+
+#. js-lingui-explicit-id
+msgid "By using {NAME_APP}, you confirm that you have read and agreed to these Terms of Use."
+msgstr "A {NAME_APP} használatával Ön megerősíti, hogy elolvasta és elfogadta ezeket a Felhasználási Feltételeket."

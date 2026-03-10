@@ -1,0 +1,966 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-02-08 08:08+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: ko\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+msgid "Home"
+msgstr "홈"
+
+#. js-lingui-explicit-id
+msgid "About"
+msgstr "정보"
+
+#. js-lingui-explicit-id
+msgid "Terms of Use"
+msgstr "이용 약관"
+
+#. js-lingui-explicit-id
+msgid "Privacy Policy"
+msgstr "개인정보 보호정책"
+
+#. js-lingui-explicit-id
+msgid "Logo"
+msgstr "로고"
+
+#. js-lingui-explicit-id
+msgid "Menu"
+msgstr "메뉴"
+
+#. js-lingui-explicit-id
+msgid "Select language"
+msgstr "언어 선택"
+
+#. js-lingui-explicit-id
+msgid "Name of the {otherName}"
+msgstr "{otherName}의 이름"
+
+#. js-lingui-explicit-id
+msgid "The text must contain a minimum of {min} and a maximum of {max} characters."
+msgstr "텍스트는 최소 {min}자에서 최대 {max}자까지 포함해야 합니다."
+
+#. js-lingui-explicit-id
+msgid "The place of the {otherName}"
+msgstr "{otherName}의 장소"
+
+#. js-lingui-explicit-id
+msgid "The location of the {otherName} must be selected."
+msgstr "{otherName}의 위치를 선택해야 합니다."
+
+#. js-lingui-explicit-id
+msgid "Date of the {otherName}"
+msgstr "{otherName}의 날짜"
+
+#. js-lingui-explicit-id
+msgid "The end date must be greater than the start date."
+msgstr "종료일은 시작일보다 늦어야 합니다."
+
+#. js-lingui-explicit-id
+msgid "Tell us about the {otherName}"
+msgstr "{otherName}에 대해 알려주세요"
+
+#. js-lingui-explicit-id
+msgid "Description of the {otherName}"
+msgstr "{otherName}의 설명"
+
+#. js-lingui-explicit-id
+msgid "Phone number the {otherName}"
+msgstr "{otherName}의 전화번호"
+
+#. js-lingui-explicit-id
+msgid "Please enter phone number"
+msgstr "전화번호를 입력해주세요"
+
+#. js-lingui-explicit-id
+msgid "Types of {otherName} jobs"
+msgstr "{otherName} 작업 유형"
+
+#. js-lingui-explicit-id
+msgid "Please select at least one type"
+msgstr "최소 하나 이상의 유형을 선택해주세요"
+
+#. js-lingui-explicit-id
+msgid "Price {otherName}"
+msgstr "{otherName} 가격"
+
+#. js-lingui-explicit-id
+msgid "Please enter price for {otherName}"
+msgstr "{otherName}의 가격을 입력해주세요"
+
+#. js-lingui-explicit-id
+msgid "Category {otherName}"
+msgstr "{otherName} 카테고리"
+
+#. js-lingui-explicit-id
+msgid "Please enter category for {otherName}"
+msgstr "{otherName}의 카테고리를 입력해주세요"
+
+#. js-lingui-explicit-id
+msgid "Brand {otherName}"
+msgstr "{otherName} 브랜드"
+
+#. js-lingui-explicit-id
+msgid "Please enter brand for {otherName}"
+msgstr "{otherName}의 브랜드를 입력해주세요"
+
+#. js-lingui-explicit-id
+msgid "Mileage {otherName}"
+msgstr "{otherName} 주행거리"
+
+#. js-lingui-explicit-id
+msgid "Please enter mileage for {otherName}"
+msgstr "{otherName}의 주행거리를 입력해주세요"
+
+#. js-lingui-explicit-id
+msgid "Year release {otherName}"
+msgstr "{otherName} 출시 연도"
+
+#. js-lingui-explicit-id
+msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
+msgstr "{otherName}의 최소 {min}년에서 최대 {max}년까지 입력해주세요"
+
+#. js-lingui-explicit-id
+msgid "Type fuel {otherName}"
+msgstr "{otherName} 연료 유형"
+
+#. js-lingui-explicit-id
+msgid "Please enter type fuel for {otherName}"
+msgstr "{otherName}의 연료 유형을 입력해주세요"
+
+#. js-lingui-explicit-id
+msgid "Type transmission {otherName}"
+msgstr "{otherName} 변속기 유형"
+
+#. js-lingui-explicit-id
+msgid "Please enter type transmission for {otherName}"
+msgstr "{otherName}의 변속기 유형을 입력해주세요"
+
+#. js-lingui-explicit-id
+msgid "Type parts {otherName}"
+msgstr "{otherName} 부품 유형"
+
+#. js-lingui-explicit-id
+msgid "Please enter type parts for {otherName}"
+msgstr "{otherName}의 부품 유형을 입력해주세요"
+
+#. js-lingui-explicit-id
+msgid "Incorrectly entered data"
+msgstr "잘못 입력된 데이터"
+
+#. js-lingui-explicit-id
+msgid "Images {otherName}"
+msgstr "{otherName} 이미지"
+
+#. js-lingui-explicit-id
+msgid "Please add images for {otherName}"
+msgstr "{otherName}의 이미지를 추가해주세요"
+
+#. js-lingui-explicit-id
+msgid "About {NAME_APP}"
+msgstr "{NAME_APP} 정보"
+
+#. js-lingui-explicit-id
+msgid "Your professional beauty companion"
+msgstr "당신의 전문 뷰티 동반자"
+
+#. js-lingui-explicit-id
+msgid "Welcome to {NAME_APP} – your comprehensive mobile solution for beauty professionals! Our app is designed to streamline your business operations, manage client relationships, and boost your productivity."
+msgstr "{NAME_APP}에 오신 것을 환영합니다 – 뷰티 전문가를 위한 종합 모바일 솔루션! 당신의 비즈니스 운영을 간소화하고, 고객 관계를 관리하며, 생산성을 향상시키도록 설계되었습니다."
+
+#. js-lingui-explicit-id
+msgid "Key Features"
+msgstr "주요 기능"
+
+#. js-lingui-explicit-id
+msgid "Client Management"
+msgstr "고객 관리"
+
+#. js-lingui-explicit-id
+msgid "Create detailed client profiles, track service history, and maintain comprehensive notes for each appointment."
+msgstr "상세한 고객 프로필을 만들고, 서비스 기록을 추적하며, 각 예약에 대한 종합적인 메모를 유지하세요."
+
+#. js-lingui-explicit-id
+msgid "Smart Calendar"
+msgstr "스마트 캘린더"
+
+#. js-lingui-explicit-id
+msgid "Seamless integration with your device calendar. Automatic sync ensures you never miss an appointment."
+msgstr "기기 캘린더와 원활한 통합. 자동 동기화로 예약을 놓치지 않도록 보장합니다."
+
+#. js-lingui-explicit-id
+msgid "SMS Notifications"
+msgstr "SMS 알림"
+
+#. js-lingui-explicit-id
+msgid "Send automated SMS reminders to your clients about upcoming appointments and important updates."
+msgstr "다가오는 예약과 중요한 업데이트에 대해 고객에게 자동화된 SMS 알림을 보내세요."
+
+#. js-lingui-explicit-id
+msgid "Speech-to-Text"
+msgstr "음성-텍스트 변환"
+
+#. js-lingui-explicit-id
+msgid "Convert your voice notes into text for quick and easy appointment documentation and client notes."
+msgstr "빠르고 쉬운 예약 문서화와 고객 메모를 위해 음성 메모를 텍스트로 변환하세요."
+
+#. js-lingui-explicit-id
+msgid "Photo Gallery"
+msgstr "사진 갤러리"
+
+#. js-lingui-explicit-id
+msgid "Store and organize photos from each appointment to track client progress and showcase your work."
+msgstr "고객 진행 상황을 추적하고 작업을 선보이기 위해 각 예약의 사진을 저장하고 정리하세요."
+
+#. js-lingui-explicit-id
+msgid "Multi-Platform Sync"
+msgstr "다중 플랫폼 동기화"
+
+#. js-lingui-explicit-id
+msgid "Access your data seamlessly across mobile app and web platform with real-time synchronization."
+msgstr "실시간 동기화로 모바일 앱과 웹 플랫폼 전체에서 데이터를 원활하게 액세스하세요."
+
+#. js-lingui-explicit-id
+msgid "Subscription Plans"
+msgstr "구독 플랜"
+
+#. js-lingui-explicit-id
+msgid "Free"
+msgstr "무료"
+
+#. js-lingui-explicit-id
+msgid "$0/month"
+msgstr "$0/월"
+
+#. js-lingui-explicit-id
+msgid "Up to 20 clients"
+msgstr "최대 20명의 고객"
+
+#. js-lingui-explicit-id
+msgid "3 appointments per client"
+msgstr "고객당 3번 예약"
+
+#. js-lingui-explicit-id
+msgid "1 photo per appointment"
+msgstr "예약당 1장의 사진"
+
+#. js-lingui-explicit-id
+msgid "1 SMS per month"
+msgstr "월 1회 SMS"
+
+#. js-lingui-explicit-id
+msgid "3 minutes speech-to-text per month"
+msgstr "월 3분 음성-텍스트 변환"
+
+#. js-lingui-explicit-id
+msgid "Pro"
+msgstr "프로"
+
+#. js-lingui-explicit-id
+msgid "$4.99/month"
+msgstr "$4.99/월"
+
+#. js-lingui-explicit-id
+msgid "Up to 100 clients"
+msgstr "최대 100명의 고객"
+
+#. js-lingui-explicit-id
+msgid "10 appointments per client"
+msgstr "고객당 10번 예약"
+
+#. js-lingui-explicit-id
+msgid "3 photos per appointment"
+msgstr "예약당 3장의 사진"
+
+#. js-lingui-explicit-id
+msgid "20 SMS per month"
+msgstr "월 20회 SMS"
+
+#. js-lingui-explicit-id
+msgid "60 minutes speech-to-text per month"
+msgstr "월 60분 음성-텍스트 변환"
+
+#. js-lingui-explicit-id
+msgid "Export clients (CSV)"
+msgstr "고객 내보내기 (CSV)"
+
+#. js-lingui-explicit-id
+msgid "Premium"
+msgstr "프리미엄"
+
+#. js-lingui-explicit-id
+msgid "$9.99/month"
+msgstr "$9.99/월"
+
+#. js-lingui-explicit-id
+msgid "Unlimited clients"
+msgstr "무제한 고객"
+
+#. js-lingui-explicit-id
+msgid "Unlimited appointments per client"
+msgstr "고객당 무제한 예약"
+
+#. js-lingui-explicit-id
+msgid "20 photos per appointment"
+msgstr "예약당 20장의 사진"
+
+#. js-lingui-explicit-id
+msgid "50 SMS per month"
+msgstr "월 50회 SMS"
+
+#. js-lingui-explicit-id
+msgid "300 minutes speech-to-text per month"
+msgstr "월 300분 음성-텍스트 변환"
+
+#. js-lingui-explicit-id
+msgid "Export/import clients (CSV)"
+msgstr "고객 내보내기/가져오기 (CSV)"
+
+#. js-lingui-explicit-id
+msgid "Google Calendar integration"
+msgstr "Google 캘린더 통합"
+
+#. js-lingui-explicit-id
+msgid "Priority support"
+msgstr "우선 지원"
+
+#. js-lingui-explicit-id
+msgid "Start with our free plan to explore {NAME_APP} features. Upgrade anytime to unlock more capacity and advanced functionality."
+msgstr "{NAME_APP} 기능을 탐색하기 위해 무료 플랜으로 시작하세요. 더 많은 용량과 고급 기능을 잠금 해제하려면 언제든지 업그레이드하세요."
+
+#. js-lingui-explicit-id
+msgid "* Prices may vary by region and are subject to local taxes."
+msgstr "* 가격은 지역에 따라 다를 수 있으며 현지 세금이 적용됩니다."
+
+#. js-lingui-explicit-id
+msgid "** Subscription features, limits, and pricing are subject to change. We reserve the right to modify plans and functionality to improve our service."
+msgstr "** 구독 기능, 제한 및 가격은 변경될 수 있습니다. 우리는 서비스를 개선하기 위해 플랜과 기능을 수정할 권리를 보유합니다."
+
+#. js-lingui-explicit-id
+msgid "Get in Touch"
+msgstr "연락처"
+
+#. js-lingui-explicit-id
+msgid "We're constantly improving {NAME_APP} based on your feedback. Have suggestions or questions? We'd love to hear from you!"
+msgstr "당신의 피드백을 바탕으로 {NAME_APP}을 지속적으로 개선하고 있습니다. 제안이나 질문이 있으신가요? 여러분의 의견을 듣고 싶습니다!"
+
+#. js-lingui-explicit-id
+msgid "Contact us: {CONTACT_EMAIL}"
+msgstr "문의: {CONTACT_EMAIL}"
+
+#. js-lingui-explicit-id
+msgid "Thank you for choosing {NAME_APP}!"
+msgstr "{NAME_APP}을 선택해주셔서 감사합니다!"
+
+#. js-lingui-explicit-id
+msgid "Account Deletion"
+msgstr "계정 삭제"
+
+#. js-lingui-explicit-id
+msgid "How to delete your account?"
+msgstr "계정을 삭제하는 방법?"
+
+#. js-lingui-explicit-id
+msgid "To delete your account from {NAME_APP}, open the mobile application, go to your profile, then navigate to settings. At the bottom of the settings page, you will find the \"Delete account\" button. After clicking it, your account and all associated data will be permanently deleted."
+msgstr "{NAME_APP}에서 계정을 삭제하려면 모바일 애플리케이션을 열고 프로필로 이동한 다음 설정으로 이동하세요. 설정 페이지 하단에서 \"계정 삭제\" 버튼을 찾을 수 있습니다. 클릭하면 계정과 모든 관련 데이터가 영구적으로 삭제됩니다."
+
+#. js-lingui-explicit-id
+msgid "Automatic account deletion"
+msgstr "자동 계정 삭제"
+
+#. js-lingui-explicit-id
+msgid "Accounts that have been inactive for more than one year will be automatically deleted along with all associated data. This helps us maintain data security and comply with privacy regulations."
+msgstr "1년 이상 비활성화된 계정은 모든 관련 데이터와 함께 자동으로 삭제됩니다. 이는 데이터 보안을 유지하고 개인정보 보호 규정을 준수하는 데 도움이 됩니다."
+
+#. js-lingui-explicit-id
+msgid "What data will be deleted?"
+msgstr "어떤 데이터가 삭제됩니까?"
+
+#. js-lingui-explicit-id
+msgid "When you delete your account, all your personal data and information associated with your account will be permanently removed:"
+msgstr "계정을 삭제하면 계정과 관련된 모든 개인 데이터와 정보가 영구적으로 제거됩니다:"
+
+#. js-lingui-explicit-id
+msgid "Authentication data (Google, Facebook, Apple login information)"
+msgstr "인증 데이터 (Google, Facebook, Apple 로그인 정보)"
+
+#. js-lingui-explicit-id
+msgid "Personal information (name, email, phone number)"
+msgstr "개인 정보 (이름, 이메일, 전화번호)"
+
+#. js-lingui-explicit-id
+msgid "All client data and profiles"
+msgstr "모든 고객 데이터 및 프로필"
+
+#. js-lingui-explicit-id
+msgid "All appointments and scheduling information"
+msgstr "모든 예약 및 일정 정보"
+
+#. js-lingui-explicit-id
+msgid "All photos and images"
+msgstr "모든 사진 및 이미지"
+
+#. js-lingui-explicit-id
+msgid "SMS notifications history"
+msgstr "SMS 알림 기록"
+
+#. js-lingui-explicit-id
+msgid "Speech-to-text recordings and transcripts"
+msgstr "음성-텍스트 녹음 및 대본"
+
+#. js-lingui-explicit-id
+msgid "All settings and preferences"
+msgstr "모든 설정 및 환경설정"
+
+#. js-lingui-explicit-id
+msgid "Subscription information and payment history"
+msgstr "구독 정보 및 결제 기록"
+
+#. js-lingui-explicit-id
+msgid "Important notes"
+msgstr "중요 참고사항"
+
+#. js-lingui-explicit-id
+msgid "Account deletion is irreversible. Once deleted, you cannot recover your data or restore your account. If you want to use {NAME_APP} again in the future, you will need to create a new account."
+msgstr "계정 삭제는 되돌릴 수 없습니다. 한번 삭제되면 데이터를 복구하거나 계정을 복원할 수 없습니다. 미래에 {NAME_APP}을 다시 사용하고 싶다면 새 계정을 만들어야 합니다."
+
+#. js-lingui-explicit-id
+msgid "If you have any questions about account deletion or need assistance, please contact us at our support email."
+msgstr "계정 삭제에 대한 질문이 있거나 도움이 필요하면 지원 이메일로 문의해주세요."
+
+#. js-lingui-explicit-id
+msgid "Create detailed client profiles, track service history, and maintain comprehensive notes."
+msgstr "상세한 고객 프로필을 만들고, 서비스 기록을 추적하며, 종합적인 메모를 유지하세요."
+
+#. js-lingui-explicit-id
+msgid "Send automated SMS reminders to your clients about upcoming appointments."
+msgstr "다가오는 예약에 대해 고객에게 자동화된 SMS 알림을 보내세요."
+
+#. js-lingui-explicit-id
+msgid "Store and organize photos from each appointment to track client progress."
+msgstr "고객 진행 상황을 추적하기 위해 각 예약의 사진을 저장하고 정리하세요."
+
+#. js-lingui-explicit-id
+msgid "Convert your voice notes into text for quick and easy documentation."
+msgstr "빠르고 쉬운 문서화를 위해 음성 메모를 텍스트로 변환하세요."
+
+#. js-lingui-explicit-id
+msgid "Access your data seamlessly across mobile app and web platform."
+msgstr "모바일 앱과 웹 플랫폼 전체에서 데이터를 원활하게 액세스하세요."
+
+#. js-lingui-explicit-id
+msgid "Active Users"
+msgstr "활성 사용자"
+
+#. js-lingui-explicit-id
+msgid "Appointments Managed"
+msgstr "관리된 예약"
+
+#. js-lingui-explicit-id
+msgid "Uptime"
+msgstr "가동시간"
+
+#. js-lingui-explicit-id
+msgid "App Rating"
+msgstr "앱 평점"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} – Smart Scheduling App for Beauty Experts"
+msgstr "{NAME_APP} – 뷰티 전문가를 위한 스마트 예약 앱"
+
+#. js-lingui-explicit-id
+msgid "Beauty Sync helps beauty professionals manage appointments, clients, and reminders with ease."
+msgstr "뷰티 싱크는 뷰티 전문가가 예약, 고객 및 알림을 쉽게 관리할 수 있도록 도와줍니다."
+
+#. js-lingui-explicit-id
+msgid "Welcome to {NAME_APP}"
+msgstr "{NAME_APP}에 오신 것을 환영합니다"
+
+#. js-lingui-explicit-id
+msgid "Your Professional Beauty Companion"
+msgstr "당신의 전문 뷰티 동반자"
+
+#. js-lingui-explicit-id
+msgid "Streamline your beauty business with our comprehensive mobile solution. Manage appointments, track clients, and boost productivity with ease."
+msgstr "종합 모바일 솔루션으로 뷰티 비즈니스를 간소화하세요. 예약을 관리하고, 고객을 추적하며, 생산성을 쉽게 향상시키세요."
+
+#. js-lingui-explicit-id
+msgid "Download on App Store"
+msgstr "App Store에서 다운로드"
+
+#. js-lingui-explicit-id
+msgid "Get it on Google Play"
+msgstr "Google Play에서 받기"
+
+#. js-lingui-explicit-id
+msgid "4.8★ Rating"
+msgstr "4.8★ 평점"
+
+#. js-lingui-explicit-id
+msgid "Secure & Private"
+msgstr "안전하고 개인적인"
+
+#. js-lingui-explicit-id
+msgid "Fast & Reliable"
+msgstr "빠르고 신뢰할 수 있는"
+
+#. js-lingui-explicit-id
+msgid "Everything you need to manage your beauty business efficiently"
+msgstr "뷰티 비즈니스를 효율적으로 관리하는 데 필요한 모든 것"
+
+#. js-lingui-explicit-id
+msgid "Ready to Transform Your Business?"
+msgstr "비즈니스를 변화할 준비가 되셨나요?"
+
+#. js-lingui-explicit-id
+msgid "Join thousands of beauty professionals who trust {NAME_APP} to manage their business"
+msgstr "{NAME_APP}으로 비즈니스를 관리하는 수천 명의 뷰티 전문가와 함께하세요"
+
+#. js-lingui-explicit-id
+msgid "Last updated:"
+msgstr "최종 업데이트:"
+
+#. js-lingui-explicit-id
+msgid "February 6, 2026"
+msgstr "2026년 2월 6일"
+
+#. js-lingui-explicit-id
+msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, FOP (\"us\", \"we\", or \"our\"). This Privacy Policy explains how we collect, use, and protect your personal information when you access and use our mobile application and services (\"Service\")."
+msgstr "{NAME_APP} 모바일 및 웹 애플리케이션은 Vadym Bezsmertnyi, FOP (\"우리\", \"우리\", 또는 \"우리\")가 개발 및 운영합니다. 이 개인정보 보호정책은 모바일 애플리케이션 및 서비스 (\"서비스\")에 액세스하고 사용할 때 개인정보를 수집, 사용 및 보호하는 방법을 설명합니다."
+
+#. js-lingui-explicit-id
+msgid "Information We Collect"
+msgstr "우리가 수집하는 정보"
+
+#. js-lingui-explicit-id
+msgid "Information Collection"
+msgstr "정보 수집"
+
+#. js-lingui-explicit-id
+msgid "We collect information to ensure the effective functionality of the {NAME_APP} app. The data collected may include:"
+msgstr "우리는 {NAME_APP} 앱의 효과적인 기능을 보장하기 위해 정보를 수집합니다. 수집된 데이터는 다음을 포함할 수 있습니다:"
+
+#. js-lingui-explicit-id
+msgid "Contacts: to create client records."
+msgstr "연락처: 고객 기록을 만들기 위해."
+
+#. js-lingui-explicit-id
+msgid "Calendar data: to synchronize appointments and reminders."
+msgstr "캘린더 데이터: 예약과 알림을 동기화하기 위해."
+
+#. js-lingui-explicit-id
+msgid "Camera and photo library: to upload client or work photos."
+msgstr "카메라 및 사진 라이브러리: 고객 또는 작업 사진을 업로드하기 위해."
+
+#. js-lingui-explicit-id
+msgid "Push notifications: to remind users about upcoming appointments."
+msgstr "푸시 알림: 다가오는 예약에 대해 사용자에게 알리기 위해."
+
+#. js-lingui-explicit-id
+msgid "Personal user information: such as name, email address, and phone number."
+msgstr "개인 사용자 정보: 이름, 이메일 주소 및 전화번호와 같은."
+
+#. js-lingui-explicit-id
+msgid "Subscription information: for managing your account and processing payments. Prices may vary by region and are subject to local taxes."
+msgstr "구독 정보: 계정 관리 및 결제 처리를 위한. 가격은 지역에 따라 다를 수 있으며 현지 세금이 적용됩니다."
+
+#. js-lingui-explicit-id
+msgid "Voice recordings: for speech-to-text functionality to convert voice notes into text for appointment documentation."
+msgstr "음성 녹음: 음성 메모를 예약 문서화용 텍스트로 변환하는 음성-텍스트 기능을 위해."
+
+#. js-lingui-explicit-id
+msgid "SMS data: for sending automated reminders to clients about upcoming appointments."
+msgstr "SMS 데이터: 다가오는 예약에 대해 고객에게 자동 알림을 보내기 위해."
+
+#. js-lingui-explicit-id
+msgid "Usage analytics: to improve app functionality and user experience."
+msgstr "사용 분석: 앱 기능과 사용자 경험을 개선하기 위해."
+
+#. js-lingui-explicit-id
+msgid "Export/import data: for CSV export and import functionality (available with Pro and Premium subscriptions)."
+msgstr "내보내기/가져오기 데이터: CSV 내보내기 및 가져오기 기능을 위해 (Pro 및 Premium 구독에서 사용 가능)."
+
+#. js-lingui-explicit-id
+msgid "Use of Information"
+msgstr "정보 사용"
+
+#. js-lingui-explicit-id
+msgid "We process your data based on legitimate interests and contractual necessity. The collected data is used to:"
+msgstr "우리는 정당한 이익과 계약적 필요성에 따라 데이터를 처리합니다. 수집된 데이터는 다음에 사용됩니다:"
+
+#. js-lingui-explicit-id
+msgid "Create client records and appointments."
+msgstr "고객 기록과 예약을 만듭니다."
+
+#. js-lingui-explicit-id
+msgid "Send SMS reminders to clients."
+msgstr "클라이언트에게 SMS 알림을 보내세요."
+
+#. js-lingui-explicit-id
+msgid "Convert voice recordings to text for appointment documentation."
+msgstr "예약 문서화를 위해 음성 녹음을 텍스트로 변환하세요."
+
+#. js-lingui-explicit-id
+msgid "Synchronize the calendar for appointment reminders."
+msgstr "예약 알림을 위해 캘린더를 동기화합니다."
+
+#. js-lingui-explicit-id
+msgid "Enable app features such as uploading photos and creating notes."
+msgstr "사진 업로드 및 메모 작성과 같은 앱 기능을 활성화합니다."
+
+#. js-lingui-explicit-id
+msgid "Manage subscriptions and process billing."
+msgstr "구독을 관리하고 결제를 처리합니다."
+
+#. js-lingui-explicit-id
+msgid "Provide analytics and insights to improve service functionality."
+msgstr "분석 및 인사이트를 제공하여 서비스 기능을 개선합니다."
+
+#. js-lingui-explicit-id
+msgid "Ensure compliance with subscription limits and features."
+msgstr "구독 제한 및 기능 준수를 보장합니다."
+
+#. js-lingui-explicit-id
+msgid "Process data for export/import functionality (Pro subscription: export only, Premium subscription: export and import)."
+msgstr "데이터를 내보내기/가져오기 기능 처리 (Pro 구독: 내보내기만, Premium 구독: 내보내기 및 가져오기)."
+
+#. js-lingui-explicit-id
+msgid "Access to Permissions"
+msgstr "권한 접근"
+
+#. js-lingui-explicit-id
+msgid "Permissions are requested only for functions directly related to the app's operation. The {NAME_APP} app requires access to the following device features:"
+msgstr "권한은 앱 운영과 직접 관련된 기능에 대해서만 요청됩니다. {NAME_APP} 앱은 다음 기기 기능에 대한 접근이 필요합니다:"
+
+#. js-lingui-explicit-id
+msgid "Contacts: to add clients to the app."
+msgstr "연락처: 앱에 고객을 추가하기 위해."
+
+#. js-lingui-explicit-id
+msgid "Calendar: to sync events."
+msgstr "캘린더: 이벤트를 동기화하기 위해."
+
+#. js-lingui-explicit-id
+msgid "Camera and photo library: to upload images."
+msgstr "카메라 및 사진 라이브러리: 이미지를 업로드하기 위해."
+
+#. js-lingui-explicit-id
+msgid "Push notifications: to send reminders."
+msgstr "푸시 알림: 알림을 보내기 위해."
+
+#. js-lingui-explicit-id
+msgid "Microphone: for speech-to-text functionality."
+msgstr "마이크: 음성-텍스트 기능을 위해."
+
+#. js-lingui-explicit-id
+msgid "SMS access: for sending appointment reminders."
+msgstr "SMS 액세스: 예약 알림을 보내기 위해."
+
+#. js-lingui-explicit-id
+msgid "Data Security"
+msgstr "데이터 보안"
+
+#. js-lingui-explicit-id
+msgid "Your data is protected using industry-standard security measures. We implement the following security practices:"
+msgstr "업계 표준 보안 조치를 사용하여 귀하의 데이터를 보호하고 있습니다. 다음 보안 조치를 시행하고 있습니다:"
+
+#. js-lingui-explicit-id
+msgid "End-to-end encryption for data transmission."
+msgstr "종단 간 암호화를 통한 데이터 전송."
+
+#. js-lingui-explicit-id
+msgid "Limited access to servers where information is stored."
+msgstr "정보가 저장된 서버에 대한 접근은 제한되어 있습니다."
+
+#. js-lingui-explicit-id
+msgid "Regular security updates and monitoring."
+msgstr "정기적인 보안 업데이트와 모니터링을 진행하고 있습니다."
+
+#. js-lingui-explicit-id
+msgid "Secure API authentication for third-party integrations."
+msgstr "제3자 통합을 위한 안전한 API 인증."
+
+#. js-lingui-explicit-id
+msgid "Compliance with industry security standards."
+msgstr "업계 보안 표준을 준수하고 있습니다."
+
+#. js-lingui-explicit-id
+msgid "Sharing Information with Third Parties"
+msgstr "제3자와 정보 공유"
+
+#. js-lingui-explicit-id
+msgid "We may share your data with third parties in the following cases:"
+msgstr "다음 경우, 제3자와 데이터를 공유할 수 있습니다:"
+
+#. js-lingui-explicit-id
+msgid "SMS service providers: for sending appointment reminders to clients."
+msgstr "SMS 서비스 제공업체: 고객에게 예약 알림을 보내기 위해."
+
+#. js-lingui-explicit-id
+msgid "Payment processors: Apple App Store and Google Play for subscription billing."
+msgstr "결제 처리업체: 구독 결제를 위한 Apple App Store 및 Google Play."
+
+#. js-lingui-explicit-id
+msgid "Analytics services: for service improvement (anonymized data only)."
+msgstr "분석 서비스: 서비스 개선을 위해 (익명화된 데이터만)."
+
+#. js-lingui-explicit-id
+msgid "Legal requirements: when required by law or to protect our rights."
+msgstr "법적 요구사항: 법률에 의해 요구되거나 우리의 권리를 보호하기 위해."
+
+#. js-lingui-explicit-id
+msgid "Cloud storage providers: for secure data backup and synchronization."
+msgstr "클라우드 스토리지 제공업체: 안전한 데이터 백업 및 동기화."
+
+#. js-lingui-explicit-id
+msgid "International Data Transfers"
+msgstr "국제 데이터 전송"
+
+#. js-lingui-explicit-id
+msgid "Your data may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place to protect your data in accordance with applicable data protection laws."
+msgstr "고객의 데이터는 고객의 국가 아닌 다른 국가로 전송되어 처리될 수 있습니다. 적절한 보호 조치를 마련하여 고객의 데이터를 보호합니다."
+
+#. js-lingui-explicit-id
+msgid "Data Retention"
+msgstr "데이터 보관"
+
+#. js-lingui-explicit-id
+msgid "We retain your data only as long as necessary to provide our services. Data is automatically deleted when you delete your account or revoke permissions. Some data may be retained for legal or security purposes as required by law. We comply with applicable data protection laws including GDPR where applicable."
+msgstr "서비스 제공에 필요한 기간 동안만 고객의 데이터를 보관합니다. 계정을 삭제하거나 권한을 취소하면 데이터는 자동으로 삭제됩니다. 일부 데이터는 법적 또는 보안상의 이유로 법률에 따라 보관될 수 있습니다. 우리는 적용되는 데이터 보호법을 준수하며, GDPR가 적용되는 경우에는 그것도 준수합니다."
+
+#. js-lingui-explicit-id
+msgid "Service Limitations and Disclaimers"
+msgstr "서비스 제한 및 면책 조항"
+
+#. js-lingui-explicit-id
+msgid "While we strive to provide reliable service, we cannot guarantee uninterrupted access or complete data security. We are not responsible for:"
+msgstr "우리는 안정적인 서비스 제공을 위해 노력하고 있지만, 중단되지 않은 액세스나 완전한 데이터 보안을 보장할 수 없습니다. 저희는 다음에 대해 책임을 지지 않습니다:"
+
+#. js-lingui-explicit-id
+msgid "Temporary service interruptions due to maintenance or technical issues."
+msgstr "유지보수로 인한 서비스 중단."
+
+#. js-lingui-explicit-id
+msgid "Data loss caused by user actions or device malfunctions."
+msgstr "사용자의 조작이나 기기 장치로 인한 데이터 손실이 발생했습니다."
+
+#. js-lingui-explicit-id
+msgid "Third-party service failures (SMS providers, payment processors, etc.)."
+msgstr "제3자 서비스 장애 (SMS 제공자, 결제 처리 업체 등)."
+
+#. js-lingui-explicit-id
+msgid "Compliance issues arising from user misuse of the service."
+msgstr "서비스 부적절합 사용으로 인한 컴플라이언스 문제가 발생합니다."
+
+#. js-lingui-explicit-id
+msgid "Financial losses resulting from service interruptions or data issues."
+msgstr "서비스 중단이나 데이터 문제로 인한 경제적 손실이 발생했습니다."
+
+#. js-lingui-explicit-id
+msgid "User Rights"
+msgstr "사용자 권리"
+
+#. js-lingui-explicit-id
+msgid "To exercise your rights, contact us at {CONTACT_EMAIL}. You have the following rights:"
+msgstr "권리를 행사하기 위해서는 {CONTACT_EMAIL}로 연락주세요. 다음 권리가 있습니다:"
+
+#. js-lingui-explicit-id
+msgid "Access your data: You can review the data we store about you."
+msgstr "접근: 저장된 데이터를 검토할 수 있습니다."
+
+#. js-lingui-explicit-id
+msgid "Delete your data: You can request the deletion of your information."
+msgstr "데이터 삭제: 정보 삭제를 요청할 수 있습니다."
+
+#. js-lingui-explicit-id
+msgid "Revoke permissions: You can modify app permissions via your device settings."
+msgstr "권한 취소: 기기기 설정에서 앱 권한을 수정할 수 있습니다."
+
+#. js-lingui-explicit-id
+msgid "Export your data: You can request a copy of your data in a portable format or use the built-in CSV export feature (available with Pro and Premium subscriptions)."
+msgstr "데이터 내보내기: 포터블 형식으로 데이터의 복사본을 요청하거나 내장된 CSV 내보내기 기능을 사용할 수 있습니다 (Pro 및 Premium 구독에서 사용 가능)."
+
+#. js-lingui-explicit-id
+msgid "Rectify your data: You can request correction of inaccurate personal data."
+msgstr "데이터 정정: 부정확한 개인 데이터의 수정을 요청할 수 있습니다."
+
+#. js-lingui-explicit-id
+msgid "Restrict processing: You can request limitation of data processing under certain circumstances."
+msgstr "처리 제한: 특정 상황에서 데이터 처리의 제한을 요청할 수 있습니다."
+
+#. js-lingui-explicit-id
+msgid "Changes to the Privacy Policy"
+msgstr "개인정보호 정책 변경"
+
+#. js-lingui-explicit-id
+msgid ""
+"We may update this Privacy Policy periodically. All updates will be published on this page with the updated date.\n"
+"We recommend checking this section regularly to stay informed of any changes. For significant updates, we will notify you via the app or email."
+msgstr ""
+"개인정보호 정책을 주기적으로 업데이트할 수 있습니다. 모든 업데이트는 이 페이지에 업데이트와 함께 공개되며, 업데이트된 날짜로 표시됩니다.\n"
+"이 섹션을 정기적으로 확인하여 변경 내용을 알 수 있도록 권장합니다. 중요한 업데이트의 경우, 앱이나 이메일로 알려드립니다."
+
+#. js-lingui-explicit-id
+msgid "Contact Information"
+msgstr "연락처 정보"
+
+#. js-lingui-explicit-id
+msgid "If you have questions about this Privacy Policy, contact us at {CONTACT_EMAIL}."
+msgstr "이 개인정보호 정책에 대해 질문이 있으시면 {CONTACT_EMAIL}로 연락주세요."
+
+#. js-lingui-explicit-id
+msgid "\"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, FOP (\"us\", \"we\", or \"our\"). By accessing or using our mobile application and web services (\"Service\"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service."
+msgstr "{NAME_APP} 모바일 및 웹 애플리케이션은 Vadym Bezsmertnyi, FOP (\"우리\", \"우리\", 또는 \"우리\")가 개발 및 운영합니다. 모바일 애플리케이션 및 웹 서비스 (\"서비스\")에 액세스하거나 사용함으로써, 귀하는 (사용자) 이 약관을 준수하고 이에 구속되는 것에 동의합니다. 서비스를 사용하기 전에 이 약관을 주의 깊게 읽어 주시기 바랍니다."
+
+#. js-lingui-explicit-id
+msgid "1. Purpose of the Application"
+msgstr "1. 애플리케이션의 목적"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} is a comprehensive mobile and web application designed to help beauty professionals (stylists, makeup artists, nail technicians, and other beauty specialists) manage their business operations effectively. The application allows users to create detailed client profiles, manage appointments, synchronize schedules with device calendars, send SMS reminders to clients, convert voice notes to text for appointment documentation, store photos from appointments, and receive notifications about upcoming appointments."
+msgstr "{NAME_APP}은 뷰티 전문가(스타일리스트, 메이크업 아티스트, 네일 기술자 및 기타 뷰티 전문가)가 비즈니스 운영을 효과적으로 관리할 수 있도록 설계된 종합적인 모바일 및 웹 애플리케이션입니다. 이 애플리케이션은 사용자가 상세한 고객 프로필을 만들고, 예약을 관리하며, 기기 캘린더와 일정을 동기화하고, 고객에게 SMS 알림을 보내고, 예약 문서화를 위해 음성 메모를 텍스트로 변환하고, 예약에서 사진을 저장하며, 다가오는 예약에 대한 알림을 받을 수 있도록 합니다."
+
+#. js-lingui-explicit-id
+msgid "2. Permissions and Usage Restrictions"
+msgstr "2. 권한 및 사용 제한"
+
+#. js-lingui-explicit-id
+msgid "By using {NAME_APP}, you agree to utilize the app solely for its intended purposes. Any misuse of the app, such as reverse-engineering, unauthorized modifications, or illegal activities, is strictly prohibited. Users are also responsible for maintaining the confidentiality of their account credentials and ensuring that the app is used in compliance with local laws and regulations."
+msgstr "{NAME_APP}을 사용함으로써, 귀하는 앱을 의도된 목적으로만 사용하는 것에 동의합니다. 앱의 역공학, 무단 수정 또는 불법 활동과 같은 앱의 부적절한 사용은 엄격히 금지됩니다. 사용자는 또한 계정 자격 증명의 기밀성을 유지하고 앱이 현지 법률 및 규정에 따라 사용되는 것을 보장할 책임이 있습니다."
+
+#. js-lingui-explicit-id
+msgid "3. Subscriptions and Payments"
+msgstr "3. 구독 및 결제"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} offers a free tier with basic features, and two premium subscription plans (Pro and Premium) for advanced functionality. All subscriptions are billed monthly. Payments are processed through the Apple App Store or Google Play, according to their respective policies. Apple and Google may adjust subscription prices depending on your region. Subscriptions renew automatically unless canceled at least 24 hours before the end of the billing period. All payments are non-refundable unless required by applicable law."
+msgstr "{NAME_APP}은 기본 기능을 갖춘 무료 티어와 고급 기능을 위한 두 가지 프리미엄 구독 플랜 (Pro 및 Premium)을 제공합니다. 모든 구독은 월별로 청구됩니다. 결제는 Apple App Store 또는 Google Play의 정책에 따라 처리됩니다. Apple과 Google은 귀하의 지역에 따라 구독 가격을 조정할 수 있습니다. 구독은 청구 기간 종료 24시간 전에 취소하지 않는 한 자동으로 갱신됩니다. 모든 결제는 적용 가능한 법률에 의해 요구되지 않는 한 환불되지 않습니다."
+
+#. js-lingui-explicit-id
+msgid "4. Subscription Information"
+msgstr "4. 구독 정보"
+
+#. js-lingui-explicit-id
+msgid "The following subscription plans are available:"
+msgstr "다음 구독 플랜이 사용 가능합니다:"
+
+#. js-lingui-explicit-id
+msgid "Free Plan"
+msgstr "무료 플랜"
+
+#. js-lingui-explicit-id
+msgid "Price: Free"
+msgstr "가격: 무료"
+
+#. js-lingui-explicit-id
+msgid "Basic calendar sync"
+msgstr "기본 캘린더 동기화"
+
+#. js-lingui-explicit-id
+msgid "Pro Plan"
+msgstr "프로 플랜"
+
+#. js-lingui-explicit-id
+msgid "Price: $4.99 per month"
+msgstr "가격: 월 $4.99"
+
+#. js-lingui-explicit-id
+msgid "Advanced calendar sync"
+msgstr "고급 캘린더 동기화"
+
+#. js-lingui-explicit-id
+msgid "Premium Plan"
+msgstr "프리미엄 플랜"
+
+#. js-lingui-explicit-id
+msgid "Price: $9.99 per month"
+msgstr "가격: 월 $9.99"
+
+#. js-lingui-explicit-id
+msgid "Full calendar sync and analytics"
+msgstr "전체 캘린더 동기화 및 분석"
+
+#. js-lingui-explicit-id
+msgid "5. Notifications and Reminders"
+msgstr "5. 알림 및 리마인더"
+
+#. js-lingui-explicit-id
+msgid "The application sends push notifications and SMS reminders to inform users about upcoming appointments and related updates. By enabling push notifications and SMS features, users consent to receiving these alerts. It is the user's responsibility to ensure notifications are active on their device and to provide accurate phone numbers for SMS reminders to avoid missing important updates."
+msgstr "이 애플리케이션은 사용자에게 다가오는 예약 및 관련 업데이트에 대한 정보를 제공하기 위해 푸시 알림과 SMS 알림을 보냅니다. 푸시 알림과 SMS 기능을 활성화함으로써 사용자는 이러한 알림을 받는 데 동의하게 됩니다. 중요한 업데이트를 놓치지 않도록 사용자는 자신의 기기에서 알림이 활성화되어 있는지 확인하고 SMS 알림을 위한 정확한 전화번호를 제공할 책임이 있습니다."
+
+#. js-lingui-explicit-id
+msgid "6. Data Management and Privacy"
+msgstr "6. 데이터 관리 및 개인정보 보호"
+
+#. js-lingui-explicit-id
+msgid "The application provides tools for managing and storing client data, including voice recordings and SMS data. Users are responsible for entering accurate information, maintaining backups of critical data when necessary, and ensuring they have proper consent from clients for data collection. {NAME_APP} is not liable for any data loss due to user error, device failure, unauthorized access, or third-party service failures. Users must comply with applicable data protection laws and regulations."
+msgstr "이 애플리케이션은 음성 녹음 및 SMS 데이터를 포함한 클라이언트 데이터를 관리하고 저장하기 위한 도구를 제공합니다. 사용자는 정확한 정보를 입력하고, 필요한 경우 중요한 데이터의 백업을 유지하며, 데이터 수집에 대한 클라이언트의 적절한 동의를 확보할 책임이 있습니다. {NAME_APP}은 사용자 오류, 장치 고장, 무단 액세스 또는 타사 서비스 실패로 인한 데이터 손실에 대해 책임을 지지 않습니다. 사용자는 해당 데이터 보호 법률 및 규정을 준수해야 합니다."
+
+#. js-lingui-explicit-id
+msgid "7. Service Limitations and Disclaimers"
+msgstr "7. 서비스 제한 및 면책 조항"
+
+#. js-lingui-explicit-id
+msgid "While we strive to provide reliable service, we cannot guarantee uninterrupted access or complete data security. We are not responsible for temporary service interruptions due to maintenance or technical issues, data loss caused by user actions or device malfunctions, third-party service failures (SMS providers, payment processors, etc.), compliance issues arising from user misuse of the service, or financial losses resulting from service interruptions or data issues."
+msgstr "우리는 안정적인 서비스 제공을 위해 노력하고 있지만, 중단되지 않은 액세스나 완전한 데이터 보안을 보장할 수 없습니다. 저희는 유지보수로 인한 서비스 중단, 사용자 조작이나 기기 고장으로 인한 데이터 손실, 제3자 서비스 장애 (SMS 제공자, 결제 처리 업체 등), 서비스 부적절합 사용으로 인한 컴플라이언스 문제 또는 서비스 중단 또는 데이터 문제로 인한 재정 손실에 대해 책임을 지지 않습니다."
+
+#. js-lingui-explicit-id
+msgid "8. Changes to Terms"
+msgstr "8. 약관 변경"
+
+#. js-lingui-explicit-id
+msgid "These Terms of Use may be updated periodically. Any changes will be published within the application, and the effective date will be revised accordingly. Continued use of the service after updates signifies acceptance of the new terms."
+msgstr "이 약관은 주기적으로 업데이트될 수 있습니다. 모든 변경 사항은 애플리케이션 내에서 게시될 것이며, 유효 날짜는 그에 따라 수정될 것입니다. 업데이트 후 서비스의 계속 사용은 새로운 약관의 승인을 의미합니다."
+
+#. js-lingui-explicit-id
+msgid "9. Limitation of Liability"
+msgstr "9. 책임 제한"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} and its developers are not responsible for any damages resulting from the use or inability to use the service. This includes issues caused by errors, interruptions, third-party integrations, or unauthorized access to data. We are not responsible for illegal use of the application by users."
+msgstr "{NAME_APP} 및 개발자는 서비스의 사용 또는 사용 불가능으로 인한 손해에 대해 책임을 지지 않습니다. 이는 오류, 중단, 제3자 통합 또는 데이터에 대한 무단 액세스로 인한 문제를 포함합니다. 우리는 사용자에 의한 애플리케이션의 불법 사용에 대해 책임을 지지 않습니다."
+
+#. js-lingui-explicit-id
+msgid "10. Prohibited Activities and Content Monitoring"
+msgstr "10. 금지된 활동 및 콘텐츠 모니터링"
+
+#. js-lingui-explicit-id
+msgid "We may monitor usage patterns to ensure compliance with these terms. In case of detecting misuse of the service, violations of applicable laws, or activities that compromise the integrity of the platform, we may suspend or terminate user accounts without refund. Users are responsible for ensuring that their use of the service complies with all applicable laws and regulations."
+msgstr "우리는 이 약관의 준수를 보장하기 위해 사용 패턴을 모니터링할 수 있습니다. 서비스의 부적절한 사용, 적용 가능한 법률의 위반 또는 플랫폼의 무결성을 손상시키는 활동을 발견하는 경우, 우리는 환불 없이 사용자 계정을 일시 중지 또는 종료할 수 있습니다. 사용자는 서비스의 사용이 모든 적용 가능한 법률 및 규정에 따라야 한다는 것을 보장할 책임이 있습니다."
+
+#. js-lingui-explicit-id
+msgid "11. Support"
+msgstr "11. 지원"
+
+#. js-lingui-explicit-id
+msgid "For assistance with technical issues, subscription questions, or other inquiries, users can contact us at {CONTACT_EMAIL}. Our team strives to address support requests promptly, typically within 48 hours."
+msgstr "기술적인 문제, 구독 질문 또는 기타 문의에 대한 지원을 위해 사용자는 {CONTACT_EMAIL}로 연락할 수 있습니다. 우리 팀은 지원 요청에 신속하게 대응하기 위해 노력하며, 일반적으로 48시간 내에 대응합니다."
+
+#. js-lingui-explicit-id
+msgid "12. Account Deletion"
+msgstr "12. 계정 삭제"
+
+#. js-lingui-explicit-id
+msgid "If you wish to delete your account, you can do so through the app's settings or by submitting a request via the developer's feedback form at the following link: https://vb-dev.org.ua/#feedback."
+msgstr "계정을 삭제하려면 앱의 설정을 통해 또는 개발자의 피드백 양식을 통해 다음 링크에서 요청을 제출할 수 있습니다: https://vb-dev.org.ua/#feedback."
+
+#. js-lingui-explicit-id
+msgid "13. Apple's Standard Terms"
+msgstr "13. Apple의 표준 약관"
+
+#. js-lingui-explicit-id
+msgid "In addition to these Terms of Use, {NAME_APP} operates under the Apple Standard End User License Agreement (EULA), which can be found at the following link:"
+msgstr "이 약관 외에도, {NAME_APP}은 다음 링크에서 찾을 수 있는 Apple 표준 최종 사용자 라이선스 계약 (EULA)에 따라 운영됩니다:"
+
+#. js-lingui-explicit-id
+msgid "By using {NAME_APP}, you confirm that you have read and agreed to these Terms of Use."
+msgstr "{NAME_APP}을 사용함으로써, 당신은 이 약관을 읽고 동의했음을 확인합니다."
