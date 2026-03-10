@@ -199,7 +199,7 @@ export const PrivacyPolicy: FunctionComponent = () => {
                 "Google Sign-In and Apple Sign-In for social authentication"
               ),
               i18n._("Firebase Analytics for usage insights"),
-              i18n._("RevenueCat for subscription management and billing"),
+              i18n._("RevenueCat for Energy purchase management and billing"),
               i18n._("MetaApi.cloud for real-time market data integration"),
             ]
           )}
@@ -208,7 +208,7 @@ export const PrivacyPolicy: FunctionComponent = () => {
             i18n._("We only share data with third parties when necessary:"),
             [
               i18n._("Authentication providers for login verification"),
-              i18n._("App stores for subscription billing processing"),
+              i18n._("App stores for Energy purchase billing processing"),
               i18n._("Market data providers for real-time price information"),
               i18n._("Analytics services (anonymous, aggregated data only)"),
             ]
@@ -298,26 +298,26 @@ export const PrivacyPolicy: FunctionComponent = () => {
         </div>
         <div>
           <h2 className={styles.title}>
-            {i18n._("Subscriptions and Payments")}
+            {i18n._("Energy Purchases and Payments")}
           </h2>
           {line(
             i18n._("Billing Information"),
             i18n._(
-              "We use RevenueCat and app stores for subscription management:"
+              "We use RevenueCat and app stores for Energy purchase management:"
             ),
             [
               i18n._("Payment processing through App Store and Google Play"),
-              i18n._("Subscription status and renewal management"),
+              i18n._("Energy purchase status and transaction management"),
               i18n._("Receipt validation and fraud prevention"),
               i18n._("No credit card information stored on our servers"),
             ]
           )}
           {line(
-            i18n._("Subscription Data"),
-            i18n._("We store minimal subscription-related information:"),
+            i18n._("Energy Purchase Data"),
+            i18n._("We store minimal Energy purchase-related information:"),
             [
-              i18n._("Subscription status and plan type"),
-              i18n._("Purchase dates and renewal information"),
+              i18n._("Energy balance and transaction status"),
+              i18n._("Purchase dates and transaction information"),
               i18n._("Feature access levels and permissions"),
               i18n._("Support and billing communication history"),
             ]

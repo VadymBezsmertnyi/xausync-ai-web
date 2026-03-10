@@ -174,9 +174,9 @@ const TermsOfUse: FunctionComponent = () => {
         </div>
         <div>
           {line(
-            i18n._("7. Subscriptions and Payments"),
+            i18n._("7. Energy Purchases and Payments"),
             i18n._(
-              "{NAME_APP} offers premium features through subscription plans. Subscriptions are managed through the App Store, Google Play Store, and RevenueCat. Payment processing is handled by the respective app stores. Subscription fees are non-refundable except as required by law or app store policies. Users may manage their subscriptions through their app store account settings.",
+              "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings.",
               { NAME_APP }
             )
           )}
