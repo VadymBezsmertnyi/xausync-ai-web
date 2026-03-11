@@ -151,7 +151,7 @@ msgstr "{otherName} 출시 연도"
 
 #. js-lingui-explicit-id
 msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
-msgstr "{otherName}의 최소 {min}년에서 최대 {max}년까지 입력해주세요"
+msgstr "최소 {min}년에서 최대 {max}년까지 {otherName}의 연도를 입력해주세요"
 
 #. js-lingui-explicit-id
 msgid "Type fuel {otherName}"

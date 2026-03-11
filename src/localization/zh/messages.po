@@ -151,7 +151,7 @@ msgstr "{otherName}发布年份"
 
 #. js-lingui-explicit-id
 msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
-msgstr "请输入{otherName}的最小年份{min}和最大年份{max}"
+msgstr "请输入最小年份{min}和最大年份{max}的{otherName}"
 
 #. js-lingui-explicit-id
 msgid "Type fuel {otherName}"

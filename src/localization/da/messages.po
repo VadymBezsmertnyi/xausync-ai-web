@@ -19,7 +19,7 @@ msgstr "AI-drevet uddannelsesmæssig markedsanalyse og læringsindsigter"
 
 #. js-lingui-explicit-id
 msgid "Navigation"
-msgstr "Navigation"
+msgstr "Navigering"
 
 #. js-lingui-explicit-id
 msgid "Home"

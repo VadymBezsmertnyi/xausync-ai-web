@@ -151,7 +151,7 @@ msgstr "{otherName}の発売年"
 
 #. js-lingui-explicit-id
 msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
-msgstr "{otherName}の年を最低{min}年、最大{max}年で入力してください"
+msgstr "最低{min}年から最大{max}年までの{otherName}の年を入力してください"
 
 #. js-lingui-explicit-id
 msgid "Type fuel {otherName}"

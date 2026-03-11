@@ -151,7 +151,7 @@ msgstr "{otherName} išleidimo metai"
 
 #. js-lingui-explicit-id
 msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
-msgstr "Prašome įvesti {otherName} metus nuo {min} iki {max}"
+msgstr "Prašome įvesti nuo {min} iki {max} metų {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Type fuel {otherName}"
