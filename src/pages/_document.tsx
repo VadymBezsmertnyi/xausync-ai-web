@@ -25,7 +25,6 @@ export default function Document() {
         />
         <link rel="manifest" href="/site.webmanifest" />
 
-        {/* Meta tags */}
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#F4C542" />
         <meta
