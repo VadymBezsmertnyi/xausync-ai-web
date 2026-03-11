@@ -15,27 +15,43 @@ import { useRouter } from "next/router";
 
 // providers
 import { useLocalesProvider } from "@/localization/localization.provider";
+import { Language } from "@/localization/localization.types";
+
+// helpers
+import { buildPathWithLanguage } from "@/localization/localization.helpers";
 
 // components
 import LanguageSelect from "../LanguageSelect/LanguageSelect";
 
 // constants
 import { PATHS } from "@/providers/paths.constants";
+import { NAME_APP } from "@/constants";
 
 // styles
 import styles from "./Header.module.css";
-import { NAME_APP } from "@/constants";
 
 type HeaderProps = {
   isShowMenu?: boolean;
 };
 
-const getMenuItems = (i18n: I18n) => [
-  { path: PATHS.main, label: i18n._("Home") },
-  { path: PATHS.about, label: i18n._("About") },
-  { path: PATHS.privacyPolicy, label: i18n._("Privacy Policy") },
-  { path: PATHS.termOfUse, label: i18n._("Terms of Use") },
-  { path: PATHS.disclaimer, label: i18n._("Disclaimer") },
+const getMenuItems = (i18n: I18n, language: Language) => [
+  { path: buildPathWithLanguage(PATHS.main, language), label: i18n._("Home") },
+  {
+    path: buildPathWithLanguage(PATHS.about, language),
+    label: i18n._("About"),
+  },
+  {
+    path: buildPathWithLanguage(PATHS.privacyPolicy, language),
+    label: i18n._("Privacy Policy"),
+  },
+  {
+    path: buildPathWithLanguage(PATHS.termOfUse, language),
+    label: i18n._("Terms of Use"),
+  },
+  {
+    path: buildPathWithLanguage(PATHS.disclaimer, language),
+    label: i18n._("Disclaimer"),
+  },
 ];
 
 export const Header: FunctionComponent<HeaderProps> = ({
@@ -45,7 +61,10 @@ export const Header: FunctionComponent<HeaderProps> = ({
   const { i18n, language } = useLocalesProvider();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
-  const menuItems = useMemo(() => getMenuItems(i18n), [i18n, language]);
+  const menuItems = useMemo(
+    () => getMenuItems(i18n, language),
+    [i18n, language]
+  );
 
   const handleMobileMenuToggle = () => {
     setMobileMenuOpen(!mobileMenuOpen);
@@ -61,10 +80,11 @@ export const Header: FunctionComponent<HeaderProps> = ({
   };
 
   const isCurrentPage = (path: string) => {
-    if (path === PATHS.main) {
+    const cleanPath = path.replace(/^\/[a-z]{2}/, "");
+    if (cleanPath === PATHS.main)
       return router.pathname === "/" || router.pathname === "/index";
-    }
-    return router.pathname === path;
+
+    return router.pathname === cleanPath;
   };
 
   return (
@@ -73,7 +93,7 @@ export const Header: FunctionComponent<HeaderProps> = ({
         <Box
           className={styles.containerLogo}
           onClick={() => {
-            router.push(PATHS.main);
+            router.push(buildPathWithLanguage(PATHS.main, language));
           }}
         >
           <Image

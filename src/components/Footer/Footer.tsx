@@ -3,16 +3,19 @@ import { Box, Typography, Container, Link } from "@mui/material";
 
 // providers
 import { useLocalesProvider } from "@/localization/localization.provider";
-import { PATHS } from "@/providers/paths.constants";
+
+// helpers
+import { buildPathWithLanguage } from "@/localization/localization.helpers";
 
 // constants
 import { NAME_APP, CONTACT_EMAIL } from "@/constants";
+import { PATHS } from "@/providers/paths.constants";
 
 // styles
 import styles from "./Footer.module.css";
 
 const Footer: FunctionComponent = () => {
-  const { i18n } = useLocalesProvider();
+  const { i18n, language } = useLocalesProvider();
 
   return (
     <Box className={styles.footer}>
@@ -34,19 +37,34 @@ const Footer: FunctionComponent = () => {
               {i18n._("Navigation")}
             </Typography>
             <Box className={styles.footerLinks}>
-              <Link href={PATHS.main} className={styles.footerLink}>
+              <Link
+                href={buildPathWithLanguage(PATHS.main, language)}
+                className={styles.footerLink}
+              >
                 {i18n._("Home")}
               </Link>
-              <Link href={PATHS.about} className={styles.footerLink}>
+              <Link
+                href={buildPathWithLanguage(PATHS.about, language)}
+                className={styles.footerLink}
+              >
                 {i18n._("About")}
               </Link>
-              <Link href={PATHS.privacyPolicy} className={styles.footerLink}>
+              <Link
+                href={buildPathWithLanguage(PATHS.privacyPolicy, language)}
+                className={styles.footerLink}
+              >
                 {i18n._("Privacy Policy")}
               </Link>
-              <Link href={PATHS.termOfUse} className={styles.footerLink}>
+              <Link
+                href={buildPathWithLanguage(PATHS.termOfUse, language)}
+                className={styles.footerLink}
+              >
                 {i18n._("Terms of Use")}
               </Link>
-              <Link href={PATHS.disclaimer} className={styles.footerLink}>
+              <Link
+                href={buildPathWithLanguage(PATHS.disclaimer, language)}
+                className={styles.footerLink}
+              >
                 {i18n._("Disclaimer")}
               </Link>
             </Box>

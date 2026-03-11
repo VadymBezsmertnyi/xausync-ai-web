@@ -122,8 +122,24 @@ const getMessagesByLocale = (locale: Language) => {
   }
 };
 
-export const isLanguage = (value: string): value is Language => {
+const isLanguage = (value: string): value is Language => {
   return value in languages_short;
+};
+
+export const getLanguageFromPath = (pathname: string): Language | null => {
+  const segments = pathname.split("/").filter(Boolean);
+  if (segments.length === 0) return null;
+
+  const firstSegment = segments[0];
+  return isLanguage(firstSegment) ? firstSegment : null;
+};
+
+export const buildPathWithLanguage = (
+  path: string,
+  language: Language
+): string => {
+  if (language === defaultLanguage) return path;
+  return `/${language}${path}`;
 };
 
 export const getDeviceLanguage = async (): Promise<Language> => {

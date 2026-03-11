@@ -26,13 +26,21 @@ import {
   Security,
 } from "@mui/icons-material";
 
+// providers
 import { useLocalesProvider } from "@/localization/localization.provider";
+
+// helpers
+import { buildPathWithLanguage } from "@/localization/localization.helpers";
+
+// constants
 import { NAME_APP } from "@/constants";
 
+// styles
 import styles from "./Main.module.css";
+import { PATHS } from "@/providers/paths.constants";
 
 export default function Main() {
-  const { i18n } = useLocalesProvider();
+  const { i18n, language } = useLocalesProvider();
   const theme = useTheme();
   const isMobile = useMediaQuery(theme.breakpoints.down("md"));
 
@@ -426,7 +434,7 @@ export default function Main() {
                 <Button
                   variant="contained"
                   size="large"
-                  href="/about"
+                  href={buildPathWithLanguage(PATHS.about, language)}
                   className={styles.ctaButton}
                 >
                   {i18n._("Explore {NAME_APP}", { NAME_APP })}
@@ -435,7 +443,7 @@ export default function Main() {
                 <Button
                   variant="contained"
                   size="large"
-                  href="/disclaimer"
+                  href={buildPathWithLanguage(PATHS.disclaimer, language)}
                   className={styles.ctaButton}
                 >
                   {i18n._("View Disclaimer")}

@@ -11,7 +11,7 @@ import { Language, LocalesContext, Props } from "./localization.types";
 import {
   dynamicActivateLanguage,
   getDeviceLanguage,
-  isLanguage,
+  getLanguageFromPath,
 } from "./localization.helpers";
 
 // locales
@@ -87,22 +87,14 @@ const LocalesProvider: React.FC<Props> = ({ children }) => {
       await dynamicActivateLanguage(language, i18n);
       localStorage.setItem(languageKey, language);
       setLanguage(language);
-      if (router.query.language) {
-        router.query.language = language;
-        router.push(router);
-      }
     } catch (error: any) {}
   };
 
   const getLanguageStorage = async () => {
     try {
-      const language = await getDeviceLanguage();
-      const routeLanguage =
-        router.query.language &&
-        typeof router.query.language === "string" &&
-        isLanguage(router.query.language)
-          ? router.query.language
-          : language;
+      const pathLanguage = getLanguageFromPath(router.pathname);
+      const deviceLanguage = await getDeviceLanguage();
+      const routeLanguage = pathLanguage || deviceLanguage;
       await setLanguageAsync(routeLanguage);
       setLanguage(routeLanguage);
     } catch (error: any) {}
@@ -120,7 +112,7 @@ const LocalesProvider: React.FC<Props> = ({ children }) => {
 
   useEffect(() => {
     getLanguageStorage();
-  }, [router.query?.language]);
+  }, [router.pathname]);
 
   return (
     <I18nProvider i18n={i18n}>
