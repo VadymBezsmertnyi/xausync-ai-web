@@ -14,62 +14,6 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
-msgid "Permanent removal of any remaining Energy balance - all internal learning currency (Energy) linked to your account will be deleted and cannot be restored"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Removal of Energy purchase information and transaction history within the app"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance or any account-related benefits. All energy credits will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "RevenueCat for Energy purchase management and billing"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "App stores for Energy purchase billing processing"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Energy Purchases and Payments"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "We use RevenueCat and app stores for Energy purchase management:"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Energy purchase status and transaction management"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Energy Purchase Data"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "We store minimal Energy purchase-related information:"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Energy balance and transaction status"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Purchase dates and transaction information"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "7. Energy Purchases and Payments"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
-msgstr ""
-
-#. js-lingui-explicit-id
 msgid "AI-powered educational market analysis and learning insights"
 msgstr "Analisi di mercato educativa potenziata dall'AI e approfondimenti di apprendimento"
 
@@ -694,8 +638,20 @@ msgid "Permanent removal of your in-app energy balance - all energy credits will
 msgstr "Rimozione permanente del tuo saldo energia nell'app - tutti i crediti energia verranno eliminati e non potranno essere ripristinati"
 
 #. js-lingui-explicit-id
+msgid "Permanent removal of any remaining Energy balance - all internal learning currency (Energy) linked to your account will be deleted and cannot be restored"
+msgstr "Rimozione permanente di qualsiasi saldo Energia rimanente - tutta la valuta di apprendimento interna (Energia) collegata al tuo account verrà eliminata e non potrà essere ripristinata"
+
+#. js-lingui-explicit-id
+msgid "Removal of Energy purchase information and transaction history within the app"
+msgstr "Rimozione delle informazioni sugli acquisti di Energia e della cronologia delle transazioni all'interno dell'app"
+
+#. js-lingui-explicit-id
 msgid "Important Information"
 msgstr "Informazioni Importanti"
+
+#. js-lingui-explicit-id
+msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance or any account-related benefits. All energy credits will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
+msgstr "L'eliminazione dell'account è IRREVERSIBILE. Una volta eliminato, non puoi recuperare i tuoi dati, ripristinare il tuo account o recuperare il tuo saldo energia in-app o qualsiasi beneficio legato all'account. Tutti i crediti energia saranno persi permanentemente. Se vuoi usare {NAME_APP} di nuovo in futuro, dovrai creare un nuovo account."
 
 #. js-lingui-explicit-id
 msgid "Need Help?"
@@ -1058,6 +1014,10 @@ msgid "Firebase Analytics for usage insights"
 msgstr "Firebase Analytics per approfondimenti sull'utilizzo"
 
 #. js-lingui-explicit-id
+msgid "RevenueCat for Energy purchase management and billing"
+msgstr "RevenueCat per gestione acquisti di Energia e fatturazione"
+
+#. js-lingui-explicit-id
 msgid "MetaApi.cloud for real-time market data integration"
 msgstr "MetaApi.cloud per integrazione dati di mercato in tempo reale"
 
@@ -1072,6 +1032,10 @@ msgstr "Condividiamo dati con terze parti solo quando necessario:"
 #. js-lingui-explicit-id
 msgid "Authentication providers for login verification"
 msgstr "Provider di autenticazione per verifica login"
+
+#. js-lingui-explicit-id
+msgid "App stores for Energy purchase billing processing"
+msgstr "App store per elaborazione fatturazione acquisti di Energia"
 
 #. js-lingui-explicit-id
 msgid "Market data providers for real-time price information"
@@ -1242,12 +1206,24 @@ msgid "Revoke notification permission at any time"
 msgstr "Revocare permesso notifica in qualsiasi momento"
 
 #. js-lingui-explicit-id
+msgid "Energy Purchases and Payments"
+msgstr "Acquisti di Energia e Pagamenti"
+
+#. js-lingui-explicit-id
 msgid "Billing Information"
 msgstr "Informazioni di Fatturazione"
 
 #. js-lingui-explicit-id
+msgid "We use RevenueCat and app stores for Energy purchase management:"
+msgstr "Utilizziamo RevenueCat e gli app store per la gestione degli acquisti di Energia:"
+
+#. js-lingui-explicit-id
 msgid "Payment processing through App Store and Google Play"
 msgstr "Elaborazione pagamenti tramite App Store e Google Play"
+
+#. js-lingui-explicit-id
+msgid "Energy purchase status and transaction management"
+msgstr "Stato degli acquisti di Energia e gestione delle transazioni"
 
 #. js-lingui-explicit-id
 msgid "Receipt validation and fraud prevention"
@@ -1258,40 +1234,56 @@ msgid "No credit card information stored on our servers"
 msgstr "Nessuna informazione carta di credito archiviata sui nostri server"
 
 #. js-lingui-explicit-id
+msgid "Energy Purchase Data"
+msgstr "Dati sugli acquisti di Energia"
+
+#. js-lingui-explicit-id
+msgid "We store minimal Energy purchase-related information:"
+msgstr "Conserviamo informazioni minime relative agli acquisti di Energia:"
+
+#. js-lingui-explicit-id
+msgid "Energy balance and transaction status"
+msgstr "Saldo Energia e stato delle transazioni"
+
+#. js-lingui-explicit-id
+msgid "Purchase dates and transaction information"
+msgstr "Date di acquisto e informazioni sulle transazioni"
+
+#. js-lingui-explicit-id
 msgid "Feature access levels and permissions"
-msgstr "Feature access levels and permissions"
+msgstr "Livelli di accesso alle funzionalità e autorizzazioni"
 
 #. js-lingui-explicit-id
 msgid "Support and billing communication history"
-msgstr "Support and billing communication history"
+msgstr "Cronologia comunicazioni di supporto e fatturazione"
 
 #. js-lingui-explicit-id
 msgid "Children's Privacy"
-msgstr "Children's Privacy"
+msgstr "Privacy dei Minori"
 
 #. js-lingui-explicit-id
 msgid "Age Restrictions"
-msgstr "Age Restrictions"
+msgstr "Restrizioni di Età"
 
 #. js-lingui-explicit-id
 msgid "Our service is not intended for individuals under 18:"
-msgstr "Our service is not intended for individuals under 18:"
+msgstr "Il nostro servizio non è destinato a persone di età inferiore ai 18 anni:"
 
 #. js-lingui-explicit-id
 msgid "We do not knowingly collect data from children"
-msgstr "We do not knowingly collect data from children"
+msgstr "Non raccogliamo consapevolmente dati dai minori"
 
 #. js-lingui-explicit-id
 msgid "The service is designed for adult users"
-msgstr "The service is designed for adult users"
+msgstr "Il servizio è progettato per utenti adulti"
 
 #. js-lingui-explicit-id
 msgid "Parental controls are not implemented"
-msgstr "Parental controls are not implemented"
+msgstr "I controlli parentali non sono implementati"
 
 #. js-lingui-explicit-id
 msgid "If we discover underage users, we delete their data"
-msgstr "If we discover underage users, we delete their data"
+msgstr "Se scopriamo utenti minorenni, eliminiamo i loro dati"
 
 #. js-lingui-explicit-id
 msgid "International Data Transfers"
@@ -1299,59 +1291,59 @@ msgstr "Trasferimenti Internazionali di Dati"
 
 #. js-lingui-explicit-id
 msgid "Global Service"
-msgstr "Global Service"
+msgstr "Servizio Globale"
 
 #. js-lingui-explicit-id
 msgid "As a global application, data may be processed internationally:"
-msgstr "As a global application, data may be processed internationally:"
+msgstr "In quanto applicazione globale, i dati possono essere elaborati a livello internazionale:"
 
 #. js-lingui-explicit-id
 msgid "Firebase servers may be located outside your country"
-msgstr "Firebase servers may be located outside your country"
+msgstr "I server di Firebase possono trovarsi al di fuori del tuo paese"
 
 #. js-lingui-explicit-id
 msgid "Data transfers include appropriate safeguards"
-msgstr "Data transfers include appropriate safeguards"
+msgstr "I trasferimenti di dati includono adeguate misure di protezione"
 
 #. js-lingui-explicit-id
 msgid "We comply with applicable data protection laws"
-msgstr "We comply with applicable data protection laws"
+msgstr "Rispettiamo le leggi sulla protezione dei dati applicabili"
 
 #. js-lingui-explicit-id
 msgid "Security measures protect international transfers"
-msgstr "Security measures protect international transfers"
+msgstr "Le misure di sicurezza proteggono i trasferimenti internazionali"
 
 #. js-lingui-explicit-id
 msgid "Changes to This Privacy Policy"
-msgstr "Changes to This Privacy Policy"
+msgstr "Modifiche a Questa Informativa sulla Privacy"
 
 #. js-lingui-explicit-id
 msgid "We may update this Privacy Policy periodically. Changes will be posted on this page with a revised date. For significant changes, we will notify users through the app or email. Continued use of the service after changes constitutes acceptance of the updated policy."
-msgstr "We may update this Privacy Policy periodically. Changes will be posted on this page with a revised date. For significant changes, we will notify users through the app or email. Continued use of the service after changes constitutes acceptance of the updated policy."
+msgstr "Potremmo aggiornare periodicamente questa Informativa sulla Privacy. Le modifiche saranno pubblicate su questa pagina con una data di revisione aggiornata. Per modifiche significative, informeremo gli utenti tramite l'app o via email. L'uso continuato del servizio dopo le modifiche costituisce accettazione della politica aggiornata."
 
 #. js-lingui-explicit-id
 msgid "If you have questions about this Privacy Policy or need to exercise your rights, please contact us at {CONTACT_EMAIL}."
-msgstr "If you have questions about this Privacy Policy or need to exercise your rights, please contact us at {CONTACT_EMAIL}."
+msgstr "Se hai domande su questa Informativa sulla Privacy o hai bisogno di esercitare i tuoi diritti, contattaci all'indirizzo {CONTACT_EMAIL}."
 
 #. js-lingui-explicit-id
 msgid "Terms of Use — XauSync AI"
-msgstr "Terms of Use — XauSync AI"
+msgstr "Termini di Utilizzo — XauSync AI"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities, educational purpose, and service guidelines."
-msgstr "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities, educational purpose, and service guidelines."
+msgstr "Termini di Utilizzo di XauSync AI - Leggi i nostri termini per l'utilizzo dell'app di analisi del mercato educativo basata su AI, inclusi responsabilità degli utenti, scopo educativo e linee guida del servizio."
 
 #. js-lingui-explicit-id
 msgid "Terms of Use, XauSync AI, legal terms, user agreement, market analysis terms, educational market analysis, service terms"
-msgstr "Terms of Use, XauSync AI, legal terms, user agreement, market analysis terms, educational market analysis, service terms"
+msgstr "Termini di Utilizzo, XauSync AI, termini legali, accordo con l'utente, termini di analisi del mercato, analisi del mercato educativo, termini del servizio"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities and service guidelines."
-msgstr "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities and service guidelines."
+msgstr "Termini di Utilizzo di XauSync AI - Leggi i nostri termini per l'utilizzo dell'app di analisi del mercato educativo basata su AI, inclusi responsabilità degli utenti e linee guida del servizio."
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Terms of Use"
-msgstr "XauSync AI Terms of Use"
+msgstr "Termini di Utilizzo di XauSync AI"
 
 #. js-lingui-explicit-id
 msgid "\"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). By accessing or using our AI-powered educational market analysis app and web services (\"Service\"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service."
@@ -1406,60 +1398,68 @@ msgid "To access {NAME_APP} features, users can create an account using email/pa
 msgstr "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use."
 
 #. js-lingui-explicit-id
+msgid "7. Energy Purchases and Payments"
+msgstr "7. Acquisti e Pagamenti di Energia"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
+msgstr "{NAME_APP} offre funzionalità premium tramite l'accesso basato sull'Energia. Gli utenti acquistano una valuta interna di apprendimento chiamata Energia tramite l'App Store o Google Play (tramite RevenueCat). L'Energia viene utilizzata per accedere all'analisi educativa basata su AI e alle funzionalità di apprendimento. L'elaborazione dei pagamenti è gestita dai rispettivi app store. Gli acquisti di Energia non sono rimborsabili, salvo quanto richiesto dalla legge o dalle politiche dell'app store. Gli utenti possono gestire i loro acquisti di Energia tramite le impostazioni del loro account nell'app store."
+
+#. js-lingui-explicit-id
 msgid "8. Acceptable Use"
-msgstr "8. Acceptable Use"
+msgstr "8. Uso Accettabile"
 
 #. js-lingui-explicit-id
 msgid "Users agree to use {NAME_APP} in accordance with these terms and applicable laws. Prohibited activities include:"
-msgstr "Users agree to use {NAME_APP} in accordance with these terms and applicable laws. Prohibited activities include:"
+msgstr "Gli utenti accettano di utilizzare {NAME_APP} in conformità con questi termini e le leggi applicabili. Le attività proibite includono:"
 
 #. js-lingui-explicit-id
 msgid "Reverse-engineering or attempting to extract our source code"
-msgstr "Reverse-engineering or attempting to extract our source code"
+msgstr "Reverse-engineering o tentativi di estrarre il nostro codice sorgente"
 
 #. js-lingui-explicit-id
 msgid "Using automated bots or scripts to access the service"
-msgstr "Using automated bots or scripts to access the service"
+msgstr "Utilizzo di bot o script automatizzati per accedere al servizio"
 
 #. js-lingui-explicit-id
 msgid "Sharing account credentials with third parties"
-msgstr "Sharing account credentials with third parties"
+msgstr "Condivisione delle credenziali dell'account con terze parti"
 
 #. js-lingui-explicit-id
 msgid "Using the service for unlawful activities or market manipulation"
-msgstr "Using the service for unlawful activities or market manipulation"
+msgstr "Utilizzo del servizio per attività illecite o manipolazione del mercato"
 
 #. js-lingui-explicit-id
 msgid "Distributing proprietary information without authorization"
-msgstr "Distributing proprietary information without authorization"
+msgstr "Distribuzione di informazioni proprietarie senza autorizzazione"
 
 #. js-lingui-explicit-id
 msgid "Interfering with the service's operation or security"
-msgstr "Interfering with the service's operation or security"
+msgstr "Interferenza con il funzionamento o la sicurezza del servizio"
 
 #. js-lingui-explicit-id
 msgid "9. Intellectual Property"
-msgstr "9. Intellectual Property"
+msgstr "9. Proprietà Intellettuale"
 
 #. js-lingui-explicit-id
 msgid "All content, features, and functionality of {NAME_APP} are owned by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) and protected by copyright, trademark, and other intellectual property laws. Users may not copy, modify, distribute, or create derivative works without our explicit written permission."
-msgstr "All content, features, and functionality of {NAME_APP} are owned by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) and protected by copyright, trademark, and other intellectual property laws. Users may not copy, modify, distribute, or create derivative works without our explicit written permission."
+msgstr "Tutti i contenuti, le funzionalità e le caratteristiche di {NAME_APP} sono di proprietà di Vadym Bezsmertnyi, Imprenditore Individuale (Ucraina) e sono protetti da leggi sul copyright, marchi e altre leggi sulla proprietà intellettuale. Gli utenti non possono copiare, modificare, distribuire o creare opere derivate senza il nostro esplicito permesso scritto."
 
 #. js-lingui-explicit-id
 msgid "10. Market Data and Third-Party Content"
-msgstr "10. Market Data and Third-Party Content"
+msgstr "10. Dati di Mercato e Contenuti di Terze Parti"
 
 #. js-lingui-explicit-id
 msgid "Market data provided through {NAME_APP} is sourced from third-party providers and may be delayed or contain errors. We do not guarantee the accuracy, completeness, or timeliness of market data. Users should verify critical market information from multiple sources before making decisions."
-msgstr "Market data provided through {NAME_APP} is sourced from third-party providers and may be delayed or contain errors. We do not guarantee the accuracy, completeness, or timeliness of market data. Users should verify critical market information from multiple sources before making decisions."
+msgstr "I dati di mercato forniti tramite {NAME_APP} provengono da fornitori terzi e possono essere ritardati o contenere errori. Non garantiamo l'accuratezza, la completezza o la tempestività dei dati di mercato. Gli utenti dovrebbero verificare le informazioni di mercato critiche da più fonti prima di prendere decisioni."
 
 #. js-lingui-explicit-id
 msgid "11. Service Availability"
-msgstr "11. Service Availability"
+msgstr "11. Disponibilità del Servizio"
 
 #. js-lingui-explicit-id
 msgid "We strive to provide reliable service but cannot guarantee uninterrupted access. {NAME_APP} may be temporarily unavailable for maintenance, technical issues, or other reasons beyond our control. We are not liable for losses resulting from service interruptions."
-msgstr "We strive to provide reliable service but cannot guarantee uninterrupted access. {NAME_APP} may be temporarily unavailable for maintenance, technical issues, or other reasons beyond our control. We are not liable for losses resulting from service interruptions."
+msgstr "Ci impegniamo a fornire un servizio affidabile, ma non possiamo garantire un accesso ininterrotto. {NAME_APP} potrebbe essere temporaneamente non disponibile per manutenzione, problemi tecnici o altre ragioni al di fuori del nostro controllo. Non siamo responsabili per perdite derivanti da interruzioni del servizio."
 
 #. js-lingui-explicit-id
 msgid "12. Limitation of Liability"

@@ -14,62 +14,6 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
-msgid "Permanent removal of any remaining Energy balance - all internal learning currency (Energy) linked to your account will be deleted and cannot be restored"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Removal of Energy purchase information and transaction history within the app"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance or any account-related benefits. All energy credits will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "RevenueCat for Energy purchase management and billing"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "App stores for Energy purchase billing processing"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Energy Purchases and Payments"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "We use RevenueCat and app stores for Energy purchase management:"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Energy purchase status and transaction management"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Energy Purchase Data"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "We store minimal Energy purchase-related information:"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Energy balance and transaction status"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Purchase dates and transaction information"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "7. Energy Purchases and Payments"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
-msgstr ""
-
-#. js-lingui-explicit-id
 msgid "AI-powered educational market analysis and learning insights"
 msgstr "Analiză de piață educațională asistată de AI și perspective de învățare"
 
@@ -694,8 +638,20 @@ msgid "Permanent removal of your in-app energy balance - all energy credits will
 msgstr "Eliminarea permanentă a soldului dvs. de energie din aplicație - toate creditele de energie vor fi șterse și nu pot fi restaurate"
 
 #. js-lingui-explicit-id
+msgid "Permanent removal of any remaining Energy balance - all internal learning currency (Energy) linked to your account will be deleted and cannot be restored"
+msgstr "Eliminarea permanentă a oricărui sold de energie rămas - toată moneda internă de învățare (Energie) legată de contul dvs. va fi ștersă și nu poate fi restaurată"
+
+#. js-lingui-explicit-id
+msgid "Removal of Energy purchase information and transaction history within the app"
+msgstr "Eliminarea informațiilor despre achizițiile de energie și a istoricului tranzacțiilor din cadrul aplicației"
+
+#. js-lingui-explicit-id
 msgid "Important Information"
 msgstr "Informații importante"
+
+#. js-lingui-explicit-id
+msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance or any account-related benefits. All energy credits will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
+msgstr "Ștergerea contului este IRREVERSIBILĂ. Odată șters, nu puteți recupera datele dvs., restaura contul sau recupera soldul de energie din aplicație sau orice beneficii legate de cont. Toate creditele de energie vor fi pierdute permanent. Dacă doriți să utilizați {NAME_APP} din nou în viitor, va trebui să creați un cont nou."
 
 #. js-lingui-explicit-id
 msgid "Need Help?"
@@ -1058,6 +1014,10 @@ msgid "Firebase Analytics for usage insights"
 msgstr "Firebase Analytics pentru informații despre utilizare"
 
 #. js-lingui-explicit-id
+msgid "RevenueCat for Energy purchase management and billing"
+msgstr "RevenueCat pentru gestionarea achizițiilor de energie și facturare"
+
+#. js-lingui-explicit-id
 msgid "MetaApi.cloud for real-time market data integration"
 msgstr "MetaApi.cloud pentru integrarea datelor de piață în timp real"
 
@@ -1072,6 +1032,10 @@ msgstr "Partajăm datele cu terțe părți doar atunci când este necesar:"
 #. js-lingui-explicit-id
 msgid "Authentication providers for login verification"
 msgstr "Furnizorii de autentificare pentru verificarea conectării"
+
+#. js-lingui-explicit-id
+msgid "App stores for Energy purchase billing processing"
+msgstr "Magazinele de aplicații pentru procesarea facturării achizițiilor de energie"
 
 #. js-lingui-explicit-id
 msgid "Market data providers for real-time price information"
@@ -1242,12 +1206,24 @@ msgid "Revoke notification permission at any time"
 msgstr "Revocați permisiunea de notificare în orice moment"
 
 #. js-lingui-explicit-id
+msgid "Energy Purchases and Payments"
+msgstr "Achiziții de energie și plăți"
+
+#. js-lingui-explicit-id
 msgid "Billing Information"
 msgstr "Informații de facturare"
 
 #. js-lingui-explicit-id
+msgid "We use RevenueCat and app stores for Energy purchase management:"
+msgstr "Folosim RevenueCat și magazinele de aplicații pentru gestionarea achizițiilor de energie:"
+
+#. js-lingui-explicit-id
 msgid "Payment processing through App Store and Google Play"
 msgstr "Procesarea plăților prin App Store și Google Play"
+
+#. js-lingui-explicit-id
+msgid "Energy purchase status and transaction management"
+msgstr "Starea achizițiilor de energie și gestionarea tranzacțiilor"
 
 #. js-lingui-explicit-id
 msgid "Receipt validation and fraud prevention"
@@ -1256,6 +1232,22 @@ msgstr "Validarea chitanțelor și prevenirea fraudei"
 #. js-lingui-explicit-id
 msgid "No credit card information stored on our servers"
 msgstr "Nicio informație despre cardul de credit nu este stocată pe serverele noastre"
+
+#. js-lingui-explicit-id
+msgid "Energy Purchase Data"
+msgstr "Datele achizițiilor de energie"
+
+#. js-lingui-explicit-id
+msgid "We store minimal Energy purchase-related information:"
+msgstr "Stocăm informații minime legate de achizițiile de energie:"
+
+#. js-lingui-explicit-id
+msgid "Energy balance and transaction status"
+msgstr "Soldul de energie și starea tranzacțiilor"
+
+#. js-lingui-explicit-id
+msgid "Purchase dates and transaction information"
+msgstr "Datele achizițiilor și informațiile despre tranzacții"
 
 #. js-lingui-explicit-id
 msgid "Feature access levels and permissions"
@@ -1404,6 +1396,14 @@ msgstr "6. Înregistrarea și securitatea contului"
 #. js-lingui-explicit-id
 msgid "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use."
 msgstr "Pentru a accesa funcțiile {NAME_APP}, utilizatorii pot crea un cont folosind email/parolă, Google Sign-In sau Apple Sign-In. Utilizatorii sunt responsabili pentru menținerea confidențialității datelor de autentificare a contului și pentru toate activitățile care au loc sub contul lor. Utilizatorii ar trebui să furnizeze informații exacte în timpul înregistrării și să ne notifice imediat despre orice utilizare neautorizată."
+
+#. js-lingui-explicit-id
+msgid "7. Energy Purchases and Payments"
+msgstr "7. Achiziții de energie și plăți"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
+msgstr "{NAME_APP} oferă funcții premium prin acces bazat pe Energie. Utilizatorii achiziționează moneda internă de învățare numită Energie prin App Store sau Google Play (prin RevenueCat). Energia este utilizată pentru a accesa analiza educațională AI și funcțiile de învățare. Procesarea plăților este gestionată de magazinele de aplicații respective. Achizițiile de Energie nu sunt rambursabile, cu excepția cazurilor prevăzute de lege sau de politicile magazinului de aplicații. Utilizatorii își pot gestiona achizițiile de Energie prin setările contului magazinului de aplicații."
 
 #. js-lingui-explicit-id
 msgid "8. Acceptable Use"

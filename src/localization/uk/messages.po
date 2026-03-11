@@ -12,70 +12,6 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
-msgid "Permanent removal of any remaining Energy balance - all internal learning currency (Energy) linked to your account will be deleted and cannot be restored"
-msgstr "Постійне видалення будь-якого залишкового балансу Енергії - вся внутрішня навчальна валюта (Енергія), пов'язана з вашим обліковим записом, буде видалена і не може бути відновлена"
-
-#. js-lingui-explicit-id
-msgid "Removal of Energy purchase information and transaction history within the app"
-msgstr "Видалення інформації про покупки Енергії та історії транзакцій всередині додатку"
-
-#. js-lingui-explicit-id
-msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance or any account-related benefits. All energy credits will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
-msgstr "Видалення облікового запису НЕОБЕРТАНЕ. Після видалення ви не зможете відновити свої дані, відновити обліковий запис або відновити баланс енергії в додатку чи будь-які пов'язані з обліковим записом переваги. Всі кредити енергії будуть назавжди втрачені. Якщо ви захочете знову використовувати {NAME_APP} у майбутньому, вам доведеться створити новий обліковий запис."
-
-#. js-lingui-explicit-id
-msgid "Feature usage patterns and frequency"
-msgstr "Шаблони використання функцій та частота"
-
-#. js-lingui-explicit-id
-msgid "RevenueCat for Energy purchase management and billing"
-msgstr "RevenueCat для управління покупками Енергії та виставлення рахунків"
-
-#. js-lingui-explicit-id
-msgid "App stores for Energy purchase billing processing"
-msgstr "Магазини додатків для обробки виставлення рахунків за покупки Енергії"
-
-#. js-lingui-explicit-id
-msgid "Learning alerts and market examples"
-msgstr "Сповіщення про навчання та приклади ринку"
-
-#. js-lingui-explicit-id
-msgid "Energy Purchases and Payments"
-msgstr "Покупки та платежі Енергії"
-
-#. js-lingui-explicit-id
-msgid "We use RevenueCat and app stores for Energy purchase management:"
-msgstr "Ми використовуємо RevenueCat та магазини додатків для управління покупками Енергії:"
-
-#. js-lingui-explicit-id
-msgid "Energy purchase status and transaction management"
-msgstr "Статус покупки Енергії та управління транзакціями"
-
-#. js-lingui-explicit-id
-msgid "Energy Purchase Data"
-msgstr "Дані про покупки Енергії"
-
-#. js-lingui-explicit-id
-msgid "We store minimal Energy purchase-related information:"
-msgstr "Ми зберігаємо мінімальну інформацію, пов'язану з покупками Енергії:"
-
-#. js-lingui-explicit-id
-msgid "Energy balance and transaction status"
-msgstr "Баланс Енергії та статус транзакцій"
-
-#. js-lingui-explicit-id
-msgid "Purchase dates and transaction information"
-msgstr "Дати покупок та інформація про транзакції"
-
-#. js-lingui-explicit-id
-msgid "7. Energy Purchases and Payments"
-msgstr "7. Покупки та платежі Енергії"
-
-#. js-lingui-explicit-id
-msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
-msgstr "{NAME_APP} пропонує преміум-функції через доступ на основі Енергії. Користувачі купують внутрішню навчальну валюту під назвою Енергія через App Store або Google Play (через RevenueCat). Енергія використовується для доступу до освітнього аналізу та навчальних функцій на основі ШІ. Обробка платежів здійснюється відповідними магазинами додатків. Покупки Енергії не підлягають поверненню, за винятком випадків, передбачених законом або політикою магазину додатків. Користувачі можуть керувати своїми покупками Енергії через налаштування облікового запису в магазині додатків."
-
-#. js-lingui-explicit-id
 msgid "AI-powered educational market analysis and learning insights"
 msgstr "Освітній аналіз ринку та навчальні інсайти на основі штучного інтелекту"
 
@@ -700,8 +636,20 @@ msgid "Permanent removal of your in-app energy balance - all energy credits will
 msgstr "Постійне видалення вашого балансу енергії в додатку - всі енергетичні кредити будуть видалені і не можуть бути відновлені"
 
 #. js-lingui-explicit-id
+msgid "Permanent removal of any remaining Energy balance - all internal learning currency (Energy) linked to your account will be deleted and cannot be restored"
+msgstr "Постійне видалення будь-якого залишкового балансу Енергії - вся внутрішня навчальна валюта (Енергія), пов'язана з вашим обліковим записом, буде видалена і не може бути відновлена"
+
+#. js-lingui-explicit-id
+msgid "Removal of Energy purchase information and transaction history within the app"
+msgstr "Видалення інформації про покупки Енергії та історії транзакцій всередині додатку"
+
+#. js-lingui-explicit-id
 msgid "Important Information"
 msgstr "Важлива інформація"
+
+#. js-lingui-explicit-id
+msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance or any account-related benefits. All energy credits will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
+msgstr "Видалення облікового запису НЕОБЕРТАНЕ. Після видалення ви не зможете відновити свої дані, відновити обліковий запис або відновити баланс енергії в додатку чи будь-які пов'язані з обліковим записом переваги. Всі кредити енергії будуть назавжди втрачені. Якщо ви захочете знову використовувати {NAME_APP} у майбутньому, вам доведеться створити новий обліковий запис."
 
 #. js-lingui-explicit-id
 msgid "Need Help?"
@@ -952,6 +900,10 @@ msgid "We use Firebase Analytics to understand how our app is used:"
 msgstr "Ми використовуємо Firebase Analytics, щоб зрозуміти, як використовується наш додаток:"
 
 #. js-lingui-explicit-id
+msgid "Feature usage patterns and frequency"
+msgstr "Шаблони використання функцій та частота"
+
+#. js-lingui-explicit-id
 msgid "Screen views and navigation paths"
 msgstr "Перегляди екранів та шляхи навігації"
 
@@ -1060,6 +1012,10 @@ msgid "Firebase Analytics for usage insights"
 msgstr "Firebase Analytics для отримання інформації про використання"
 
 #. js-lingui-explicit-id
+msgid "RevenueCat for Energy purchase management and billing"
+msgstr "RevenueCat для управління покупками Енергії та виставлення рахунків"
+
+#. js-lingui-explicit-id
 msgid "MetaApi.cloud for real-time market data integration"
 msgstr "MetaApi.cloud для інтеграції даних ринку в реальному часі"
 
@@ -1074,6 +1030,10 @@ msgstr "Ми ділимося даними з третіми сторонами 
 #. js-lingui-explicit-id
 msgid "Authentication providers for login verification"
 msgstr "Постачальники аутентифікації для перевірки входу"
+
+#. js-lingui-explicit-id
+msgid "App stores for Energy purchase billing processing"
+msgstr "Магазини додатків для обробки виставлення рахунків за покупки Енергії"
 
 #. js-lingui-explicit-id
 msgid "Market data providers for real-time price information"
@@ -1204,6 +1164,10 @@ msgid "With your permission, we send push notifications for:"
 msgstr "З вашого дозволу ми надсилаємо push-повідомлення для:"
 
 #. js-lingui-explicit-id
+msgid "Learning alerts and market examples"
+msgstr "Сповіщення про навчання та приклади ринку"
+
+#. js-lingui-explicit-id
 msgid "Price movement notifications"
 msgstr "Оповіщення про рух цін"
 
@@ -1240,12 +1204,24 @@ msgid "Revoke notification permission at any time"
 msgstr "Скасувати дозвіл на отримання повідомлень у будь-який час"
 
 #. js-lingui-explicit-id
+msgid "Energy Purchases and Payments"
+msgstr "Покупки та платежі Енергії"
+
+#. js-lingui-explicit-id
 msgid "Billing Information"
 msgstr "Платіжна інформація"
 
 #. js-lingui-explicit-id
+msgid "We use RevenueCat and app stores for Energy purchase management:"
+msgstr "Ми використовуємо RevenueCat та магазини додатків для управління покупками Енергії:"
+
+#. js-lingui-explicit-id
 msgid "Payment processing through App Store and Google Play"
 msgstr "Обробка платежів через App Store та Google Play"
+
+#. js-lingui-explicit-id
+msgid "Energy purchase status and transaction management"
+msgstr "Статус покупки Енергії та управління транзакціями"
 
 #. js-lingui-explicit-id
 msgid "Receipt validation and fraud prevention"
@@ -1254,6 +1230,22 @@ msgstr "Перевірка квитанцій та запобігання шах
 #. js-lingui-explicit-id
 msgid "No credit card information stored on our servers"
 msgstr "Жодна інформація про кредитні картки не зберігається на наших серверах"
+
+#. js-lingui-explicit-id
+msgid "Energy Purchase Data"
+msgstr "Дані про покупки Енергії"
+
+#. js-lingui-explicit-id
+msgid "We store minimal Energy purchase-related information:"
+msgstr "Ми зберігаємо мінімальну інформацію, пов'язану з покупками Енергії:"
+
+#. js-lingui-explicit-id
+msgid "Energy balance and transaction status"
+msgstr "Баланс Енергії та статус транзакцій"
+
+#. js-lingui-explicit-id
+msgid "Purchase dates and transaction information"
+msgstr "Дати покупок та інформація про транзакції"
 
 #. js-lingui-explicit-id
 msgid "Feature access levels and permissions"
@@ -1402,6 +1394,14 @@ msgstr "6. Реєстрація облікового запису та безп�
 #. js-lingui-explicit-id
 msgid "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use."
 msgstr "Щоб отримати доступ до функцій {NAME_APP}, користувачі можуть створити обліковий запис за допомогою електронної пошти/пароля, Google Sign-In або Apple Sign-In. Користувачі несуть відповідальність за збереження конфіденційності своїх облікових даних та за всі дії, що відбуваються під їх обліковим записом. Користувачі повинні надавати точну інформацію під час реєстрації та негайно повідомляти нас про будь-яке несанкціоноване використання."
+
+#. js-lingui-explicit-id
+msgid "7. Energy Purchases and Payments"
+msgstr "7. Покупки та платежі Енергії"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
+msgstr "{NAME_APP} пропонує преміум-функції через доступ на основі Енергії. Користувачі купують внутрішню навчальну валюту під назвою Енергія через App Store або Google Play (через RevenueCat). Енергія використовується для доступу до освітнього аналізу та навчальних функцій на основі ШІ. Обробка платежів здійснюється відповідними магазинами додатків. Покупки Енергії не підлягають поверненню, за винятком випадків, передбачених законом або політикою магазину додатків. Користувачі можуть керувати своїми покупками Енергії через налаштування облікового запису в магазині додатків."
 
 #. js-lingui-explicit-id
 msgid "8. Acceptable Use"

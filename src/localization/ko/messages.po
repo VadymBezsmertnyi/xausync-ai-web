@@ -14,62 +14,6 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
-msgid "Permanent removal of any remaining Energy balance - all internal learning currency (Energy) linked to your account will be deleted and cannot be restored"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Removal of Energy purchase information and transaction history within the app"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance or any account-related benefits. All energy credits will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "RevenueCat for Energy purchase management and billing"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "App stores for Energy purchase billing processing"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Energy Purchases and Payments"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "We use RevenueCat and app stores for Energy purchase management:"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Energy purchase status and transaction management"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Energy Purchase Data"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "We store minimal Energy purchase-related information:"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Energy balance and transaction status"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "Purchase dates and transaction information"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "7. Energy Purchases and Payments"
-msgstr ""
-
-#. js-lingui-explicit-id
-msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
-msgstr ""
-
-#. js-lingui-explicit-id
 msgid "AI-powered educational market analysis and learning insights"
 msgstr "AI 기반 교육용 시장 분석 및 학습 인사이트"
 
@@ -694,8 +638,20 @@ msgid "Permanent removal of your in-app energy balance - all energy credits will
 msgstr "앱 내 에너지 잔액이 영구적으로 제거됩니다 - 모든 에너지 크레딧이 삭제되며 복구할 수 없습니다"
 
 #. js-lingui-explicit-id
+msgid "Permanent removal of any remaining Energy balance - all internal learning currency (Energy) linked to your account will be deleted and cannot be restored"
+msgstr "남아 있는 에너지 잔액이 영구적으로 제거됩니다 - 계정과 연결된 모든 내부 학습 통화(에너지)가 삭제되며 복구할 수 없습니다"
+
+#. js-lingui-explicit-id
+msgid "Removal of Energy purchase information and transaction history within the app"
+msgstr "앱 내 에너지 구매 정보 및 거래 내역이 제거됩니다"
+
+#. js-lingui-explicit-id
 msgid "Important Information"
 msgstr "중요 정보"
+
+#. js-lingui-explicit-id
+msgid "Account deletion is IRREVERSIBLE. Once deleted, you cannot recover your data, restore your account, or recover your in-app energy balance or any account-related benefits. All energy credits will be permanently lost. If you want to use {NAME_APP} again in the future, you will need to create a new account."
+msgstr "계정 삭제는 되돌릴 수 없습니다. 삭제하면 데이터를 복구하거나 계정을 복원하거나 앱 내 에너지 잔액 또는 계정 관련 혜택을 복구할 수 없습니다. 모든 에너지 크레딧은 영구적으로 손실됩니다. 향후 {NAME_APP}을 다시 사용하려면 새 계정을 만들어야 합니다."
 
 #. js-lingui-explicit-id
 msgid "Need Help?"
@@ -1058,6 +1014,10 @@ msgid "Firebase Analytics for usage insights"
 msgstr "사용 통찰을 위한 Firebase 분석"
 
 #. js-lingui-explicit-id
+msgid "RevenueCat for Energy purchase management and billing"
+msgstr "에너지 구매 관리 및 청구를 위한 RevenueCat"
+
+#. js-lingui-explicit-id
 msgid "MetaApi.cloud for real-time market data integration"
 msgstr "실시간 시장 데이터 통합을 위한 MetaApi.cloud"
 
@@ -1072,6 +1032,10 @@ msgstr "필요할 때만 타사와 데이터를 공유합니다:"
 #. js-lingui-explicit-id
 msgid "Authentication providers for login verification"
 msgstr "로그인 확인을 위한 인증 제공자"
+
+#. js-lingui-explicit-id
+msgid "App stores for Energy purchase billing processing"
+msgstr "에너지 구매 청구 처리를 위한 앱 스토어"
 
 #. js-lingui-explicit-id
 msgid "Market data providers for real-time price information"
@@ -1242,12 +1206,24 @@ msgid "Revoke notification permission at any time"
 msgstr "언제든지 알림 권한 취소"
 
 #. js-lingui-explicit-id
+msgid "Energy Purchases and Payments"
+msgstr "에너지 구매 및 결제"
+
+#. js-lingui-explicit-id
 msgid "Billing Information"
 msgstr "청구 정보"
 
 #. js-lingui-explicit-id
+msgid "We use RevenueCat and app stores for Energy purchase management:"
+msgstr "에너지 구매 관리를 위해 RevenueCat과 앱 스토어를 사용합니다:"
+
+#. js-lingui-explicit-id
 msgid "Payment processing through App Store and Google Play"
 msgstr "앱 스토어 및 구글 플레이를 통한 결제 처리"
+
+#. js-lingui-explicit-id
+msgid "Energy purchase status and transaction management"
+msgstr "에너지 구매 상태 및 거래 관리"
 
 #. js-lingui-explicit-id
 msgid "Receipt validation and fraud prevention"
@@ -1256,6 +1232,22 @@ msgstr "영수증 검증 및 사기 방지"
 #. js-lingui-explicit-id
 msgid "No credit card information stored on our servers"
 msgstr "서버에 신용카드 정보가 저장되지 않음"
+
+#. js-lingui-explicit-id
+msgid "Energy Purchase Data"
+msgstr "에너지 구매 데이터"
+
+#. js-lingui-explicit-id
+msgid "We store minimal Energy purchase-related information:"
+msgstr "우리는 최소한의 에너지 구매 관련 정보를 저장합니다:"
+
+#. js-lingui-explicit-id
+msgid "Energy balance and transaction status"
+msgstr "에너지 잔액 및 거래 상태"
+
+#. js-lingui-explicit-id
+msgid "Purchase dates and transaction information"
+msgstr "구매 날짜 및 거래 정보"
 
 #. js-lingui-explicit-id
 msgid "Feature access levels and permissions"
@@ -1404,6 +1396,14 @@ msgstr "6. 계정 등록 및 보안"
 #. js-lingui-explicit-id
 msgid "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use."
 msgstr "{NAME_APP} 기능에 액세스하려면 사용자는 이메일/비밀번호, Google 로그인 또는 Apple 로그인을 사용하여 계정을 만들 수 있습니다. 사용자는 자신의 계정 자격 증명의 기밀을 유지할 책임이 있으며, 자신의 계정에서 발생하는 모든 활동에 대해 책임이 있습니다. 등록 시 정확한 정보를 제공하고 무단 사용이 발생한 경우 즉시 알려야 합니다."
+
+#. js-lingui-explicit-id
+msgid "7. Energy Purchases and Payments"
+msgstr "7. 에너지 구매 및 결제"
+
+#. js-lingui-explicit-id
+msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
+msgstr "{NAME_APP}은 에너지 기반 접근을 통해 프리미엄 기능을 제공합니다. 사용자는 앱 스토어나 Google Play(RevenueCat을 통해)를 통해 내부 학습 통화인 에너지를 구매할 수 있습니다. 에너지는 AI 교육 분석 및 학습 기능에 접근하는 데 사용됩니다. 결제 처리는 해당 앱 스토어에서 처리됩니다. 에너지 구매는 법률 또는 앱 스토어 정책에 의해 요구되는 경우를 제외하고 환불되지 않습니다. 사용자는 앱 스토어 계정 설정을 통해 에너지 구매를 관리할 수 있습니다."
 
 #. js-lingui-explicit-id
 msgid "8. Acceptable Use"
