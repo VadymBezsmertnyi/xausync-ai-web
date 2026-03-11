@@ -101,7 +101,6 @@ export const Header: FunctionComponent<HeaderProps> = ({
             alt={i18n._("Logo")}
             width={50}
             height={50}
-            priority
           />
           <Typography component={"p"} className={styles.titleLogo}>
             {NAME_APP}

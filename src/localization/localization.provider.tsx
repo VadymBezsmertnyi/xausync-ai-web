@@ -92,7 +92,7 @@ const LocalesProvider: React.FC<Props> = ({ children }) => {
 
   const getLanguageStorage = async () => {
     try {
-      const pathLanguage = getLanguageFromPath(router.pathname);
+      const pathLanguage = getLanguageFromPath(router.asPath);
       const deviceLanguage = await getDeviceLanguage();
       const routeLanguage = pathLanguage || deviceLanguage;
       await setLanguageAsync(routeLanguage);
@@ -112,7 +112,7 @@ const LocalesProvider: React.FC<Props> = ({ children }) => {
 
   useEffect(() => {
     getLanguageStorage();
-  }, [router.pathname]);
+  }, [router.asPath]);
 
   return (
     <I18nProvider i18n={i18n}>
