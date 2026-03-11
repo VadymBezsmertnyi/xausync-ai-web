@@ -32,7 +32,7 @@ export const languages: Languages = [
     title: "Беларуская",
     key: "be",
     native: "Belarusian",
-    flag: "be",
+    flag: "by",
   },
   {
     title: "Čeština",
