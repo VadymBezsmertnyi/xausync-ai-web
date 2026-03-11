@@ -55,7 +55,7 @@ msgstr "© {year} {NAME_APP}. Visas tiesības aizsargātas."
 
 #. js-lingui-explicit-id
 msgid "Logo"
-msgstr "Logo"
+msgstr "Logotips"
 
 #. js-lingui-explicit-id
 msgid "Menu"
