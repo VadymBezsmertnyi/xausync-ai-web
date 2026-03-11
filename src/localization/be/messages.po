@@ -31,11 +31,11 @@ msgstr "За нас"
 
 #. js-lingui-explicit-id
 msgid "Privacy Policy"
-msgstr "Политика за поверителност"
+msgstr "Палітыка прыватнасці"
 
 #. js-lingui-explicit-id
 msgid "Terms of Use"
-msgstr "Условия за ползване"
+msgstr "Умовы выкарыстання"
 
 #. js-lingui-explicit-id
 msgid "Disclaimer"
@@ -63,131 +63,131 @@ msgstr "Меню"
 
 #. js-lingui-explicit-id
 msgid "Select language"
-msgstr "Изберете език"
+msgstr "Абярыце мову"
 
 #. js-lingui-explicit-id
 msgid "Name of the {otherName}"
-msgstr "Име на {otherName}"
+msgstr "Назва {otherName}"
 
 #. js-lingui-explicit-id
 msgid "The text must contain a minimum of {min} and a maximum of {max} characters."
-msgstr "Текстът трябва да съдържа минимум {min} и максимум {max} символа."
+msgstr "Тэкст павінен змяшчаць мінімум {min} і максімум {max} сімвалаў."
 
 #. js-lingui-explicit-id
 msgid "The place of the {otherName}"
-msgstr "Мястото на {otherName}"
+msgstr "Месца {otherName}"
 
 #. js-lingui-explicit-id
 msgid "The location of the {otherName} must be selected."
-msgstr "Местоположението на {otherName} трябва да бъде избрано."
+msgstr "Месцазнаходжэнне {otherName} павінна быць абрана."
 
 #. js-lingui-explicit-id
 msgid "Date of the {otherName}"
-msgstr "Дата на {otherName}"
+msgstr "Дата {otherName}"
 
 #. js-lingui-explicit-id
 msgid "The end date must be greater than the start date."
-msgstr "Крайната дата трябва да бъде по-голяма от началната дата."
+msgstr "Канчатковая дата павінна быць больш за пачатковую дату."
 
 #. js-lingui-explicit-id
 msgid "Tell us about the {otherName}"
-msgstr "Разкажете ни за {otherName}"
+msgstr "Расскажыце нам пра {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Description of the {otherName}"
-msgstr "Описание на {otherName}"
+msgstr "Апісанне {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Phone number the {otherName}"
-msgstr "Телефонен номер на {otherName}"
+msgstr "Нумар тэлефона {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Please enter phone number"
-msgstr "Моля, въведете телефонен номер"
+msgstr "Калі ласка, увядзіце нумар тэлефона"
 
 #. js-lingui-explicit-id
 msgid "Types of {otherName} jobs"
-msgstr "Видове работа на {otherName}"
+msgstr "Віды працы {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Please select at least one type"
-msgstr "Моля, изберете поне един вид"
+msgstr "Калі ласка, абярыце хоця б адзін від"
 
 #. js-lingui-explicit-id
 msgid "Price {otherName}"
-msgstr "Цена на {otherName}"
+msgstr "Цена {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Please enter price for {otherName}"
-msgstr "Моля, въведете цена за {otherName}"
+msgstr "Калі ласка, увядзіце цану для {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Category {otherName}"
-msgstr "Категория на {otherName}"
+msgstr "Катэгорыя {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Please enter category for {otherName}"
-msgstr "Моля, въведете категория за {otherName}"
+msgstr "Калі ласка, увядзіце катэгорыю для {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Brand {otherName}"
-msgstr "Марка на {otherName}"
+msgstr "Марка {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Please enter brand for {otherName}"
-msgstr "Моля, въведете марка за {otherName}"
+msgstr "Калі ласка, увядзіце марку для {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Mileage {otherName}"
-msgstr "Пробег на {otherName}"
+msgstr "Прабег {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Please enter mileage for {otherName}"
-msgstr "Моля, въведете пробег за {otherName}"
+msgstr "Калі ласка, увядзіце прабег для {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Year release {otherName}"
-msgstr "Година на издаване на {otherName}"
+msgstr "Год выпуску {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Please enter year minimum of {min} and a maximum of {max} for {otherName}"
-msgstr "Моля, въведете година минимум {min} и максимум {max} за {otherName}"
+msgstr "Калі ласка, увядзіце год мінімум {min} і максімум {max} для {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Type fuel {otherName}"
-msgstr "Вид гориво на {otherName}"
+msgstr "Від паліва {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Please enter type fuel for {otherName}"
-msgstr "Моля, въведете вид гориво за {otherName}"
+msgstr "Калі ласка, увядзіце від паліва для {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Type transmission {otherName}"
-msgstr "Вид трансмисия на {otherName}"
+msgstr "Від трансмісіі {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Please enter type transmission for {otherName}"
-msgstr "Моля, въведете вид трансмисия за {otherName}"
+msgstr "Калі ласка, увядзіце від трансмісіі для {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Type parts {otherName}"
-msgstr "Вид части на {otherName}"
+msgstr "Від дэталяў {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Please enter type parts for {otherName}"
-msgstr "Моля, въведете вид части за {otherName}"
+msgstr "Калі ласка, увядзіце від дэталяў для {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Incorrectly entered data"
-msgstr "Невъведени данни"
+msgstr "Неправільна ўведзеныя даныя"
 
 #. js-lingui-explicit-id
 msgid "Images {otherName}"
-msgstr "Изображения на {otherName}"
+msgstr "Выявы {otherName}"
 
 #. js-lingui-explicit-id
 msgid "Please add images for {otherName}"
-msgstr "Моля, добавете изображения за {otherName}"
+msgstr "Калі ласка, дадайце выявы для {otherName}"
 
 #. js-lingui-explicit-id
 msgid "About XauSync AI — AI-Powered Market Analysis Education"

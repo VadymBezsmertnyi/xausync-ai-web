@@ -703,7 +703,7 @@ msgstr "Identifikace vzorců poháněná AI pro učení se rozpoznávání tržn
 
 #. js-lingui-explicit-id
 msgid "Assisted Insights"
-msgstr "Assisted Insights"
+msgstr "Asistované poznatky"
 
 #. js-lingui-explicit-id
 msgid "Market Focus"

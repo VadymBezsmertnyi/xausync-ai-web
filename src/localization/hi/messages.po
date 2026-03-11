@@ -1115,95 +1115,95 @@ msgstr "Access: Request a copy of your व्यक्तिगत डेटा"
 
 #. js-lingui-explicit-id
 msgid "Correction: Update inaccurate or incomplete information"
-msgstr "Correction: Update inaccurate or incomplete information"
+msgstr "सुधार: अशुद्ध या अपूर्ण जानकारी अपडेट करें"
 
 #. js-lingui-explicit-id
 msgid "Deletion: Request removal of your account and data"
-msgstr "Deletion: Request removal of your account and data"
+msgstr "हटाना: अपने खाते और डेटा को हटाने का अनुरोध करें"
 
 #. js-lingui-explicit-id
 msgid "Portability: Request your data in a readable format"
-msgstr "Portability: Request your data in a readable format"
+msgstr "पोर्टेबिलिटी: अपने डेटा को पठनीय प्रारूप में अनुरोध करें"
 
 #. js-lingui-explicit-id
 msgid "Opt-out: Disable analytics tracking in app settings"
-msgstr "Opt-out: Disable analytics tracking in app settings"
+msgstr "ऑप्ट-आउट: ऐप सेटिंग्स में एनालिटिक्स ट्रैकिंग अक्षम करें"
 
 #. js-lingui-explicit-id
 msgid "Managing Your Data"
-msgstr "Managing Your Data"
+msgstr "अपने डेटा का प्रबंधन"
 
 #. js-lingui-explicit-id
 msgid "You can manage your data through the app:"
-msgstr "You can manage your data through the app:"
+msgstr "आप ऐप के माध्यम से अपने डेटा का प्रबंधन कर सकते हैं:"
 
 #. js-lingui-explicit-id
 msgid "Account settings to update profile information"
-msgstr "Account settings to update profile information"
+msgstr "प्रोफाइल जानकारी अपडेट करने के लिए खाता सेटिंग्स"
 
 #. js-lingui-explicit-id
 msgid "Privacy settings to control data sharing preferences"
-msgstr "Privacy settings to control data sharing preferences"
+msgstr "डेटा साझाकरण प्राथमिकताओं को नियंत्रित करने के लिए गोपनीयता सेटिंग्स"
 
 #. js-lingui-explicit-id
 msgid "Delete account option to remove all personal data"
-msgstr "Delete account option to remove all personal data"
+msgstr "सभी व्यक्तिगत डेटा हटाने के लिए खाता हटाना विकल्प"
 
 #. js-lingui-explicit-id
 msgid "Contact us to request data access or correction"
-msgstr "Contact us to request data access or correction"
+msgstr "डेटा पहुंच या सुधार का अनुरोध करने के लिए हमसे संपर्क करें"
 
 #. js-lingui-explicit-id
 msgid "Push Notifications"
-msgstr "Push Notifications"
+msgstr "पुश नोटिफिकेशन"
 
 #. js-lingui-explicit-id
 msgid "Notification Types"
-msgstr "Notification Types"
+msgstr "नोटिफिकेशन प्रकार"
 
 #. js-lingui-explicit-id
 msgid "With your permission, we send push notifications for:"
-msgstr "With your permission, we send push notifications for:"
+msgstr "आपकी अनुमति के साथ, हम निम्नलिखित के लिए पुश नोटिफिकेशन भेजते हैं:"
 
 #. js-lingui-explicit-id
 msgid "Learning alerts and market examples"
-msgstr "Learning alerts and market examples"
+msgstr "लर्निंग अलर्ट और बाजार उदाहरण"
 
 #. js-lingui-explicit-id
 msgid "Price movement notifications"
-msgstr "Price movement notifications"
+msgstr "मूल्य आंदोलन सूचनाएं"
 
 #. js-lingui-explicit-id
 msgid "AI analysis updates and insights"
-msgstr "AI analysis updates and insights"
+msgstr "AI विश्लेषण अपडेट और अंतर्दृष्टि"
 
 #. js-lingui-explicit-id
 msgid "Important service announcements"
-msgstr "Important service announcements"
+msgstr "महत्वपूर्ण सेवा घोषणाएं"
 
 #. js-lingui-explicit-id
 msgid "Notification Control"
-msgstr "Notification Control"
+msgstr "नोटिफिकेशन नियंत्रण"
 
 #. js-lingui-explicit-id
 msgid "You have full control over notifications:"
-msgstr "You have full control over notifications:"
+msgstr "आपके नोटिफिकेशन पर पूरा नियंत्रण है:"
 
 #. js-lingui-explicit-id
 msgid "Enable/disable notifications in app settings"
-msgstr "Enable/disable notifications in app settings"
+msgstr "ऐप सेटिंग्स में नोटिफिकेशन सक्षम/अक्षम करें"
 
 #. js-lingui-explicit-id
 msgid "Choose which alert types you receive"
-msgstr "Choose which alert types you receive"
+msgstr "चुनें कि आप किन प्रकार के अलर्ट प्राप्त करते हैं"
 
 #. js-lingui-explicit-id
 msgid "Manage notification frequency and timing"
-msgstr "Manage notification frequency and timing"
+msgstr "नोटिफिकेशन आवृत्ति और समय प्रबंधित करें"
 
 #. js-lingui-explicit-id
 msgid "Revoke notification permission at any time"
-msgstr "Revoke notification permission at any time"
+msgstr "किसी भी समय नोटिफिकेशन अनुमति वापस लें"
 
 #. js-lingui-explicit-id
 msgid "Energy Purchases and Payments"
@@ -1331,7 +1331,7 @@ msgstr "उपयोग की शर्तें — XauSync AI"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities, educational purpose, and service guidelines."
-msgstr "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities, educational purpose, and service guidelines."
+msgstr "XauSync AI उपयोग की शर्तें - AI-संचालित शैक्षिक बाजार विश्लेषण ऐप का उपयोग करने के लिए हमारी शर्तें पढ़ें, जिसमें उपयोगकर्ता जिम्मेदारियां, शैक्षिक उद्देश्य और सेवा दिशानिर्देश शामिल हैं।"
 
 #. js-lingui-explicit-id
 msgid "Terms of Use, XauSync AI, legal terms, user agreement, market analysis terms, educational market analysis, service terms"
@@ -1451,7 +1451,7 @@ msgstr "10. बाजार डेटा और तृतीय-पक्ष स
 
 #. js-lingui-explicit-id
 msgid "Market data provided through {NAME_APP} is sourced from third-party providers and may be delayed or contain errors. We do not guarantee the accuracy, completeness, or timeliness of market data. Users should verify critical market information from multiple sources before making decisions."
-msgstr "Market data provided through {NAME_APP} is sourced from third-party providers and may be delayed or contain errors. We do not guarantee the accuracy, completeness, or timeliness of market data. Users should verify critical market information from multiple sources before making decisions."
+msgstr "{NAME_APP} के माध्यम से प्रदान किया गया बाजार डेटा तृतीय-पक्ष प्रदाताओं से प्राप्त किया गया है और इसमें देरी हो सकती है या त्रुटियां हो सकती हैं। हम बाजार डेटा की सटीकता, पूर्णता या समयबद्धता की गारंटी नहीं देते हैं। उपयोगकर्ताओं को निर्णय लेने से पहले कई स्रोतों से महत्वपूर्ण बाजार जानकारी सत्यापित करनी चाहिए।"
 
 #. js-lingui-explicit-id
 msgid "11. Service Availability"

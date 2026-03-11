@@ -1259,31 +1259,31 @@ msgstr "Támogatás és számlázási kommunikációs előzmények"
 
 #. js-lingui-explicit-id
 msgid "Children's Privacy"
-msgstr "Children's Privacy"
+msgstr "Gyermekvédelem"
 
 #. js-lingui-explicit-id
 msgid "Age Restrictions"
-msgstr "Age Restrictions"
+msgstr "Korhatárok"
 
 #. js-lingui-explicit-id
 msgid "Our service is not intended for individuals under 18:"
-msgstr "Our service is not intended for individuals under 18:"
+msgstr "Szolgáltatásunk nem 18 év alatti személyek számára készült:"
 
 #. js-lingui-explicit-id
 msgid "We do not knowingly collect data from children"
-msgstr "We do not knowingly collect data from children"
+msgstr "Nem szándékosan gyűjtünk adatokat gyermekektől"
 
 #. js-lingui-explicit-id
 msgid "The service is designed for adult users"
-msgstr "The service is designed for adult users"
+msgstr "A szolgáltatás felnőtt felhasználók számára készült"
 
 #. js-lingui-explicit-id
 msgid "Parental controls are not implemented"
-msgstr "Parental controls are not implemented"
+msgstr "Szülői felügyeleti eszközök nincsenek implementálva"
 
 #. js-lingui-explicit-id
 msgid "If we discover underage users, we delete their data"
-msgstr "If we discover underage users, we delete their data"
+msgstr "Ha kiskorú felhasználókat fedezünk fel, töröljük az adataikat"
 
 #. js-lingui-explicit-id
 msgid "International Data Transfers"
@@ -1291,59 +1291,59 @@ msgstr "Nemzetközi adatátvitel"
 
 #. js-lingui-explicit-id
 msgid "Global Service"
-msgstr "Global Service"
+msgstr "Globális szolgáltatás"
 
 #. js-lingui-explicit-id
 msgid "As a global application, data may be processed internationally:"
-msgstr "As a global application, data may be processed internationally:"
+msgstr "Globális alkalmazásként az adatokat nemzetközileg feldolgozhatják:"
 
 #. js-lingui-explicit-id
 msgid "Firebase servers may be located outside your country"
-msgstr "Firebase servers may be located outside your country"
+msgstr "A Firebase szerverek az Ön országán kívül találhatók"
 
 #. js-lingui-explicit-id
 msgid "Data transfers include appropriate safeguards"
-msgstr "Data transfers include appropriate safeguards"
+msgstr "Az adatátvitel megfelelő védelmi intézkedéseket tartalmaz"
 
 #. js-lingui-explicit-id
 msgid "We comply with applicable data protection laws"
-msgstr "We comply with applicable data protection laws"
+msgstr "Megfelelünk az alkalmazandó adatvédelmi törvényeknek"
 
 #. js-lingui-explicit-id
 msgid "Security measures protect international transfers"
-msgstr "Security measures protect international transfers"
+msgstr "A biztonsági intézkedések védik a nemzetközi átutalásokat"
 
 #. js-lingui-explicit-id
 msgid "Changes to This Privacy Policy"
-msgstr "Changes to This Privacy Policy"
+msgstr "Adatvédelmi szabályzat változásai"
 
 #. js-lingui-explicit-id
 msgid "We may update this Privacy Policy periodically. Changes will be posted on this page with a revised date. For significant changes, we will notify users through the app or email. Continued use of the service after changes constitutes acceptance of the updated policy."
-msgstr "We may update this Privacy Policy periodically. Changes will be posted on this page with a revised date. For significant changes, we will notify users through the app or email. Continued use of the service after changes constitutes acceptance of the updated policy."
+msgstr "Időnként frissíthetjük ezt az Adatvédelmi szabályzatot. A változások ezen az oldalon lesznek közzétéve frissített dátummal. Jelentős változások esetén értesítjük a felhasználókat az alkalmazáson vagy e-mailen keresztül. A szolgáltatás további használata a változások után a frissített szabályzat elfogadását jelenti."
 
 #. js-lingui-explicit-id
 msgid "If you have questions about this Privacy Policy or need to exercise your rights, please contact us at {CONTACT_EMAIL}."
-msgstr "If you have questions about this Privacy Policy or need to exercise your rights, please contact us at {CONTACT_EMAIL}."
+msgstr "Ha kérdései vannak ezzel az Adatvédelmi szabályzattal kapcsolatban, vagy gyakorolni szeretné jogait, kérjük, vegye fel velünk a kapcsolatot: {CONTACT_EMAIL}."
 
 #. js-lingui-explicit-id
 msgid "Terms of Use — XauSync AI"
-msgstr "Terms of Use — XauSync AI"
+msgstr "Felhasználási feltételek — XauSync AI"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities, educational purpose, and service guidelines."
-msgstr "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities, educational purpose, and service guidelines."
+msgstr "XauSync AI Felhasználási feltételek - Olvassa el feltételeinket az AI-vezérelt oktatási piaci elemzési alkalmazás használatához, beleértve a felhasználói felelősséget, oktatási célt és szolgáltatási irányelveket."
 
 #. js-lingui-explicit-id
 msgid "Terms of Use, XauSync AI, legal terms, user agreement, market analysis terms, educational market analysis, service terms"
-msgstr "Terms of Use, XauSync AI, legal terms, user agreement, market analysis terms, educational market analysis, service terms"
+msgstr "Felhasználási feltételek, XauSync AI, jogi feltételek, felhasználói megállapodás, piaci elemzési feltételek, oktatási piaci elemzés, szolgáltatási feltételek"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities and service guidelines."
-msgstr "XauSync AI Terms of Use - Read our terms for using the AI-powered educational market analysis app, including user responsibilities and service guidelines."
+msgstr "XauSync AI Felhasználási feltételek - Olvassa el feltételeinket az AI-vezérelt oktatási piaci elemzési alkalmazás használatához, beleértve a felhasználói felelősséget és szolgáltatási irányelveket."
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Terms of Use"
-msgstr "XauSync AI Terms of Use"
+msgstr "XauSync AI Felhasználási feltételek"
 
 #. js-lingui-explicit-id
 msgid "\"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). By accessing or using our AI-powered educational market analysis app and web services (\"Service\"), you (the User) agree to abide by and be bound by these Terms of Use. Please read these terms carefully before using the service."
@@ -1355,47 +1355,47 @@ msgstr "1. Az Alkalmazás Célja"
 
 #. js-lingui-explicit-id
 msgid "{NAME_APP} is an AI-powered mobile and web application designed to provide educational market analysis, learning insights, and information for studying XAU/USD (Gold/US Dollar) market behavior. The application offers real-time market data, AI-generated educational insights, technical indicators, pattern recognition, and analytical tools to help users understand market analysis concepts. The service is intended for informational and educational purposes only."
-msgstr "{NAME_APP} is an AI-powered mobile and web application designed to provide educational market analysis, learning insights, and information for studying XAU/USD (Gold/US Dollar) market behavior. The application offers real-time market data, AI-generated educational insights, technical indicators, pattern recognition, and analytical tools to help users understand market analysis concepts. The service is intended for informational and educational purposes only."
+msgstr "A {NAME_APP} egy AI-vezérelt mobil és webalkalmazás, amely oktatási piaci elemzést, tanulási betekintéseket és információkat nyújt az XAU/USD (Arany/USA dollár) piaci viselkedés tanulmányozásához. Az alkalmazás valós idejű piaci adatokat, AI által generált oktatási betekintéseket, technikai mutatókat, mintafelismerést és analitikai eszközöket kínál a felhasználók piaci elemzési koncepcióinak megértéséhez. A szolgáltatás kizárólag tájékoztatási és oktatási célokra szolgál."
 
 #. js-lingui-explicit-id
 msgid "2. Educational and Informational Use"
-msgstr "2. Educational and Informational Use"
+msgstr "2. Oktatási és tájékoztatási használat"
 
 #. js-lingui-explicit-id
 msgid "{NAME_APP} provides market analysis and educational insights for learning purposes only. The application does not provide financial advice, investment recommendations, or guarantee profits, outcomes, or results. Users are responsible for their own decisions and should conduct their own research before making any financial decisions."
-msgstr "{NAME_APP} provides market analysis and educational insights for learning purposes only. The application does not provide financial advice, investment recommendations, or guarantee profits, outcomes, or results. Users are responsible for their own decisions and should conduct their own research before making any financial decisions."
+msgstr "A {NAME_APP} kizárólag tanulási célokra nyújt piaci elemzést és oktatási betekintéseket. Az alkalmazás nem nyújt pénzügyi tanácsot, befektetési ajánlást, vagy nem garantál profitot, eredményt vagy kimenetelt. A felhasználók felelősek saját döntéseikért, és saját kutatást kell végezniük bármilyen pénzügyi döntés meghozatala előtt."
 
 #. js-lingui-explicit-id
 msgid "3. No Financial Advice"
-msgstr "3. No Financial Advice"
+msgstr "3. Nincs pénzügyi tanácsadás"
 
 #. js-lingui-explicit-id
 msgid "The content, educational insights, and analysis provided by {NAME_APP} do not constitute financial advice, investment advice, or trading recommendations. All information is for educational purposes only. Users should consult with qualified financial advisors before making any investment decisions."
-msgstr "The content, educational insights, and analysis provided by {NAME_APP} do not constitute financial advice, investment advice, or trading recommendations. All information is for educational purposes only. Users should consult with qualified financial advisors before making any investment decisions."
+msgstr "A {NAME_APP} által biztosított tartalom, oktatási betekintések és elemzések nem alkotnak pénzügyi tanácsot, befektetési tanácsot vagy kereskedési ajánlást. Minden információ kizárólag oktatási célokat szolgál. A felhasználóknak befektetési döntések meghozatala előtt konzultálniuk kell képzett pénzügyi tanácsadókkal."
 
 #. js-lingui-explicit-id
 msgid "4. Trading Risks"
-msgstr "4. Trading Risks"
+msgstr "4. Kereskedési kockázatok"
 
 #. js-lingui-explicit-id
 msgid "Trading financial instruments, including XAU/USD, involves substantial risk and may not be suitable for all investors. Past performance does not guarantee future results. {NAME_APP} does not guarantee profits, outcomes, or results. Users should never trade with money they cannot afford to lose."
-msgstr "Trading financial instruments, including XAU/USD, involves substantial risk and may not be suitable for all investors. Past performance does not guarantee future results. {NAME_APP} does not guarantee profits, outcomes, or results. Users should never trade with money they cannot afford to lose."
+msgstr "A pénzügyi eszközökkel, beleértve az XAU/USD-t való kereskedés jelentős kockázattal jár, és nem lehet megfelelő minden befektető számára. A múltbeli teljesítmény nem garantálja a jövőbeli eredményeket. A {NAME_APP} nem garantál profitot, kimenetelt vagy eredményt. A felhasználóknak soha nem szabad olyan pénzzel kereskedniük, amelyet megengedhetnek maguknak elveszíteni."
 
 #. js-lingui-explicit-id
 msgid "5. AI Analysis Limitations"
-msgstr "5. AI Analysis Limitations"
+msgstr "5. AI elemzési korlátok"
 
 #. js-lingui-explicit-id
 msgid "The AI-powered analysis and educational insights provided by {NAME_APP} are based on historical data and algorithms. Market conditions can change rapidly, and AI predictions may be incomplete, delayed, or inaccurate. Users should use AI insights as one tool among many in their learning process."
-msgstr "The AI-powered analysis and educational insights provided by {NAME_APP} are based on historical data and algorithms. Market conditions can change rapidly, and AI predictions may be incomplete, delayed, or inaccurate. Users should use AI insights as one tool among many in their learning process."
+msgstr "A {NAME_APP} által biztosított AI-vezérelt elemzés és oktatási betekintések történelmi adatokon és algoritmusokon alapulnak. A piaci körülmények gyorsan változhatnak, és az AI predikciók hiányosak, késleltetettek vagy pontatlanok lehetnek. A felhasználóknak az AI betekintéseket egy sok eszköz közül kell használniuk a tanulási folyamatukban."
 
 #. js-lingui-explicit-id
 msgid "6. Account Registration and Security"
-msgstr "6. Account Registration and Security"
+msgstr "6. Fiók regisztráció és biztonság"
 
 #. js-lingui-explicit-id
 msgid "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use."
-msgstr "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use."
+msgstr "A {NAME_APP} funkcióinak eléréséhez a felhasználók e-mail/jelszó, Google Bejelentkezés vagy Apple Bejelentkezés használatával hozhatnak létre fiókot. A felhasználók felelősek a fiók hitelesítő adatainak bizalmas kezeléséért és a fiókuk alatt történő összes tevékenységért. A felhasználóknak pontos információkat kell megadniuk regisztráció során, és haladéktalanul értesíteniük kell minket bármilyen jogosulatlan használatról."
 
 #. js-lingui-explicit-id
 msgid "7. Energy Purchases and Payments"
@@ -1411,108 +1411,108 @@ msgstr "8. Elfogadható használat"
 
 #. js-lingui-explicit-id
 msgid "Users agree to use {NAME_APP} in accordance with these terms and applicable laws. Prohibited activities include:"
-msgstr "Users agree to use {NAME_APP} in accordance with these terms and applicable laws. Prohibited activities include:"
+msgstr "A felhasználók hozzájárulnak, hogy a {NAME_APP}-et ezeknek a feltételeknek és az alkalmazandó törvényeknek megfelelően használják. A tiltott tevékenységek a következők:"
 
 #. js-lingui-explicit-id
 msgid "Reverse-engineering or attempting to extract our source code"
-msgstr "Reverse-engineering or attempting to extract our source code"
+msgstr "Visszafejtés vagy forráskódunk kinyerésének megkísérlése"
 
 #. js-lingui-explicit-id
 msgid "Using automated bots or scripts to access the service"
-msgstr "Using automated bots or scripts to access the service"
+msgstr "Automatizált botok vagy szkriptek használata a szolgáltatás eléréséhez"
 
 #. js-lingui-explicit-id
 msgid "Sharing account credentials with third parties"
-msgstr "Sharing account credentials with third parties"
+msgstr "Fiók hitelesítő adatok megosztása harmadik felekkel"
 
 #. js-lingui-explicit-id
 msgid "Using the service for unlawful activities or market manipulation"
-msgstr "Using the service for unlawful activities or market manipulation"
+msgstr "A szolgáltatás használata illegális tevékenységekhez vagy piaci manipulációhoz"
 
 #. js-lingui-explicit-id
 msgid "Distributing proprietary information without authorization"
-msgstr "Distributing proprietary information without authorization"
+msgstr "Saját információk terjesztése engedély nélkül"
 
 #. js-lingui-explicit-id
 msgid "Interfering with the service's operation or security"
-msgstr "Interfering with the service's operation or security"
+msgstr "A szolgáltatás működésének vagy biztonságának zavarása"
 
 #. js-lingui-explicit-id
 msgid "9. Intellectual Property"
-msgstr "9. Intellectual Property"
+msgstr "9. Szellemi tulajdon"
 
 #. js-lingui-explicit-id
 msgid "All content, features, and functionality of {NAME_APP} are owned by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) and protected by copyright, trademark, and other intellectual property laws. Users may not copy, modify, distribute, or create derivative works without our explicit written permission."
-msgstr "All content, features, and functionality of {NAME_APP} are owned by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) and protected by copyright, trademark, and other intellectual property laws. Users may not copy, modify, distribute, or create derivative works without our explicit written permission."
+msgstr "A {NAME_APP} minden tartalma, funkciója és működése Vadym Bezsmertnyi, egyéni vállalkozó (Ukrajna) tulajdonában áll, és szerzői jogi, védjegyoltalmi és egyéb szellemi tulajdonjogi törvények védelme alatt áll. A felhasználók nem másolhatják, módosíthatják, terjeszthetik vagy hozhatnak létre származékos műveket a mi kifejezett írásbeli engedélyünk nélkül."
 
 #. js-lingui-explicit-id
 msgid "10. Market Data and Third-Party Content"
-msgstr "10. Market Data and Third-Party Content"
+msgstr "10. Piaci adatok és harmadik feles tartalom"
 
 #. js-lingui-explicit-id
 msgid "Market data provided through {NAME_APP} is sourced from third-party providers and may be delayed or contain errors. We do not guarantee the accuracy, completeness, or timeliness of market data. Users should verify critical market information from multiple sources before making decisions."
-msgstr "Market data provided through {NAME_APP} is sourced from third-party providers and may be delayed or contain errors. We do not guarantee the accuracy, completeness, or timeliness of market data. Users should verify critical market information from multiple sources before making decisions."
+msgstr "A {NAME_APP}-en keresztül biztosított piaci adatok harmadik feles szolgáltatóktól származnak, és késleltettek lehetnek vagy hibákat tartalmazhatnak. Nem garantáljuk a piaci adatok pontosságát, teljességét vagy időszerűségét. A felhasználóknak döntéshozatal előtt több forrásból kell ellenőrizniük a kritikus piaci információkat."
 
 #. js-lingui-explicit-id
 msgid "11. Service Availability"
-msgstr "11. Service Availability"
+msgstr "11. Szolgáltatás rendelkezésre állása"
 
 #. js-lingui-explicit-id
 msgid "We strive to provide reliable service but cannot guarantee uninterrupted access. {NAME_APP} may be temporarily unavailable for maintenance, technical issues, or other reasons beyond our control. We are not liable for losses resulting from service interruptions."
-msgstr "We strive to provide reliable service but cannot guarantee uninterrupted access. {NAME_APP} may be temporarily unavailable for maintenance, technical issues, or other reasons beyond our control. We are not liable for losses resulting from service interruptions."
+msgstr "Megbízható szolgáltatás nyújtására törekszünk, de nem garantálhatjuk a megszakításmentes hozzáférést. A {NAME_APP} karbantartás, technikai problémák vagy más, az irányításunkon kívül eső okok miatt ideiglenesen nem lehet elérhető. Nem vagyunk felelősek a szolgáltatás megszakításából eredő veszteségekért."
 
 #. js-lingui-explicit-id
 msgid "12. Limitation of Liability"
-msgstr "12. Limitation of Liability"
+msgstr "12. Felelősség korlátozása"
 
 #. js-lingui-explicit-id
 msgid "To the maximum extent permitted by law, {NAME_APP} and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to financial losses, lost profits, data loss, or other damages, arising from your use of our services or inability to use our services."
-msgstr "To the maximum extent permitted by law, {NAME_APP} and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to financial losses, lost profits, data loss, or other damages, arising from your use of our services or inability to use our services."
+msgstr "A törvény által megengedett maximális mértékben a {NAME_APP} és fejlesztői nem felelősek semmilyen közvetett, véletlen, különleges, következményes vagy büntető jellegű károkért, beleértve de nem korlátozva a pénzügyi veszteségeket, elveszett profitot, adatvesztést vagy egyéb károkat, amelyek a szolgáltatásaink használatából vagy használatának képtelenségéből erednek."
 
 #. js-lingui-explicit-id
 msgid "13. Indemnification"
-msgstr "13. Indemnification"
+msgstr "13. Kártalanítás"
 
 #. js-lingui-explicit-id
 msgid "Users agree to indemnify and hold harmless {NAME_APP} and its developers from any claims, damages, or expenses arising from their use of the service, violation of these terms, or infringement of third-party rights."
-msgstr "Users agree to indemnify and hold harmless {NAME_APP} and its developers from any claims, damages, or expenses arising from their use of the service, violation of these terms, or infringement of third-party rights."
+msgstr "A felhasználók hozzájárulnak, hogy kártalanítják és mentesítik a {NAME_APP}-et és fejlesztőit bármilyen igények, károk vagy költségek ellen, amelyek a szolgáltatás használatából, ezen feltételek megsértéséből vagy harmadik felek jogainak megsértéséből erednek."
 
 #. js-lingui-explicit-id
 msgid "14. Account Suspension and Termination"
-msgstr "14. Account Suspension and Termination"
+msgstr "14. Fiók felfüggesztése és megszüntetése"
 
 #. js-lingui-explicit-id
 msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users may delete their accounts at any time through the app settings."
-msgstr "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users may delete their accounts at any time through the app settings."
+msgstr "Fenntartjuk a jogot, hogy felfügeszthetjük vagy megszüntethetjük a felhasználói fiókokat ezen feltételek megsértése, csalárd tevékenység vagy bármilyen, a szolgáltatásunk vagy más felhasználók védelméhez szükséges ok miatt. A megszüntetett felhasználók elvesztik a hozzáférést minden funkcióhoz és adathoz. A felhasználók bármikor törölhetik fiókjukat az alkalmazás beállításaiban."
 
 #. js-lingui-explicit-id
 msgid "15. Privacy and Data Protection"
-msgstr "15. Privacy and Data Protection"
+msgstr "15. Adatvédelem és adatvédelem"
 
 #. js-lingui-explicit-id
 msgid "Your privacy is important to us. Our collection, use, and protection of your personal information is described in our Privacy Policy, which is incorporated into these terms by reference. By using {NAME_APP}, you consent to our data practices as described in the Privacy Policy."
-msgstr "Your privacy is important to us. Our collection, use, and protection of your personal information is described in our Privacy Policy, which is incorporated into these terms by reference. By using {NAME_APP}, you consent to our data practices as described in the Privacy Policy."
+msgstr "Az Ön adatvédelme fontos számunkra. Személyes adatainak gyűjtéséről, használatáról és védelméről az Adatvédelmi szabályzatunkban olvashat, amelyet hivatkozással beépítünk ezekbe a feltételekbe. A {NAME_APP} használatával hozzájárul az Adatvédelmi szabályzatban leírt adatgyakorlatunkhoz."
 
 #. js-lingui-explicit-id
 msgid "16. Dispute Resolution"
-msgstr "16. Dispute Resolution"
+msgstr "16. Vitarendezés"
 
 #. js-lingui-explicit-id
 msgid "Any disputes arising from these terms or your use of {NAME_APP} shall be governed by applicable laws. We encourage users to contact us directly at {CONTACT_EMAIL} to resolve any issues informally before pursuing formal dispute resolution."
-msgstr "Any disputes arising from these terms or your use of {NAME_APP} shall be governed by applicable laws. We encourage users to contact us directly at {CONTACT_EMAIL} to resolve any issues informally before pursuing formal dispute resolution."
+msgstr "Ezekből a feltételekből vagy a {NAME_APP} használatából eredő vitákat az alkalmazandó törvények szabályozzák. Bátorítjuk a felhasználókat, hogy közvetlenül vegyék fel velünk a kapcsolatot a {CONTACT_EMAIL} címen, hogy informálisan oldják meg a problémákat, mielőtt formális vitarendezéshez fordulnának."
 
 #. js-lingui-explicit-id
 msgid "17. Changes to Terms"
-msgstr "17. Changes to Terms"
+msgstr "17. Feltételek változásai"
 
 #. js-lingui-explicit-id
 msgid "We may update these Terms of Use periodically. Changes will be posted on this page with a revised date. For significant changes, we will notify users through the app or email. Continued use of the service after changes constitutes acceptance of the updated terms."
-msgstr "We may update these Terms of Use periodically. Changes will be posted on this page with a revised date. For significant changes, we will notify users through the app or email. Continued use of the service after changes constitutes acceptance of the updated terms."
+msgstr "Időnként frissíthetjük ezeket a Felhasználási feltételeket. A változások ezen az oldalon lesznek közzétéve frissített dátummal. Jelentős változások esetén értesítjük a felhasználókat az alkalmazáson vagy e-mailen keresztül. A szolgáltatás további használata a változások után a frissített feltételek elfogadását jelenti."
 
 #. js-lingui-explicit-id
 msgid "18. Contact Information"
-msgstr "18. Contact Information"
+msgstr "18. Elérhetőségek"
 
 #. js-lingui-explicit-id
 msgid "If you have questions about these Terms of Use, please contact us at {CONTACT_EMAIL}."
-msgstr "If you have questions about these Terms of Use, please contact us at {CONTACT_EMAIL}."
+msgstr "Ha kérdései vannak ezekkel a Felhasználási feltételekkel kapcsolatban, kérjük, vegye fel velünk a kapcsolatot: {CONTACT_EMAIL}."

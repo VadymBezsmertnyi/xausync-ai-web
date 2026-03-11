@@ -23,7 +23,7 @@ msgstr "Navigazione"
 
 #. js-lingui-explicit-id
 msgid "Home"
-msgstr "Home"
+msgstr "Pagina Iniziale"
 
 #. js-lingui-explicit-id
 msgid "About"
@@ -39,7 +39,7 @@ msgstr "Termini di Utilizzo"
 
 #. js-lingui-explicit-id
 msgid "Disclaimer"
-msgstr "Disclaimer"
+msgstr "Avvertenza"
 
 #. js-lingui-explicit-id
 msgid "Developer"
@@ -279,7 +279,7 @@ msgstr "Approfondimenti Potenziati dall'AI"
 
 #. js-lingui-explicit-id
 msgid "Machine Learning"
-msgstr "Machine Learning"
+msgstr "Apprendimento Automatico"
 
 #. js-lingui-explicit-id
 msgid "State-of-the-art ML models trained on historical XAU/USD data to identify patterns and provide analytical insights for study purposes."
@@ -363,7 +363,7 @@ msgstr "Grazie per aver scelto {NAME_APP} per i vostri studi di analisi di merca
 
 #. js-lingui-explicit-id
 msgid "Disclaimer — XauSync AI"
-msgstr "Disclaimer — XauSync AI"
+msgstr "Avvertenza — XauSync AI"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI Disclaimer - Important information about risks and the educational nature of our AI-powered market analysis app. All content is for informational purposes only."
@@ -1355,47 +1355,47 @@ msgstr "1. Scopo dell'Applicazione"
 
 #. js-lingui-explicit-id
 msgid "{NAME_APP} is an AI-powered mobile and web application designed to provide educational market analysis, learning insights, and information for studying XAU/USD (Gold/US Dollar) market behavior. The application offers real-time market data, AI-generated educational insights, technical indicators, pattern recognition, and analytical tools to help users understand market analysis concepts. The service is intended for informational and educational purposes only."
-msgstr "{NAME_APP} is an AI-powered mobile and web application designed to provide educational market analysis, learning insights, and information for studying XAU/USD (Gold/US Dollar) market behavior. The application offers real-time market data, AI-generated educational insights, technical indicators, pattern recognition, and analytical tools to help users understand market analysis concepts. The service is intended for informational and educational purposes only."
+msgstr "{NAME_APP} è un'applicazione mobile e web basata su AI progettata per fornire analisi di mercato educative, approfondimenti di apprendimento e informazioni per studiare il comportamento del mercato XAU/USD (Oro/Dollaro USA). L'applicazione offre dati di mercato in tempo reale, approfondimenti educativi generati da AI, indicatori tecnici, riconoscimento di pattern e strumenti analitici per aiutare gli utenti a comprendere i concetti di analisi di mercato. Il servizio è destinato esclusivamente a scopi informativi ed educativi."
 
 #. js-lingui-explicit-id
 msgid "2. Educational and Informational Use"
-msgstr "2. Educational and Informational Use"
+msgstr "2. Uso Educativo e Informativo"
 
 #. js-lingui-explicit-id
 msgid "{NAME_APP} provides market analysis and educational insights for learning purposes only. The application does not provide financial advice, investment recommendations, or guarantee profits, outcomes, or results. Users are responsible for their own decisions and should conduct their own research before making any financial decisions."
-msgstr "{NAME_APP} provides market analysis and educational insights for learning purposes only. The application does not provide financial advice, investment recommendations, or guarantee profits, outcomes, or results. Users are responsible for their own decisions and should conduct their own research before making any financial decisions."
+msgstr "{NAME_APP} fornisce analisi di mercato e approfondimenti educativi esclusivamente per scopi di apprendimento. L'applicazione non fornisce consulenza finanziaria, raccomandazioni di investimento o garantisce profitti, risultati o esiti. Gli utenti sono responsabili delle proprie decisioni e dovrebbero condurre le proprie ricerche prima di prendere qualsiasi decisione finanziaria."
 
 #. js-lingui-explicit-id
 msgid "3. No Financial Advice"
-msgstr "3. No Financial Advice"
+msgstr "3. Nessuna Consulenza Finanziaria"
 
 #. js-lingui-explicit-id
 msgid "The content, educational insights, and analysis provided by {NAME_APP} do not constitute financial advice, investment advice, or trading recommendations. All information is for educational purposes only. Users should consult with qualified financial advisors before making any investment decisions."
-msgstr "The content, educational insights, and analysis provided by {NAME_APP} do not constitute financial advice, investment advice, or trading recommendations. All information is for educational purposes only. Users should consult with qualified financial advisors before making any investment decisions."
+msgstr "Il contenuto, gli approfondimenti educativi e l'analisi forniti da {NAME_APP} non costituiscono consulenza finanziaria, consulenza di investimento o raccomandazioni di trading. Tutte le informazioni sono esclusivamente a scopo educativo. Gli utenti dovrebbero consultare consulenti finanziari qualificati prima di prendere qualsiasi decisione di investimento."
 
 #. js-lingui-explicit-id
 msgid "4. Trading Risks"
-msgstr "4. Trading Risks"
+msgstr "4. Rischi di Trading"
 
 #. js-lingui-explicit-id
 msgid "Trading financial instruments, including XAU/USD, involves substantial risk and may not be suitable for all investors. Past performance does not guarantee future results. {NAME_APP} does not guarantee profits, outcomes, or results. Users should never trade with money they cannot afford to lose."
-msgstr "Trading financial instruments, including XAU/USD, involves substantial risk and may not be suitable for all investors. Past performance does not guarantee future results. {NAME_APP} does not guarantee profits, outcomes, or results. Users should never trade with money they cannot afford to lose."
+msgstr "Il trading di strumenti finanziari, inclusi XAU/USD, comporta rischi sostanziali e potrebbe non essere adatto a tutti gli investitori. Le performance passate non garantiscono risultati futuri. {NAME_APP} non garantisce profitti, risultati o esiti. Gli utenti non dovrebbero mai fare trading con denaro che non possono permettersi di perdere."
 
 #. js-lingui-explicit-id
 msgid "5. AI Analysis Limitations"
-msgstr "5. AI Analysis Limitations"
+msgstr "5. Limitazioni dell'Analisi AI"
 
 #. js-lingui-explicit-id
 msgid "The AI-powered analysis and educational insights provided by {NAME_APP} are based on historical data and algorithms. Market conditions can change rapidly, and AI predictions may be incomplete, delayed, or inaccurate. Users should use AI insights as one tool among many in their learning process."
-msgstr "The AI-powered analysis and educational insights provided by {NAME_APP} are based on historical data and algorithms. Market conditions can change rapidly, and AI predictions may be incomplete, delayed, or inaccurate. Users should use AI insights as one tool among many in their learning process."
+msgstr "L'analisi basata su AI e gli approfondimenti educativi forniti da {NAME_APP} si basano su dati storici e algoritmi. Le condizioni di mercato possono cambiare rapidamente, e le previsioni AI potrebbero essere incomplete, ritardate o inaccurate. Gli utenti dovrebbero utilizzare gli approfondimenti AI come uno strumento tra molti nel loro processo di apprendimento."
 
 #. js-lingui-explicit-id
 msgid "6. Account Registration and Security"
-msgstr "6. Account Registration and Security"
+msgstr "6. Registrazione Account e Sicurezza"
 
 #. js-lingui-explicit-id
 msgid "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use."
-msgstr "To access {NAME_APP} features, users can create an account using email/password, Google Sign-In, or Apple Sign-In. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. Users should provide accurate information during registration and notify us immediately of any unauthorized use."
+msgstr "Per accedere alle funzionalità di {NAME_APP}, gli utenti possono creare un account utilizzando email/password, Google Sign-In o Apple Sign-In. Gli utenti sono responsabili del mantenimento della riservatezza delle proprie credenziali account e di tutte le attività che avvengono sotto il loro account. Gli utenti dovrebbero fornire informazioni accurate durante la registrazione e notificarci immediatamente qualsiasi uso non autorizzato."
 
 #. js-lingui-explicit-id
 msgid "7. Energy Purchases and Payments"
@@ -1463,56 +1463,56 @@ msgstr "Ci impegniamo a fornire un servizio affidabile, ma non possiamo garantir
 
 #. js-lingui-explicit-id
 msgid "12. Limitation of Liability"
-msgstr "12. Limitation of Liability"
+msgstr "12. Limitazione di Responsabilità"
 
 #. js-lingui-explicit-id
 msgid "To the maximum extent permitted by law, {NAME_APP} and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to financial losses, lost profits, data loss, or other damages, arising from your use of our services or inability to use our services."
-msgstr "To the maximum extent permitted by law, {NAME_APP} and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to financial losses, lost profits, data loss, or other damages, arising from your use of our services or inability to use our services."
+msgstr "Nella massima misura consentita dalla legge, {NAME_APP} e i suoi sviluppatori non saranno responsabili per eventuali danni indiretti, incidentali, speciali, consequenziali o punitivi, inclusi ma non limitati a perdite finanziarie, profitti persi, perdita di dati o altri danni, derivanti dall'uso dei nostri servizi o dall'impossibilità di utilizzare i nostri servizi."
 
 #. js-lingui-explicit-id
 msgid "13. Indemnification"
-msgstr "13. Indemnification"
+msgstr "13. Indennizzo"
 
 #. js-lingui-explicit-id
 msgid "Users agree to indemnify and hold harmless {NAME_APP} and its developers from any claims, damages, or expenses arising from their use of the service, violation of these terms, or infringement of third-party rights."
-msgstr "Users agree to indemnify and hold harmless {NAME_APP} and its developers from any claims, damages, or expenses arising from their use of the service, violation of these terms, or infringement of third-party rights."
+msgstr "Gli utenti accettano di indennizzare e tenere indenne {NAME_APP} e i suoi sviluppatori da qualsiasi rivendicazione, danno o spesa derivante dal loro utilizzo del servizio, violazione di questi termini o violazione dei diritti di terze parti."
 
 #. js-lingui-explicit-id
 msgid "14. Account Suspension and Termination"
-msgstr "14. Account Suspension and Termination"
+msgstr "14. Sospensione e Terminazione Account"
 
 #. js-lingui-explicit-id
 msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users may delete their accounts at any time through the app settings."
-msgstr "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users may delete their accounts at any time through the app settings."
+msgstr "Ci riserviamo il diritto di sospendere o terminare gli account utente per violazioni di questi termini, attività fraudolente o qualsiasi ragione necessaria per proteggere il nostro servizio o altri utenti. Gli utenti terminati perdono l'accesso a tutte le funzionalità e ai dati. Gli utenti possono eliminare i propri account in qualsiasi momento tramite le impostazioni dell'app."
 
 #. js-lingui-explicit-id
 msgid "15. Privacy and Data Protection"
-msgstr "15. Privacy and Data Protection"
+msgstr "15. Privacy e Protezione Dati"
 
 #. js-lingui-explicit-id
 msgid "Your privacy is important to us. Our collection, use, and protection of your personal information is described in our Privacy Policy, which is incorporated into these terms by reference. By using {NAME_APP}, you consent to our data practices as described in the Privacy Policy."
-msgstr "Your privacy is important to us. Our collection, use, and protection of your personal information is described in our Privacy Policy, which is incorporated into these terms by reference. By using {NAME_APP}, you consent to our data practices as described in the Privacy Policy."
+msgstr "La tua privacy è importante per noi. La nostra raccolta, utilizzo e protezione delle tue informazioni personali è descritta nella nostra Privacy Policy, che è incorporata in questi termini per riferimento. Utilizzando {NAME_APP}, acconsenti alle nostre pratiche dati come descritto nella Privacy Policy."
 
 #. js-lingui-explicit-id
 msgid "16. Dispute Resolution"
-msgstr "16. Dispute Resolution"
+msgstr "16. Risoluzione delle Controversie"
 
 #. js-lingui-explicit-id
 msgid "Any disputes arising from these terms or your use of {NAME_APP} shall be governed by applicable laws. We encourage users to contact us directly at {CONTACT_EMAIL} to resolve any issues informally before pursuing formal dispute resolution."
-msgstr "Any disputes arising from these terms or your use of {NAME_APP} shall be governed by applicable laws. We encourage users to contact us directly at {CONTACT_EMAIL} to resolve any issues informally before pursuing formal dispute resolution."
+msgstr "Qualsiasi controversia derivante da questi termini o dall'uso di {NAME_APP} sarà regolata dalle leggi applicabili. Incoraggiamo gli utenti a contattarci direttamente a {CONTACT_EMAIL} per risolvere eventuali problemi informalmente prima di procedere con la risoluzione formale delle controversie."
 
 #. js-lingui-explicit-id
 msgid "17. Changes to Terms"
-msgstr "17. Changes to Terms"
+msgstr "17. Modifiche ai Termini"
 
 #. js-lingui-explicit-id
 msgid "We may update these Terms of Use periodically. Changes will be posted on this page with a revised date. For significant changes, we will notify users through the app or email. Continued use of the service after changes constitutes acceptance of the updated terms."
-msgstr "We may update these Terms of Use periodically. Changes will be posted on this page with a revised date. For significant changes, we will notify users through the app or email. Continued use of the service after changes constitutes acceptance of the updated terms."
+msgstr "Potremmo aggiornare periodicamente questi Termini di Utilizzo. Le modifiche verranno pubblicate su questa pagina con una data aggiornata. Per modifiche significative, notificheremo gli utenti tramite l'app o email. L'uso continuato del servizio dopo le modifiche costituisce accettazione dei termini aggiornati."
 
 #. js-lingui-explicit-id
 msgid "18. Contact Information"
-msgstr "18. Contact Information"
+msgstr "18. Informazioni di Contatto"
 
 #. js-lingui-explicit-id
 msgid "If you have questions about these Terms of Use, please contact us at {CONTACT_EMAIL}."
-msgstr "If you have questions about these Terms of Use, please contact us at {CONTACT_EMAIL}."
+msgstr "Se hai domande su questi Termini di Utilizzo, contattaci a {CONTACT_EMAIL}."
