@@ -113,6 +113,12 @@ const Disclaimer: FunctionComponent = () => {
             )
           )}
           {line(
+            i18n._("Scenario and Signal-Like Outputs"),
+            i18n._(
+              "Educational scenarios, AI-generated insights, alerts, and any signal-like visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
+            )
+          )}
+          {line(
             i18n._("AI Limitations"),
             i18n._(
               "Our AI-powered analysis is based on historical data and mathematical algorithms. Past performance is not indicative of future results. AI predictions may be inaccurate, and market conditions can change rapidly due to various factors including economic events, political developments, and market sentiment."

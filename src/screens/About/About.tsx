@@ -343,6 +343,11 @@ const About: FunctionComponent = () => {
                   { NAME_APP }
                 )}
               </Typography>
+              <Typography variant="body1" className={styles.purposeText}>
+                {i18n._(
+                  "In the mobile app, paid educational access is organized through Energy and Learning Days. Users can purchase Energy and activate Learning Days to unlock additional scenario-based learning features."
+                )}
+              </Typography>
               <Typography variant="body2" className={styles.purposeNote}>
                 {i18n._(
                   "Important: {NAME_APP} provides informational and educational content only. It does not provide financial, investment, or trading advice. Real market examples are for study purposes only. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk and rely on your own judgment.",
@@ -368,6 +373,11 @@ const About: FunctionComponent = () => {
               <Typography variant="body2" className={styles.purposeNote}>
                 {i18n._(
                   "Always conduct your own research, consider seeking advice from qualified financial professionals, and never risk more than you can afford to lose."
+                )}
+              </Typography>
+              <Typography variant="body2" className={styles.purposeNote}>
+                {i18n._(
+                  "If offered in your app store region, trial and purchase plans are managed through the App Store or Google Play. Cancellation and refund handling follow the applicable store policies."
                 )}
               </Typography>
             </CardContent>

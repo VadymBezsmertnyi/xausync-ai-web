@@ -59,7 +59,7 @@ const HowDeleteUser: FunctionComponent = () => {
           </h2>
           <p className={styles.text}>
             {i18n._(
-              "You can delete your {NAME_APP} account directly from the application settings. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy.",
+              "You can request deletion of your {NAME_APP} account using available account settings and support channels. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy.",
               { NAME_APP }
             )}
           </p>
@@ -71,7 +71,7 @@ const HowDeleteUser: FunctionComponent = () => {
           </h2>
           <p className={styles.text}>
             {i18n._(
-              "To delete your account, open the {NAME_APP} mobile application and follow these steps:",
+              "To request account deletion, open the {NAME_APP} mobile application and follow available account management instructions:",
               { NAME_APP }
             )}
           </p>
@@ -83,10 +83,15 @@ const HowDeleteUser: FunctionComponent = () => {
               {i18n._("Navigate to Settings")}
             </li>
             <li className={styles.itemList}>
-              {i18n._("Scroll to the bottom of the settings page")}
+              {i18n._(
+                "Use the available account deletion option if it is shown in your app version"
+              )}
             </li>
             <li className={styles.itemList}>
-              {i18n._('Tap the "Delete Account" button')}
+              {i18n._(
+                "If the deletion option is not available, contact support at {CONTACT_EMAIL} to request deletion",
+                { CONTACT_EMAIL }
+              )}
             </li>
             <li className={styles.itemList}>
               {i18n._(

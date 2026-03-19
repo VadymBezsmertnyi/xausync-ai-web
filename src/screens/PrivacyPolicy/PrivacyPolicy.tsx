@@ -141,6 +141,9 @@ export const PrivacyPolicy: FunctionComponent = () => {
               i18n._("Screen views and navigation paths"),
               i18n._("App performance and crash data"),
               i18n._("General demographic information (anonymous)"),
+              i18n._(
+                "Account-linked analytics properties (such as account identifier, sign-in provider, and profile metadata) to improve service quality and diagnostics"
+              ),
             ]
           )}
           {line(
@@ -211,6 +214,9 @@ export const PrivacyPolicy: FunctionComponent = () => {
               i18n._("App stores for Energy purchase billing processing"),
               i18n._("Market data providers for real-time price information"),
               i18n._("Analytics services (anonymous, aggregated data only)"),
+              i18n._(
+                "Optional messaging and notification channels enabled by users (for example, Telegram alerts)"
+              ),
             ]
           )}
         </div>
@@ -277,7 +283,9 @@ export const PrivacyPolicy: FunctionComponent = () => {
           <h2 className={styles.title}>{i18n._("Push Notifications")}</h2>
           {line(
             i18n._("Notification Types"),
-            i18n._("With your permission, we send push notifications for:"),
+            i18n._(
+              "With your permission, we send notifications through supported channels (such as push notifications and optional third-party channels) for:"
+            ),
             [
               i18n._("Learning alerts and market examples"),
               i18n._("Price movement notifications"),
@@ -293,6 +301,9 @@ export const PrivacyPolicy: FunctionComponent = () => {
               i18n._("Choose which alert types you receive"),
               i18n._("Manage notification frequency and timing"),
               i18n._("Revoke notification permission at any time"),
+              i18n._(
+                "Connect or disconnect optional third-party channels from notification settings when available"
+              ),
             ]
           )}
         </div>

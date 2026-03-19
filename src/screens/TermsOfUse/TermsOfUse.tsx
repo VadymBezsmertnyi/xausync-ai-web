@@ -176,7 +176,7 @@ const TermsOfUse: FunctionComponent = () => {
           {line(
             i18n._("7. Energy Purchases and Payments"),
             i18n._(
-              "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings.",
+              "{NAME_APP} offers paid educational access through an Energy and Learning Days model. Users may purchase internal learning credits (Energy) via the App Store or Google Play (through RevenueCat), and then activate Learning Days to unlock additional educational scenarios, AI explanations, analytics tools, and related learning features. Payment processing is handled by the applicable app store. Some plans offered in your region may renew automatically under store rules. Users can manage or cancel eligible plans in their App Store or Google Play account settings. Refunds are handled according to applicable law and the policies of the relevant app store provider.",
               { NAME_APP }
             )
           )}
@@ -253,7 +253,7 @@ const TermsOfUse: FunctionComponent = () => {
           {line(
             i18n._("14. Account Suspension and Termination"),
             i18n._(
-              "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users may delete their accounts at any time through the app settings.",
+              "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users can request account deletion using available in-app account settings and support channels, as described in our account deletion instructions.",
               { NAME_APP }
             )
           )}

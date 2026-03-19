@@ -201,6 +201,11 @@ export default function Main() {
                       "Study market analysis and explore market behavior with AI-powered educational tools. Discover real market scenarios, technical analysis concepts, and practical insights for educational purposes only."
                     )}
                   </Typography>
+                  <Typography variant="body2" className={styles.heroText}>
+                    {i18n._(
+                      "Premium learning access in the mobile app uses Energy and Learning Days: users can purchase Energy, activate Learning Days, and unlock additional educational scenarios, AI explanations, analytics history, and optional alerts."
+                    )}
+                  </Typography>
 
                   <Stack
                     direction={isMobile ? "column" : "row"}
@@ -404,6 +409,14 @@ export default function Main() {
                       {i18n._(
                         "While our AI provides educational insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a learning tool to study market scenarios and technical analysis concepts.",
                         { NAME_APP }
+                      )}
+                    </Typography>
+                    <Typography
+                      variant="body2"
+                      sx={{ color: "var(--text-gray)", lineHeight: 1.6, mt: 2 }}
+                    >
+                      {i18n._(
+                        "A one-day trial may be available for new users in the app. Purchases and billing are handled by the App Store or Google Play, including cancellation and refunds according to their policies."
                       )}
                     </Typography>
                   </CardContent>
