@@ -330,6 +330,10 @@ msgid "{NAME_APP} provides analytical insights and educational tools to help use
 msgstr "Το {NAME_APP} παρέχει αναλυτικές γνώσεις και εκπαιδευτικά εργαλεία για να βοηθήσει τους χρήστες να μελετήσουν τη δυναμική της αγοράς και τεχνικές έννοιες. Η πλατφόρμα μας χρησιμοποιεί πραγματικά δεδομένα αγοράς ως πλαίσιο για την εξερεύνηση τεχνικών ανάλυσης και πρακτικών παραδειγμάτων."
 
 #. js-lingui-explicit-id
+msgid "In the mobile app, paid educational access is organized through Energy and Learning Days. Users can purchase Energy and activate Learning Days to unlock additional scenario-based learning features."
+msgstr "Στην εφαρμογή για κινητά, ο επί πληρωμή εκπαιδευτικός πρόσβαση οργανώνεται μέσω Ενέργειας και Ημερών Μάθησης. Οι χρήστες μπορούν να αγοράσουν Ενέργεια και να ενεργοποιήσουν Ημέρες Μάθησης για να ξεκλειδώσουν πρόσθετα χαρακτηριστικά μάθησης βασισμένα σε σενάρια."
+
+#. js-lingui-explicit-id
 msgid "Important: {NAME_APP} provides informational and educational content only. It does not provide financial, investment, or trading advice. Real market examples are for study purposes only. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk and rely on your own judgment."
 msgstr "Σημαντικό: Το {NAME_APP} παρέχει μόνο ενημερωτικό και εκπαιδευτικό περιεχόμενο. Δεν παρέχει οικονομικές, επενδυτικές ή συμβουλευτικές συμβουλές συναλλαγών. Παραδείγματα πραγματικής αγοράς είναι μόνο για σκοπούς μελέτης. Όλες οι αναλύσεις μπορεί να είναι ελλιπείς, καθυστερημένες ή ανακριβείς. Χρησιμοποιήστε με δική σας ευθύνη και βασιστείτε στην κρίση σας."
 
@@ -344,6 +348,10 @@ msgstr "Ενώ η ΤΝ μας παρέχει αναλυτικές γνώσεις
 #. js-lingui-explicit-id
 msgid "Always conduct your own research, consider seeking advice from qualified financial professionals, and never risk more than you can afford to lose."
 msgstr "Πραγματοποιήστε πάντα τη δική σας έρευνα, εξετάστε το ενδεχόμενο να ζητήσετε συμβουλές από εξειδικευμένους οικονομικούς επαγγελματίες και μην ρισκάρετε ποτέ περισσότερο από ό,τι μπορείτε να αντέξετε να χάσετε."
+
+#. js-lingui-explicit-id
+msgid "If offered in your app store region, trial and purchase plans are managed through the App Store or Google Play. Cancellation and refund handling follow the applicable store policies."
+msgstr "Εάν προσφέρεται στην περιοχή του καταστήματος εφαρμογών σας, τα σχέδια δοκιμής και αγοράς διαχειρίζονται μέσω του App Store ή του Google Play. Η ακύρωση και η διαχείριση επιστροφών ακολουθούν τις ισχύουσες πολιτικές του καταστήματος."
 
 #. js-lingui-explicit-id
 msgid "Get in Touch"
@@ -412,6 +420,14 @@ msgstr "Χωρίς Επενδυτικές Συμβουλές"
 #. js-lingui-explicit-id
 msgid "The information, analysis, and insights provided by {NAME_APP} are for informational and educational purposes only. They do not constitute investment advice, financial advice, trading recommendations, or a solicitation to buy or sell any financial instrument."
 msgstr "Οι πληροφορίες, αναλύσεις και γνώσεις που παρέχει το {NAME_APP} είναι μόνο για ενημερωτικούς και εκπαιδευτικούς σκοπούς. Δεν συνιστούν επενδυτικές συμβουλές, οικονομικές συμβουλές, συναλλαγματικές συστάσεις ή παρότρυνση για αγορά ή πώληση οποιουδήποτε χρηματοπιστωτικού μέσου."
+
+#. js-lingui-explicit-id
+msgid "Scenario and Signal-Like Outputs"
+msgstr "Σενάρια και Στοιχεία Παρόμοια με Σήματα"
+
+#. js-lingui-explicit-id
+msgid "Educational scenarios, AI-generated insights, alerts, and any signal-like visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
+msgstr "Τα εκπαιδευτικά σενάρια, οι γνώσεις που δημιουργούνται από την ΤΝ, οι ειδοποιήσεις και οποιαδήποτε οπτικά στοιχεία παρόμοια με σήματα παρέχονται μόνο για σκοπούς μάθησης και ερμηνείας. Δεν πρέπει να θεωρούνται ως επενδυτικές συμβουλές, συστάσεις επενδύσεων ή άμεσες οδηγίες για συναλλαγές."
 
 #. js-lingui-explicit-id
 msgid "AI Limitations"
@@ -574,16 +590,16 @@ msgid "How to Delete Your Account"
 msgstr "Πώς να Διαγράψετε τον Λογαριασμό σας"
 
 #. js-lingui-explicit-id
-msgid "You can delete your {NAME_APP} account directly from the application settings. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
-msgstr "Μπορείτε να διαγράψετε τον λογαριασμό σας {NAME_APP} απευθείας από τις ρυθμίσεις της εφαρμογής. Η διαγραφή λογαριασμού είναι μόνιμη και θα αφαιρέσει την πρόσβαση στον λογαριασμό σας και τα σχετικά δεδομένα σύμφωνα με την Πολιτική Απορρήτου μας."
+msgid "You can request deletion of your {NAME_APP} account using available account settings and support channels. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
+msgstr "Μπορείτε να ζητήσετε τη διαγραφή του λογαριασμού σας {NAME_APP} χρησιμοποιώντας τις διαθέσιμες ρυθμίσεις λογαριασμού και τα κανάλια υποστήριξης. Η διαγραφή του λογαριασμού είναι μόνιμη και θα αφαιρέσει την πρόσβαση στον λογαριασμό σας και τα συνδεδεμένα δεδομένα σύμφωνα με την Πολιτική Απορρήτου μας."
 
 #. js-lingui-explicit-id
 msgid "Where to Find the Delete Option"
 msgstr "Πού να Βρείτε την Επιλογή Διαγραφής"
 
 #. js-lingui-explicit-id
-msgid "To delete your account, open the {NAME_APP} mobile application and follow these steps:"
-msgstr "Για να διαγράψετε τον λογαριασμό σας, ανοίξτε την εφαρμογή {NAME_APP} για κινητά και ακολουθήστε αυτά τα βήματα:"
+msgid "To request account deletion, open the {NAME_APP} mobile application and follow available account management instructions:"
+msgstr "Για να ζητήσετε τη διαγραφή του λογαριασμού σας, ανοίξτε την εφαρμογή για κινητά {NAME_APP} και ακολουθήστε τις διαθέσιμες οδηγίες διαχείρισης λογαριασμού:"
 
 #. js-lingui-explicit-id
 msgid "Go to your profile in the app"
@@ -594,12 +610,12 @@ msgid "Navigate to Settings"
 msgstr "Πλοηγηθείτε στις Ρυθμίσεις"
 
 #. js-lingui-explicit-id
-msgid "Scroll to the bottom of the settings page"
-msgstr "Κυλήστε προς το τέλος της σελίδας ρυθμίσεων"
+msgid "Use the available account deletion option if it is shown in your app version"
+msgstr "Χρησιμοποιήστε την διαθέσιμη επιλογή διαγραφής λογαριασμού εάν εμφανίζεται στην έκδοση της εφαρμογής σας"
 
 #. js-lingui-explicit-id
-msgid "Tap the \"Delete Account\" button"
-msgstr "Πατήστε το κουμπί \"Διαγραφή Λογαριασμού\""
+msgid "If the deletion option is not available, contact support at {CONTACT_EMAIL} to request deletion"
+msgstr "Εάν η επιλογή διαγραφής δεν είναι διαθέσιμη, επικοινωνήστε με την υποστήριξη στο {CONTACT_EMAIL} για να ζητήσετε τη διαγραφή"
 
 #. js-lingui-explicit-id
 msgid "Confirm your decision to permanently delete your account"
@@ -754,6 +770,10 @@ msgid "Study market analysis and explore market behavior with AI-powered educati
 msgstr "Μελετήστε την ανάλυση αγοράς και εξερευνήστε τη συμπεριφορά της αγοράς με εκπαιδευτικά εργαλεία με υποστήριξη ΤΝ. Ανακαλύψτε σενάρια πραγματικής αγοράς, εννοίες τεχνικής ανάλυσης και πρακτικές γνώσεις μόνο για εκπαιδευτικούς σκοπούς."
 
 #. js-lingui-explicit-id
+msgid "Premium learning access in the mobile app uses Energy and Learning Days: users can purchase Energy, activate Learning Days, and unlock additional educational scenarios, AI explanations, analytics history, and optional alerts."
+msgstr "Η πρόσβαση σε premium εκπαιδευτικό περιεχόμενο στην εφαρμογή για κινητά χρησιμοποιεί Ενέργεια και Ημέρες Μάθησης: οι χρήστες μπορούν να αγοράσουν Ενέργεια, να ενεργοποιήσουν Ημέρες Μάθησης και να ξεκλειδώσουν πρόσθετα εκπαιδευτικά σενάρια, εξηγήσεις ΤΝ, ιστορικό αναλύσεων και προαιρετικές ειδοποιήσεις."
+
+#. js-lingui-explicit-id
 msgid "Download on the App Store"
 msgstr "Λήψη από το App Store"
 
@@ -792,6 +812,10 @@ msgstr "Ευθύνη Εκμάθησης"
 #. js-lingui-explicit-id
 msgid "While our AI provides educational insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a learning tool to study market scenarios and technical analysis concepts."
 msgstr "Ενώ η ΤΝ μας παρέχει εκπαιδευτικές γνώσεις, οι χρήστες πρέπει να βασίζονται στην κρίση τους και την ανεξάρτητη έρευνά τους. Χρησιμοποιήστε το {NAME_APP} ως εργαλείο εκμάθησης για τη μελέτη σεναρίων αγοράς και εννοιών τεχνικής ανάλυσης."
+
+#. js-lingui-explicit-id
+msgid "A one-day trial may be available for new users in the app. Purchases and billing are handled by the App Store or Google Play, including cancellation and refunds according to their policies."
+msgstr "Μπορεί να είναι διαθέσιμη μια δοκιμή μιας ημέρας για νέους χρήστες στην εφαρμογή. Οι αγορές και η χρέωση διαχειρίζονται από το App Store ή το Google Play, συμπεριλαμβανομένης της ακύρωσης και των επιστροφών σύμφωνα με τις πολιτικές τους."
 
 #. js-lingui-explicit-id
 msgid "Start Your Educational Journey"
@@ -916,6 +940,10 @@ msgstr "Απόδοση εφαρμογής και δεδομένα συντριβ
 #. js-lingui-explicit-id
 msgid "General demographic information (anonymous)"
 msgstr "Γενικές δημογραφικές πληροφορίες (ανώνυμες)"
+
+#. js-lingui-explicit-id
+msgid "Account-linked analytics properties (such as account identifier, sign-in provider, and profile metadata) to improve service quality and diagnostics"
+msgstr "Ιδιότητες αναλυτικών στοιχείων συνδεδεμένες με τον λογαριασμό (όπως αναγνωριστικό λογαριασμού, πάροχος σύνδεσης και μεταδεδομένα προφίλ) για τη βελτίωση της ποιότητας της υπηρεσίας και της διάγνωσης"
 
 #. js-lingui-explicit-id
 msgid "Learning Data"
@@ -1046,6 +1074,10 @@ msgid "Analytics services (anonymous, aggregated data only)"
 msgstr "Υπηρεσίες αναλυτικών (μόνο ανώνυμα, συγκεντρωτικά δεδομένα)"
 
 #. js-lingui-explicit-id
+msgid "Optional messaging and notification channels enabled by users (for example, Telegram alerts)"
+msgstr "Προαιρετικά κανάλια μηνυμάτων και ειδοποιήσεων που ενεργοποιούνται από τους χρήστες (για παράδειγμα, ειδοποιήσεις Telegram)"
+
+#. js-lingui-explicit-id
 msgid "Data Security"
 msgstr "Ασφάλεια Δεδομένων"
 
@@ -1162,8 +1194,8 @@ msgid "Notification Types"
 msgstr "Τύποι Ειδοποιήσεων"
 
 #. js-lingui-explicit-id
-msgid "With your permission, we send push notifications for:"
-msgstr "Με την άδειά σας, στέλνουμε ειδοποιήσεις push για:"
+msgid "With your permission, we send notifications through supported channels (such as push notifications and optional third-party channels) for:"
+msgstr "Με την άδειά σας, στέλνουμε ειδοποιήσεις μέσω υποστηριζόμενων καναλιών (όπως ειδοποιήσεις push και προαιρετικά κανάλια τρίτων) για:"
 
 #. js-lingui-explicit-id
 msgid "Learning alerts and market examples"
@@ -1204,6 +1236,10 @@ msgstr "Διαχείριση συχνότητας και χρονισμού ει
 #. js-lingui-explicit-id
 msgid "Revoke notification permission at any time"
 msgstr "Ανάκληση άδειας ειδοποιήσεων ανά πάσα στιγμή"
+
+#. js-lingui-explicit-id
+msgid "Connect or disconnect optional third-party channels from notification settings when available"
+msgstr "Συνδέστε ή αποσυνδέστε προαιρετικά κανάλια τρίτων από τις ρυθμίσεις ειδοποιήσεων όταν είναι διαθέσιμα"
 
 #. js-lingui-explicit-id
 msgid "Energy Purchases and Payments"
@@ -1402,8 +1438,8 @@ msgid "7. Energy Purchases and Payments"
 msgstr "7. Αγορές Ενέργειας και Πληρωμές"
 
 #. js-lingui-explicit-id
-msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
-msgstr "Το {NAME_APP} προσφέρει premium λειτουργίες μέσω πρόσβασης με βάση την Ενέργεια. Οι χρήστες αγοράζουν εσωτερικό νόμισμα εκμάθησης που ονομάζεται Ενέργεια μέσω του App Store ή του Google Play (μέσω RevenueCat). Η Ενέργεια χρησιμοποιείται για πρόσβαση σε εκπαιδευτική ανάλυση ΤΝ και λειτουργίες εκμάθησης. Η επεξεργασία πληρωμών γίνεται από τα αντίστοιχα καταστήματα εφαρμογών. Οι αγορές Ενέργειας δεν επιστρέφονται εκτός εάν απαιτείται από το νόμο ή τις πολιτικές του καταστήματος εφαρμογών. Οι χρήστες μπορούν να διαχειριστούν τις αγορές Ενέργειας μέσω των ρυθμίσεων λογαριασμού του καταστήματος εφαρμογών τους."
+msgid "{NAME_APP} offers paid educational access through an Energy and Learning Days model. Users may purchase internal learning credits (Energy) via the App Store or Google Play (through RevenueCat), and then activate Learning Days to unlock additional educational scenarios, AI explanations, analytics tools, and related learning features. Payment processing is handled by the applicable app store. Some plans offered in your region may renew automatically under store rules. Users can manage or cancel eligible plans in their App Store or Google Play account settings. Refunds are handled according to applicable law and the policies of the relevant app store provider."
+msgstr "Το {NAME_APP} προσφέρει πρόσβαση σε εκπαιδευτικό περιεχόμενο μέσω ενός μοντέλου Ενέργειας και Ημερών Μάθησης. Οι χρήστες μπορούν να αγοράσουν εσωτερικά πιστώσεις μάθησης (Ενέργεια) μέσω του App Store ή του Google Play (μέσω RevenueCat), και στη συνέχεια να ενεργοποιήσουν τις Ημέρες Μάθησης για να ξεκλειδώσουν επιπλέον εκπαιδευτικά σενάρια, εξηγήσεις ΤΝ, εργαλεία ανάλυσης και σχετικές λειτουργίες μάθησης. Η επεξεργασία πληρωμών γίνεται από το αντίστοιχο κατάστημα εφαρμογών. Ορισμένα σχέδια που προσφέρονται στην περιοχή σας ενδέχεται να ανανεώνονται αυτόματα σύμφωνα με τους κανόνες του καταστήματος. Οι χρήστες μπορούν να διαχειριστούν ή να ακυρώσουν επιλέξιμα σχέδια στις ρυθμίσεις του λογαριασμού τους στο App Store ή στο Google Play. Οι επιστροφές χρημάτων διεκπεραιώνονται σύμφωνα με την ισχύουσα νομοθεσία και τις πολιτικές του σχετικού παρόχου καταστήματος εφαρμογών."
 
 #. js-lingui-explicit-id
 msgid "8. Acceptable Use"
@@ -1482,8 +1518,8 @@ msgid "14. Account Suspension and Termination"
 msgstr "14. Αναστολή και Τερματισμός Λογαριασμού"
 
 #. js-lingui-explicit-id
-msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users may delete their accounts at any time through the app settings."
-msgstr "Διατηρούμε το δικαίωμα να αναστείλουμε ή να τερματίσουμε λογαριασμούς χρηστών για παραβιάσεις αυτών των όρων, απάτη ή οποιονδήποτε λόγο απαραίτητο για την προστασία της υπηρεσίας μας ή άλλων χρηστών. Οι λογαριασμοί που τερματίστηκαν χάνουν την πρόσβαση σε όλες τις λειτουργίες και τα δεδομένα. Οι χρήστες μπορούν να διαγράψουν τους λογαριασμούς τους ανά πάσα στιγμή μέσω των ρυθμίσεων της εφαρμογής."
+msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users can request account deletion using available in-app account settings and support channels, as described in our account deletion instructions."
+msgstr "Διατηρούμε το δικαίωμα να αναστείλουμε ή να τερματίσουμε λογαριασμούς χρηστών για παραβιάσεις αυτών των όρων, δόλια δραστηριότητα ή οποιονδήποτε λόγο είναι απαραίτητος για την προστασία της υπηρεσίας μας ή άλλων χρηστών. Οι τερματισμένοι χρήστες χάνουν την πρόσβαση σε όλες τις λειτουργίες και τα δεδομένα. Οι χρήστες μπορούν να ζητήσουν τη διαγραφή του λογαριασμού τους χρησιμοποιώντας τις διαθέσιμες ρυθμίσεις λογαριασμού εντός της εφαρμογής και τα κανάλια υποστήριξης, όπως περιγράφεται στις οδηγίες διαγραφής λογαριασμού μας."
 
 #. js-lingui-explicit-id
 msgid "15. Privacy and Data Protection"

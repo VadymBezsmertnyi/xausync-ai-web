@@ -330,6 +330,10 @@ msgid "{NAME_APP} provides analytical insights and educational tools to help use
 msgstr "{NAME_APP} leverer analytiske indsigter og uddannelsesværktøjer til at hjælpe brugere med at studere markedsdynamik og tekniske koncepter. Vores platform bruger reelle markedsdata som kontekst for at udforske analys teknikker og praktiske eksempler."
 
 #. js-lingui-explicit-id
+msgid "In the mobile app, paid educational access is organized through Energy and Learning Days. Users can purchase Energy and activate Learning Days to unlock additional scenario-based learning features."
+msgstr "I mobilappen är betald utbildningsåtkomst organiserad genom Energi och Lärdagar. Användare kan köpa Energi och aktivera Lärdagar för att låsa upp ytterligare scenariobaserade lärfunktioner."
+
+#. js-lingui-explicit-id
 msgid "Important: {NAME_APP} provides informational and educational content only. It does not provide financial, investment, or trading advice. Real market examples are for study purposes only. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk and rely on your own judgment."
 msgstr "Vigtigt: {NAME_APP} leverer kun informations- og uddannelsesmæssigt indhold. Det leverer ikke finansielle, investerings- eller handelsråd. Reelle markedseksempler er kun til studieformål. Al analyse kan være ufuldstændig, forsinket eller unøjagtig. Brug på egen risiko og stol på din egen dømmekraft."
 
@@ -344,6 +348,10 @@ msgstr "Mens vores AI leverer analytiske indsigter, skal brugere stole på deres
 #. js-lingui-explicit-id
 msgid "Always conduct your own research, consider seeking advice from qualified financial professionals, and never risk more than you can afford to lose."
 msgstr "Udfør altid din egen forskning, overvej at søge råd fra kvalificerede finansielle fagfolk, og risikér aldrig mere end du har råd til at tabe."
+
+#. js-lingui-explicit-id
+msgid "If offered in your app store region, trial and purchase plans are managed through the App Store or Google Play. Cancellation and refund handling follow the applicable store policies."
+msgstr "Hvis det tilbydes i din app store region, håndteres prøve- og købspakker genom App Store eller Google Play. Avbeställning och återbetalning hanteras enligt gällande butikspolicyer."
 
 #. js-lingui-explicit-id
 msgid "Get in Touch"
@@ -412,6 +420,14 @@ msgstr "Ingen Investeringsråd"
 #. js-lingui-explicit-id
 msgid "The information, analysis, and insights provided by {NAME_APP} are for informational and educational purposes only. They do not constitute investment advice, financial advice, trading recommendations, or a solicitation to buy or sell any financial instrument."
 msgstr "Informationen, analysen og indsigterne leveret af {NAME_APP} er kun til informations- og uddannelsesformål. De udgør ikke investeringsråd, finansielle råd, handelsanbefalinger eller en opfordring til at købe eller sælge noget finansielt instrument."
+
+#. js-lingui-explicit-id
+msgid "Scenario and Signal-Like Outputs"
+msgstr "Scenarie- og Signal-Lignende Output"
+
+#. js-lingui-explicit-id
+msgid "Educational scenarios, AI-generated insights, alerts, and any signal-like visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
+msgstr "Uddannelsesscenarier, AI-genererede indsigter, advarsler og eventuelle signal-lignende visuelle elementer leveres kun til lærings- og tolkningsformål. De må inte behandlas som finansielle råd, investeringsrekommendationer eller direkta instruktioner att handla."
 
 #. js-lingui-explicit-id
 msgid "AI Limitations"
@@ -574,16 +590,16 @@ msgid "How to Delete Your Account"
 msgstr "Hvordan du Sletter Din Konto"
 
 #. js-lingui-explicit-id
-msgid "You can delete your {NAME_APP} account directly from the application settings. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
-msgstr "Du kan slette din {NAME_APP} konto direkte fra applikationsindstillingerne. Kontosletning er permanent og vil fjerne adgang til din konto og tilhørende data i henhold til vores Privatlivspolitik."
+msgid "You can request deletion of your {NAME_APP} account using available account settings and support channels. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
+msgstr "Du kan anmode om sletning af din {NAME_APP} konto ved hjælp af tilgængelige kontoinstillinger og supportkanaler. Kontosletning er permanent og vil fjerne adgang til din konto og tilknyttede data i henhold til vores privatlivspolitik."
 
 #. js-lingui-explicit-id
 msgid "Where to Find the Delete Option"
 msgstr "Hvor du Finder Sletmuligheden"
 
 #. js-lingui-explicit-id
-msgid "To delete your account, open the {NAME_APP} mobile application and follow these steps:"
-msgstr "For at slette din konto, åbn {NAME_APP} mobilapplikationen og følg disse trin:"
+msgid "To request account deletion, open the {NAME_APP} mobile application and follow available account management instructions:"
+msgstr "För att begära kontosletning, öppna {NAME_APP} mobilapplikationen och följ tillgängliga instruktioner för kontohantering:"
 
 #. js-lingui-explicit-id
 msgid "Go to your profile in the app"
@@ -594,12 +610,12 @@ msgid "Navigate to Settings"
 msgstr "Naviger til Indstillinger"
 
 #. js-lingui-explicit-id
-msgid "Scroll to the bottom of the settings page"
-msgstr "Rul til bunden af indstillingssiden"
+msgid "Use the available account deletion option if it is shown in your app version"
+msgstr "Brug den tilgängliga kontosletningsoptionen om den visas i din appversion"
 
 #. js-lingui-explicit-id
-msgid "Tap the \"Delete Account\" button"
-msgstr "Tryk på knappen \"Slet Konto\""
+msgid "If the deletion option is not available, contact support at {CONTACT_EMAIL} to request deletion"
+msgstr "Hvis sletningsmuligheden ikke er tilgængelig, kontakt support på {CONTACT_EMAIL} for at anmode om sletning"
 
 #. js-lingui-explicit-id
 msgid "Confirm your decision to permanently delete your account"
@@ -754,6 +770,10 @@ msgid "Study market analysis and explore market behavior with AI-powered educati
 msgstr "Studér markedsanalyse og udforsk markedsadfærd med AI-drevne uddannelsesværktøjer. Opdag reelle markedsscenarier, tekniske analyse koncepter og praktiske indsigter kun til uddannelsesformål."
 
 #. js-lingui-explicit-id
+msgid "Premium learning access in the mobile app uses Energy and Learning Days: users can purchase Energy, activate Learning Days, and unlock additional educational scenarios, AI explanations, analytics history, and optional alerts."
+msgstr "Premium læringstilgang i mobilappen använder Energi och Lärdagar: användare kan köpa Energi, aktivera Lärdagar och låsa upp ytterligare utbildningsscenarier, AI-förklaringar, analys historia och valfria aviseringar."
+
+#. js-lingui-explicit-id
 msgid "Download on the App Store"
 msgstr "Download på App Store"
 
@@ -792,6 +812,10 @@ msgstr "Læringsansvar"
 #. js-lingui-explicit-id
 msgid "While our AI provides educational insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a learning tool to study market scenarios and technical analysis concepts."
 msgstr "Mens vores AI leverer uddannelsesmæssige indsigter, skal brugere stole på deres egen dømmekraft og uafhængig forskning. Brug {NAME_APP} som et læringsværktøj til at studere markedsscenarier og tekniske analyse koncepter."
+
+#. js-lingui-explicit-id
+msgid "A one-day trial may be available for new users in the app. Purchases and billing are handled by the App Store or Google Play, including cancellation and refunds according to their policies."
+msgstr "En endagsprøve kan være tillgänglig för nya användare i appen. Köp och fakturering hanteras av App Store eller Google Play, inklusive avbokning och återbetalningar enligt deras policyer."
 
 #. js-lingui-explicit-id
 msgid "Start Your Educational Journey"
@@ -916,6 +940,10 @@ msgstr "App ydeevne og crash data"
 #. js-lingui-explicit-id
 msgid "General demographic information (anonymous)"
 msgstr "Generel demografisk information (anonym)"
+
+#. js-lingui-explicit-id
+msgid "Account-linked analytics properties (such as account identifier, sign-in provider, and profile metadata) to improve service quality and diagnostics"
+msgstr "Konto-länkade analys egenskaper (såsom konto identifierare, inloggningsleverantör och profil metadata) för att förbättra servicekvalitet och diagnostik"
 
 #. js-lingui-explicit-id
 msgid "Learning Data"
@@ -1046,6 +1074,10 @@ msgid "Analytics services (anonymous, aggregated data only)"
 msgstr "Analyse tjenester (kun anonym, aggregeret data)"
 
 #. js-lingui-explicit-id
+msgid "Optional messaging and notification channels enabled by users (for example, Telegram alerts)"
+msgstr "Valfria meddelande- och notifikationskanaler som aktiverats av användare (till exempel Telegram aviseringar)"
+
+#. js-lingui-explicit-id
 msgid "Data Security"
 msgstr "Datasikkerhed"
 
@@ -1162,8 +1194,8 @@ msgid "Notification Types"
 msgstr "Notifikationstyper"
 
 #. js-lingui-explicit-id
-msgid "With your permission, we send push notifications for:"
-msgstr "Med din tilladelse, sender vi push notifikationer for:"
+msgid "With your permission, we send notifications through supported channels (such as push notifications and optional third-party channels) for:"
+msgstr "Med din tilladelse, sender vi notifikationer gennem understøttede kanaler (såsom push notifikationer och valfria tredjeparts kanaler) för:"
 
 #. js-lingui-explicit-id
 msgid "Learning alerts and market examples"
@@ -1204,6 +1236,10 @@ msgstr "Styr notifikationsfrekvens og timing"
 #. js-lingui-explicit-id
 msgid "Revoke notification permission at any time"
 msgstr "Tilbagekald notifikationstilladelse når som helst"
+
+#. js-lingui-explicit-id
+msgid "Connect or disconnect optional third-party channels from notification settings when available"
+msgstr "Anslut eller koppla bort valfria tredjeparts kanaler från notifikationsinställningar när det är tillgängligt"
 
 #. js-lingui-explicit-id
 msgid "Energy Purchases and Payments"
@@ -1402,8 +1438,8 @@ msgid "7. Energy Purchases and Payments"
 msgstr "7. Energikøb og Betalinger"
 
 #. js-lingui-explicit-id
-msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
-msgstr "{NAME_APP} tilbyder premiumfunktioner gennem energibaseret adgang. Brugere køber intern læringsvaluta kaldet Energy gennem App Store eller Google Play (via RevenueCat). Energy bruges til at få adgang til AI-uddannelsesanalyse og læringsfunktioner. Betalingsbehandling håndteres af de respektive app-butikker. Energikøb er ikke refunderbare undtagen som krævet ved lov eller app-butikspolitikker. Brugere kan administrere deres energikøb gennem deres app-butik kontoindstillinger."
+msgid "{NAME_APP} offers paid educational access through an Energy and Learning Days model. Users may purchase internal learning credits (Energy) via the App Store or Google Play (through RevenueCat), and then activate Learning Days to unlock additional educational scenarios, AI explanations, analytics tools, and related learning features. Payment processing is handled by the applicable app store. Some plans offered in your region may renew automatically under store rules. Users can manage or cancel eligible plans in their App Store or Google Play account settings. Refunds are handled according to applicable law and the policies of the relevant app store provider."
+msgstr "{NAME_APP} tilbyder betalt uddannelsesmæssig adgang gennem en Energi og Læringsdage model. Brugere kan købe interne læringskreditter (Energi) via App Store eller Google Play (gennem RevenueCat), og derefter aktivere Læringsdage for at låse op for yderligere uddannelsesscenarier, AI forklaringer, analytiske værktøjer og relaterede læringsfunktioner. Betalingsbehandling håndteres af den relevante app store. Nogle planer tilbudt i din region kan fornyes automatisk under butikkens regler. Brugere kan administrere eller annullere berettigede planer i deres App Store eller Google Play kontoindstillinger. Refunderinger håndteres i henhold til gældende lov og politikkerne for den relevante app store udbyder."
 
 #. js-lingui-explicit-id
 msgid "8. Acceptable Use"
@@ -1482,8 +1518,8 @@ msgid "14. Account Suspension and Termination"
 msgstr "14. Konto Suspension og Opsigelse"
 
 #. js-lingui-explicit-id
-msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users may delete their accounts at any time through the app settings."
-msgstr "Vi forbeholder os retten til at suspendere eller opsige brugerkonti for overtrædelser af disse betingelser, svigagtig aktivitet eller enhver grund nødvendig for at beskytte vores service eller andre brugere. Opsagte brugere mister adgang til alle funktioner og data. Brugere kan slette deres konti når som helst gennem app indstillinger."
+msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users can request account deletion using available in-app account settings and support channels, as described in our account deletion instructions."
+msgstr "Vi forbeholder os retten til at suspendere eller opsige brugerkonti for overtrædelser af disse betingelser, bedragerisk aktivitet eller enhver grund nødvendig for at beskytte vores service eller andre användare. Opsagte användare mister adgang til alla funktioner och data. Användare kan begära kontosletning genom att använda tillgängliga in-app konto inställningar och supportkanaler, som beskrivs i våra kontosletningsinstruktioner."
 
 #. js-lingui-explicit-id
 msgid "15. Privacy and Data Protection"

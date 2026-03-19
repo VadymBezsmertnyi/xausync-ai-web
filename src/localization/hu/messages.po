@@ -330,6 +330,10 @@ msgid "{NAME_APP} provides analytical insights and educational tools to help use
 msgstr "A {NAME_APP} elemzési betekintéseket és oktatási eszközöket biztosít a felhasználók számára a piaci dinamika és technikai koncepciók tanulmányozásához. Platformunk valós piaci adatokat használ kontextusként az elemzési technikák és gyakorlati példák felfedezéséhez."
 
 #. js-lingui-explicit-id
+msgid "In the mobile app, paid educational access is organized through Energy and Learning Days. Users can purchase Energy and activate Learning Days to unlock additional scenario-based learning features."
+msgstr "A mobil alkalmazásban a fizetett oktatási hozzáférés Energián és Tanulási napokon keresztül van szervezve. A felhasználók megvásárolhatják az Energiát és aktiválhatják a Tanulási napokat, hogy további, forgatókönyv-alapú tanulási funkciókat oldjanak fel."
+
+#. js-lingui-explicit-id
 msgid "Important: {NAME_APP} provides informational and educational content only. It does not provide financial, investment, or trading advice. Real market examples are for study purposes only. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk and rely on your own judgment."
 msgstr "Fontos: A {NAME_APP} kizárólag tájékoztatási és oktatási tartalmat biztosít. Nem nyújt pénzügyi, befektetési vagy kereskedési tanácsot. A valós piaci példák kizárólag tanulmányozási célokra szolgálnak. Minden elemzés lehet hiányos, késleltetett vagy pontatlan. Saját felelősségére használja, és saját belátása alapján döntsön."
 
@@ -344,6 +348,10 @@ msgstr "Bár AI-nk elemzési betekintéseket nyújt, a felhasználóknak saját 
 #. js-lingui-explicit-id
 msgid "Always conduct your own research, consider seeking advice from qualified financial professionals, and never risk more than you can afford to lose."
 msgstr "Mindig végezzen saját kutatást, fontolja meg képzett pénzügyi szakemberek tanácsának kérését, és soha ne vállaljon nagyobb kockázatot, mint amennyit megengedhet magának elveszteni."
+
+#. js-lingui-explicit-id
+msgid "If offered in your app store region, trial and purchase plans are managed through the App Store or Google Play. Cancellation and refund handling follow the applicable store policies."
+msgstr "Ha az Ön alkalmazásbolt régiójában elérhető, a próbaverziós és vásárlási tervek az App Store vagy a Google Play által kezeltek. A lemondás és a visszatérítés kezelése az adott bolt szabályzatai szerint történik."
 
 #. js-lingui-explicit-id
 msgid "Get in Touch"
@@ -412,6 +420,14 @@ msgstr "Nincs befektetési tanács"
 #. js-lingui-explicit-id
 msgid "The information, analysis, and insights provided by {NAME_APP} are for informational and educational purposes only. They do not constitute investment advice, financial advice, trading recommendations, or a solicitation to buy or sell any financial instrument."
 msgstr "A {NAME_APP} által biztosított információk, elemzések és betekintések kizárólag tájékoztatási és oktatási célokat szolgálnak. Nem alkotnak befektetési tanácsot, pénzügyi tanácsot, kereskedési ajánlást vagy felhívást bármely pénzügyi instrumentum megvásárlására vagy eladására."
+
+#. js-lingui-explicit-id
+msgid "Scenario and Signal-Like Outputs"
+msgstr "Forgatókönyv és jel-szerű kimenetek"
+
+#. js-lingui-explicit-id
+msgid "Educational scenarios, AI-generated insights, alerts, and any signal-like visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
+msgstr "Oktatási forgatókönyvek, AI által generált betekintések, riasztások és minden jel-szerű vizuális elem kizárólag tanulási és értelmezési célokat szolgál. Nem szabad pénzügyi tanácsként, befektetési ajánlásként vagy közvetlen kereskedési utasításként kezelni őket."
 
 #. js-lingui-explicit-id
 msgid "AI Limitations"
@@ -574,16 +590,16 @@ msgid "How to Delete Your Account"
 msgstr "Hogyan törölheti fiókját"
 
 #. js-lingui-explicit-id
-msgid "You can delete your {NAME_APP} account directly from the application settings. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
-msgstr "Közvetlenül az alkalmazás beállításaiból törölheti {NAME_APP} fiókját. A fiók törlése végleges, és elveszíti a hozzáférést fiókjához és a kapcsolódó adatokhoz az Adatvédelmi politikánk szerint."
+msgid "You can request deletion of your {NAME_APP} account using available account settings and support channels. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
+msgstr "Fiókjának törlését kérheti a rendelkezésre álló fiókbeállítások és támogatási csatornák használatával. A fiók törlése végleges, és hozzáférést fogja elveszíteni fiókjához és a kapcsolódó adatokhoz a Adatvédelmi szabályzatunk szerint."
 
 #. js-lingui-explicit-id
 msgid "Where to Find the Delete Option"
 msgstr "Hol találja a törlési opciót"
 
 #. js-lingui-explicit-id
-msgid "To delete your account, open the {NAME_APP} mobile application and follow these steps:"
-msgstr "Fiókjának törléséhez nyissa meg a {NAME_APP} mobil alkalmazást és kövesse ezeket a lépéseket:"
+msgid "To request account deletion, open the {NAME_APP} mobile application and follow available account management instructions:"
+msgstr "Fiók törlésének kéréséhez nyissa meg a {NAME_APP} mobilalkalmazást, és kövesse a rendelkezésre álló fiókkezelési utasításokat:"
 
 #. js-lingui-explicit-id
 msgid "Go to your profile in the app"
@@ -594,12 +610,12 @@ msgid "Navigate to Settings"
 msgstr "Navigáljon a Beállításokhoz"
 
 #. js-lingui-explicit-id
-msgid "Scroll to the bottom of the settings page"
-msgstr "Görgessen a beállítások oldal aljára"
+msgid "Use the available account deletion option if it is shown in your app version"
+msgstr "Használja a rendelkezésre álló fiók törlési opciót, ha az megjelenik az alkalmazás verziójában"
 
 #. js-lingui-explicit-id
-msgid "Tap the \"Delete Account\" button"
-msgstr "Érintse meg a \"Fiók törlése\" gombot"
+msgid "If the deletion option is not available, contact support at {CONTACT_EMAIL} to request deletion"
+msgstr "Ha a törlési opció nem elérhető, vegye fel a kapcsolatot a {CONTACT_EMAIL} címen a törlés kéréséhez"
 
 #. js-lingui-explicit-id
 msgid "Confirm your decision to permanently delete your account"
@@ -754,6 +770,10 @@ msgid "Study market analysis and explore market behavior with AI-powered educati
 msgstr "Tanulmányozza a piaci elemzést és fedezze fel a piaci viselkedést AI-vezérelt oktatási eszközökkel. Fedezzen fel valós piaci forgatókönyveket, technikai elemzési koncepciókat és gyakorlati betekintéseket kizárólag oktatási célokra."
 
 #. js-lingui-explicit-id
+msgid "Premium learning access in the mobile app uses Energy and Learning Days: users can purchase Energy, activate Learning Days, and unlock additional educational scenarios, AI explanations, analytics history, and optional alerts."
+msgstr "A prémium tanulási hozzáférés a mobilalkalmazásban energiát és tanulási napokat használ: a felhasználók vásárolhatnak energiát, aktiválhatják a tanulási napokat, és feloldhatják további oktatási forgatókönyveket, AI magyarázatokat, elemzési előzményeket és opcionális riasztásokat."
+
+#. js-lingui-explicit-id
 msgid "Download on the App Store"
 msgstr "Letöltés az App Store-ból"
 
@@ -792,6 +812,10 @@ msgstr "Tanulási felelősség"
 #. js-lingui-explicit-id
 msgid "While our AI provides educational insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a learning tool to study market scenarios and technical analysis concepts."
 msgstr "Bár AI-nk oktatási betekintéseket nyújt, a felhasználóknak saját belátásukra és független kutatásra kell támaszkodniuk. Használja a {NAME_APP}-ot tanulási eszközként a piaci forgatókönyvek és technikai elemzési koncepciók tanulmányozásához."
+
+#. js-lingui-explicit-id
+msgid "A one-day trial may be available for new users in the app. Purchases and billing are handled by the App Store or Google Play, including cancellation and refunds according to their policies."
+msgstr "Új felhasználók számára egy napos próbaidőszak lehet elérhető az alkalmazásban. A vásárlásokat és számlázást az App Store vagy a Google Play kezeli, beleértve a lemondást és a visszatérítéseket a saját szabályzataik szerint."
 
 #. js-lingui-explicit-id
 msgid "Start Your Educational Journey"
@@ -916,6 +940,10 @@ msgstr "Alkalmazás teljesítmény és összeomlási adatok"
 #. js-lingui-explicit-id
 msgid "General demographic information (anonymous)"
 msgstr "Általános demográfiai információk (névtelen)"
+
+#. js-lingui-explicit-id
+msgid "Account-linked analytics properties (such as account identifier, sign-in provider, and profile metadata) to improve service quality and diagnostics"
+msgstr "Fiókhoz kapcsolt analitikai tulajdonságok (például fiókazonosító, bejelentkezési szolgáltató és profil metaadatok) a szolgáltatás minőségének és diagnosztikájának javítása érdekében"
 
 #. js-lingui-explicit-id
 msgid "Learning Data"
@@ -1046,6 +1074,10 @@ msgid "Analytics services (anonymous, aggregated data only)"
 msgstr "Analitika szolgáltatások (kizárólag névtelen, aggregált adatok)"
 
 #. js-lingui-explicit-id
+msgid "Optional messaging and notification channels enabled by users (for example, Telegram alerts)"
+msgstr "Felhasználók által engedélyezett opcionális üzenetküldési és értesítési csatornák (például Telegram riasztások)"
+
+#. js-lingui-explicit-id
 msgid "Data Security"
 msgstr "Adatbiztonság"
 
@@ -1162,8 +1194,8 @@ msgid "Notification Types"
 msgstr "Értesítési típusok"
 
 #. js-lingui-explicit-id
-msgid "With your permission, we send push notifications for:"
-msgstr "Engedélyével push értesítéseket küldünk:"
+msgid "With your permission, we send notifications through supported channels (such as push notifications and optional third-party channels) for:"
+msgstr "Engedélyével értesítéseket küldünk támogatott csatornákon (például push értesítések és opcionális harmadik feles csatornák) a következőkre:"
 
 #. js-lingui-explicit-id
 msgid "Learning alerts and market examples"
@@ -1204,6 +1236,10 @@ msgstr "Értesítés gyakoriság és időzítés kezelése"
 #. js-lingui-explicit-id
 msgid "Revoke notification permission at any time"
 msgstr "Értesítési engedély visszavonása bármikor"
+
+#. js-lingui-explicit-id
+msgid "Connect or disconnect optional third-party channels from notification settings when available"
+msgstr "Opcionális harmadik feles csatornák csatlakoztatása vagy leválasztása az értesítési beállításokból, amikor elérhető"
 
 #. js-lingui-explicit-id
 msgid "Energy Purchases and Payments"
@@ -1402,8 +1438,8 @@ msgid "7. Energy Purchases and Payments"
 msgstr "7. Energia vásárlások és fizetések"
 
 #. js-lingui-explicit-id
-msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
-msgstr "{NAME_APP} prémium funkciókat kínál Energia-alapú hozzáférés révén. A felhasználók belső tanulási valutát, az úgynevezett Energiát vásárolhatnak az App Store-on vagy a Google Play-en keresztül (a RevenueCat segítségével). Az Energia az AI oktatási elemzésekhez és tanulási funkciókhoz való hozzáféréshez használható. A fizetési feldolgozást az adott alkalmazásboltok végzik. Az Energia vásárlások nem visszatéríthetők, kivéve, ha a törvény vagy az alkalmazásbolt szabályzata másként rendelkezik. A felhasználók kezelhetik Energia vásárlásaikat az alkalmazásbolt fiókbeállításain keresztül."
+msgid "{NAME_APP} offers paid educational access through an Energy and Learning Days model. Users may purchase internal learning credits (Energy) via the App Store or Google Play (through RevenueCat), and then activate Learning Days to unlock additional educational scenarios, AI explanations, analytics tools, and related learning features. Payment processing is handled by the applicable app store. Some plans offered in your region may renew automatically under store rules. Users can manage or cancel eligible plans in their App Store or Google Play account settings. Refunds are handled according to applicable law and the policies of the relevant app store provider."
+msgstr "A {NAME_APP} fizetős oktatási hozzáférést kínál egy Energia és Tanulási Napok modellben. A felhasználók belső tanulási krediteket (Energia) vásárolhatnak az App Store vagy Google Play-en keresztül (RevenueCat-en keresztül), majd aktiválhatják a Tanulási Napokat további oktatási forgatókönyvek, AI magyarázatok, analitikai eszközök és kapcsolódó tanulási funkciók feloldásához. A fizetés feldolgozását az adott alkalmazásbolt kezeli. Néhány, az Ön régiójában kínált terv automatikusan megújulhat a bolt szabályai szerint. A felhasználók kezelhetik vagy lemondhatják az jogosult terveket az App Store vagy Google Play fiókbeállításaikban. A visszatérítéseket a vonatkozó törvények és a releváns alkalmazásbolt szolgáltatóinak szabályzatai szerint kezeljük."
 
 #. js-lingui-explicit-id
 msgid "8. Acceptable Use"
@@ -1482,8 +1518,8 @@ msgid "14. Account Suspension and Termination"
 msgstr "14. Fiók felfüggesztése és megszüntetése"
 
 #. js-lingui-explicit-id
-msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users may delete their accounts at any time through the app settings."
-msgstr "Fenntartjuk a jogot, hogy felfügeszthetjük vagy megszüntethetjük a felhasználói fiókokat ezen feltételek megsértése, csalárd tevékenység vagy bármilyen, a szolgáltatásunk vagy más felhasználók védelméhez szükséges ok miatt. A megszüntetett felhasználók elvesztik a hozzáférést minden funkcióhoz és adathoz. A felhasználók bármikor törölhetik fiókjukat az alkalmazás beállításaiban."
+msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users can request account deletion using available in-app account settings and support channels, as described in our account deletion instructions."
+msgstr "Fenntartjuk a jogot, hogy felfüggesszük vagy megszüntessük a felhasználói fiókokat ezen feltételek megsértése, csalárd tevékenység vagy bármilyen ok miatt, amely szükséges a szolgáltatásunk vagy más felhasználók védelméhez. A megszüntetett felhasználók elveszítik a hozzáférést minden funkcióhoz és adathoz. A felhasználók kérhetik fiókjuk törlését az alkalmazásban elérhető fiókbeállítások és támogatási csatornák használatával, ahogy azt a fióktörlési utasításaink leírják."
 
 #. js-lingui-explicit-id
 msgid "15. Privacy and Data Protection"

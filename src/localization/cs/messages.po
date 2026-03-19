@@ -330,6 +330,10 @@ msgid "{NAME_APP} provides analytical insights and educational tools to help use
 msgstr "{NAME_APP} poskytuje analytické poznatky a vzdělávací nástroje, které pomáhají uživatelům studovat dynamiku trhu a technické koncepty. Naše platforma používá reálná tržní data jako kontext pro zkoumání analytických technik a praktických příkladů."
 
 #. js-lingui-explicit-id
+msgid "In the mobile app, paid educational access is organized through Energy and Learning Days. Users can purchase Energy and activate Learning Days to unlock additional scenario-based learning features."
+msgstr "V mobilní aplikaci je placený přístup k vzdělávání organizován prostřednictvím Energie a Dnů učení. Uživatelé mohou zakoupit Energii a aktivovat Dny učení, aby odemkli další funkce pro učení založené na scénářích."
+
+#. js-lingui-explicit-id
 msgid "Important: {NAME_APP} provides informational and educational content only. It does not provide financial, investment, or trading advice. Real market examples are for study purposes only. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk and rely on your own judgment."
 msgstr "Důležité: {NAME_APP} poskytuje pouze informační a vzdělávací obsah. Neposkytuje finanční, investiční nebo obchodní rady. Reálné tržní příklady jsou pouze pro studijní účely. Veškerá analýza může být neúplná, zpožděná nebo nepřesná. Používejte na vlastní riziko a spoléhejte na vlastní úsudek."
 
@@ -344,6 +348,10 @@ msgstr "Ačkoli naše AI poskytuje analytické poznatky, uživatelé se musí sp
 #. js-lingui-explicit-id
 msgid "Always conduct your own research, consider seeking advice from qualified financial professionals, and never risk more than you can afford to lose."
 msgstr "Vždy provádějte vlastní výzkum, zvažte vyhledání rady od kvalifikovaných finančních profesionálů a nikdy neriskujte více, než si můžete dovolit ztratit."
+
+#. js-lingui-explicit-id
+msgid "If offered in your app store region, trial and purchase plans are managed through the App Store or Google Play. Cancellation and refund handling follow the applicable store policies."
+msgstr "Pokud je ve vaší oblasti obchodu s aplikacemi k dispozici, jsou zkušební a nákupní plány spravovány prostřednictvím App Store nebo Google Play. Zrušení a zpracování vrácení peněz se řídí příslušnými zásadami obchodu."
 
 #. js-lingui-explicit-id
 msgid "Get in Touch"
@@ -412,6 +420,14 @@ msgstr "Žádné Investiční Rady"
 #. js-lingui-explicit-id
 msgid "The information, analysis, and insights provided by {NAME_APP} are for informational and educational purposes only. They do not constitute investment advice, financial advice, trading recommendations, or a solicitation to buy or sell any financial instrument."
 msgstr "Informace, analýza a poznatky poskytované {NAME_APP} jsou pouze pro informační a vzdělávací účely. Nezahrnují investiční rady, finanční rady, obchodní doporučení nebo výzvu k nákupu nebo prodeji jakéhokoli finančního nástroje."
+
+#. js-lingui-explicit-id
+msgid "Scenario and Signal-Like Outputs"
+msgstr "Scénář a Výstupy Podobné Signálům"
+
+#. js-lingui-explicit-id
+msgid "Educational scenarios, AI-generated insights, alerts, and any signal-like visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
+msgstr "Vzdělávací scénáře, AI-generované poznatky, upozornění a jakékoli vizuální prvky podobné signálům jsou poskytovány pouze pro účely učení a interpretace. Nesmí být považovány za finanční rady, investiční doporučení nebo přímé pokyny k obchodování."
 
 #. js-lingui-explicit-id
 msgid "AI Limitations"
@@ -574,16 +590,16 @@ msgid "How to Delete Your Account"
 msgstr "Jak Smazat Svůj Účet"
 
 #. js-lingui-explicit-id
-msgid "You can delete your {NAME_APP} account directly from the application settings. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
-msgstr "Můžete smazat svůj účet {NAME_APP} přímo z nastavení aplikace. Smazání účtu je trvalé a odstraní přístup k vašemu účtu a souvisejícím datům podle našich Zásad ochrany osobních údajů."
+msgid "You can request deletion of your {NAME_APP} account using available account settings and support channels. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
+msgstr "Můžete požádat o smazání svého účtu {NAME_APP} pomocí dostupných nastavení účtu a kanálů podpory. Smazání účtu je trvalé a odstraní přístup k vašemu účtu a souvisejícím datům v souladu s našimi Zásadami ochrany osobních údajů."
 
 #. js-lingui-explicit-id
 msgid "Where to Find the Delete Option"
 msgstr "Kde Najít Možnost Smazání"
 
 #. js-lingui-explicit-id
-msgid "To delete your account, open the {NAME_APP} mobile application and follow these steps:"
-msgstr "Chcete-li smazat svůj účet, otevřete mobilní aplikaci {NAME_APP} a postupujte podle těchto kroků:"
+msgid "To request account deletion, open the {NAME_APP} mobile application and follow available account management instructions:"
+msgstr "Chcete-li požádat o smazání účtu, otevřete mobilní aplikaci {NAME_APP} a postupujte podle dostupných pokynů pro správu účtu:"
 
 #. js-lingui-explicit-id
 msgid "Go to your profile in the app"
@@ -594,12 +610,12 @@ msgid "Navigate to Settings"
 msgstr "Přejděte do Nastavení"
 
 #. js-lingui-explicit-id
-msgid "Scroll to the bottom of the settings page"
-msgstr "Posuňte se dolů na stránku nastavení"
+msgid "Use the available account deletion option if it is shown in your app version"
+msgstr "Použijte dostupnou možnost smazání účtu, pokud je zobrazena ve vaší verzi aplikace"
 
 #. js-lingui-explicit-id
-msgid "Tap the \"Delete Account\" button"
-msgstr "Klepněte na tlačítko \"Smazat účet\""
+msgid "If the deletion option is not available, contact support at {CONTACT_EMAIL} to request deletion"
+msgstr "Pokud možnost smazání není k dispozici, kontaktujte podporu na {CONTACT_EMAIL} a požádejte o smazání"
 
 #. js-lingui-explicit-id
 msgid "Confirm your decision to permanently delete your account"
@@ -754,6 +770,10 @@ msgid "Study market analysis and explore market behavior with AI-powered educati
 msgstr "Studujte tržní analýzu a prozkoumejte chování trhu s AI-poháněnými vzdělávacími nástroji. Objevte reálné tržní scénáře, koncepty technické analýzy a praktické poznatky pouze pro vzdělávací účely."
 
 #. js-lingui-explicit-id
+msgid "Premium learning access in the mobile app uses Energy and Learning Days: users can purchase Energy, activate Learning Days, and unlock additional educational scenarios, AI explanations, analytics history, and optional alerts."
+msgstr "Prémiový přístup k učení v mobilní aplikaci využívá Energii a Dny Učení: uživatelé mohou zakoupit Energii, aktivovat Dny Učení a odemknout další vzdělávací scénáře, AI vysvětlení, historii analýz a volitelné upozornění."
+
+#. js-lingui-explicit-id
 msgid "Download on the App Store"
 msgstr "Stáhnout v App Store"
 
@@ -792,6 +812,10 @@ msgstr "Zodpovědnost Učení"
 #. js-lingui-explicit-id
 msgid "While our AI provides educational insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a learning tool to study market scenarios and technical analysis concepts."
 msgstr "Ačkoli naše AI poskytuje vzdělávací poznatky, uživatelé se musí spoléhat na vlastní úsudek a nezávislý výzkum. Používejte {NAME_APP} jako učící nástroj ke studiu tržních scénářů a konceptů technické analýzy."
+
+#. js-lingui-explicit-id
+msgid "A one-day trial may be available for new users in the app. Purchases and billing are handled by the App Store or Google Play, including cancellation and refunds according to their policies."
+msgstr "Jednodenní zkušební verze může být k dispozici pro nové uživatele v aplikaci. Nákupy a fakturace jsou zpracovávány App Store nebo Google Play, včetně zrušení a vrácení peněz podle jejich zásad."
 
 #. js-lingui-explicit-id
 msgid "Start Your Educational Journey"
@@ -916,6 +940,10 @@ msgstr "Výkon aplikace a data o pádech"
 #. js-lingui-explicit-id
 msgid "General demographic information (anonymous)"
 msgstr "Obecné demografické informace (anonymní)"
+
+#. js-lingui-explicit-id
+msgid "Account-linked analytics properties (such as account identifier, sign-in provider, and profile metadata) to improve service quality and diagnostics"
+msgstr "Analytické vlastnosti spojené s účtem (jako identifikátor účtu, poskytovatel přihlášení a metadata profilu) pro zlepšení kvality služby a diagnostiky"
 
 #. js-lingui-explicit-id
 msgid "Learning Data"
@@ -1046,6 +1074,10 @@ msgid "Analytics services (anonymous, aggregated data only)"
 msgstr "Analytické služby (pouze anonymní, agregovaná data)"
 
 #. js-lingui-explicit-id
+msgid "Optional messaging and notification channels enabled by users (for example, Telegram alerts)"
+msgstr "Volitelné kanály pro zasílání zpráv a oznámení povolené uživateli (například Telegram upozornění)"
+
+#. js-lingui-explicit-id
 msgid "Data Security"
 msgstr "Bezpečnost Dat"
 
@@ -1162,8 +1194,8 @@ msgid "Notification Types"
 msgstr "Typy Oznámení"
 
 #. js-lingui-explicit-id
-msgid "With your permission, we send push notifications for:"
-msgstr "S vaším svolením posíláme push oznámení pro:"
+msgid "With your permission, we send notifications through supported channels (such as push notifications and optional third-party channels) for:"
+msgstr "S vaším svolením posíláme oznámení prostřednictvím podporovaných kanálů (jako jsou push oznámení a volitelné kanály třetích stran) pro:"
 
 #. js-lingui-explicit-id
 msgid "Learning alerts and market examples"
@@ -1204,6 +1236,10 @@ msgstr "Spravovat frekvenci a časování oznámení"
 #. js-lingui-explicit-id
 msgid "Revoke notification permission at any time"
 msgstr "Odvolat povolení oznámení kdykoli"
+
+#. js-lingui-explicit-id
+msgid "Connect or disconnect optional third-party channels from notification settings when available"
+msgstr "Připojte nebo odpojte volitelné kanály třetích stran z nastavení oznámení, když jsou k dispozici"
 
 #. js-lingui-explicit-id
 msgid "Energy Purchases and Payments"
@@ -1402,8 +1438,8 @@ msgid "7. Energy Purchases and Payments"
 msgstr "7. Nákupy Energie a Platby"
 
 #. js-lingui-explicit-id
-msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
-msgstr "{NAME_APP} nabízí prémiové funkce prostřednictvím přístupu založeného na energii. Uživatelé nakupují vnitřní učící měnu nazvanou Energy prostřednictvím App Store nebo Google Play (přes RevenueCat). Energy se používá k přístupu k AI vzdělávací analýze a funkcím učení. Zpracování plateb zajišťují příslušné obchody s aplikacemi. Nákupy energie jsou nevratné, kromě případů, kdy to vyžaduje zákon nebo zásady obchodu s aplikacemi. Uživatelé mohou spravovat své nákupy energie prostřednictvím nastavení svého účtu v obchodě s aplikacemi."
+msgid "{NAME_APP} offers paid educational access through an Energy and Learning Days model. Users may purchase internal learning credits (Energy) via the App Store or Google Play (through RevenueCat), and then activate Learning Days to unlock additional educational scenarios, AI explanations, analytics tools, and related learning features. Payment processing is handled by the applicable app store. Some plans offered in your region may renew automatically under store rules. Users can manage or cancel eligible plans in their App Store or Google Play account settings. Refunds are handled according to applicable law and the policies of the relevant app store provider."
+msgstr "{NAME_APP} nabízí placený vzdělávací přístup prostřednictvím modelu Energie a Dny Učení. Uživatelé mohou zakoupit interní učící kredity (Energie) prostřednictvím App Store nebo Google Play (přes RevenueCat) a poté aktivovat Dny Učení pro odemknutí dalších vzdělávacích scénářů, AI vysvětlení, analytických nástrojů a souvisejících funkcí učení. Zpracování plateb je zajišťováno příslušným obchodem s aplikacemi. Některé plány nabízené ve vaší oblasti se mohou automaticky obnovovat podle pravidel obchodu. Uživatelé mohou spravovat nebo zrušit způsobilé plány v nastavení svého účtu App Store nebo Google Play. Refundace jsou zpracovávány v souladu s platným zákonem a politikami příslušného poskytovatele obchodu s aplikacemi."
 
 #. js-lingui-explicit-id
 msgid "8. Acceptable Use"
@@ -1482,8 +1518,8 @@ msgid "14. Account Suspension and Termination"
 msgstr "14. Pozastavení a Ukončení Účtu"
 
 #. js-lingui-explicit-id
-msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users may delete their accounts at any time through the app settings."
-msgstr "Vyhrazujeme si právo pozastavit nebo ukončit uživatelské účty z důvodu porušení těchto podmínek, podvodné aktivity nebo jakéhokoli důvodu nezbytného pro ochranu naší služby nebo jiných uživatelů. Ukončení uživatelé ztrácejí přístup ke všem funkcím a datům. Uživatelé mohou smazat své účty kdykoli prostřednictvím nastavení aplikace."
+msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users can request account deletion using available in-app account settings and support channels, as described in our account deletion instructions."
+msgstr "Vyhrazujeme si právo pozastavit nebo ukončit uživatelské účty za porušení těchto podmínek, podvodnou činnost nebo jakýkoli důvod nezbytný k ochraně naší služby nebo ostatních uživatelů. Ukončení uživatelé ztrácejí přístup ke všem funkcím a datům. Uživatelé mohou požádat o smazání účtu pomocí dostupných nastavení účtu v aplikaci a kanálů podpory, jak je popsáno v našich pokynech pro smazání účtu."
 
 #. js-lingui-explicit-id
 msgid "15. Privacy and Data Protection"

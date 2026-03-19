@@ -330,6 +330,10 @@ msgid "{NAME_APP} provides analytical insights and educational tools to help use
 msgstr "{NAME_APP} nodrošina analītiskus ieskatus un izglītojošus rīkus, lai palīdzētu lietotājiem pētīt tirgus dinamiku un tehniskos jēdzienus. Mūsu platforma izmanto reālus tirgus datus kā kontekstu, lai izpētītu analīzes tehnikas un praktiskus piemērus."
 
 #. js-lingui-explicit-id
+msgid "In the mobile app, paid educational access is organized through Energy and Learning Days. Users can purchase Energy and activate Learning Days to unlock additional scenario-based learning features."
+msgstr "Mobilajā lietotnē maksas izglītojoša piekļuve tiek organizēta caur Enerģiju un Mācību dienām. Lietotāji var iegādāties Enerģiju un aktivizēt Mācību dienas, lai atbloķētu papildu scenāriju balstītas mācību funkcijas."
+
+#. js-lingui-explicit-id
 msgid "Important: {NAME_APP} provides informational and educational content only. It does not provide financial, investment, or trading advice. Real market examples are for study purposes only. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk and rely on your own judgment."
 msgstr "Important: {NAME_APP} nodrošina tikai informatīvu un izglītojošu saturu. Tas nesniedz finanšu, investīciju vai tirdzniecības padomus. Reālu tirgus piemēri ir tikai studiju nolūkiem. Visa analīze var būt nepilnīga, aizkavēta vai neprecīza. Izmantojiet uz savu risku un paļaujieties uz savu spriedumu."
 
@@ -344,6 +348,10 @@ msgstr "Lai gan mūsu AI nodrošina analītiskus ieskatus, lietotājiem jāpaļa
 #. js-lingui-explicit-id
 msgid "Always conduct your own research, consider seeking advice from qualified financial professionals, and never risk more than you can afford to lose."
 msgstr "Vienmēr veiciet savu pētījumu, apsveriet iespēju meklēt padomu no kvalificētiem finanšu speciālistiem un nekad neriskējiet vairāk, nekā varat atļauties zaudēt."
+
+#. js-lingui-explicit-id
+msgid "If offered in your app store region, trial and purchase plans are managed through the App Store or Google Play. Cancellation and refund handling follow the applicable store policies."
+msgstr "Ja jūsu lietotņu veikalā tiek piedāvāti izmēģinājuma un pirkšanas plāni, tie tiek pārvaldīti caur App Store vai Google Play. Atcelšanas un atmaksas apstrāde seko attiecīgajām veikala politikām."
 
 #. js-lingui-explicit-id
 msgid "Get in Touch"
@@ -412,6 +420,14 @@ msgstr "Nav ieguldījumu padomu"
 #. js-lingui-explicit-id
 msgid "The information, analysis, and insights provided by {NAME_APP} are for informational and educational purposes only. They do not constitute investment advice, financial advice, trading recommendations, or a solicitation to buy or sell any financial instrument."
 msgstr "Informācija, analīze un ieskati, ko sniedz {NAME_APP}, ir tikai informatīviem un izglītojošiem nolūkiem. Tie neuzskatāmi par ieguldījumu padomiem, finanšu padomiem, tirdzniecības ieteikumiem vai aicinājumu pirkt vai pārdot jebkuru finanšu instrumentu."
+
+#. js-lingui-explicit-id
+msgid "Scenario and Signal-Like Outputs"
+msgstr "Scenāriju un signālu līdzīgu rezultātu izslēgšana"
+
+#. js-lingui-explicit-id
+msgid "Educational scenarios, AI-generated insights, alerts, and any signal-like visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
+msgstr "Izglītojoši scenāriji, AI ģenerēti ieskati, brīdinājumi un jebkuri signālu līdzīgi vizuālie elementi tiek sniegti tikai mācību un interpretācijas nolūkiem. Tie nedrīkst tikt uzskatīti par finanšu padomiem, ieguldījumu ieteikumiem vai tiešām instrukcijām tirdzniecībai."
 
 #. js-lingui-explicit-id
 msgid "AI Limitations"
@@ -574,16 +590,16 @@ msgid "How to Delete Your Account"
 msgstr "Kā dzēst savu kontu"
 
 #. js-lingui-explicit-id
-msgid "You can delete your {NAME_APP} account directly from the application settings. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
-msgstr "Jūs varat dzēst savu {NAME_APP} kontu tieši no lietotnes iestatījumiem. Konta dzēšana ir pastāvīga un noņems piekļuvi jūsu kontam un saistītajiem datiem saskaņā ar mūsu Privātuma politiku."
+msgid "You can request deletion of your {NAME_APP} account using available account settings and support channels. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
+msgstr "Jūs varat pieprasīt sava {NAME_APP} konta dzēšanu, izmantojot pieejamos konta iestatījumus un atbalsta kanālus. Konta dzēšana ir pastāvīga un noņems piekļuvi jūsu kontam un saistītiem datiem saskaņā ar mūsu Privātuma politiku."
 
 #. js-lingui-explicit-id
 msgid "Where to Find the Delete Option"
 msgstr "Kur atrast dzēšanas opciju"
 
 #. js-lingui-explicit-id
-msgid "To delete your account, open the {NAME_APP} mobile application and follow these steps:"
-msgstr "Lai dzēstu savu kontu, atveriet {NAME_APP} mobilo lietotni un izpildiet šos soļus:"
+msgid "To request account deletion, open the {NAME_APP} mobile application and follow available account management instructions:"
+msgstr "Lai pieprasītu konta dzēšanu, atveriet {NAME_APP} mobilo lietotni un sekojiet pieejamām konta pārvaldības instrukcijām:"
 
 #. js-lingui-explicit-id
 msgid "Go to your profile in the app"
@@ -594,12 +610,12 @@ msgid "Navigate to Settings"
 msgstr "Dodieties uz Iestatījumiem"
 
 #. js-lingui-explicit-id
-msgid "Scroll to the bottom of the settings page"
-msgstr "Ritiniet uz leju līdz iestatījumu lapas apakšai"
+msgid "Use the available account deletion option if it is shown in your app version"
+msgstr "Izmantojiet pieejamo konta dzēšanas opciju, ja tā ir parādīta jūsu lietotnes versijā"
 
 #. js-lingui-explicit-id
-msgid "Tap the \"Delete Account\" button"
-msgstr "Pieskarieties pogai \"Dzēst kontu\""
+msgid "If the deletion option is not available, contact support at {CONTACT_EMAIL} to request deletion"
+msgstr "Ja dzēšanas opcija nav pieejama, sazinieties ar atbalstu, rakstot uz {CONTACT_EMAIL}, lai pieprasītu dzēšanu"
 
 #. js-lingui-explicit-id
 msgid "Confirm your decision to permanently delete your account"
@@ -754,6 +770,10 @@ msgid "Study market analysis and explore market behavior with AI-powered educati
 msgstr "Pētiet tirgus analīzi un izpētiet tirgus uzvedību ar AI-darbināmiem izglītojošiem rīkiem. Atklājiet reālus tirgus scenārijus, tehniskās analīzes jēdzienus un praktiskus ieskatus tikai izglītojošiem mērķiem."
 
 #. js-lingui-explicit-id
+msgid "Premium learning access in the mobile app uses Energy and Learning Days: users can purchase Energy, activate Learning Days, and unlock additional educational scenarios, AI explanations, analytics history, and optional alerts."
+msgstr "Premium mācību piekļuve mobilajā lietotnē izmanto Energy un Learning Days: lietotāji var iegādāties Energy, aktivizēt Learning Days un atbloķēt papildu izglītojošus scenārijus, AI skaidrojumus, analītikas vēsturi un opcionalas brīdinājumus."
+
+#. js-lingui-explicit-id
 msgid "Download on the App Store"
 msgstr "Lejupielādēt App Store"
 
@@ -792,6 +812,10 @@ msgstr "Mācību atbildība"
 #. js-lingui-explicit-id
 msgid "While our AI provides educational insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a learning tool to study market scenarios and technical analysis concepts."
 msgstr "Lai gan mūsu AI nodrošina izglītojošus ieskatus, lietotājiem jāpaļaujas uz savu spriedumu un neatkarīgiem pētījumiem. Izmantojiet {NAME_APP} kā mācību rīku, lai pētītu tirgus scenārijus un tehniskās analīzes jēdzienus."
+
+#. js-lingui-explicit-id
+msgid "A one-day trial may be available for new users in the app. Purchases and billing are handled by the App Store or Google Play, including cancellation and refunds according to their policies."
+msgstr "Jaunajiem lietotājiem lietotnē var būt pieejams vienas dienas izmēģinājums. Pirkumus un norēķinus apstrādā App Store vai Google Play, ieskaitot atcelšanu un atmaksas saskaņā ar viņu politikām."
 
 #. js-lingui-explicit-id
 msgid "Start Your Educational Journey"
@@ -916,6 +940,10 @@ msgstr "Lietotnes veiktspējas un avāriju dati"
 #. js-lingui-explicit-id
 msgid "General demographic information (anonymous)"
 msgstr "Vispārīga demogrāfiskā informācija (anonīma)"
+
+#. js-lingui-explicit-id
+msgid "Account-linked analytics properties (such as account identifier, sign-in provider, and profile metadata) to improve service quality and diagnostics"
+msgstr "Kontam saistītas analītikas īpašības (piemēram, konta identifikators, pieteikšanās pakalpojumu sniedzējs un profila metadati), lai uzlabotu pakalpojuma kvalitāti un diagnostiku"
 
 #. js-lingui-explicit-id
 msgid "Learning Data"
@@ -1046,6 +1074,10 @@ msgid "Analytics services (anonymous, aggregated data only)"
 msgstr "Analītikas pakalpojumi (tikai anonīmi, apkopoti dati)"
 
 #. js-lingui-explicit-id
+msgid "Optional messaging and notification channels enabled by users (for example, Telegram alerts)"
+msgstr "Lietotājiem iespējoti izvēles ziņojumapmaiņas un paziņojumu kanāli (piemēram, Telegram brīdinājumi)"
+
+#. js-lingui-explicit-id
 msgid "Data Security"
 msgstr "Datu drošība"
 
@@ -1162,8 +1194,8 @@ msgid "Notification Types"
 msgstr "Paziņojumu veidi"
 
 #. js-lingui-explicit-id
-msgid "With your permission, we send push notifications for:"
-msgstr "Ar jūsu atļauju mēs sūtām push paziņojumus par:"
+msgid "With your permission, we send notifications through supported channels (such as push notifications and optional third-party channels) for:"
+msgstr "Ar jūsu atļauju mēs sūtām paziņojumus caur atbalstītiem kanāliem (piemēram, push paziņojumi un opcionalas trešo pušu kanāli) par:"
 
 #. js-lingui-explicit-id
 msgid "Learning alerts and market examples"
@@ -1204,6 +1236,10 @@ msgstr "Pārvaldīt paziņojumu biežumu un laiku"
 #. js-lingui-explicit-id
 msgid "Revoke notification permission at any time"
 msgstr "Atcelt paziņojumu atļauju jebkurā laikā"
+
+#. js-lingui-explicit-id
+msgid "Connect or disconnect optional third-party channels from notification settings when available"
+msgstr "Pievienot vai atvienot opcionalas trešo pušu kanālus no paziņojumu iestatījumiem, kad tas ir pieejams"
 
 #. js-lingui-explicit-id
 msgid "Energy Purchases and Payments"
@@ -1402,8 +1438,8 @@ msgid "7. Energy Purchases and Payments"
 msgstr "7. Enerģijas pirkumi un maksājumi"
 
 #. js-lingui-explicit-id
-msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
-msgstr "{NAME_APP} piedāvā premium funkcijas, izmantojot enerģijas bāzes piekļuvi. Lietotāji pērk iekšējo mācību valūtu, ko sauc par enerģiju, caur App Store vai Google Play (izmantojot RevenueCat). Enerģija tiek izmantota, lai piekļūtu AI izglītojošai analīzei un mācību funkcijām. Maksājumu apstrādi veic attiecīgie app veikali. Enerģijas pirkumi nav atmaksājami, izņemot gadījumus, kad to prasa likums vai app veikalu politikas. Lietotāji var pārvaldīt savus enerģijas pirkumus caur savu app veikalu konta iestatījumiem."
+msgid "{NAME_APP} offers paid educational access through an Energy and Learning Days model. Users may purchase internal learning credits (Energy) via the App Store or Google Play (through RevenueCat), and then activate Learning Days to unlock additional educational scenarios, AI explanations, analytics tools, and related learning features. Payment processing is handled by the applicable app store. Some plans offered in your region may renew automatically under store rules. Users can manage or cancel eligible plans in their App Store or Google Play account settings. Refunds are handled according to applicable law and the policies of the relevant app store provider."
+msgstr "{NAME_APP} piedāvā maksas izglītības piekļuvi, izmantojot Enerģijas un Mācību dienu modeli. Lietotāji var iegādāties iekšējos mācību kredītus (Enerģiju) caur App Store vai Google Play (caur RevenueCat), un pēc tam aktivizēt Mācību dienas, lai atbloķētu papildu izglītības scenārijus, AI skaidrojumus, analītiskos rīkus un saistītās mācību funkcijas. Maksājumu apstrādi veic attiecīgais app veikals. Daži jūsu reģionā piedāvātie plāni var tikt automātiski atjaunoti saskaņā ar veikala noteikumiem. Lietotāji var pārvaldīt vai atcelt piemērojamos plānus savos App Store vai Google Play konta iestatījumos. Atmaksas tiek apstrādātas saskaņā ar piemērojamiem likumiem un attiecīgā app veikala sniedzēja politikām."
 
 #. js-lingui-explicit-id
 msgid "8. Acceptable Use"
@@ -1482,8 +1518,8 @@ msgid "14. Account Suspension and Termination"
 msgstr "14. Konta apturēšana un izbeigšana"
 
 #. js-lingui-explicit-id
-msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users may delete their accounts at any time through the app settings."
-msgstr "Mēs paturam tiesības apturēt vai izbeigt lietotāju kontus par šo noteikumu pārkāpumiem, krāpniecisku darbību vai jebkādu iemeslu, kas nepieciešams, lai aizsargātu mūsu pakalpojumu vai citus lietotājus. Izbeigtie lietotāji zaudē piekļuvi visām funkcijām un datiem. Lietotāji var dzēst savus kontus jebkurā laikā, izmantojot lietotnes iestatījumus."
+msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users can request account deletion using available in-app account settings and support channels, as described in our account deletion instructions."
+msgstr "Mēs paturam tiesības apturēt vai izbeigt lietotāju kontus par šo noteikumu pārkāpumiem, krāpnieciskām darbībām vai jebkuru iemeslu, kas nepieciešams, lai aizsargātu mūsu pakalpojumu vai citus lietotājus. Izbeigti lietotāji zaudē piekļuvi visām funkcijām un datiem. Lietotāji var pieprasīt konta dzēšanu, izmantojot pieejamos in-app konta iestatījumus un atbalsta kanālus, kā aprakstīts mūsu konta dzēšanas instrukcijās."
 
 #. js-lingui-explicit-id
 msgid "15. Privacy and Data Protection"

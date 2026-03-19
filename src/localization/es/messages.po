@@ -330,6 +330,10 @@ msgid "{NAME_APP} provides analytical insights and educational tools to help use
 msgstr "{NAME_APP} proporciona conocimientos analíticos y herramientas educativas para ayudar a los usuarios a estudiar la dinámica del mercado y conceptos técnicos. Nuestra plataforma utiliza datos reales del mercado como contexto para explorar técnicas de análisis y ejemplos prácticos."
 
 #. js-lingui-explicit-id
+msgid "In the mobile app, paid educational access is organized through Energy and Learning Days. Users can purchase Energy and activate Learning Days to unlock additional scenario-based learning features."
+msgstr "En la aplicación móvil, el acceso educativo de pago se organiza a través de Energía y Días de Aprendizaje. Los usuarios pueden comprar Energía y activar Días de Aprendizaje para desbloquear funciones adicionales de aprendizaje basadas en escenarios."
+
+#. js-lingui-explicit-id
 msgid "Important: {NAME_APP} provides informational and educational content only. It does not provide financial, investment, or trading advice. Real market examples are for study purposes only. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk and rely on your own judgment."
 msgstr "Importante: {NAME_APP} proporciona solo contenido informativo y educativo. No proporciona asesoramiento financiero, de inversión o comercial. Los ejemplos del mercado real son solo para fines de estudio. Todo el análisis puede estar incompleto, retrasado o ser inexacto. Use bajo su propio riesgo y confíe en su propio juicio."
 
@@ -344,6 +348,10 @@ msgstr "Aunque nuestra IA proporciona conocimientos analíticos, los usuarios de
 #. js-lingui-explicit-id
 msgid "Always conduct your own research, consider seeking advice from qualified financial professionals, and never risk more than you can afford to lose."
 msgstr "Realice siempre su propia investigación, considere buscar consejo de profesionales financieros calificados y nunca arriesgue más de lo que puede permitirse perder."
+
+#. js-lingui-explicit-id
+msgid "If offered in your app store region, trial and purchase plans are managed through the App Store or Google Play. Cancellation and refund handling follow the applicable store policies."
+msgstr "Si se ofrecen en su región de la tienda de aplicaciones, los planes de prueba y compra se gestionan a través del App Store o Google Play. La cancelación y el manejo de reembolsos siguen las políticas aplicables de la tienda."
 
 #. js-lingui-explicit-id
 msgid "Get in Touch"
@@ -412,6 +420,14 @@ msgstr "Sin Asesoramiento de Inversión"
 #. js-lingui-explicit-id
 msgid "The information, analysis, and insights provided by {NAME_APP} are for informational and educational purposes only. They do not constitute investment advice, financial advice, trading recommendations, or a solicitation to buy or sell any financial instrument."
 msgstr "La información, análisis y conocimientos proporcionados por {NAME_APP} son solo para fines informativos y educativos. No constituyen asesoramiento de inversión, asesoramiento financiero, recomendaciones de trading o una solicitud para comprar o vender cualquier instrumento financiero."
+
+#. js-lingui-explicit-id
+msgid "Scenario and Signal-Like Outputs"
+msgstr "Salidas de Escenarios y Elementos Visuales Similares a Señales"
+
+#. js-lingui-explicit-id
+msgid "Educational scenarios, AI-generated insights, alerts, and any signal-like visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
+msgstr "Los escenarios educativos, conocimientos generados por IA, alertas y cualquier elemento visual similar a señales se proporcionan solo para fines de aprendizaje e interpretación. No deben ser tratados como asesoramiento financiero, recomendaciones de inversión o instrucciones directas para hacer trading."
 
 #. js-lingui-explicit-id
 msgid "AI Limitations"
@@ -574,16 +590,16 @@ msgid "How to Delete Your Account"
 msgstr "Cómo Eliminar su Cuenta"
 
 #. js-lingui-explicit-id
-msgid "You can delete your {NAME_APP} account directly from the application settings. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
-msgstr "Puede eliminar su cuenta de {NAME_APP} directamente desde la configuración de la aplicación. La eliminación de la cuenta es permanente y eliminará el acceso a su cuenta y los datos asociados según nuestra Política de Privacidad."
+msgid "You can request deletion of your {NAME_APP} account using available account settings and support channels. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
+msgstr "Puede solicitar la eliminación de su cuenta de {NAME_APP} utilizando la configuración de cuenta disponible y los canales de soporte. La eliminación de la cuenta es permanente y eliminará el acceso a su cuenta y los datos asociados de acuerdo con nuestra Política de Privacidad."
 
 #. js-lingui-explicit-id
 msgid "Where to Find the Delete Option"
 msgstr "Dónde Encontrar la Opción de Eliminación"
 
 #. js-lingui-explicit-id
-msgid "To delete your account, open the {NAME_APP} mobile application and follow these steps:"
-msgstr "Para eliminar su cuenta, abra la aplicación móvil {NAME_APP} y siga estos pasos:"
+msgid "To request account deletion, open the {NAME_APP} mobile application and follow available account management instructions:"
+msgstr "Para solicitar la eliminación de la cuenta, abra la aplicación móvil de {NAME_APP} y siga las instrucciones disponibles de gestión de cuenta:"
 
 #. js-lingui-explicit-id
 msgid "Go to your profile in the app"
@@ -594,12 +610,12 @@ msgid "Navigate to Settings"
 msgstr "Navegue a Configuración"
 
 #. js-lingui-explicit-id
-msgid "Scroll to the bottom of the settings page"
-msgstr "Desplácese hasta el final de la página de configuración"
+msgid "Use the available account deletion option if it is shown in your app version"
+msgstr "Use la opción de eliminación de cuenta disponible si se muestra en su versión de la aplicación"
 
 #. js-lingui-explicit-id
-msgid "Tap the \"Delete Account\" button"
-msgstr "Toque el botón \"Eliminar Cuenta\""
+msgid "If the deletion option is not available, contact support at {CONTACT_EMAIL} to request deletion"
+msgstr "Si la opción de eliminación no está disponible, contacte al soporte en {CONTACT_EMAIL} para solicitar la eliminación"
 
 #. js-lingui-explicit-id
 msgid "Confirm your decision to permanently delete your account"
@@ -754,6 +770,10 @@ msgid "Study market analysis and explore market behavior with AI-powered educati
 msgstr "Estudie análisis de mercado y explore el comportamiento del mercado con herramientas educativas con IA. Descubra escenarios reales del mercado, conceptos de análisis técnico y conocimientos prácticos solo para fines educativos."
 
 #. js-lingui-explicit-id
+msgid "Premium learning access in the mobile app uses Energy and Learning Days: users can purchase Energy, activate Learning Days, and unlock additional educational scenarios, AI explanations, analytics history, and optional alerts."
+msgstr "El acceso de aprendizaje premium en la aplicación móvil utiliza Energía y Días de Aprendizaje: los usuarios pueden comprar Energía, activar Días de Aprendizaje y desbloquear escenarios educativos adicionales, explicaciones de IA, historial de análisis y alertas opcionales."
+
+#. js-lingui-explicit-id
 msgid "Download on the App Store"
 msgstr "Descargar en el App Store"
 
@@ -792,6 +812,10 @@ msgstr "Responsabilidad de Aprendizaje"
 #. js-lingui-explicit-id
 msgid "While our AI provides educational insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a learning tool to study market scenarios and technical analysis concepts."
 msgstr "Aunque nuestra IA proporciona conocimientos educativos, los usuarios deben confiar en su propio juicio e investigación independiente. Use {NAME_APP} como una herramienta de aprendizaje para estudiar escenarios del mercado y conceptos de análisis técnico."
+
+#. js-lingui-explicit-id
+msgid "A one-day trial may be available for new users in the app. Purchases and billing are handled by the App Store or Google Play, including cancellation and refunds according to their policies."
+msgstr "Un período de prueba de un día puede estar disponible para nuevos usuarios en la aplicación. Las compras y facturación son manejadas por el App Store o Google Play, incluyendo cancelación y reembolsos de acuerdo con sus políticas."
 
 #. js-lingui-explicit-id
 msgid "Start Your Educational Journey"
@@ -916,6 +940,10 @@ msgstr "Rendimiento de la aplicación y datos de fallas"
 #. js-lingui-explicit-id
 msgid "General demographic information (anonymous)"
 msgstr "Información demográfica general (anónima)"
+
+#. js-lingui-explicit-id
+msgid "Account-linked analytics properties (such as account identifier, sign-in provider, and profile metadata) to improve service quality and diagnostics"
+msgstr "Propiedades analíticas vinculadas a la cuenta (como identificador de cuenta, proveedor de inicio de sesión y metadatos del perfil) para mejorar la calidad del servicio y diagnósticos"
 
 #. js-lingui-explicit-id
 msgid "Learning Data"
@@ -1046,6 +1074,10 @@ msgid "Analytics services (anonymous, aggregated data only)"
 msgstr "Servicios de análisis (solo datos anónimos y agregados)"
 
 #. js-lingui-explicit-id
+msgid "Optional messaging and notification channels enabled by users (for example, Telegram alerts)"
+msgstr "Canales de mensajería y notificación opcionales habilitados por los usuarios (por ejemplo, alertas de Telegram)"
+
+#. js-lingui-explicit-id
 msgid "Data Security"
 msgstr "Seguridad de Datos"
 
@@ -1162,8 +1194,8 @@ msgid "Notification Types"
 msgstr "Tipos de Notificación"
 
 #. js-lingui-explicit-id
-msgid "With your permission, we send push notifications for:"
-msgstr "Con su permiso, enviamos notificaciones push para:"
+msgid "With your permission, we send notifications through supported channels (such as push notifications and optional third-party channels) for:"
+msgstr "Con su permiso, enviamos notificaciones a través de canales compatibles (como notificaciones push y canales de terceros opcionales) para:"
 
 #. js-lingui-explicit-id
 msgid "Learning alerts and market examples"
@@ -1204,6 +1236,10 @@ msgstr "Gestionar frecuencia y horario de notificaciones"
 #. js-lingui-explicit-id
 msgid "Revoke notification permission at any time"
 msgstr "Revocar permiso de notificación en cualquier momento"
+
+#. js-lingui-explicit-id
+msgid "Connect or disconnect optional third-party channels from notification settings when available"
+msgstr "Conectar o desconectar canales de terceros opcionales desde la configuración de notificaciones cuando estén disponibles"
 
 #. js-lingui-explicit-id
 msgid "Energy Purchases and Payments"
@@ -1402,8 +1438,8 @@ msgid "7. Energy Purchases and Payments"
 msgstr "7. Compras de Energía y Pagos"
 
 #. js-lingui-explicit-id
-msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
-msgstr "{NAME_APP} ofrece funciones premium a través del acceso basado en Energía. Los usuarios compran una moneda de aprendizaje interna llamada Energía a través de la App Store o Google Play (vía RevenueCat). La Energía se utiliza para acceder a análisis educativos con IA y funciones de aprendizaje. El procesamiento de pagos lo manejan las respectivas tiendas de aplicaciones. Las compras de Energía no son reembolsables, excepto según lo requiera la ley o las políticas de la tienda de aplicaciones. Los usuarios pueden gestionar sus compras de Energía a través de la configuración de su cuenta en la tienda de aplicaciones."
+msgid "{NAME_APP} offers paid educational access through an Energy and Learning Days model. Users may purchase internal learning credits (Energy) via the App Store or Google Play (through RevenueCat), and then activate Learning Days to unlock additional educational scenarios, AI explanations, analytics tools, and related learning features. Payment processing is handled by the applicable app store. Some plans offered in your region may renew automatically under store rules. Users can manage or cancel eligible plans in their App Store or Google Play account settings. Refunds are handled according to applicable law and the policies of the relevant app store provider."
+msgstr "{NAME_APP} ofrece acceso educativo de pago a través de un modelo de Energía y Días de Aprendizaje. Los usuarios pueden comprar créditos de aprendizaje internos (Energía) a través de la App Store o Google Play (a través de RevenueCat), y luego activar los Días de Aprendizaje para desbloquear escenarios educativos adicionales, explicaciones con IA, herramientas analíticas y características de aprendizaje relacionadas. El procesamiento de pagos es manejado por la tienda de aplicaciones correspondiente. Algunos planes ofrecidos en su región pueden renovarse automáticamente bajo las reglas de la tienda. Los usuarios pueden administrar o cancelar planes elegibles en la configuración de su cuenta de App Store o Google Play. Las devoluciones se manejan de acuerdo con la ley aplicable y las políticas del proveedor de la tienda de aplicaciones relevante."
 
 #. js-lingui-explicit-id
 msgid "8. Acceptable Use"
@@ -1482,8 +1518,8 @@ msgid "14. Account Suspension and Termination"
 msgstr "14. Suspensión y Terminación de Cuenta"
 
 #. js-lingui-explicit-id
-msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users may delete their accounts at any time through the app settings."
-msgstr "Nos reservamos el derecho de suspender o terminar cuentas de usuario por violaciones de estos términos, actividad fraudulenta o cualquier razón necesaria para proteger nuestro servicio u otros usuarios. Los usuarios terminados pierden el acceso a todas las características y datos. Los usuarios pueden eliminar sus cuentas en cualquier momento a través de la configuración de la aplicación."
+msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users can request account deletion using available in-app account settings and support channels, as described in our account deletion instructions."
+msgstr "Nos reservamos el derecho de suspender o terminar cuentas de usuario por violaciones de estos términos, actividad fraudulenta o cualquier razón necesaria para proteger nuestro servicio u otros usuarios. Los usuarios terminados pierden acceso a todas las características y datos. Los usuarios pueden solicitar la eliminación de la cuenta utilizando las configuraciones de cuenta disponibles en la aplicación y los canales de soporte, como se describe en nuestras instrucciones de eliminación de cuenta."
 
 #. js-lingui-explicit-id
 msgid "15. Privacy and Data Protection"

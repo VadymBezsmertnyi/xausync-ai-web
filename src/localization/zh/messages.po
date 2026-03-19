@@ -330,6 +330,10 @@ msgid "{NAME_APP} provides analytical insights and educational tools to help use
 msgstr "{NAME_APP} 提供分析见解和教育工具，帮助用户研究市场动态和技术概念。我们的平台使用真实的市场数据作为探索分析技术和实际案例的背景。"
 
 #. js-lingui-explicit-id
+msgid "In the mobile app, paid educational access is organized through Energy and Learning Days. Users can purchase Energy and activate Learning Days to unlock additional scenario-based learning features."
+msgstr "在移动应用中，付费教育访问通过 Energy 和 Learning Days 组织。用户可以购买 Energy 并激活 Learning Days 来解锁额外的基于场景的学习功能。"
+
+#. js-lingui-explicit-id
 msgid "Important: {NAME_APP} provides informational and educational content only. It does not provide financial, investment, or trading advice. Real market examples are for study purposes only. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk and rely on your own judgment."
 msgstr "重要提示：{NAME_APP} 仅提供信息和教育内容。它不提供财务、投资或交易建议。真实的市场案例仅用于学习目的。所有分析可能不完整、延迟或不准确。请自行承担风险并依靠自己的判断。"
 
@@ -344,6 +348,10 @@ msgstr "虽然我们的 AI 提供分析见解，但用户必须依靠自己的�
 #. js-lingui-explicit-id
 msgid "Always conduct your own research, consider seeking advice from qualified financial professionals, and never risk more than you can afford to lose."
 msgstr "始终进行自己的研究，考虑寻求合格的金融专业人士的建议，并且永远不要冒险超过你能承受的损失。"
+
+#. js-lingui-explicit-id
+msgid "If offered in your app store region, trial and purchase plans are managed through the App Store or Google Play. Cancellation and refund handling follow the applicable store policies."
+msgstr "如果在您的应用商店区域提供，试用和购买计划通过 App Store 或 Google Play 管理。取消和退款处理遵循适用的商店政策。"
 
 #. js-lingui-explicit-id
 msgid "Get in Touch"
@@ -412,6 +420,14 @@ msgstr "不构成投资建议"
 #. js-lingui-explicit-id
 msgid "The information, analysis, and insights provided by {NAME_APP} are for informational and educational purposes only. They do not constitute investment advice, financial advice, trading recommendations, or a solicitation to buy or sell any financial instrument."
 msgstr "{NAME_APP} 提供的信息、分析和见解仅供参考和教育用途。它们不构成投资建议、财务建议、交易推荐或购买或出售任何金融工具的邀请。"
+
+#. js-lingui-explicit-id
+msgid "Scenario and Signal-Like Outputs"
+msgstr "情景和信号类输出"
+
+#. js-lingui-explicit-id
+msgid "Educational scenarios, AI-generated insights, alerts, and any signal-like visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
+msgstr "教育情景、AI 生成的见解、警报以及任何类似信号的视觉元素仅用于学习和解释目的。它们不得被视为财务建议、投资建议或直接的交易指示。"
 
 #. js-lingui-explicit-id
 msgid "AI Limitations"
@@ -574,16 +590,16 @@ msgid "How to Delete Your Account"
 msgstr "如何删除您的账户"
 
 #. js-lingui-explicit-id
-msgid "You can delete your {NAME_APP} account directly from the application settings. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
-msgstr "您可以直接从应用程序设置中删除您的 {NAME_APP} 账户。账户删除是永久性的，将根据我们的隐私政策移除您对账户及相关数据的访问权限。"
+msgid "You can request deletion of your {NAME_APP} account using available account settings and support channels. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
+msgstr "您可以使用可用的账户设置和支持渠道请求删除您的 {NAME_APP} 账户。账户删除是永久性的，将根据我们的隐私政策移除对您的账户及相关数据的访问。"
 
 #. js-lingui-explicit-id
 msgid "Where to Find the Delete Option"
 msgstr "删除选项的位置"
 
 #. js-lingui-explicit-id
-msgid "To delete your account, open the {NAME_APP} mobile application and follow these steps:"
-msgstr "要删除您的账户，请打开 {NAME_APP} 移动应用程序并按照以下步骤操作："
+msgid "To request account deletion, open the {NAME_APP} mobile application and follow available account management instructions:"
+msgstr "要请求删除账户，请打开 {NAME_APP} 移动应用程序并按照可用的账户管理说明操作："
 
 #. js-lingui-explicit-id
 msgid "Go to your profile in the app"
@@ -594,12 +610,12 @@ msgid "Navigate to Settings"
 msgstr "导航到设置"
 
 #. js-lingui-explicit-id
-msgid "Scroll to the bottom of the settings page"
-msgstr "滚动到设置页面的底部"
+msgid "Use the available account deletion option if it is shown in your app version"
+msgstr "如果您的应用版本中显示了可用的账户删除选项，请使用它"
 
 #. js-lingui-explicit-id
-msgid "Tap the \"Delete Account\" button"
-msgstr "点击“删除账户”按钮"
+msgid "If the deletion option is not available, contact support at {CONTACT_EMAIL} to request deletion"
+msgstr "如果删除选项不可用，请通过 {CONTACT_EMAIL} 联系支持以请求删除"
 
 #. js-lingui-explicit-id
 msgid "Confirm your decision to permanently delete your account"
@@ -754,6 +770,10 @@ msgid "Study market analysis and explore market behavior with AI-powered educati
 msgstr "使用 AI 驱动的教育工具学习市场分析和探索市场行为。发现真实的市场场景、技术分析概念和仅用于教育目的的实际见解。"
 
 #. js-lingui-explicit-id
+msgid "Premium learning access in the mobile app uses Energy and Learning Days: users can purchase Energy, activate Learning Days, and unlock additional educational scenarios, AI explanations, analytics history, and optional alerts."
+msgstr "移动应用中的高级学习访问使用 Energy 和 Learning Days：用户可以购买 Energy，激活 Learning Days，并解锁额外的教育场景、AI 解释、分析历史和可选警报。"
+
+#. js-lingui-explicit-id
 msgid "Download on the App Store"
 msgstr "在 App Store 下载"
 
@@ -792,6 +812,10 @@ msgstr "学习责任"
 #. js-lingui-explicit-id
 msgid "While our AI provides educational insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a learning tool to study market scenarios and technical analysis concepts."
 msgstr "虽然我们的 AI 提供教育性见解，但用户必须依靠自己的判断和独立研究。将 {NAME_APP} 作为学习工具，用于研究市场情景和技术分析概念。"
+
+#. js-lingui-explicit-id
+msgid "A one-day trial may be available for new users in the app. Purchases and billing are handled by the App Store or Google Play, including cancellation and refunds according to their policies."
+msgstr "新用户在应用程序中可能有一天的试用期。购买和账单由 App Store 或 Google Play 处理，包括根据其政策进行的取消和退款。"
 
 #. js-lingui-explicit-id
 msgid "Start Your Educational Journey"
@@ -916,6 +940,10 @@ msgstr "应用性能和崩溃数据"
 #. js-lingui-explicit-id
 msgid "General demographic information (anonymous)"
 msgstr "一般人口统计信息（匿名）"
+
+#. js-lingui-explicit-id
+msgid "Account-linked analytics properties (such as account identifier, sign-in provider, and profile metadata) to improve service quality and diagnostics"
+msgstr "与账户相关的分析属性（如账户标识符、登录提供商和个人资料元数据）以提高服务质量和诊断"
 
 #. js-lingui-explicit-id
 msgid "Learning Data"
@@ -1046,6 +1074,10 @@ msgid "Analytics services (anonymous, aggregated data only)"
 msgstr "分析服务（仅匿名、汇总数据）"
 
 #. js-lingui-explicit-id
+msgid "Optional messaging and notification channels enabled by users (for example, Telegram alerts)"
+msgstr "用户启用的可选消息和通知渠道（例如 Telegram 警报）"
+
+#. js-lingui-explicit-id
 msgid "Data Security"
 msgstr "数据安全"
 
@@ -1162,8 +1194,8 @@ msgid "Notification Types"
 msgstr "通知类型"
 
 #. js-lingui-explicit-id
-msgid "With your permission, we send push notifications for:"
-msgstr "在您允许的情况下，我们会发送以下推送通知："
+msgid "With your permission, we send notifications through supported channels (such as push notifications and optional third-party channels) for:"
+msgstr "在您的许可下，我们通过支持的渠道（如推送通知和可选的第三方渠道）发送以下通知："
 
 #. js-lingui-explicit-id
 msgid "Learning alerts and market examples"
@@ -1204,6 +1236,10 @@ msgstr "管理通知的频率和时间"
 #. js-lingui-explicit-id
 msgid "Revoke notification permission at any time"
 msgstr "随时撤销通知权限"
+
+#. js-lingui-explicit-id
+msgid "Connect or disconnect optional third-party channels from notification settings when available"
+msgstr "在可用时从通知设置连接或断开可选的第三方渠道"
 
 #. js-lingui-explicit-id
 msgid "Energy Purchases and Payments"
@@ -1402,8 +1438,8 @@ msgid "7. Energy Purchases and Payments"
 msgstr "7. 能量购买和支付"
 
 #. js-lingui-explicit-id
-msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
-msgstr "{NAME_APP} 通过基于能量的访问提供高级功能。用户可以通过应用商店或 Google Play（通过 RevenueCat）购买称为能量的内部学习货币。能量用于访问 AI 教育分析和学习功能。支付处理由各自的应用商店处理。除法律或应用商店政策要求外，能量购买不可退款。用户可以通过其应用商店账户设置管理其能量购买。"
+msgid "{NAME_APP} offers paid educational access through an Energy and Learning Days model. Users may purchase internal learning credits (Energy) via the App Store or Google Play (through RevenueCat), and then activate Learning Days to unlock additional educational scenarios, AI explanations, analytics tools, and related learning features. Payment processing is handled by the applicable app store. Some plans offered in your region may renew automatically under store rules. Users can manage or cancel eligible plans in their App Store or Google Play account settings. Refunds are handled according to applicable law and the policies of the relevant app store provider."
+msgstr "{NAME_APP} 通过能量和学习日模型提供付费教育访问。用户可以通过 App Store 或 Google Play（通过 RevenueCat）购买内部学习积分（能量），然后激活学习日以解锁额外的教育场景、AI 解释、分析工具和相关学习功能。支付处理由适用的应用商店处理。您所在地区提供的一些计划可能会根据商店规则自动续订。用户可以在其 App Store 或 Google Play 账户设置中管理或取消符合条件的计划。退款根据适用法律和相关应用商店提供商的政策处理。"
 
 #. js-lingui-explicit-id
 msgid "8. Acceptable Use"
@@ -1482,8 +1518,8 @@ msgid "14. Account Suspension and Termination"
 msgstr "14. 账户暂停和终止"
 
 #. js-lingui-explicit-id
-msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users may delete their accounts at any time through the app settings."
-msgstr "我们保留因违反这些条款、欺诈行为或任何必要保护我们的服务或其他用户的原因而暂停或终止用户账户的权利。被终止的用户将失去对所有功能和数据的访问权限。用户可以随时通过应用设置删除其账户。"
+msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users can request account deletion using available in-app account settings and support channels, as described in our account deletion instructions."
+msgstr "我们保留因违反这些条款、欺诈活动或任何必要保护我们的服务或其他用户的原因而暂停或终止用户账户的权利。被终止的用户将失去对所有功能和数据的访问权限。用户可以使用应用内账户设置和支持渠道请求账户删除，如我们的账户删除说明中所述。"
 
 #. js-lingui-explicit-id
 msgid "15. Privacy and Data Protection"

@@ -330,6 +330,10 @@ msgid "{NAME_APP} provides analytical insights and educational tools to help use
 msgstr "{NAME_APP} उपयोगकर्ताओं को बाजार गतिशीलता और तकनीकी अवधारणाओं का अध्ययन करने में मदद करने के लिए विश्लेषणात्मक अंतर्दृष्टि और शैक्षिक उपकरण प्रदान करता है। हमारा प्लेटफॉर्म विश्लेषण तकनीकों और व्यावहारिक उदाहरणों की खोज के लिए संदर्भ के रूप में वास्तविक बाजार डेटा का उपयोग करता है।"
 
 #. js-lingui-explicit-id
+msgid "In the mobile app, paid educational access is organized through Energy and Learning Days. Users can purchase Energy and activate Learning Days to unlock additional scenario-based learning features."
+msgstr "मोबाइल ऐप में, भुगतान किए गए शैक्षिक पहुंच को ऊर्जा और सीखने के दिनों के माध्यम से व्यवस्थित किया जाता है। उपयोगकर्ता अतिरिक्त परिदृश्य-आधारित सीखने की सुविधाओं को अनलॉक करने के लिए ऊर्जा खरीद सकते हैं और सीखने के दिनों को सक्रिय कर सकते हैं।"
+
+#. js-lingui-explicit-id
 msgid "Important: {NAME_APP} provides informational and educational content only. It does not provide financial, investment, or trading advice. Real market examples are for study purposes only. All analysis may be incomplete, delayed, or inaccurate. Use at your own risk and rely on your own judgment."
 msgstr "महत्वपूर्ण: {NAME_APP} केवल सूचनात्मक और शैक्षिक सामग्री प्रदान करता है। यह वित्तीय, निवेश, या ट्रेडिंग सलाह नहीं देता है। वास्तविक बाजार उदाहरण केवल अध्ययन उद्देश्यों के लिए हैं। सभी विश्लेषण अपूर्ण, विलंबित, या अशुद्ध हो सकते हैं। अपने जोखिम पर उपयोग करें और अपने निर्णय पर भरोसा करें।"
 
@@ -344,6 +348,10 @@ msgstr "जबकि हमारी AI विश्लेषणात्मक 
 #. js-lingui-explicit-id
 msgid "Always conduct your own research, consider seeking advice from qualified financial professionals, and never risk more than you can afford to lose."
 msgstr "हमेशा अपना शोध करें, योग्य वित्तीय पेशेवरों से सलाह लेने पर विचार करें, और कभी भी उससे अधिक जोखिम न लें जिसे आप खोना बर्दाश्त नहीं कर सकते।"
+
+#. js-lingui-explicit-id
+msgid "If offered in your app store region, trial and purchase plans are managed through the App Store or Google Play. Cancellation and refund handling follow the applicable store policies."
+msgstr "यदि आपके ऐप स्टोर क्षेत्र में उपलब्ध है, तो परीक्षण और खरीद योजनाएं App Store या Google Play के माध्यम से प्रबंधित की जाती हैं। रद्दीकरण और रिफंड हैंडलिंग लागू स्टोर नीतियों का पालन करती है।"
 
 #. js-lingui-explicit-id
 msgid "Get in Touch"
@@ -412,6 +420,14 @@ msgstr "कोई निवेश सलाह नहीं"
 #. js-lingui-explicit-id
 msgid "The information, analysis, and insights provided by {NAME_APP} are for informational and educational purposes only. They do not constitute investment advice, financial advice, trading recommendations, or a solicitation to buy or sell any financial instrument."
 msgstr "{NAME_APP} द्वारा प्रदान की गई जानकारी, विश्लेषण, और अंतर्दृष्टि केवल सूचनात्मक और शैक्षिक उद्देश्यों के लिए हैं। ये निवेश सलाह, वित्तीय सलाह, ट्रेडिंग अनुशंसाएं, या किसी भी वित्तीय साधन को खरीदने या बेचने की अनुरोध नहीं हैं।"
+
+#. js-lingui-explicit-id
+msgid "Scenario and Signal-Like Outputs"
+msgstr "परिदृश्य और सिग्नल-जैसे आउटपुट"
+
+#. js-lingui-explicit-id
+msgid "Educational scenarios, AI-generated insights, alerts, and any signal-like visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
+msgstr "शैक्षिक परिदृश्य, AI-जनित अंतर्दृष्टि, अलर्ट, और किसी भी सिग्नल-जैसे दृश्य तत्व केवल सीखने और व्याख्या उद्देश्यों के लिए प्रदान किए जाते हैं। इन्हें वित्तीय सलाह, निवेश अनुशंसाएं, या ट्रेड करने के लिए सीधे निर्देश के रूप में नहीं माना जाना चाहिए।"
 
 #. js-lingui-explicit-id
 msgid "AI Limitations"
@@ -574,16 +590,16 @@ msgid "How to Delete Your Account"
 msgstr "अपना खाता कैसे हटाएं"
 
 #. js-lingui-explicit-id
-msgid "You can delete your {NAME_APP} account directly from the application settings. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
-msgstr "आप अपना {NAME_APP} खाता सीधे एप्लिकेशन सेटिंग्स से हटा सकते हैं। खाता हटाना स्थायी है और हमारी गोपनीयता नीति के अनुसार आपके खाते और संबंधित डेटा तक पहुंच को हटा देगा।"
+msgid "You can request deletion of your {NAME_APP} account using available account settings and support channels. Account deletion is permanent and will remove access to your account and associated data according to our Privacy Policy."
+msgstr "आप उपलब्ध खाता सेटिंग्स और समर्थन चैनलों का उपयोग करके अपने {NAME_APP} खाते के हटाने का अनुरोध कर सकते हैं। खाता हटाना स्थायी है और हमारी गोपनीयता नीति के अनुसार आपके खाते और संबंधित डेटा तक पहुंच को हटा देगा।"
 
 #. js-lingui-explicit-id
 msgid "Where to Find the Delete Option"
 msgstr "हटाने विकल्प कहां मिलेगा"
 
 #. js-lingui-explicit-id
-msgid "To delete your account, open the {NAME_APP} mobile application and follow these steps:"
-msgstr "अपना खाता हटाने के लिए, {NAME_APP} मोबाइल एप्लिकेशन खोलें और इन चरणों का पालन करें:"
+msgid "To request account deletion, open the {NAME_APP} mobile application and follow available account management instructions:"
+msgstr "खाता हटाने का अनुरोध करने के लिए, {NAME_APP} मोबाइल एप्लिकेशन खोलें और उपलब्ध खाता प्रबंधन निर्देशों का पालन करें:"
 
 #. js-lingui-explicit-id
 msgid "Go to your profile in the app"
@@ -594,12 +610,12 @@ msgid "Navigate to Settings"
 msgstr "सेटिंग्स पर नेविगेट करें"
 
 #. js-lingui-explicit-id
-msgid "Scroll to the bottom of the settings page"
-msgstr "सेटिंग्स पृष्ठ के नीचे स्क्रॉल करें"
+msgid "Use the available account deletion option if it is shown in your app version"
+msgstr "उपलब्ध खाता हटाने के विकल्प का उपयोग करें यदि यह आपके ऐप संस्करण में दिखाया गया है"
 
 #. js-lingui-explicit-id
-msgid "Tap the \"Delete Account\" button"
-msgstr "\"खाता हटाएं\" बटन टैप करें"
+msgid "If the deletion option is not available, contact support at {CONTACT_EMAIL} to request deletion"
+msgstr "यदि हटाने का विकल्प उपलब्ध नहीं है, तो हटाने का अनुरोध करने के लिए {CONTACT_EMAIL} पर समर्थन से संपर्क करें"
 
 #. js-lingui-explicit-id
 msgid "Confirm your decision to permanently delete your account"
@@ -754,6 +770,10 @@ msgid "Study market analysis and explore market behavior with AI-powered educati
 msgstr "AI-संचालित शैक्षिक उपकरणों के साथ बाजार विश्लेषण का अध्ययन करें और बाजार व्यवहार का अन्वेषण करें। केवल शैक्षिक उद्देश्यों के लिए वास्तविक बाजार परिदृश्यों, तकनीकी विश्लेषण अवधारणाओं, और व्यावहारिक अंतर्दृष्टि खोजें।"
 
 #. js-lingui-explicit-id
+msgid "Premium learning access in the mobile app uses Energy and Learning Days: users can purchase Energy, activate Learning Days, and unlock additional educational scenarios, AI explanations, analytics history, and optional alerts."
+msgstr "मोबाइल ऐप में प्रीमियम अधिगम पहुंच एनर्जी और लर्निंग डेज़ का उपयोग करती है: उपयोगकर्ता एनर्जी खरीद सकते हैं, लर्निंग डेज़ सक्रिय कर सकते हैं, और अतिरिक्त शैक्षिक परिदृश्य, AI व्याख्याएं, विश्लेषण इतिहास, और वैकल्पिक अलर्ट अनलॉक कर सकते हैं।"
+
+#. js-lingui-explicit-id
 msgid "Download on the App Store"
 msgstr "ऐप स्टोर पर डाउनलोड करें"
 
@@ -792,6 +812,10 @@ msgstr "अधिगम जिम्मेदारी"
 #. js-lingui-explicit-id
 msgid "While our AI provides educational insights, users must rely on their own judgment and independent research. Use {NAME_APP} as a learning tool to study market scenarios and technical analysis concepts."
 msgstr "जबकि हमारा AI शैक्षिक अंतर्दृष्टि प्रदान करता है, उपयोगकर्ताओं को अपने निर्णय और स्वतंत्र अनुसंधान पर भरोसा करना चाहिए। {NAME_APP} का उपयोग बाजार परिदृश्यों और तकनीकी विश्लेषण अवधारणाओं का अध्ययन करने के लिए एक अधिगम उपकरण के रूप में करें।"
+
+#. js-lingui-explicit-id
+msgid "A one-day trial may be available for new users in the app. Purchases and billing are handled by the App Store or Google Play, including cancellation and refunds according to their policies."
+msgstr "एक दिन का परीक्षण नए उपयोगकर्ताओं के लिए ऐप में उपलब्ध हो सकता है। खरीदारी और बिलिंग ऐप स्टोर या Google Play द्वारा संभाली जाती है, जिसमें उनकी नीतियों के अनुसार रद्दीकरण और रिफंड शामिल हैं।"
 
 #. js-lingui-explicit-id
 msgid "Start Your Educational Journey"
@@ -916,6 +940,10 @@ msgstr "ऐप प्रदर्शन और क्रैश डेटा"
 #. js-lingui-explicit-id
 msgid "General demographic information (anonymous)"
 msgstr "सामान्य जनसांख्यिकीय जानकारी (गुमनाम)"
+
+#. js-lingui-explicit-id
+msgid "Account-linked analytics properties (such as account identifier, sign-in provider, and profile metadata) to improve service quality and diagnostics"
+msgstr "सेवा की गुणवत्ता और डायग्नोस्टिक्स में सुधार के लिए खाता-लिंक्ड विश्लेषण गुण (जैसे खाता पहचानकर्ता, साइन-इन प्रदाता, और प्रोफ़ाइल मेटाडेटा)"
 
 #. js-lingui-explicit-id
 msgid "Learning Data"
@@ -1046,6 +1074,10 @@ msgid "Analytics services (anonymous, aggregated data only)"
 msgstr "Analytics सेवाएँ (गुमनाम, संकलित डेटा केवल)"
 
 #. js-lingui-explicit-id
+msgid "Optional messaging and notification channels enabled by users (for example, Telegram alerts)"
+msgstr "उपयोगकर्ताओं द्वारा सक्षम वैकल्पिक संदेश और नोटिफिकेशन चैनल (उदाहरण के लिए, Telegram अलर्ट)"
+
+#. js-lingui-explicit-id
 msgid "Data Security"
 msgstr "डेटा सुरक्षा"
 
@@ -1162,8 +1194,8 @@ msgid "Notification Types"
 msgstr "नोटिफिकेशन प्रकार"
 
 #. js-lingui-explicit-id
-msgid "With your permission, we send push notifications for:"
-msgstr "आपकी अनुमति के साथ, हम निम्नलिखित के लिए पुश नोटिफिकेशन भेजते हैं:"
+msgid "With your permission, we send notifications through supported channels (such as push notifications and optional third-party channels) for:"
+msgstr "आपकी अनुमति के साथ, हम समर्थित चैनलों (जैसे पुश नोटिफिकेशन और वैकल्पिक तृतीय-पक्ष चैनलों) के माध्यम से निम्नलिखित के लिए सूचनाएं भेजते हैं:"
 
 #. js-lingui-explicit-id
 msgid "Learning alerts and market examples"
@@ -1204,6 +1236,10 @@ msgstr "नोटिफिकेशन आवृत्ति और समय �
 #. js-lingui-explicit-id
 msgid "Revoke notification permission at any time"
 msgstr "किसी भी समय नोटिफिकेशन अनुमति वापस लें"
+
+#. js-lingui-explicit-id
+msgid "Connect or disconnect optional third-party channels from notification settings when available"
+msgstr "जब उपलब्ध हो तो नोटिफिकेशन सेटिंग्स से वैकल्पिक तृतीय-पक्ष चैनलों को कनेक्ट या डिस्कनेक्ट करें"
 
 #. js-lingui-explicit-id
 msgid "Energy Purchases and Payments"
@@ -1402,8 +1438,8 @@ msgid "7. Energy Purchases and Payments"
 msgstr "7. ऊर्जा खरीद और भुगतान"
 
 #. js-lingui-explicit-id
-msgid "{NAME_APP} offers premium features through Energy-based access. Users purchase internal learning currency called Energy through the App Store or Google Play (via RevenueCat). Energy is used to access AI educational analysis and learning features. Payment processing is handled by the respective app stores. Energy purchases are non-refundable except as required by law or app store policies. Users may manage their Energy purchases through their app store account settings."
-msgstr "{NAME_APP} प्रीमियम सुविधाएँ ऊर्जा-आधारित पहुँच के माध्यम से प्रदान करता है। उपयोगकर्ता ऐप स्टोर या Google Play (RevenueCat के माध्यम से) के माध्यम से आंतरिक सीखने वाली मुद्रा जिसे ऊर्जा कहा जाता है, खरीदते हैं। ऊर्जा का उपयोग AI शैक्षिक विश्लेषण और सीखने की सुविधाओं तक पहुँचने के लिए किया जाता है। भुगतान प्रसंस्करण संबंधित ऐप स्टोर द्वारा संभाला जाता है। ऊर्जा खरीद गैर-वापसी योग्य हैं सिवाय इसके कि कानून या ऐप स्टोर नीतियों द्वारा आवश्यक हो। उपयोगकर्ता अपने ऐप स्टोर खाता सेटिंग्स के माध्यम से अपनी ऊर्जा खरीद का प्रबंधन कर सकते हैं।"
+msgid "{NAME_APP} offers paid educational access through an Energy and Learning Days model. Users may purchase internal learning credits (Energy) via the App Store or Google Play (through RevenueCat), and then activate Learning Days to unlock additional educational scenarios, AI explanations, analytics tools, and related learning features. Payment processing is handled by the applicable app store. Some plans offered in your region may renew automatically under store rules. Users can manage or cancel eligible plans in their App Store or Google Play account settings. Refunds are handled according to applicable law and the policies of the relevant app store provider."
+msgstr "{NAME_APP} एक ऊर्जा और लर्निंग डेज़ मॉडल के माध्यम से भुगतान किए गए शैक्षिक एक्सेस की पेशकश करता है। उपयोगकर्ता ऐप स्टोर या Google Play (RevenueCat के माध्यम से) के माध्यम से आंतरिक लर्निंग क्रेडिट (ऊर्जा) खरीद सकते हैं, और फिर अतिरिक्त शैक्षिक परिदृश्यों, AI व्याख्याओं, विश्लेषणात्मक उपकरणों, और संबंधित सीखने की सुविधाओं को अनलॉक करने के लिए लर्निंग डेज़ सक्रिय कर सकते हैं। भुगतान प्रसंस्करण लागू ऐप स्टोर द्वारा संभाला जाता है। आपके क्षेत्र में पेश किए गए कुछ योजनाएं स्टोर नियमों के तहत स्वचालित रूप से नवीनीकृत हो सकती हैं। उपयोगकर्ता अपने ऐप स्टोर या Google Play खाता सेटिंग्स में पात्र योजनाओं का प्रबंधन या रद्द कर सकते हैं। रिफंड लागू कानून और संबंधित ऐप स्टोर प्रदाता की नीतियों के अनुसार संभाले जाते हैं।"
 
 #. js-lingui-explicit-id
 msgid "8. Acceptable Use"
@@ -1482,8 +1518,8 @@ msgid "14. Account Suspension and Termination"
 msgstr "14. खाता निलंबन और समाप्ति"
 
 #. js-lingui-explicit-id
-msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users may delete their accounts at any time through the app settings."
-msgstr "हम इन शर्तों के उल्लंघन, धोखाधड़ी गतिविधि, या हमारी सेवा या अन्य उपयोगकर्ताओं की सुरक्षा के लिए आवश्यक किसी भी कारण से उपयोगकर्ता खातों को निलंबित या समाप्त करने का अधिकार सुरक्षित रखते हैं। समाप्त किए गए उपयोगकर्ताओं को सभी सुविधाओं और डेटा तक पहुँच खो जाती है। उपयोगकर्ता किसी भी समय ऐप सेटिंग्स के माध्यम से अपने खाते को हटा सकते हैं।"
+msgid "We reserve the right to suspend or terminate user accounts for violations of these terms, fraudulent activity, or any reason necessary to protect our service or other users. Terminated users lose access to all features and data. Users can request account deletion using available in-app account settings and support channels, as described in our account deletion instructions."
+msgstr "हम इन शर्तों के उल्लंघन, धोखाधड़ी गतिविधि, या हमारी सेवा या अन्य उपयोगकर्ताओं की सुरक्षा के लिए आवश्यक किसी भी कारण से उपयोगकर्ता खातों को निलंबित या समाप्त करने का अधिकार सुरक्षित रखते हैं। समाप्त किए गए उपयोगकर्ताओं को सभी सुविधाओं और डेटा तक पहुंच खो जाती है। उपयोगकर्ता हमारे खाते हटाने के निर्देशों में वर्णित उपलब्ध इन-ऐप खाता सेटिंग्स और समर्थन चैनलों का उपयोग करके खाता हटाने का अनुरोध कर सकते हैं।"
 
 #. js-lingui-explicit-id
 msgid "15. Privacy and Data Protection"
