@@ -91,7 +91,7 @@ export const PrivacyPolicy: FunctionComponent = () => {
         <div>
           <p className={styles.text}>
             <strong>{i18n._("Last updated:")}</strong>{" "}
-            {i18n._("March 10, 2026")}
+            {i18n._("March 24, 2026")}
           </p>
           <p className={styles.text}>
             {i18n._(
@@ -171,9 +171,9 @@ export const PrivacyPolicy: FunctionComponent = () => {
             [
               i18n._("Authenticate users and provide personalized access"),
               i18n._(
-                "Deliver real-time market analysis and educational insights"
+                "Deliver real-time market data and educational insights for study"
               ),
-              i18n._("Send push notifications for market alerts"),
+              i18n._("Send push notifications for educational alerts"),
               i18n._("Maintain your learning history and preferences"),
             ]
           )}
@@ -287,9 +287,9 @@ export const PrivacyPolicy: FunctionComponent = () => {
               "With your permission, we send notifications through supported channels (such as push notifications and optional third-party channels) for:"
             ),
             [
-              i18n._("Learning alerts and market examples"),
-              i18n._("Price movement notifications"),
-              i18n._("AI analysis updates and insights"),
+              i18n._("Educational alerts and market scenario examples"),
+              i18n._("Price movement notifications for study context"),
+              i18n._("AI analysis updates and learning insights"),
               i18n._("Important service announcements"),
             ]
           )}

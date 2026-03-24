@@ -216,7 +216,7 @@ const About: FunctionComponent = () => {
                     className={styles.featureDescription}
                   >
                     {i18n._(
-                      "Market insights with trend analysis, volatility metrics, and comprehensive statistics for understanding market dynamics and price movements."
+                      "Educational market insights with trend analysis, volatility metrics, and comprehensive statistics for understanding market dynamics and price behavior."
                     )}
                   </Typography>
                 </CardContent>
@@ -227,7 +227,7 @@ const About: FunctionComponent = () => {
 
         <Box className={styles.technologySection}>
           <Typography variant="h4" className={styles.sectionTitle}>
-            {i18n._("AI-Powered Insights")}
+            {i18n._("AI-Powered Learning Insights")}
           </Typography>
 
           <Grid container spacing={3}>

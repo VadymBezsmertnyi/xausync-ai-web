@@ -27,7 +27,7 @@ const Footer: FunctionComponent = () => {
             </Typography>
             <Typography variant="body2" className={styles.footerText}>
               {i18n._(
-                "AI-powered educational market analysis and learning insights"
+                "AI-powered educational tool for gold market learning and scenario analysis"
               )}
             </Typography>
           </Box>
@@ -89,6 +89,14 @@ const Footer: FunctionComponent = () => {
         </Box>
 
         <Box className={styles.footerBottom}>
+          <Typography
+            variant="caption"
+            sx={{ display: "block", mb: 1, opacity: 0.9 }}
+          >
+            {i18n._(
+              "XauSync AI is an educational tool and does not provide financial or investment advice."
+            )}
+          </Typography>
           <Typography variant="body2" className={styles.copyright}>
             {i18n._("© {year} {NAME_APP}. All rights reserved.", {
               year: new Date().getFullYear(),

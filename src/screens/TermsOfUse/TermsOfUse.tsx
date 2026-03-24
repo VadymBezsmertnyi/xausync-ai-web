@@ -109,7 +109,7 @@ const TermsOfUse: FunctionComponent = () => {
         <div>
           <p className={styles.text}>
             <strong>{i18n._("Last updated:")}</strong>{" "}
-            {i18n._("March 10, 2026")}
+            {i18n._("March 24, 2026")}
           </p>
           <p className={styles.text}>
             {i18n._(

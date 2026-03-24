@@ -1,7 +1,7 @@
 {
-  "name": "XauSync AI - AI Trading Insights",
+  "name": "XauSync AI - Gold Market Learning",
   "short_name": "XauSync AI",
-  "description": "AI-powered trading analysis and educational insights for XAU/USD trading",
+  "description": "AI-powered educational tool for studying gold market behavior, exploring market scenarios, and learning technical analysis concepts",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0D1117",
@@ -29,7 +29,7 @@
       "type": "image/png"
     }
   ],
-  "categories": ["finance", "education", "business"],
+  "categories": ["education", "productivity"],
   "lang": "en",
   "dir": "ltr",
   "scope": "/",

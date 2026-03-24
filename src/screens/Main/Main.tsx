@@ -93,7 +93,7 @@ export default function Main() {
   ];
 
   const stats = [
-    { number: "AI", label: i18n._("Assisted Insights") },
+    { number: "AI", label: i18n._("Learning Insights") },
     { number: "XAU", label: i18n._("Market Focus") },
     { number: "LIVE", label: i18n._("Real Market Context") },
     { number: "EDU", label: i18n._("Educational Use") },
@@ -114,7 +114,7 @@ export default function Main() {
         <meta
           name="keywords"
           content={i18n._(
-            "XauSync AI, AI market analysis education, learn market behavior, technical analysis study, AI educational tools, market analysis learning, trading concepts education"
+            "XauSync AI, gold market learning, market behavior study, technical analysis education, AI educational tools, market scenario exploration, educational market analysis"
           )}
         />
         <meta

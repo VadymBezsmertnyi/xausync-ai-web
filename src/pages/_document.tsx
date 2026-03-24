@@ -39,14 +39,14 @@ export default function Document() {
         <meta property="og:image:height" content="630" />
         <meta
           property="og:image:alt"
-          content={`${NAME_APP} - AI Trading Insights`}
+          content={`${NAME_APP} - Gold Market Learning & Educational Analysis`}
         />
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:image" content="/twitter-image.png" />
         <meta
           name="twitter:image:alt"
-          content={`${NAME_APP} - AI Trading Insights`}
+          content={`${NAME_APP} - Gold Market Learning & Educational Analysis`}
         />
 
         <meta name="robots" content="index, follow" />

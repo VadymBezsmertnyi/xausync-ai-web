@@ -88,7 +88,7 @@ const Disclaimer: FunctionComponent = () => {
         <div>
           <p className={styles.text}>
             <strong>{i18n._("Last updated:")}</strong>{" "}
-            {i18n._("March 10, 2026")}
+            {i18n._("March 24, 2026")}
           </p>
           <p className={styles.text}>
             {i18n._(
@@ -113,9 +113,9 @@ const Disclaimer: FunctionComponent = () => {
             )
           )}
           {line(
-            i18n._("Scenario and Signal-Like Outputs"),
+            i18n._("Educational Scenarios and AI Outputs"),
             i18n._(
-              "Educational scenarios, AI-generated insights, alerts, and any signal-like visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
+              "Educational scenarios, AI-generated insights, alerts, and visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
             )
           )}
           {line(
