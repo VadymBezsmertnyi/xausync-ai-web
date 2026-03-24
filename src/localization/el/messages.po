@@ -14,8 +14,8 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
-msgid "AI-powered educational market analysis and learning insights"
-msgstr "Εκπαιδευτική ανάλυση αγοράς με υποστήριξη ΤΝ και γνώσεις εκμάθησης"
+msgid "AI-powered educational tool for gold market learning and scenario analysis"
+msgstr "Εκπαιδευτικό εργαλείο με υποστήριξη ΤΝ για μάθηση της αγοράς χρυσού και ανάλυση σεναρίων"
 
 #. js-lingui-explicit-id
 msgid "Navigation"
@@ -48,6 +48,10 @@ msgstr "Προγραμματιστής"
 #. js-lingui-explicit-id
 msgid "Developed by Vadym Bezsmertnyi, Sole Proprietor (Ukraine)"
 msgstr "Αναπτύχθηκε από τον Vadym Bezsmertnyi, Ατομική Επιχείρηση (Ουκρανία)"
+
+#. js-lingui-explicit-id
+msgid "XauSync AI is an educational tool and does not provide financial or investment advice."
+msgstr "Το XauSync AI είναι ένα εκπαιδευτικό εργαλείο και δεν παρέχει οικονομικές ή επενδυτικές συμβουλές."
 
 #. js-lingui-explicit-id
 msgid "© {year} {NAME_APP}. All rights reserved."
@@ -270,12 +274,12 @@ msgid "Market Analytics"
 msgstr "Ανάλυση Αγοράς"
 
 #. js-lingui-explicit-id
-msgid "Market insights with trend analysis, volatility metrics, and comprehensive statistics for understanding market dynamics and price movements."
-msgstr "Γνώσεις αγοράς με ανάλυση τάσεων, μετρήσεις μεταβλητότητας και ολοκληρωμένη στατιστική για την κατανόηση της δυναμικής της αγοράς και των κινήσεων των τιμών."
+msgid "Educational market insights with trend analysis, volatility metrics, and comprehensive statistics for understanding market dynamics and price behavior."
+msgstr "Εκπαιδευτικές γνώσεις αγοράς με ανάλυση τάσεων, μετρήσεις μεταβλητότητας και ολοκληρωμένες στατιστικές για την κατανόηση της δυναμικής της αγοράς και της συμπεριφοράς των τιμών."
 
 #. js-lingui-explicit-id
-msgid "AI-Powered Insights"
-msgstr "Γνώσεις με Υποστήριξη ΤΝ"
+msgid "AI-Powered Learning Insights"
+msgstr "Γνώσεις Μάθησης με Υποστήριξη ΤΝ"
 
 #. js-lingui-explicit-id
 msgid "Machine Learning"
@@ -394,8 +398,8 @@ msgid "Last updated:"
 msgstr "Τελευταία ενημέρωση:"
 
 #. js-lingui-explicit-id
-msgid "March 10, 2026"
-msgstr "10 Μαρτίου 2026"
+msgid "March 24, 2026"
+msgstr "24 Μαρτίου 2026"
 
 #. js-lingui-explicit-id
 msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). This disclaimer contains important information about the risks associated with using our educational market analysis content and AI-powered features."
@@ -422,12 +426,12 @@ msgid "The information, analysis, and insights provided by {NAME_APP} are for in
 msgstr "Οι πληροφορίες, αναλύσεις και γνώσεις που παρέχει το {NAME_APP} είναι μόνο για ενημερωτικούς και εκπαιδευτικούς σκοπούς. Δεν συνιστούν επενδυτικές συμβουλές, οικονομικές συμβουλές, συναλλαγματικές συστάσεις ή παρότρυνση για αγορά ή πώληση οποιουδήποτε χρηματοπιστωτικού μέσου."
 
 #. js-lingui-explicit-id
-msgid "Scenario and Signal-Like Outputs"
-msgstr "Σενάρια και Στοιχεία Παρόμοια με Σήματα"
+msgid "Educational Scenarios and AI Outputs"
+msgstr "Εκπαιδευτικά Σενάρια και Αποτελέσματα ΤΝ"
 
 #. js-lingui-explicit-id
-msgid "Educational scenarios, AI-generated insights, alerts, and any signal-like visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
-msgstr "Τα εκπαιδευτικά σενάρια, οι γνώσεις που δημιουργούνται από την ΤΝ, οι ειδοποιήσεις και οποιαδήποτε οπτικά στοιχεία παρόμοια με σήματα παρέχονται μόνο για σκοπούς μάθησης και ερμηνείας. Δεν πρέπει να θεωρούνται ως επενδυτικές συμβουλές, συστάσεις επενδύσεων ή άμεσες οδηγίες για συναλλαγές."
+msgid "Educational scenarios, AI-generated insights, alerts, and visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
+msgstr "Τα εκπαιδευτικά σενάρια, οι γνώσεις που δημιουργούνται από την ΤΝ, οι ειδοποιήσεις και τα οπτικά στοιχεία παρέχονται μόνο για σκοπούς μάθησης και ερμηνείας. Δεν πρέπει να αντιμετωπίζονται ως οικονομικές συμβουλές, επενδυτικές συστάσεις ή άμεσες οδηγίες για συναλλαγές."
 
 #. js-lingui-explicit-id
 msgid "AI Limitations"
@@ -718,8 +722,8 @@ msgid "AI-driven pattern identification for learning to recognize market pattern
 msgstr "Αναγνώριση μοτίβων με υποστήριξη ΤΝ για την εκμάθηση αναγνώρισης μοτίβων αγοράς και τη μελέτη σεναρίων τεχνικής ανάλυσης."
 
 #. js-lingui-explicit-id
-msgid "Assisted Insights"
-msgstr "Υποστηριζόμενες Γνώσεις"
+msgid "Learning Insights"
+msgstr "Γνώσεις Μάθησης"
 
 #. js-lingui-explicit-id
 msgid "Market Focus"
@@ -742,8 +746,8 @@ msgid "XauSync AI provides AI-powered educational tools for learning market anal
 msgstr "Το XauSync AI παρέχει εκπαιδευτικά εργαλεία με υποστήριξη ΤΝ για την εκμάθηση ανάλυσης αγοράς και τη μελέτη της συμπεριφοράς της αγοράς. Εξερευνήστε σενάρια πραγματικής αγοράς, εννοίες τεχνικής ανάλυσης και εκπαιδευτικές γνώσεις με υποστήριξη ΤΝ."
 
 #. js-lingui-explicit-id
-msgid "XauSync AI, AI market analysis education, learn market behavior, technical analysis study, AI educational tools, market analysis learning, trading concepts education"
-msgstr "XauSync AI, εκπαίδευση ανάλυσης αγοράς με ΤΝ, μάθετε τη συμπεριφορά της αγοράς, μελέτη τεχνικής ανάλυσης, εκπαιδευτικά εργαλεία ΤΝ, εκμάθηση ανάλυσης αγοράς, εκπαίδευση εννοιών συναλλαγών"
+msgid "XauSync AI, gold market learning, market behavior study, technical analysis education, AI educational tools, market scenario exploration, educational market analysis"
+msgstr "XauSync AI, εκμάθηση αγοράς χρυσού, μελέτη συμπεριφοράς αγοράς, εκπαίδευση τεχνικής ανάλυσης, εκπαιδευτικά εργαλεία ΤΝ, εξερεύνηση σεναρίων αγοράς, εκπαιδευτική ανάλυση αγοράς"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior with real market scenarios."
@@ -986,12 +990,12 @@ msgid "Authenticate users and provide personalized access"
 msgstr "Αυθεντικοποιούμε χρήστες και παρέχουμε εξατομικευμένη πρόσβαση"
 
 #. js-lingui-explicit-id
-msgid "Deliver real-time market analysis and educational insights"
-msgstr "Παρέχουμε ανάλυση αγοράς σε πραγματικό χρόνο και εκπαιδευτικές γνώσεις"
+msgid "Deliver real-time market data and educational insights for study"
+msgstr "Παρέχουμε δεδομένα αγοράς σε πραγματικό χρόνο και εκπαιδευτικές γνώσεις για μελέτη"
 
 #. js-lingui-explicit-id
-msgid "Send push notifications for market alerts"
-msgstr "Στέλνουμε ειδοποιήσεις push για ειδοποιήσεις αγοράς"
+msgid "Send push notifications for educational alerts"
+msgstr "Αποστολή ειδοποιήσεων push για εκπαιδευτικές ειδοποιήσεις"
 
 #. js-lingui-explicit-id
 msgid "Maintain your learning history and preferences"
@@ -1198,16 +1202,16 @@ msgid "With your permission, we send notifications through supported channels (s
 msgstr "Με την άδειά σας, στέλνουμε ειδοποιήσεις μέσω υποστηριζόμενων καναλιών (όπως ειδοποιήσεις push και προαιρετικά κανάλια τρίτων) για:"
 
 #. js-lingui-explicit-id
-msgid "Learning alerts and market examples"
-msgstr "Ειδοποιήσεις εκμάθησης και παραδείγματα αγοράς"
+msgid "Educational alerts and market scenario examples"
+msgstr "Εκπαιδευτικές ειδοποιήσεις και παραδείγματα σεναρίων αγοράς"
 
 #. js-lingui-explicit-id
-msgid "Price movement notifications"
-msgstr "Ειδοποιήσεις κινήσεων τιμών"
+msgid "Price movement notifications for study context"
+msgstr "Ειδοποιήσεις κινήσεων τιμών για εκπαιδευτικό πλαίσιο"
 
 #. js-lingui-explicit-id
-msgid "AI analysis updates and insights"
-msgstr "Ενημερώσεις και γνώσεις ανάλυσης ΤΝ"
+msgid "AI analysis updates and learning insights"
+msgstr "Ενημερώσεις ανάλυσης ΤΝ και εκπαιδευτικές γνώσεις"
 
 #. js-lingui-explicit-id
 msgid "Important service announcements"

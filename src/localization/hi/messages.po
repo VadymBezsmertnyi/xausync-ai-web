@@ -14,8 +14,8 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
-msgid "AI-powered educational market analysis and learning insights"
-msgstr "AI-संचालित शैक्षिक बाजार विश्लेषण और अधिगम अंतर्दृष्टि"
+msgid "AI-powered educational tool for gold market learning and scenario analysis"
+msgstr "सोने के बाजार सीखने और परिदृश्य विश्लेषण के लिए AI-संचालित शैक्षिक उपकरण"
 
 #. js-lingui-explicit-id
 msgid "Navigation"
@@ -48,6 +48,10 @@ msgstr "डेवलपर"
 #. js-lingui-explicit-id
 msgid "Developed by Vadym Bezsmertnyi, Sole Proprietor (Ukraine)"
 msgstr "Vadym Bezsmertnyi, एकमात्र स्वामी (यूक्रेन) द्वारा विकसित"
+
+#. js-lingui-explicit-id
+msgid "XauSync AI is an educational tool and does not provide financial or investment advice."
+msgstr "XauSync AI एक शैक्षिक उपकरण है और वित्तीय या निवेश सलाह प्रदान नहीं करता है।"
 
 #. js-lingui-explicit-id
 msgid "© {year} {NAME_APP}. All rights reserved."
@@ -270,12 +274,12 @@ msgid "Market Analytics"
 msgstr "बाजार विश्लेषण"
 
 #. js-lingui-explicit-id
-msgid "Market insights with trend analysis, volatility metrics, and comprehensive statistics for understanding market dynamics and price movements."
-msgstr "बाजार गतिशीलता और मूल्य आंदोलनों को समझने के लिए प्रवृत्ति विश्लेषण, अस्थिरता मेट्रिक्स, और व्यापक आँकड़ों के साथ बाजार अंतर्दृष्टि।"
+msgid "Educational market insights with trend analysis, volatility metrics, and comprehensive statistics for understanding market dynamics and price behavior."
+msgstr "बाजार गतिशीलता और मूल्य व्यवहार को समझने के लिए प्रवृत्ति विश्लेषण, अस्थिरता मेट्रिक्स, और व्यापक सांख्यिकी के साथ शैक्षिक बाजार अंतर्दृष्टि।"
 
 #. js-lingui-explicit-id
-msgid "AI-Powered Insights"
-msgstr "AI-संचालित अंतर्दृष्टि"
+msgid "AI-Powered Learning Insights"
+msgstr "AI-संचालित सीखने की अंतर्दृष्टि"
 
 #. js-lingui-explicit-id
 msgid "Machine Learning"
@@ -394,8 +398,8 @@ msgid "Last updated:"
 msgstr "अंतिम अपडेट:"
 
 #. js-lingui-explicit-id
-msgid "March 10, 2026"
-msgstr "10 मार्च, 2026"
+msgid "March 24, 2026"
+msgstr "24 मार्च, 2026"
 
 #. js-lingui-explicit-id
 msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). This disclaimer contains important information about the risks associated with using our educational market analysis content and AI-powered features."
@@ -422,12 +426,12 @@ msgid "The information, analysis, and insights provided by {NAME_APP} are for in
 msgstr "{NAME_APP} द्वारा प्रदान की गई जानकारी, विश्लेषण, और अंतर्दृष्टि केवल सूचनात्मक और शैक्षिक उद्देश्यों के लिए हैं। ये निवेश सलाह, वित्तीय सलाह, ट्रेडिंग अनुशंसाएं, या किसी भी वित्तीय साधन को खरीदने या बेचने की अनुरोध नहीं हैं।"
 
 #. js-lingui-explicit-id
-msgid "Scenario and Signal-Like Outputs"
-msgstr "परिदृश्य और सिग्नल-जैसे आउटपुट"
+msgid "Educational Scenarios and AI Outputs"
+msgstr "शैक्षिक परिदृश्य और AI आउटपुट"
 
 #. js-lingui-explicit-id
-msgid "Educational scenarios, AI-generated insights, alerts, and any signal-like visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
-msgstr "शैक्षिक परिदृश्य, AI-जनित अंतर्दृष्टि, अलर्ट, और किसी भी सिग्नल-जैसे दृश्य तत्व केवल सीखने और व्याख्या उद्देश्यों के लिए प्रदान किए जाते हैं। इन्हें वित्तीय सलाह, निवेश अनुशंसाएं, या ट्रेड करने के लिए सीधे निर्देश के रूप में नहीं माना जाना चाहिए।"
+msgid "Educational scenarios, AI-generated insights, alerts, and visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
+msgstr "शैक्षिक परिदृश्य, AI-जनित अंतर्दृष्टि, अलर्ट, और दृश्य तत्व केवल सीखने और व्याख्या उद्देश्यों के लिए प्रदान किए जाते हैं। इन्हें वित्तीय सलाह, निवेश अनुशंसाएं, या ट्रेड करने के लिए सीधे निर्देश के रूप में नहीं माना जाना चाहिए।"
 
 #. js-lingui-explicit-id
 msgid "AI Limitations"
@@ -718,8 +722,8 @@ msgid "AI-driven pattern identification for learning to recognize market pattern
 msgstr "बाजार पैटर्न को पहचानने और तकनीकी विश्लेषण परिदृश्यों का अध्ययन करने के लिए AI-संचालित पैटर्न पहचान।"
 
 #. js-lingui-explicit-id
-msgid "Assisted Insights"
-msgstr "सहायता प्राप्त अंतर्दृष्टि"
+msgid "Learning Insights"
+msgstr "अधिगम अंतर्दृष्टि"
 
 #. js-lingui-explicit-id
 msgid "Market Focus"
@@ -742,8 +746,8 @@ msgid "XauSync AI provides AI-powered educational tools for learning market anal
 msgstr "XauSync AI बाजार विश्लेषण सीखने और बाजार व्यवहार का अध्ययन करने के लिए AI-संचालित शैक्षिक उपकरण प्रदान करता है। वास्तविक बाजार परिदृश्यों, तकनीकी विश्लेषण अवधारणाओं, और AI-सहायता प्राप्त शैक्षिक अंतर्दृष्टि का अन्वेषण करें।"
 
 #. js-lingui-explicit-id
-msgid "XauSync AI, AI market analysis education, learn market behavior, technical analysis study, AI educational tools, market analysis learning, trading concepts education"
-msgstr "XauSync AI, AI बाजार विश्लेषण शिक्षा, बाजार व्यवहार सीखें, तकनीकी विश्लेषण अध्ययन, AI शैक्षिक उपकरण, बाजार विश्लेषण अधिगम, ट्रेडिंग अवधारणाएं शिक्षा"
+msgid "XauSync AI, gold market learning, market behavior study, technical analysis education, AI educational tools, market scenario exploration, educational market analysis"
+msgstr "XauSync AI, सोने का बाजार सीखना, बाजार व्यवहार अध्ययन, तकनीकी विश्लेषण शिक्षा, AI शैक्षिक उपकरण, बाजार परिदृश्य अन्वेषण, शैक्षिक बाजार विश्लेषण"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior with real market scenarios."
@@ -986,12 +990,12 @@ msgid "Authenticate users and provide personalized access"
 msgstr "उपयोगकर्ताओं को प्रमाणित करें और व्यक्तिगत पहुंच प्रदान करें"
 
 #. js-lingui-explicit-id
-msgid "Deliver real-time market analysis and educational insights"
-msgstr "रीयल-टाइम बाजार विश्लेषण और शैक्षिक अंतर्दृष्टि प्रदान करें"
+msgid "Deliver real-time market data and educational insights for study"
+msgstr "अध्ययन के लिए वास्तविक समय बाजार डेटा और शैक्षिक अंतर्दृष्टि प्रदान करें"
 
 #. js-lingui-explicit-id
-msgid "Send push notifications for market alerts"
-msgstr "बाजार अलर्ट के लिए पुश नोटिफिकेशन भेजें"
+msgid "Send push notifications for educational alerts"
+msgstr "शैक्षिक अलर्ट के लिए पुश नोटिफिकेशन भेजें"
 
 #. js-lingui-explicit-id
 msgid "Maintain your learning history and preferences"
@@ -1198,16 +1202,16 @@ msgid "With your permission, we send notifications through supported channels (s
 msgstr "आपकी अनुमति के साथ, हम समर्थित चैनलों (जैसे पुश नोटिफिकेशन और वैकल्पिक तृतीय-पक्ष चैनलों) के माध्यम से निम्नलिखित के लिए सूचनाएं भेजते हैं:"
 
 #. js-lingui-explicit-id
-msgid "Learning alerts and market examples"
-msgstr "लर्निंग अलर्ट और बाजार उदाहरण"
+msgid "Educational alerts and market scenario examples"
+msgstr "शैक्षिक अलर्ट और बाजार परिदृश्य उदाहरण"
 
 #. js-lingui-explicit-id
-msgid "Price movement notifications"
-msgstr "मूल्य आंदोलन सूचनाएं"
+msgid "Price movement notifications for study context"
+msgstr "अध्ययन संदर्भ के लिए मूल्य आंदोलन सूचनाएं"
 
 #. js-lingui-explicit-id
-msgid "AI analysis updates and insights"
-msgstr "AI विश्लेषण अपडेट और अंतर्दृष्टि"
+msgid "AI analysis updates and learning insights"
+msgstr "AI विश्लेषण अपडेट और अधिगम अंतर्दृष्टि"
 
 #. js-lingui-explicit-id
 msgid "Important service announcements"

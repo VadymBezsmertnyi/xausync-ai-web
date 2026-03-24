@@ -14,8 +14,8 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
-msgid "AI-powered educational market analysis and learning insights"
-msgstr "Analyse de marché éducative alimentée par l'IA et apprentissage"
+msgid "AI-powered educational tool for gold market learning and scenario analysis"
+msgstr "Outil éducatif alimenté par l'IA pour l'apprentissage du marché de l'or et l'analyse de scénarios"
 
 #. js-lingui-explicit-id
 msgid "Navigation"
@@ -48,6 +48,10 @@ msgstr "Développeur"
 #. js-lingui-explicit-id
 msgid "Developed by Vadym Bezsmertnyi, Sole Proprietor (Ukraine)"
 msgstr "Développé par Vadym Bezsmertnyi, Propriétaire unique (Ukraine)"
+
+#. js-lingui-explicit-id
+msgid "XauSync AI is an educational tool and does not provide financial or investment advice."
+msgstr "XauSync AI est un outil éducatif et ne fournit pas de conseils financiers ou d'investissement."
 
 #. js-lingui-explicit-id
 msgid "© {year} {NAME_APP}. All rights reserved."
@@ -270,12 +274,12 @@ msgid "Market Analytics"
 msgstr "Analytique de marché"
 
 #. js-lingui-explicit-id
-msgid "Market insights with trend analysis, volatility metrics, and comprehensive statistics for understanding market dynamics and price movements."
-msgstr "Aperçus du marché avec analyse de tendance, métriques de volatilité et statistiques complètes pour comprendre la dynamique du marché et les mouvements de prix."
+msgid "Educational market insights with trend analysis, volatility metrics, and comprehensive statistics for understanding market dynamics and price behavior."
+msgstr "Aperçus de marché éducatifs avec analyse de tendance, métriques de volatilité et statistiques complètes pour comprendre la dynamique du marché et le comportement des prix."
 
 #. js-lingui-explicit-id
-msgid "AI-Powered Insights"
-msgstr "Aperçus alimentés par l'IA"
+msgid "AI-Powered Learning Insights"
+msgstr "Aperçus d'apprentissage alimentés par l'IA"
 
 #. js-lingui-explicit-id
 msgid "Machine Learning"
@@ -394,8 +398,8 @@ msgid "Last updated:"
 msgstr "Dernière mise à jour :"
 
 #. js-lingui-explicit-id
-msgid "March 10, 2026"
-msgstr "10 mars 2026"
+msgid "March 24, 2026"
+msgstr "24 mars 2026"
 
 #. js-lingui-explicit-id
 msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). This disclaimer contains important information about the risks associated with using our educational market analysis content and AI-powered features."
@@ -422,12 +426,12 @@ msgid "The information, analysis, and insights provided by {NAME_APP} are for in
 msgstr "Les informations, analyses et aperçus fournis par {NAME_APP} sont uniquement à des fins informationnelles et éducatives. Ils ne constituent pas des conseils d'investissement, des conseils financiers, des recommandations de trading ou une sollicitation d'achat ou de vente de tout instrument financier."
 
 #. js-lingui-explicit-id
-msgid "Scenario and Signal-Like Outputs"
-msgstr "Scénarios et sorties de type signal"
+msgid "Educational Scenarios and AI Outputs"
+msgstr "Scénarios éducatifs et résultats de l'IA"
 
 #. js-lingui-explicit-id
-msgid "Educational scenarios, AI-generated insights, alerts, and any signal-like visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
-msgstr "Les scénarios éducatifs, les aperçus générés par l'IA, les alertes et tous les éléments visuels de type signal sont fournis à des fins d'apprentissage et d'interprétation uniquement. Ils ne doivent pas être traités comme des conseils financiers, des recommandations d'investissement ou des instructions directes de trading."
+msgid "Educational scenarios, AI-generated insights, alerts, and visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
+msgstr "Les scénarios éducatifs, les aperçus générés par l'IA, les alertes et les éléments visuels sont fournis à des fins d'apprentissage et d'interprétation uniquement. Ils ne doivent pas être traités comme des conseils financiers, des recommandations d'investissement ou des instructions directes de trading."
 
 #. js-lingui-explicit-id
 msgid "AI Limitations"
@@ -718,8 +722,8 @@ msgid "AI-driven pattern identification for learning to recognize market pattern
 msgstr "Identification de modèles alimentée par l'IA pour apprendre à reconnaître les modèles de marché et étudier les scénarios d'analyse technique."
 
 #. js-lingui-explicit-id
-msgid "Assisted Insights"
-msgstr "Aperçus assistés"
+msgid "Learning Insights"
+msgstr "Aperçus d'apprentissage"
 
 #. js-lingui-explicit-id
 msgid "Market Focus"
@@ -742,8 +746,8 @@ msgid "XauSync AI provides AI-powered educational tools for learning market anal
 msgstr "XauSync AI fournit des outils éducatifs alimentés par l'IA pour apprendre l'analyse de marché et étudier le comportement du marché. Explorez des scénarios de marché réels, des concepts d'analyse technique et des aperçus éducatifs assistés par l'IA."
 
 #. js-lingui-explicit-id
-msgid "XauSync AI, AI market analysis education, learn market behavior, technical analysis study, AI educational tools, market analysis learning, trading concepts education"
-msgstr "XauSync AI, éducation d'analyse de marché par IA, apprendre le comportement du marché, étude d'analyse technique, outils éducatifs IA, apprentissage d'analyse de marché, éducation de concepts de trading"
+msgid "XauSync AI, gold market learning, market behavior study, technical analysis education, AI educational tools, market scenario exploration, educational market analysis"
+msgstr "XauSync AI, apprentissage du marché de l'or, étude du comportement du marché, éducation à l'analyse technique, outils éducatifs d'IA, exploration de scénarios de marché, analyse de marché éducative"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior with real market scenarios."
@@ -986,12 +990,12 @@ msgid "Authenticate users and provide personalized access"
 msgstr "Authentifier les utilisateurs et fournir un accès personnalisé"
 
 #. js-lingui-explicit-id
-msgid "Deliver real-time market analysis and educational insights"
-msgstr "Fournir une analyse de marché en temps réel et des aperçus éducatifs"
+msgid "Deliver real-time market data and educational insights for study"
+msgstr "Fournir des données de marché en temps réel et des aperçus éducatifs pour l'étude"
 
 #. js-lingui-explicit-id
-msgid "Send push notifications for market alerts"
-msgstr "Envoyer des notifications push pour les alertes de marché"
+msgid "Send push notifications for educational alerts"
+msgstr "Envoyer des notifications push pour les alertes éducatives"
 
 #. js-lingui-explicit-id
 msgid "Maintain your learning history and preferences"
@@ -1198,16 +1202,16 @@ msgid "With your permission, we send notifications through supported channels (s
 msgstr "Avec votre permission, nous envoyons des notifications via des canaux pris en charge (tels que les notifications push et les canaux tiers optionnels) pour :"
 
 #. js-lingui-explicit-id
-msgid "Learning alerts and market examples"
-msgstr "Alertes d'apprentissage et exemples de marché"
+msgid "Educational alerts and market scenario examples"
+msgstr "Alertes éducatives et exemples de scénarios de marché"
 
 #. js-lingui-explicit-id
-msgid "Price movement notifications"
-msgstr "Notifications de mouvements de prix"
+msgid "Price movement notifications for study context"
+msgstr "Notifications de mouvement de prix pour le contexte d'étude"
 
 #. js-lingui-explicit-id
-msgid "AI analysis updates and insights"
-msgstr "Mises à jour d'analyse IA et aperçus"
+msgid "AI analysis updates and learning insights"
+msgstr "Mises à jour d'analyse d'IA et aperçus d'apprentissage"
 
 #. js-lingui-explicit-id
 msgid "Important service announcements"

@@ -14,8 +14,8 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
-msgid "AI-powered educational market analysis and learning insights"
-msgstr "Analiză de piață educațională asistată de AI și perspective de învățare"
+msgid "AI-powered educational tool for gold market learning and scenario analysis"
+msgstr "Instrument educațional asistat de AI pentru învățarea pieței aurului și analiza scenariilor"
 
 #. js-lingui-explicit-id
 msgid "Navigation"
@@ -48,6 +48,10 @@ msgstr "Dezvoltator"
 #. js-lingui-explicit-id
 msgid "Developed by Vadym Bezsmertnyi, Sole Proprietor (Ukraine)"
 msgstr "Dezvoltat de Vadym Bezsmertnyi, Proprietar Unic (Ucraina)"
+
+#. js-lingui-explicit-id
+msgid "XauSync AI is an educational tool and does not provide financial or investment advice."
+msgstr "XauSync AI este un instrument educațional și nu oferă sfaturi financiare sau de investiții."
 
 #. js-lingui-explicit-id
 msgid "© {year} {NAME_APP}. All rights reserved."
@@ -270,12 +274,12 @@ msgid "Market Analytics"
 msgstr "Analiză a pieței"
 
 #. js-lingui-explicit-id
-msgid "Market insights with trend analysis, volatility metrics, and comprehensive statistics for understanding market dynamics and price movements."
-msgstr "Perspective asupra pieței cu analiză a tendințelor, metrici de volatilitate și statistici cuprinzătoare pentru înțelegerea dinamicii pieței și a mișcărilor prețurilor."
+msgid "Educational market insights with trend analysis, volatility metrics, and comprehensive statistics for understanding market dynamics and price behavior."
+msgstr "Perspective educaționale ale pieței cu analiza tendințelor, metrici de volatilitate și statistici cuprinzătoare pentru înțelegerea dinamicii pieței și a comportamentului prețurilor."
 
 #. js-lingui-explicit-id
-msgid "AI-Powered Insights"
-msgstr "Perspective asistate de AI"
+msgid "AI-Powered Learning Insights"
+msgstr "Perspective de învățare asistate de AI"
 
 #. js-lingui-explicit-id
 msgid "Machine Learning"
@@ -394,8 +398,8 @@ msgid "Last updated:"
 msgstr "Ultima actualizare:"
 
 #. js-lingui-explicit-id
-msgid "March 10, 2026"
-msgstr "10 martie 2026"
+msgid "March 24, 2026"
+msgstr "24 martie 2026"
 
 #. js-lingui-explicit-id
 msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). This disclaimer contains important information about the risks associated with using our educational market analysis content and AI-powered features."
@@ -422,12 +426,12 @@ msgid "The information, analysis, and insights provided by {NAME_APP} are for in
 msgstr "Informațiile, analizele și perspectivele oferite de {NAME_APP} sunt doar în scop informativ și educațional. Ele nu constituie sfaturi de investiții, sfaturi financiare, recomandări de tranzacționare sau o solicitare de a cumpăra sau vinde orice instrument financiar."
 
 #. js-lingui-explicit-id
-msgid "Scenario and Signal-Like Outputs"
-msgstr "Scenarii și ieșiri asemănătoare semnalelor"
+msgid "Educational Scenarios and AI Outputs"
+msgstr "Scenarii educaționale și rezultate AI"
 
 #. js-lingui-explicit-id
-msgid "Educational scenarios, AI-generated insights, alerts, and any signal-like visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
-msgstr "Scenariile educaționale, perspectivele generate de AI, alertele și orice elemente vizuale asemănătoare semnalelor sunt furnizate doar în scopuri de învățare și interpretare. Ele nu trebuie tratate ca sfaturi financiare, recomandări de investiții sau instrucțiuni directe de tranzacționare."
+msgid "Educational scenarios, AI-generated insights, alerts, and visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
+msgstr "Scenariile educaționale, perspectivele generate de AI, alertele și elementele vizuale sunt furnizate doar în scopuri de învățare și interpretare. Ele nu trebuie tratate ca sfaturi financiare, recomandări de investiții sau instrucțiuni directe de tranzacționare."
 
 #. js-lingui-explicit-id
 msgid "AI Limitations"
@@ -718,8 +722,8 @@ msgid "AI-driven pattern identification for learning to recognize market pattern
 msgstr "Identificarea tiparelor asistată de AI pentru a învăța să recunoști tiparele pieței și să studiezi scenarii de analiză tehnică."
 
 #. js-lingui-explicit-id
-msgid "Assisted Insights"
-msgstr "Perspective asistate"
+msgid "Learning Insights"
+msgstr "Perspective de învățare"
 
 #. js-lingui-explicit-id
 msgid "Market Focus"
@@ -742,8 +746,8 @@ msgid "XauSync AI provides AI-powered educational tools for learning market anal
 msgstr "XauSync AI oferă instrumente educaționale asistate de AI pentru a învăța analiza pieței și a studia comportamentul pieței. Explorați scenarii reale de piață, concepte de analiză tehnică și perspective educaționale asistate de AI."
 
 #. js-lingui-explicit-id
-msgid "XauSync AI, AI market analysis education, learn market behavior, technical analysis study, AI educational tools, market analysis learning, trading concepts education"
-msgstr "XauSync AI, educație în analiza pieței asistată de AI, învățarea comportamentului pieței, studiu de analiză tehnică, instrumente educaționale asistate de AI, învățarea analizei pieței, educație în concepte de tranzacționare"
+msgid "XauSync AI, gold market learning, market behavior study, technical analysis education, AI educational tools, market scenario exploration, educational market analysis"
+msgstr "XauSync AI, învățarea pieței aurului, studiul comportamentului pieței, educație în analiza tehnică, instrumente educaționale asistate de AI, explorarea scenariilor de piață, analiză educațională a pieței"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior with real market scenarios."
@@ -986,12 +990,12 @@ msgid "Authenticate users and provide personalized access"
 msgstr "Autentificarea utilizatorilor și furnizarea accesului personalizat"
 
 #. js-lingui-explicit-id
-msgid "Deliver real-time market analysis and educational insights"
-msgstr "Furnizarea de analize de piață în timp real și informații educaționale"
+msgid "Deliver real-time market data and educational insights for study"
+msgstr "Furnizarea de date de piață în timp real și perspective educaționale pentru studiu"
 
 #. js-lingui-explicit-id
-msgid "Send push notifications for market alerts"
-msgstr "Trimiterea de notificări push pentru alertele de piață"
+msgid "Send push notifications for educational alerts"
+msgstr "Trimiterea de notificări push pentru alerte educaționale"
 
 #. js-lingui-explicit-id
 msgid "Maintain your learning history and preferences"
@@ -1198,16 +1202,16 @@ msgid "With your permission, we send notifications through supported channels (s
 msgstr "Cu permisiunea dvs., trimitem notificări prin canale suportate (cum ar fi notificările push și canalele opționale terțe) pentru:"
 
 #. js-lingui-explicit-id
-msgid "Learning alerts and market examples"
-msgstr "Alerta de învățare și exemple de piață"
+msgid "Educational alerts and market scenario examples"
+msgstr "Alerte educaționale și exemple de scenarii de piață"
 
 #. js-lingui-explicit-id
-msgid "Price movement notifications"
-msgstr "Notificări privind mișcările prețurilor"
+msgid "Price movement notifications for study context"
+msgstr "Notificări de mișcare a prețurilor pentru context de studiu"
 
 #. js-lingui-explicit-id
-msgid "AI analysis updates and insights"
-msgstr "Actualizări și perspective ale analizei AI"
+msgid "AI analysis updates and learning insights"
+msgstr "Actualizări de analiză AI și perspective de învățare"
 
 #. js-lingui-explicit-id
 msgid "Important service announcements"

@@ -14,8 +14,8 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
-msgid "AI-powered educational market analysis and learning insights"
-msgstr "AI-vezérelt oktatási piaci elemzés és tanulási betekintések"
+msgid "AI-powered educational tool for gold market learning and scenario analysis"
+msgstr "AI-vezérelt oktatási eszköz az aranypiac tanulásához és forgatókönyv elemzéséhez"
 
 #. js-lingui-explicit-id
 msgid "Navigation"
@@ -48,6 +48,10 @@ msgstr "Fejlesztő"
 #. js-lingui-explicit-id
 msgid "Developed by Vadym Bezsmertnyi, Sole Proprietor (Ukraine)"
 msgstr "Fejlesztette: Vadym Bezsmertnyi, egyéni vállalkozó (Ukrajna)"
+
+#. js-lingui-explicit-id
+msgid "XauSync AI is an educational tool and does not provide financial or investment advice."
+msgstr "A XauSync AI egy oktatási eszköz, és nem nyújt pénzügyi vagy befektetési tanácsot."
 
 #. js-lingui-explicit-id
 msgid "© {year} {NAME_APP}. All rights reserved."
@@ -270,12 +274,12 @@ msgid "Market Analytics"
 msgstr "Piaci analitika"
 
 #. js-lingui-explicit-id
-msgid "Market insights with trend analysis, volatility metrics, and comprehensive statistics for understanding market dynamics and price movements."
-msgstr "Piaci betekintések trend elemzéssel, volatilitás metrikákkal és átfogó statisztikákkal a piaci dinamika és ármozgások megértéséhez."
+msgid "Educational market insights with trend analysis, volatility metrics, and comprehensive statistics for understanding market dynamics and price behavior."
+msgstr "Oktatási piaci betekintések trend elemzéssel, volatilitás metrikákkal és átfogó statisztikákkal a piaci dinamika és ár viselkedés megértéséhez."
 
 #. js-lingui-explicit-id
-msgid "AI-Powered Insights"
-msgstr "AI-vezérelt betekintések"
+msgid "AI-Powered Learning Insights"
+msgstr "AI-vezérelt tanulási betekintések"
 
 #. js-lingui-explicit-id
 msgid "Machine Learning"
@@ -394,8 +398,8 @@ msgid "Last updated:"
 msgstr "Utoljára frissítve:"
 
 #. js-lingui-explicit-id
-msgid "March 10, 2026"
-msgstr "2026. március 10."
+msgid "March 24, 2026"
+msgstr "2026. március 24."
 
 #. js-lingui-explicit-id
 msgid "The \"{NAME_APP}\" mobile and web applications are developed and operated by Vadym Bezsmertnyi, Sole Proprietor (Ukraine) (\"us\", \"we\", or \"our\"). This disclaimer contains important information about the risks associated with using our educational market analysis content and AI-powered features."
@@ -422,12 +426,12 @@ msgid "The information, analysis, and insights provided by {NAME_APP} are for in
 msgstr "A {NAME_APP} által biztosított információk, elemzések és betekintések kizárólag tájékoztatási és oktatási célokat szolgálnak. Nem alkotnak befektetési tanácsot, pénzügyi tanácsot, kereskedési ajánlást vagy felhívást bármely pénzügyi instrumentum megvásárlására vagy eladására."
 
 #. js-lingui-explicit-id
-msgid "Scenario and Signal-Like Outputs"
-msgstr "Forgatókönyv és jel-szerű kimenetek"
+msgid "Educational Scenarios and AI Outputs"
+msgstr "Oktatási forgatókönyvek és AI kimenetek"
 
 #. js-lingui-explicit-id
-msgid "Educational scenarios, AI-generated insights, alerts, and any signal-like visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
-msgstr "Oktatási forgatókönyvek, AI által generált betekintések, riasztások és minden jel-szerű vizuális elem kizárólag tanulási és értelmezési célokat szolgál. Nem szabad pénzügyi tanácsként, befektetési ajánlásként vagy közvetlen kereskedési utasításként kezelni őket."
+msgid "Educational scenarios, AI-generated insights, alerts, and visual elements are provided for learning and interpretation purposes only. They must not be treated as financial advice, investment recommendations, or direct instructions to trade."
+msgstr "Oktatási forgatókönyvek, AI által generált betekintések, riasztások és vizuális elemek kizárólag tanulási és értelmezési célokat szolgálnak. Nem szabad őket pénzügyi tanácsként, befektetési ajánlásként vagy közvetlen kereskedési utasításként kezelni."
 
 #. js-lingui-explicit-id
 msgid "AI Limitations"
@@ -718,8 +722,8 @@ msgid "AI-driven pattern identification for learning to recognize market pattern
 msgstr "AI-vezérelt minta azonosítás a piaci minták felismerésének tanulásához és technikai elemzési forgatókönyvek tanulmányozásához."
 
 #. js-lingui-explicit-id
-msgid "Assisted Insights"
-msgstr "Támogatott betekintések"
+msgid "Learning Insights"
+msgstr "Tanulási betekintések"
 
 #. js-lingui-explicit-id
 msgid "Market Focus"
@@ -742,8 +746,8 @@ msgid "XauSync AI provides AI-powered educational tools for learning market anal
 msgstr "A XauSync AI AI-vezérelt oktatási eszközöket biztosít a piaci elemzés tanulásához és a piaci viselkedés tanulmányozásához. Fedezze fel a valós piaci forgatókönyveket, technikai elemzési koncepciókat és AI-támogatott oktatási betekintéseket."
 
 #. js-lingui-explicit-id
-msgid "XauSync AI, AI market analysis education, learn market behavior, technical analysis study, AI educational tools, market analysis learning, trading concepts education"
-msgstr "XauSync AI, AI piaci elemzés oktatás, piaci viselkedés tanulása, technikai elemzés tanulmány, AI oktatási eszközök, piaci elemzés tanulás, kereskedési koncepciók oktatás"
+msgid "XauSync AI, gold market learning, market behavior study, technical analysis education, AI educational tools, market scenario exploration, educational market analysis"
+msgstr "XauSync AI, aranypiaci tanulás, piaci viselkedés tanulmányozása, technikai elemzés oktatás, AI oktatási eszközök, piaci forgatókönyv felfedezés, oktatási piaci elemzés"
 
 #. js-lingui-explicit-id
 msgid "XauSync AI provides AI-powered educational tools for learning market analysis and studying market behavior with real market scenarios."
@@ -986,12 +990,12 @@ msgid "Authenticate users and provide personalized access"
 msgstr "Felhasználók hitelesítése és személyre szabott hozzáférés biztosítása"
 
 #. js-lingui-explicit-id
-msgid "Deliver real-time market analysis and educational insights"
-msgstr "Valós idejű piaci elemzés és oktatási betekintések szolgáltatása"
+msgid "Deliver real-time market data and educational insights for study"
+msgstr "Valós idejű piaci adatok és oktatási betekintések biztosítása tanulmányozáshoz"
 
 #. js-lingui-explicit-id
-msgid "Send push notifications for market alerts"
-msgstr "Push értesítések küldése piaci riasztásokhoz"
+msgid "Send push notifications for educational alerts"
+msgstr "Push értesítések küldése oktatási riasztásokhoz"
 
 #. js-lingui-explicit-id
 msgid "Maintain your learning history and preferences"
@@ -1198,16 +1202,16 @@ msgid "With your permission, we send notifications through supported channels (s
 msgstr "Engedélyével értesítéseket küldünk támogatott csatornákon (például push értesítések és opcionális harmadik feles csatornák) a következőkre:"
 
 #. js-lingui-explicit-id
-msgid "Learning alerts and market examples"
-msgstr "Tanulási riasztások és piaci példák"
+msgid "Educational alerts and market scenario examples"
+msgstr "Oktatási riasztások és piaci forgatókönyv példák"
 
 #. js-lingui-explicit-id
-msgid "Price movement notifications"
-msgstr "Ármozgás értesítések"
+msgid "Price movement notifications for study context"
+msgstr "Ármozgás értesítések tanulmányi kontextushoz"
 
 #. js-lingui-explicit-id
-msgid "AI analysis updates and insights"
-msgstr "AI elemzés frissítések és betekintések"
+msgid "AI analysis updates and learning insights"
+msgstr "AI elemzési frissítések és tanulási betekintések"
 
 #. js-lingui-explicit-id
 msgid "Important service announcements"
