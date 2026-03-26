@@ -44,8 +44,9 @@ export default function Main() {
   const theme = useTheme();
   const isMobile = useMediaQuery(theme.breakpoints.down("md"));
 
-  const appStoreUrl = "#"; // Placeholder for future App Store link
-  const googlePlayUrl = "#"; // Placeholder for future Google Play link
+  const appStoreUrl = "https://apps.apple.com/app/xausync-ai/id6759280799";
+  const googlePlayUrl =
+    "https://play.google.com/store/apps/details?id=com.xausync.ai.app&hl=uk";
 
   const features = [
     {
